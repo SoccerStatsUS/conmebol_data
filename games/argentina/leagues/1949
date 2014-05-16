@@ -1,0 +1,525 @@
+BlockSource: http://www.rsssf.com/tablesa/arg49.html
+Season: 1949
+Competition: Argentine Primera División
+
+*Atlanta                     Buenos Aires 
+*Banfield                    Banfield                                                      
+*Boca Juniors                Buenos Aires                                                  
+*Chacarita Juniors           San Martín                                                    
+*Estudiantes LP              La Plata                                                      
+*Ferro Carril Oeste (BA)     Buenos Aires
+*Gimnasia y Esgrima LP       La Plata                                                      
+*Huracán (BA)                Buenos Aires                                                  
+*Independiente (A)           Avellaneda                                                    
+*Lanús                       Lanús                                                 
+*Newell's Old Boys           Rosario                                                       
+*Platense (VL)               Buenos Aires                                                  
+*Racing Club                 Avellaneda                                                    
+*River Plate                 Buenos Aires
+*Rosario Central             Rosario
+*San Lorenzo de Almagro      Buenos Aires
+*Tigre                       Victoria
+*Vélez Sarsfield             Buenos Aires
+
+
+Round: 1.1
+Date: 4/24/1949
+
+; Atlanta                ; 0-1; Vélez Sarsfield
+; Banfield               ; 2-2; Racing Club
+; Boca Juniors           ; 0-2; Independiente (A)
+; Estudiantes LP         ; 2-2; River Plate
+; Ferro Carril Oeste (BA); 2-1; Chacarita Juniors
+; Platense (VL)          ; 1-1; Gimnasia y Esgrima LP
+; Rosario Central        ; 2-3; Newell's Old Boys
+; San Lorenzo de Almagro ; 2-2; Lanús
+; Tigre                  ; 1-2; Huracán (BA)
+
+Round: 1.2
+Date: 5/7/1949
+
+; Newell's Old Boys      ; 0-1; Estudiantes LP
+
+Date: 5/8/1949
+
+; Boca Juniors           ; 1-2; Tigre
+; Chacarita Juniors      ; 1-2; Platense (VL)
+; Gimnasia y Esgrima LP  ; 1-3; Rosario Central
+; Independiente (A)      ; 3-3; San Lorenzo de Almagro
+; Lanús                  ; 2-2; Ferro Carril Oeste (BA)
+; Racing Club            ; 4-2; Huracán (BA)            ; San Lorenzo de Almagro
+; River Plate            ; 7-0; Atlanta
+; Vélez Sarsfield        ; 2-4; Banfield                ; Ferro Carril Oeste
+
+Round: 1.3
+Date: 5/15/1949
+
+; Atlanta                ; 0-2; Newell's Old Boys
+; Banfield               ; 2-3; River Plate
+; Estudiantes LP         ; 1-1; Gimnasia y Esgrima LP
+; Ferro Carril Oeste (BA); 2-3; Independiente (A)
+; Huracán (BA)           ; 1-2; Vélez Sarsfield
+; Platense (VL)          ; 3-2; Lanús
+; Rosario Central        ; 1-3; Chacarita Juniors
+; San Lorenzo de Almagro ; 4-1; Boca Juniors
+; Tigre                  ; 3-3; Racing Club
+
+Round: 1.4
+Date: 5/22/1949
+
+; Boca Juniors           ; 2-2; Ferro Carril Oeste (BA)
+; Chacarita Juniors      ; 3-0; Estudiantes LP
+; Gimnasia y Esgrima LP  ; 3-4; Atlanta
+; Independiente (A)      ; 2-0; Platense (VL)
+; Lanús                  ; 2-2; Rosario Central
+; Newell's Old Boys      ; 3-3; Banfield
+; River Plate            ; 3-0; Huracán (BA)
+; San Lorenzo de Almagro ; 4-0; Tigre
+; Vélez Sarsfield        ; 0-1; Racing Club             ; Ferro Carril Oeste
+
+Round: 1.5
+Date: 5/29/1949
+
+; Atlanta                ; 2-0; Chacarita Juniors
+; Banfield               ; 2-1; Gimnasia y Esgrima LP
+; Estudiantes LP         ; 3-1; Lanús
+; Ferro Carril Oeste (BA); 1-2; San Lorenzo de Almagro
+; Huracán (BA)           ; 7-2; Newell's Old Boys
+; Platense (VL)          ; 1-0; Boca Juniors
+; Racing Club            ; 0-3; River Plate             ; Boca Juniors
+; Rosario Central        ; 2-1; Independiente (A)
+; Tigre                  ; 0-2; Vélez Sarsfield
+
+Round: 1.6
+Date: 6/5/1949
+
+; Boca Juniors           ; 2-0; Rosario Central
+; Chacarita Juniors      ; 7-3; Banfield
+; Ferro Carril Oeste (BA); 1-4; Tigre
+; Gimnasia y Esgrima LP  ; 2-1; Huracán (BA)
+; Independiente (A)      ; 3-3; Estudiantes LP
+; Lanús                  ; 1-4; Atlanta
+; Newell's Old Boys      ; 3-3; Racing Club
+; River Plate            ; 1-0; Vélez Sarsfield
+; San Lorenzo de Almagro ; 1-2; Platense (VL)
+
+Round: 1.7
+Date: 6/12/1949
+
+; Atlanta                ; 1-0; Independiente (A)
+; Banfield               ; 5-2; Lanús
+; Estudiantes LP         ; 4-2; Boca Juniors
+; Huracán (BA)           ; 1-2; Chacarita Juniors
+; Platense (VL)          ; 3-3; Ferro Carril Oeste (BA)
+; Racing Club            ; 2-1; Gimnasia y Esgrima LP   ; Boca Juniors
+; Rosario Central        ; 5-1; San Lorenzo de Almagro
+; Tigre                  ; 0-0; River Plate
+; Vélez Sarsfield        ; 1-1; Newell's Old Boys       ; Ferro Carril Oeste
+
+Round: 1.8
+Date: 6/19/1949
+
+; Boca Juniors           ; 6-1; Atlanta
+; Chacarita Juniors      ; 3-2; Racing Club
+; Ferro Carril Oeste (BA); 5-2; Rosario Central
+; Gimnasia y Esgrima LP  ; 3-0; Vélez Sarsfield
+; Independiente (A)      ; 5-5; Banfield
+; Lanús                  ; 1-0; Huracán (BA)
+; Newell's Old Boys      ; 3-3; River Plate
+; Platense (VL)          ; 1-1; Tigre
+; San Lorenzo de Almagro ; 2-4; Estudiantes LP
+
+Round: 1.9
+Date: 6/26/1949
+
+; Atlanta                ; 2-1; San Lorenzo de Almagro
+; Banfield               ; 1-1; Boca Juniors
+; Estudiantes LP         ; 1-1; Ferro Carril Oeste (BA)
+; Huracán (BA)           ; 2-4; Independiente (A)
+; Racing Club            ; 6-1; Lanús                   ; Boca Juniors
+; River Plate            ; 4-0; Gimnasia y Esgrima LP
+; Rosario Central        ; 1-3; Platense (VL)
+; Tigre                  ; 0-1; Newell's Old Boys
+; Vélez Sarsfield        ; 2-0; Chacarita Juniors       ; Ferro Carril Oeste
+
+Round: 1.10
+Date: 7/3/1949
+
+; Boca Juniors           ; 2-2; Huracán (BA)
+; Chacarita Juniors      ; 3-1; River Plate
+; Ferro Carril Oeste (BA); 1-0; Atlanta
+; Gimnasia y Esgrima LP  ; 0-0; Newell's Old Boys
+; Independiente (A)      ; 2-5; Racing Club
+; Lanús                  ; 1-3; Vélez Sarsfield
+; Platense (VL)          ; 1-1; Estudiantes LP
+; Rosario Central        ; 0-1; Tigre
+; San Lorenzo de Almagro ; 3-3; Banfield
+
+Round: 1.11
+Date: 7/17/1949
+
+; Atlanta                ; 0-4; Platense (VL)
+; Banfield               ; 2-3; Ferro Carril Oeste (BA)
+; Estudiantes LP         ; 2-0; Rosario Central
+; Huracán (BA)           ; 1-1; San Lorenzo de Almagro
+; Newell's Old Boys      ; 3-1; Chacarita Juniors
+; Racing Club            ; 6-2; Boca Juniors            ; San Lorenzo de Almagro
+; River Plate            ; 2-0; Lanús
+; Tigre                  ; 1-2; Gimnasia y Esgrima LP   ; Chacarita Juniors
+; Vélez Sarsfield        ; 1-1; Independiente (A)       ; Ferro Carril Oeste
+
+Round: 1.12
+Date: 7/24/1949
+
+; Boca Juniors           ; 1-2; Vélez Sarsfield
+; Chacarita Juniors      ; 3-1; Gimnasia y Esgrima LP
+; Estudiantes LP         ; 1-1; Tigre
+; Ferro Carril Oeste (BA); 2-2; Huracán (BA)
+; Independiente (A)      ; 2-3; River Plate
+; Lanús                  ; 2-1; Newell's Old Boys
+; Platense (VL)          ; 3-2; Banfield
+; Rosario Central        ; 1-4; Atlanta
+; San Lorenzo de Almagro ; 1-3; Racing Club
+
+Round: 1.13
+Date: 7/31/1949
+
+; Atlanta                ; 2-5; Estudiantes LP
+; Banfield               ; 4-3; Rosario Central
+; Gimnasia y Esgrima LP  ; 2-1; Lanús
+; Huracán (BA)           ; 2-1; Platense (VL)
+; Newell's Old Boys      ; 4-0; Independiente (A)
+; Racing Club            ; 4-0; Ferro Carril Oeste (BA) ; Boca Juniors
+; River Plate            ; 1-0; Boca Juniors
+; Tigre                  ; 0-0; Chacarita Juniors
+; Vélez Sarsfield        ; 2-3; San Lorenzo de Almagro  ; Ferro Carril Oeste
+
+Round: 1.14
+Date: 8/7/1949
+
+; Atlanta                ; 2-0; Tigre
+; Boca Juniors           ; 1-2; Newell's Old Boys
+; Estudiantes LP         ; 1-1; Banfield
+; Ferro Carril Oeste (BA); 2-0; Vélez Sarsfield
+; Independiente (A)      ; 1-4; Gimnasia y Esgrima LP
+; Lanús                  ; 0-0; Chacarita Juniors
+; Platense (VL)          ; 2-0; Racing Club
+; Rosario Central        ; 3-1; Huracán (BA)
+; San Lorenzo de Almagro ; 3-2; River Plate
+
+Round: 1.15
+Date: 8/14/1949
+
+; Banfield               ; 2-0; Atlanta
+; Chacarita Juniors      ; 2-2; Independiente (A)
+; Gimnasia y Esgrima LP  ; 2-1; Boca Juniors
+; Huracán (BA)           ; 5-1; Estudiantes LP
+; Newell's Old Boys      ; 1-1; San Lorenzo de Almagro
+; Racing Club            ; 4-1; Rosario Central         ; Boca Juniors
+; River Plate            ; 4-0; Ferro Carril Oeste (BA)
+; Tigre                  ; 1-5; Lanús
+; Vélez Sarsfield        ; 1-2; Platense (VL)           ; Ferro Carril Oeste
+
+Round: 1.16
+Date: 8/17/1949
+
+; Atlanta                ; 1-1; Huracán (BA)
+; Banfield               ; 5-2; Tigre
+; Boca Juniors           ; 1-0; Chacarita Juniors
+; Estudiantes LP         ; 1-5; Racing Club
+; Ferro Carril Oeste (BA); 3-2; Newell's Old Boys
+; Independiente (A)      ; 3-2; Lanús
+; Lanús                  ; 3-3; San Lorenzo de Almagro
+; Platense (VL)          ; 0-0; River Plate
+; Rosario Central        ; 4-0; Vélez Sarsfield
+; San Lorenzo de Almagro ; 2-0; Gimnasia y Esgrima LP
+
+Round: 1.17
+Date: 8/21/1949
+
+; Chacarita Juniors      ; 2-3; San Lorenzo de Almagro
+; Gimnasia y Esgrima LP  ; 2-2; Ferro Carril Oeste (BA)
+; Huracán (BA)           ; 1-1; Banfield
+; Lanús                  ; 4-3; Boca Juniors
+; Newell's Old Boys      ; 1-1; Platense (VL)
+; Racing Club            ; 1-0; Atlanta                 ; Boca Juniors
+; River Plate            ; 3-0; Rosario Central
+; Tigre                  ; 3-1; Independiente (A)
+; Vélez Sarsfield        ; 0-2; Estudiantes LP          ; Ferro Carril Oeste
+
+Round: 2.1
+Date: 8/28/1949
+
+; Chacarita Juniors      ; 4-3; Ferro Carril Oeste (BA)
+; Gimnasia y Esgrima LP  ; 2-2; Platense (VL)
+; Huracán (BA)           ; 2-2; Tigre
+; Lanús                  ; 3-2; San Lorenzo de Almagro
+; Newell's Old Boys      ; 2-2; Rosario Central
+; Racing Club            ; 2-1; Banfield                ; Boca Juniors
+; River Plate            ; 5-1; Estudiantes LP
+; Vélez Sarsfield        ; 3-2; Atlanta                 ; Ferro Carril Oeste
+
+* [28 Aug & 14 Sep]
+; Independiente (A)      ; 2-3; Boca Juniors
+* (Suspended 1-1 at 58', continued on 14 Sep)
+
+Round: 2.2
+Date: 8/30/1949
+
+; Atlanta                ; 1-2; River Plate
+; Banfield               ; 2-0; Vélez Sarsfield
+; Estudiantes LP         ; 0-0; Newell's Old Boys
+; Ferro Carril Oeste (BA); 2-1; Lanús
+; Huracán (BA)           ; 0-1; Racing Club
+; Platense (VL)          ; 6-0; Chacarita Juniors
+; Rosario Central        ; 4-0; Gimnasia y Esgrima LP
+; San Lorenzo de Almagro ; 2-1; Independiente (A)
+; Tigre                  ; 2-2; Boca Juniors
+
+Round: 2.3
+Date: 9/4/1949
+
+; Boca Juniors           ; 1-1; San Lorenzo de Almagro  ; Huracán
+; Chacarita Juniors      ; 3-1; Rosario Central
+; Gimnasia y Esgrima LP  ; 1-0; Estudiantes LP
+; Independiente (A)      ; 1-0; Ferro Carril Oeste (BA)
+; Lanús                  ; 2-1; Platense (VL)
+; Newell's Old Boys      ; 2-0; Atlanta
+; Racing Club            ; 1-1; Tigre                   ; Boca Juniors
+; River Plate            ; 5-0; Banfield
+; Vélez Sarsfield        ; 3-1; Huracán (BA)            ; Ferro Carril Oeste
+
+Round: 2.4
+Date: 9/11/1949
+
+; Atlanta                ; 4-2; Gimnasia y Esgrima LP
+; Banfield               ; 0-0; Newell's Old Boys
+; Estudiantes LP         ; 0-0; Chacarita Juniors
+; Ferro Carril Oeste (BA); 1-1; Boca Juniors
+; Huracán (BA)           ; 1-1; River Plate
+; Platense (VL)          ; 2-3; Independiente (A)
+; Racing Club            ; 4-1; Vélez Sarsfield         ; Boca Juniors
+; Rosario Central        ; 2-1; Lanús
+; Tigre                  ; 1-2; San Lorenzo de Almagro
+
+Round: 2.5
+Date: 9/18/1949
+
+; Boca Juniors           ; 2-0; Platense (VL)           ; Huracán
+; Chacarita Juniors      ; 3-1; Atlanta
+; Gimnasia y Esgrima LP  ; 4-1; Banfield
+; Independiente (A)      ; 2-0; Rosario Central
+; Lanús                  ; 3-1; Estudiantes LP
+; Newell's Old Boys      ; 2-0; Huracán (BA)
+; River Plate            ; 0-1; Racing Club
+; San Lorenzo de Almagro ; 2-1; Ferro Carril Oeste (BA)
+; Vélez Sarsfield        ; 4-2; Tigre                   ; Ferro Carril Oeste
+
+Round: 2.6
+Date: 9/25/1949
+
+; Atlanta                ; 2-0; Lanús
+; Banfield               ; 2-1; Chacarita Juniors
+; Estudiantes LP         ; 1-1; Independiente (A)
+; Huracán (BA)           ; 1-0; Gimnasia y Esgrima LP
+; Platense (VL)          ; 1-1; San Lorenzo de Almagro
+; Racing Club            ; 3-1; Newell's Old Boys       ; Boca Juniors
+; Rosario Central        ; 2-0; Boca Juniors
+; Tigre                  ; 1-0; Ferro Carril Oeste (BA)
+; Vélez Sarsfield        ; 5-3; River Plate             ; Ferro Carril Oeste
+
+Round: 2.7
+Date: 10/2/1949
+
+; Boca Juniors           ; 1-1; Estudiantes LP          ; Huracán
+; Chacarita Juniors      ; 2-0; Huracán (BA)
+; Ferro Carril Oeste (BA); 0-1; Platense (VL)
+; Gimnasia y Esgrima LP  ; 1-1; Racing Club
+; Independiente (A)      ; 2-4; Atlanta
+; Lanús                  ; 1-1; Banfield
+; Newell's Old Boys      ; 0-0; Vélez Sarsfield
+; River Plate            ; 3-0; Tigre
+; San Lorenzo de Almagro ; 4-2; Rosario Central
+
+Round: 2.8
+Date: 10/9/1949
+
+; Atlanta                ; 1-0; Boca Juniors
+; Banfield               ; 3-2; Independiente (A)
+; Estudiantes LP         ; 2-4; San Lorenzo de Almagro
+; Huracán (BA)           ; 4-1; Lanús
+; Racing Club            ; 1-2; Chacarita Juniors       ; Boca Juniors
+; River Plate            ; 1-2; Newell's Old Boys
+; Rosario Central        ; 4-1; Ferro Carril Oeste (BA)
+; Tigre                  ; 2-3; Platense (VL)
+; Vélez Sarsfield        ; 2-0; Gimnasia y Esgrima LP   ; Ferro Carril Oeste
+
+Round: 2.9
+Date: 10/16/1949
+
+; Boca Juniors           ; 3-1; Banfield                ; Huracán
+; Chacarita Juniors      ; 0-1; Vélez Sarsfield
+; Ferro Carril Oeste (BA); 0-0; Estudiantes LP
+; Gimnasia y Esgrima LP  ; 2-1; River Plate
+; Independiente (A)      ; 1-0; Huracán (BA)
+; Lanús                  ; 2-2; Racing Club
+; Newell's Old Boys      ; 5-2; Tigre
+; Platense (VL)          ; 1-1; Rosario Central
+; San Lorenzo de Almagro ; 1-0; Atlanta
+
+Round: 2.10
+Date: 10/23/1949
+
+; Atlanta                ; 1-0; Ferro Carril Oeste (BA)
+; Banfield               ; 3-3; San Lorenzo de Almagro
+; Estudiantes LP         ; 4-1; Platense (VL)
+; Huracán (BA)           ; 0-2; Boca Juniors
+; Newell's Old Boys      ; 1-0; Gimnasia y Esgrima LP
+; Racing Club            ; 3-0; Independiente (A)       ; Boca Juniors
+; River Plate            ; 0-0; Chacarita Juniors
+; Tigre                  ; 4-0; Rosario Central
+; Vélez Sarsfield        ; 4-2; Lanús                   ; Ferro Carril Oeste
+
+Round: 2.11
+Date: 10/30/1949
+
+; Chacarita Juniors      ; 1-2; Newell's Old Boys
+; Ferro Carril Oeste (BA); 1-0; Banfield
+; Gimnasia y Esgrima LP  ; 1-2; Tigre
+; Independiente (A)      ; 0-0; Vélez Sarsfield
+; Lanús                  ; 0-2; River Plate
+; Platense (VL)          ; 4-2; Atlanta
+; Rosario Central        ; 0-1; Estudiantes LP
+; San Lorenzo de Almagro ; 0-1; Huracán (BA)
+
+*[30 Oct & 23 Nov]
+; Boca Juniors           ; 1-2; Racing Club; Boca Juniors; Richard H. Maddison; 25000
+Boca Juniors: Claudio Vacca; José Manuel Marante, Francisco Perroncino; Carlos Adolfo Sosa, Salvador Grecco, Natalio Agustín Pescia; Alfredo Martínez, Delfín Edmundo Benítez, Juan José Ferraro, Francisco Campana, Marcos Busico. 
+Racing Club:  Antonio Oscar Rodríguez; Higinio García, Nicolás Palma; Juan Carlos Fonda, Alberto Inocencio Rastelli, Ernesto Gutiérrez; Juan Carlos Salvini, Norberto Doroteo Méndez, Rubén Norberto Bravo, Llamil Simes, Ezra Sued. Coach: Guillermo Stábile.
+*          (Suspended 1-2 at 79', continued on 23 Nov)
+
+Round: 2.12
+Date: 11/6/1949
+
+; Atlanta                ; 2-0; Rosario Central
+; Banfield               ; 3-1; Platense (VL)
+; Gimnasia y Esgrima LP  ; 6-0; Chacarita Juniors
+; Huracán (BA)           ; 0-2; Ferro Carril Oeste (BA)
+; Newell's Old Boys      ; 4-0; Lanús
+; Racing Club            ; 6-1; San Lorenzo de Almagro  ; Boca Juniors
+; River Plate            ; 2-1; Independiente (A)
+; Tigre                  ; 2-3; Estudiantes LP
+; Vélez Sarsfield        ; 1-2; Boca Juniors            ; Ferro Carril Oeste
+
+Round: 2.13
+Date: 11/13/1949
+
+; Boca Juniors           ; 2-0; River Plate
+; Chacarita Juniors      ; 4-2; Tigre
+; Estudiantes LP         ; 2-0; Atlanta
+; Ferro Carril Oeste (BA); 1-3; Racing Club
+; Independiente (A)      ; 3-1; Newell's Old Boys
+; Lanús                  ; 3-3; Gimnasia y Esgrima LP
+; Platense (VL)          ; 4-2; Huracán (BA)
+; Rosario Central        ; 5-1; Banfield
+; San Lorenzo de Almagro ; 0-2; Vélez Sarsfield
+
+Round: 2.14
+Date: 11/19/1949
+
+; River Plate            ; 0-1; San Lorenzo de Almagro
+
+Date: 11/20/1949
+
+; Banfield               ; 4-1; Estudiantes LP
+; Chacarita Juniors      ; 2-4; Lanús
+; Gimnasia y Esgrima LP  ; 1-2; Independiente (A)
+; Huracán (BA)           ; 1-1; Rosario Central
+; Newell's Old Boys      ; 4-0; Boca Juniors
+; Racing Club            ; 2-2; Platense (VL)           ; Boca Juniors
+; Tigre                  ; 3-2; Atlanta
+; Vélez Sarsfield        ; 1-2; Ferro Carril Oeste (BA) ; San Lorenzo de Almagro
+
+Round: 2.15
+Date: 11/24/1949
+
+; Ferro Carril Oeste (BA); 0-1; River Plate             ; San Lorenzo de Almagro
+
+Date: 11/26/1949
+
+; Estudiantes LP         ; 1-0; Huracán (BA)
+; Independiente (A)      ; 3-2; Chacarita Juniors
+; San Lorenzo de Almagro ; 5-1; Newell's Old Boys
+
+Date: 11/27/1949
+
+; Atlanta                ; 2-0; Banfield
+; Boca Juniors           ; 1-2; Gimnasia y Esgrima LP
+; Lanús                  ; 2-1; Tigre
+; Platense (VL)          ; 3-0; Vélez Sarsfield
+; Rosario Central        ; 4-1; Racing Club
+
+Round: 2.16
+Date: 12/2/1949
+
+; Racing Club            ; 1-2; Estudiantes LP          ; San Lorenzo de Almagro
+
+Date: 12/3/1949
+
+; Gimnasia y Esgrima LP  ; 2-3; San Lorenzo de Almagro
+; Newell's Old Boys      ; 1-0; Ferro Carril Oeste (BA)
+
+Date: 12/4/1949
+
+; Chacarita Juniors      ; 1-0; Boca Juniors
+; Huracán (BA)           ; 2-1; Atlanta
+; Lanús                  ; 4-4; Independiente (A)
+; River Plate            ; 2-2; Platense (VL)
+; Tigre                  ; 3-1; Banfield
+; Vélez Sarsfield        ; 2-2; Rosario Central         ; Ferro Carril Oeste
+
+Round: 2.17
+Date: 12/6/1949
+
+; San Lorenzo de Almagro ; 3-1; Chacarita Juniors
+
+Date: 12/7/1949
+
+; Estudiantes LP         ; 0-1; Vélez Sarsfield
+; Rosario Central        ; 2-1; River Plate
+
+Date: 12/8/1949
+
+; Atlanta                ; 0-2; Racing Club             ; San Lorenzo de Almagro
+; Banfield               ; 0-1; Huracán (BA)
+; Boca Juniors           ; 5-1; Lanús
+; Ferro Carril Oeste (BA); 1-1; Gimnasia y Esgrima LP
+; Independiente (A)      ; 2-2; Tigre
+; Platense (VL)          ; 4-1; Newell's Old Boys
+
+Round: Second place playoff
+
+12/14/1949; River Plate            ; 2-1; Platense (VL)           ; San Lorenzo de Almagro
+
+12/26/1949; River Plate            ; 4-0; Platense (VL)           ; San Lorenzo de Almagro
+
+Round: Relegation playoff
+
+12/18/1949; Huracán (BA)           ; 1-0; Lanús                   ; San Lorenzo de Almagro
+
+12/24/1949; Lanús                  ; 4-1; Huracán (BA)            ; Independiente
+
+1/8/1950; Huracán (BA)           ; 3-3; Lanús                   ; San Lorenzo de Almagro
+
+Round: 4. 4
+
+2/16/1950; Lanús                  ; 2-3; Huracán (BA)            ; River Plate
+* (Suspended 2:3 at 80', Huracán was awarded the points)
+
+
+*Sources: [CIHF -], [Ram -2], newspapers: El Mundo and La Prensa
+*Prepared and maintained by Osvaldo José Gorgazzi for the Rec.Sport.Soccer Statistics Foundation
+*Author: Osvaldo José Gorgazzi (osvaldogorgazzi@yahoo.com.ar) 
+*Last updated: 9 Jan 2007
+*(C) Copyright Osvaldo José Gorgazzi and RSSSF 2001/07
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

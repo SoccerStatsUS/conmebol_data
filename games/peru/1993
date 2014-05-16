@@ -1,0 +1,583 @@
+BlockSource: http://www.rsssf.com/tablesp/peru93.html
+Season: 1993
+
+*Peru 1993
+*Peru, Campeonato Descentralizado 1993
+
+*                                       P -  W -  D -  L - GF - GA - PTS
+* 1. Universitario de Deportes         30 - 19 -  7 -  4 - 46 - 18 -  45  [1993 Champion, To Copa Libertadores]
+* 2. Alianza Lima                      30 - 17 -  7 -  6 - 70 - 36 -  41  [To Liguilla, Bonus +1]
+* 3. Sport Boys (Callao)               30 - 16 -  9 -  5 - 58 - 32 -  41  [To Liguilla Playoffs]
+* 4. FBC Melgar (Arequipa)             30 - 16 -  6 -  8 - 55 - 40 -  38  [To Liguilla Playoffs]
+* 5. Sporting Cristal                  30 - 16 -  5 -  9 - 68 - 33 -  37  [To Liguilla Playoffs]
+* 6. Deportivo Municipal               30 - 13 -  8 -  9 - 43 - 31 -  34  [To Liguilla Playoffs]
+* 7. Deportivo Sipesa (Chimbote)       30 - 12 -  8 - 10 - 39 - 29 -  32  [To Liguilla Playoffs]
+* 8. Carlos A. Mannucci (Trujillo)     30 - 12 -  6 - 12 - 36 - 40 -  30  [To Liguilla Playoffs]
+* 9. Cienciano (Cusco)                 30 - 10 -  9 - 11 - 27 - 36 -  29
+*10. Deportivo San Agustín             30 -  9 -  8 - 13 - 31 - 50 -  26
+*11. León de Huánuco                   30 -  6 - 12 - 12 - 29 - 40 -  24
+*12. Unión Minas (Cerro de Pasco)      30 -  6 - 10 - 14 - 23 - 50 -  22
+*13. Alianza Atlético (Sullana)        30 -  6 - 10 - 14 - 35 - 64 -  22
+*14. Defensor Lima                     30 -  7 -  7 - 16 - 46 - 56 -  21  [Relegation playoff]
+*15. Unión Huaral (Huaral)             30 -  5 -  9 - 16 - 45 - 65 -  19  [Relegated]
+*16. Universidad Técnica de Cajamarca  30 -  7 -  5 - 18 - 34 - 65 -  19  [Relegated]
+
+Round: 1 
+
+; Universitario          ; 0-1;     Deportivo Sipesa
+; Defensor Lima          ; 2-0;     Union Minas
+; Dep. San Agustin       ; 1-1;     Leon de Huanuco
+; Sport Boys             ; 7-1;     U.T.C.
+; Alianza Atletico       ; 2-3;     Dep. Municipal
+; FBC Melgar             ; 1-3;     Sporting Cristal        [awarded 2-0]
+; Cienciano              ; 1-2;     Alianza Lima
+; Carlos A. Manucci      ; 4-4;     Union Huaral
+
+Round: 2                         
+
+; Dep. Municipal                 ; 3-0;     Defensor Lima
+; Sporting Cristal               ; 3-0;     Alianza Atletico
+; Alianza Lima                   ; 1-0;     Sport Boys
+; Union Huaral                   ; 2-0;     Cienciano
+; Deportivo Sipesa               ; 0-1;     Carlos A. Manucci
+; Union Minas                    ; 0-0;     Universitario
+; Leon de Huanuco                ; 1-2;     FBC Melgar
+; U.T.C.                         ; 1-0;     Dep. San Agustin        [awarded 0-2]
+
+Round: 3                                      
+
+; Universitario                               ; 2-1;        Dep. Municipal
+; Defensor Lima                               ; 1-2;        Sporting Cristal
+; Sport Boys                                  ; 3-3;        Union Huaral
+; Alianza Atletico                            ; 1-1;        Leon de Huanuco
+; FBC Melgar                                  ; 4-1;        U.T.C.
+; Cienciano                                   ; 2-1;        Deportivo Sipesa
+; Carlos A. Manucci                           ; 2-0;        Union Minas
+; Dep. San Agustin                            ; 2-3;        Alianza Lima
+
+Round: 4                                                 
+
+; Dep. Municipal                                         ; 1-0;     Carlos A. Manucci
+; Sporting Cristal                                       ; 1-0;     Universitario
+; Alianza Lima                                           ; 7-2;     FBC Melgar
+; Union Huaral                                           ; 1-2;     Dep. San Agustin
+; Deportivo Sipesa                                       ; 1-1;     Sport Boys
+; Union Minas                                            ; 0-0;     Cienciano
+; Leon de Huanuco                                        ; 2-1;     Defensor Lima
+; U.T.C.                                                 ; 2-2;     Alianza Atletico
+
+Round: 5                                                                 
+
+; Universitario                                                          ; 1-0;     Leon de Huanuco
+; Defensor Lima                                                          ; 3-1;     U.T.C.
+; Dep. San Agustin                                                       ; 0-0;     Deportivo Sipesa
+; Sport Boys                                                             ; 2-0;     Union Minas
+; Alianza Atletico                                                       ; 3-3;     Alianza Lima
+; FBC Melgar                                                             ; 2-1;     Union Huaral
+; Cienciano                                                              ; 1-0;     Dep. Municipal
+; Carlos A. Manucci                                                      ; 1-0;     Sporting Cristal
+
+Round: 6                                                                         
+
+; Dep. Municipal                                                                 ; 0-1;     Sport Boys
+; Sporting Cristal                                                               ; 7-0;     Cienciano
+; Alianza Lima                                                                   ; 4-2;     Defensor Lima
+; Union Huaral                                                                   ; 2-2;     Alianza Atletico
+; Deportivo Sipesa                                                               ; 3-0;     FBC Melgar
+; Union Minas                                                                    ; 2-0;     Dep. San Agustin
+; Leon de Huanuco                                                                ; 0-1;     Carlos A. Manucci
+; U.T.C.                                                                         ; 4-3;     Universitario
+
+Round: 7                                                                                         
+
+; Universitario                                                                                  ; 0-0;     Alianza Lima
+; Defensor Lima                                                                                  ; 2-2;     Union Huaral
+; Dep. San Agustin                                                                               ; 2-2;     Dep. Municipal
+; Sport Boys                                                                                     ; 2-0;     Sporting Cristal
+; Alianza Atletico                                                                               ; 2-4;     Deportivo Sipesa
+; FBC Melgar                                                                                     ; 4-0;     Union Minas
+; Cienciano                                                                                      ; 1-1;     Leon de Huanuco
+; Carlos A. Manucci                                                                              ; 0-0;     U.T.C.
+
+Round: 8                                                                                                 
+
+; Dep. Municipal                                                                                         ; 1-1;     FBC Melgar
+; Sporting Cristal                                                                                       ; 3-0;     Dep. San Agustin
+; Alianza Lima                                                                                           ; 4-0;     Carlos A. Manucci
+; Union Huaral                                                                                           ; 0-3;     Universitario
+; Deportivo Sipesa                                                                                       ; 1-1;     Defensor Lima
+; Union Minas                                                                                            ; 2-1;     Alianza Atletico
+; Leon de Huanuco                                                                                        ; 1-1;     Sport Boys
+; U.T.C.                                                                                                 ; 0-3;     Cienciano
+
+Round: 9                                                                                                                 
+
+; Universitario                                                                                                          ; 4-0; Alianza Atletico
+; Defensor Lima                                                                                                          ; 2-2; FBC Melgar
+; Dep. San Agustin                                                                                                       ; 1-0; Cienciano
+; Sport Boys                                                                                                             ; 3-1; Carlos A. Manucci
+; Deportivo Sipesa                                                                                                       ; 2-2; Dep. Municipal
+; Union Minas                                                                                                            ; 1-1; Sporting Cristal
+; Leon de Huanuco                                                                                                        ; 0-0; Alianza Lima
+; U.T.C.                                                                                                                 ; 3-1; Union Huaral
+
+Round: 10                                                                                                                          
+
+; Dep. Municipal                                                                                                                   ; 2-1; U.T.C.
+; Sporting Cristal                                                                                                                 ; 2-1; Deportivo Sipesa
+; Alianza Lima                                                                                                                     ; 6-0; Union Minas
+; Union Huaral                                                                                                                     ; 2-2; Leon de Huanuco
+; Alianza Atletico                                                                                                                 ; 1-4; Sport Boys
+; FBC Melgar                                                                                                                       ; 2-1; Universitario
+; Cienciano                                                                                                                        ; 1-0; Defensor Lima
+; Carlos A. Manucci                                                                                                                ; 1-0; Dep. San Agustin
+
+Round: 11                                                                                                                              
+
+; Universitario                                                                                                                        ; 1-1; Cienciano
+; Defensor Lima                                                                                                                        ; 1-2; Carlos A. Manucci
+; Dep. San Agustin                                                                                                                     ; 2-2; Alianza Atletico
+; Sport Boys                                                                                                                           ; 1-2; FBC Melgar
+; Deportivo Sipesa                                                                                                                     ; 2-1; Alianza Lima
+; Union Minas                                                                                                                          ; 2-1; Union Huaral
+; Leon de Huanuco                                                                                                                      ; 1-1; Dep. Municipal
+; U.T.C.                                                                                                                               ; 2-1; Sporting Cristal
+
+Round: 12                                                                                                                                           
+
+; Dep. Municipal                                                                                                                                    ; 3-1; Union Minas
+; Sporting Cristal                                                                                                                                  ; 4-1; Leon de Huanuco
+; Carlos A. Manucci                                                                                                                                 ; 1-3; Universitario
+; Alianza Lima                                                                                                                                      ; 6-2; U.T.C.
+; Union Huaral                                                                                                                                      ; 2-1; Deportivo Sipesa
+; Alianza Atletico                                                                                                                                  ; 2-0; Defensor Lima
+; FBC Melgar                                                                                                                                        ; 2-1; Dep. San Agustin
+; Cienciano                                                                                                                                         ; 5-0; Sport Boys
+
+Round: 13                                                                                                                                                     
+
+; Universitario                                                                                                                                               ; 2-1; Defensor Lima
+; Dep. San Agustin                                                                                                                                            ; 1-3; Sport Boys
+; Dep. Municipal                                                                                                                                              ; 0-3; Sporting Cristal
+; Alianza Lima                                                                                                                                                ; 4-2; Union Huaral
+; Deportivo Sipesa                                                                                                                                            ; 1-1; Union Minas
+; Leon de Huanuco                                                                                                                                             ; 1-0; U.T.C.
+; Alianza Atletico                                                                                                                                            ; 2-1; FBC Melgar
+; Cienciano                                                                                                                                                   ; 1-0; Carlos A. Manucci
+
+Round: 14                                                                                                                                                                
+
+; Defensor Lima                                                                                                                                                          ; 1-2; Dep. San Agustin
+; Sport Boys                                                                                                                                                             ; 0-2; Universitario
+; Sporting Cristal                                                                                                                                                       ; 5-1; Alianza Lima
+; Union Huaral                                                                                                                                                           ; 1-3; Dep. Municipal
+; Union Minas                                                                                                                                                            ; 1-1; Leon de Huanuco
+; U.T.C.                                                                                                                                                                 ; 1-0; Deportivo Sipesa
+; FBC Melgar                                                                                                                                                             ; 3-0; Cienciano
+; Carlos A. Manucci                                                                                                                                                      ; 2-0; Alianza Atletico
+
+Round: 15                                                                                                                                                                    
+
+; Universitario                                                                                                                                                              ; 1-0; Dep. San Agustin
+; Defensor Lima                                                                                                                                                              ; 0-2; Sport Boys
+; Dep. Municipal                                                                                                                                                             ; 2-3; Alianza Lima
+; Sporting Cristal                                                                                                                                                           ; 1-0; Union Huaral
+; Alianza Atletico                                                                                                                                                           ; 0-0; Cienciano
+; FBC Melgar                                                                                                                                                                 ; 1-0; Carlos A. Manucci
+; Deportivo Sipesa                                                                                                                                                           ; 1-0; Leon de Huanuco
+; Union Minas                                                                                                                                                                ; 3-1; U.T.C.
+
+Round: 16                                                                                                                                                                         
+
+; Deportivo Sipesa                                                                                                                                                                ; 0-1; Universitario
+; Union Minas                                                                                                                                                                     ; 1-1; Defensor Lima
+; Leon de Huanuco                                                                                                                                                                 ; 1-1; Dep. San Agustin
+; U.T.C.                                                                                                                                                                          ; 1-2; Sport Boys
+; Dep. Municipal                                                                                                                                                                  ; 4-0; Alianza Atletico
+; Sporting Cristal                                                                                                                                                                ; 6-2; FBC Melgar
+; Alianza Lima                                                                                                                                                                    ; 5-1; Cienciano
+; Union Huaral                                                                                                                                                                    ; 0-4; Carlos A. Manucci
+
+Round: 17                                                                                                                                                                                    
+; Defensor Lima                                                                                                                                                                              ; 1-1; Dep. Municipal
+; Alianza Atletico                                                                                                                                                                           ; 0-0; Sporting Cristal
+; Sport Boys                                                                                                                                                                                 ; 1-1; Alianza Lima
+; Cienciano                                                                                                                                                                                  ; 2-1; Union Huaral
+; Carlos A. Manucci                                                                                                                                                                          ; 0-4; Deportivo Sipesa
+; Universitario                                                                                                                                                                              ; 1-0; Union Minas
+; FBC Melgar                                                                                                                                                                                 ; 1-1; Leon de Huanuco
+; Dep. San Agustin                                                                                                                                                                           ; 2-1; U.T.C.
+
+Round: 18                                                                                                                                                                                        
+; Dep. Municipal                                                                                                                                                                                 ; 0-0; Universitario
+; Sporting Cristal                                                                                                                                                                               ; 1-2; Defensor Lima
+; Union Huaral                                                                                                                                                                                   ; 1-2; Sport Boys
+; Leon de Huanuco                                                                                                                                                                                ; 3-0; Alianza Atletico
+; U.T.C.                                                                                                                                                                                         ; 2-5; FBC Melgar
+; Deportivo Sipesa                                                                                                                                                                               ; 0-0; Cienciano
+; Union Minas                                                                                                                                                                                    ; 2-2; Carlos A. Manucci
+; Alianza Lima                                                                                                                                                                                   ; 4-0; Dep. San Agustin
+
+Round: 19                                                                                                                                                                                                 
+; Carlos A. Manucci                                                                                                                                                                                       ; 2-1; Dep. Municipal
+; Universitario                                                                                                                                                                                           ; 2-1; Sporting Cristal
+; FBC Melgar                                                                                                                                                                                              ; 2-0; Alianza Lima
+; Dep. San Agustin                                                                                                                                                                                        ; 2-2; Union Huaral
+; Sport Boys                                                                                                                                                                                              ; 2-0; Deportivo Sipesa
+; Cienciano                                                                                                                                                                                               ; 2-0; Union Minas
+; Defensor Lima                                                                                                                                                                                           ; 3-1; Leon de Huanuco
+; Alianza Atletico                                                                                                                                                                                        ; 3-1; U.T.C.
+
+Round: 20                                                                                                                                                                                                      
+; Leon de Huanuco                                                                                                                                                                                              ; 0-1; Universitario
+; U.T.C.                                                                                                                                                                                                       ; 4-1; Defensor Lima
+; Deportivo Sipesa                                                                                                                                                                                             ; 1-2; Dep. San Agustin
+; Union Minas                                                                                                                                                                                                  ; 1-1; Sport Boys
+; Alianza Lima                                                                                                                                                                                                 ; 3-1; Alianza Atletico
+; Union Huaral                                                                                                                                                                                                 ; 1-1; FBC Melgar
+; Dep. Municipal                                                                                                                                                                                               ; 2-0; Cienciano
+; Sporting Cristal                                                                                                                                                                                             ; 5-3; Carlos A. Manucci
+
+Round: 21                                                                                                                                                                                                          
+; Sport Boys                                                                                                                                                                                                       ; 0-0; Dep. Municipal
+; Cienciano                                                                                                                                                                                                        ; 0-0; Sporting Cristal
+; Defensor Lima                                                                                                                                                                                                    ; 0-2; Alianza Lima
+; Alianza Atletico                                                                                                                                                                                                 ; 1-0; Union Huaral
+; FBC Melgar                                                                                                                                                                                                       ; 1-1; Deportivo Sipesa
+; Dep. San Agustin                                                                                                                                                                                                 ; 0-0; Union Minas
+; Carlos A. Manucci                                                                                                                                                                                                ; 0-0; Leon de Huanuco
+; Universitario                                                                                                                                                                                                    ; 4-1; U.T.C.
+
+Round: 22                                                                                                                                                                                                               
+; Alianza Lima                                                                                                                                                                                                          ; 0-1; Universitario
+; Union Huaral                                                                                                                                                                                                          ; 2-3; Defensor Lima
+; Dep. Municipal                                                                                                                                                                                                        ; 2-0; Dep. San Agustin
+; Sporting Cristal                                                                                                                                                                                                      ; 1-1; Sport Boys
+; Deportivo Sipesa                                                                                                                                                                                                      ; 2-0; Alianza Atletico
+; Union Minas                                                                                                                                                                                                           ; 1-0; FBC Melgar
+; Leon de Huanuco                                                                                                                                                                                                       ; 1-0; Cienciano
+; U.T.C.                                                                                                                                                                                                                ; 1-1; Carlos A. Manucci
+
+Round: 23                                                                                                                                                                                                                          
+; FBC Melgar                                                                                                                                                                                                                       ; 2-1; Dep. Municipal
+; Dep. San Agustin                                                                                                                                                                                                                 ; 2-4; Sporting Cristal
+; Carlos A. Manucci                                                                                                                                                                                                                ; 1-1; Alianza Lima
+; Universitario                                                                                                                                                                                                                    ; 3-1; Union Huaral
+; Defensor Lima                                                                                                                                                                                                                    ; 2-1; Deportivo Sipesa
+; Alianza Atletico                                                                                                                                                                                                                 ; 3-1; Union Minas
+; Sport Boys                                                                                                                                                                                                                       ; 4-0; Leon de Huanuco
+; Cienciano                                                                                                                                                                                                                        ; 0-0; U.T.C.
+
+Round: 24                                                                                                                                                                                                                               
+; Alianza Atletico                                                                                                                                                                                                                      ; 1-1; Universitario
+; FBC Melgar                                                                                                                                                                                                                            ; 1-1; Defensor Lima
+; Cienciano                                                                                                                                                                                                                             ; 2-1; Dep. San Agustin
+; Carlos A. Manucci                                                                                                                                                                                                                     ; 2-0; Sport Boys
+; Dep. Municipal                                                                                                                                                                                                                        ; 1-0; Deportivo Sipesa
+; Sporting Cristal                                                                                                                                                                                                                      ; 8-0; Union Minas
+; Alianza Lima                                                                                                                                                                                                                          ; 0-1; Leon de Huanuco
+; Union Huaral                                                                                                                                                                                                                          ; 1-0; U.T.C.
+
+Round: 25                                                                                                                                                                                                                                    
+; U.T.C.                                                                                                                                                                                                                                     ; 1-0; Dep. Municipal
+; Deportivo Sipesa                                                                                                                                                                                                                           ; 1-0; Sporting Cristal
+; Union Minas                                                                                                                                                                                                                                ; 0-1; Alianza Lima
+; Leon de Huanuco                                                                                                                                                                                                                            ; 2-2; Union Huaral
+; Sport Boys                                                                                                                                                                                                                                 ; 4-0; Alianza Atletico
+; Universitario                                                                                                                                                                                                                              ; 1-0; FBC Melgar
+; Defensor Lima                                                                                                                                                                                                                              ; 2-3; Cienciano
+; Dep. San Agustin                                                                                                                                                                                                                           ; 1-0; Carlos A. Manucci
+
+Round: 26                                                                                                                                                                                                                                        
+; Cienciano                                                                                                                                                                                                                                      ; 0-0; Universitario
+; Carlos A. Manucci                                                                                                                                                                                                                              ; 2-1; Defensor Lima
+; Alianza Atletico                                                                                                                                                                                                                               ; 1-2; Dep. San Agustin
+; FBC Melgar                                                                                                                                                                                                                                     ; 1-2; Sport Boys
+; Alianza Lima                                                                                                                                                                                                                                   ; 1-1; Deportivo Sipesa
+; Union Huaral                                                                                                                                                                                                                                   ; 1-0; Union Minas
+; Dep. Municipal                                                                                                                                                                                                                                 ; 2-1; Leon de Huanuco
+; Sporting Cristal                                                                                                                                                                                                                               ; 3-0; U.T.C.
+
+Round: 27                                                                                                                                                                                                                                            
+; Union Minas                                                                                                                                                                                                                                        ; 2-1; Dep. Municipal
+; Leon de Huanuco                                                                                                                                                                                                                                    ; 1-2; Sporting Cristal
+; Universitario                                                                                                                                                                                                                                      ; 3-1; Carlos A. Manucci
+; U.T.C.                                                                                                                                                                                                                                             ; 1-1; Alianza Lima  [awarded 0-2]
+; Deportivo Sipesa                                                                                                                                                                                                                                   ; 4-2; Union Huaral
+; Defensor Lima                                                                                                                                                                                                                                      ; 3-3; Alianza Atletico
+; Dep. San Agustin                                                                                                                                                                                                                                   ; 1-0; FBC Melgar
+; Sport Boys                                                                                                                                                                                                                                         ; 2-0; Cienciano
+
+Round: 28                                                                                                                                                                                                                                                 
+; Defensor Lima                                                                                                                                                                                                                                           ; 0-1; Universitario
+; Sport Boys                                                                                                                                                                                                                                              ; 1-1; Dep. San Agustin
+; Sporting Cristal                                                                                                                                                                                                                                        ; 1-1; Dep. Municipal
+; Union Huaral                                                                                                                                                                                                                                            ; 3-3; Alianza Lima
+; Union Minas                                                                                                                                                                                                                                             ; 0-1; Deportivo Sipesa
+; U.T.C.                                                                                                                                                                                                                                                  ; 2-1; Leon de Huanuco
+; FBC Melgar                                                                                                                                                                                                                                              ; 5-0; Alianza Atletico
+; Carlos A. Manucci                                                                                                                                                                                                                                       ; 1-0; Cienciano
+
+Round: 29                                                                                                                                                                                                                                                     
+; Dep. San Agustin                                                                                                                                                                                                                                            ; 0-6; Defensor Lima
+; Universitario                                                                                                                                                                                                                                               ; 1-1; Sport Boys
+; Alianza Lima                                                                                                                                                                                                                                                ; 2-0; Sporting Cristal
+; Dep. Municipal                                                                                                                                                                                                                                              ; 2-0; Union Huaral
+; Leon de Huanuco                                                                                                                                                                                                                                             ; 2-1; Union Minas
+; Deportivo Sipesa                                                                                                                                                                                                                                            ; 1-0; U.T.C.
+; Cienciano                                                                                                                                                                                                                                                   ; 0-2; FBC Melgar
+; Alianza Atletico                                                                                                                                                                                                                                            ; 1-0; Carlos A. Manucci
+
+Round: 30                                                                                                                                                                                                                                                                
+; Dep. San Agustin                                                                                                                                                                                                                                                       ; 0-3; Universitario
+; Sport Boys                                                                                                                                                                                                                                                             ; 5-3; Defensor Lima
+; Alianza Lima                                                                                                                                                                                                                                                           ; 0-1; Dep. Municipal
+; Union Huaral                                                                                                                                                                                                                                                           ; 4-2; Sporting Cristal
+; Cienciano                                                                                                                                                                                                                                                              ; 1-1; Alianza Atletico
+; Carlos A. Manucci                                                                                                                                                                                                                                                      ; 1-2; FBC Melgar
+; Leon de Huanuco                                                                                                                                                                                                                                                        ; 1-3; Deportivo Sipesa
+; U.T.C.                                                                                                                                                                                                                                                                 ; 1-1; Union Minas
+
+* 1. Universitario de Deportes         30 - 19 -  7 -  4 - 46 - 18 -  45  [1993 Champion, To Copa Libertadores]
+* 2. Alianza Lima                      30 - 17 -  7 -  6 - 70 - 36 -  41  [To Liguilla, Bonus +1]
+* 3. Sport Boys (Callao)               30 - 16 -  9 -  5 - 58 - 32 -  41  [To Liguilla Playoffs]
+* 4. FBC Melgar (Arequipa)             30 - 16 -  6 -  8 - 55 - 40 -  38  [To Liguilla Playoffs]
+* 5. Sporting Cristal                  30 - 16 -  5 -  9 - 68 - 33 -  37  [To Liguilla Playoffs]
+* 6. Deportivo Municipal               30 - 13 -  8 -  9 - 43 - 31 -  34  [To Liguilla Playoffs]
+* 7. Deportivo Sipesa (Chimbote)       30 - 12 -  8 - 10 - 39 - 29 -  32  [To Liguilla Playoffs]
+* 8. Carlos A. Mannucci (Trujillo)     30 - 12 -  6 - 12 - 36 - 40 -  30  [To Liguilla Playoffs]
+* 9. Cienciano (Cusco)                 30 - 10 -  9 - 11 - 27 - 36 -  29
+*10. Deportivo San Agustín             30 -  9 -  8 - 13 - 31 - 50 -  26
+*11. León de Huánuco                   30 -  6 - 12 - 12 - 29 - 40 -  24
+*12. Unión Minas (Cerro de Pasco)      30 -  6 - 10 - 14 - 23 - 50 -  22
+*13. Alianza Atlético (Sullana)        30 -  6 - 10 - 14 - 35 - 64 -  22
+*14. Defensor Lima                     30 -  7 -  7 - 16 - 46 - 56 -  21  [Relegation Playoff]
+*15. Unión Huaral (Huaral)             30 -  5 -  9 - 16 - 45 - 65 -  19  [Relegated]
+*16. Universidad Técnica de Cajamarca  30 -  7 -  5 - 18 - 34 - 65 -  19  [Relegated]
+
+
+*Liguilla
+*========
+*
+*Liguilla Playoffs (Pre-Liguilla)         
+*
+*Carlos A. Mannucci - Sport Boys         2-1 / 1-3            Sport Boys  [To Liguilla]
+*Deportivo Sipesa - Melgar F.B.C.        3-1 / 2-2      Deportivo Sipesa  [To Liguilla]
+*Deportivo Municipal - Sporting Cristal  0-1 / 2-2      Sporting Cristal  [To Liguilla]
+*
+*Liguilla Pre-Libertadores/Conmebol [in Lima]
+*==================================
+*
+*Round: 1
+*Sporting Cristal        7-0     Sport Boys
+*Alianza Lima            3-1     Deportivo Sipesa 
+*
+*Round: 2                         
+*Alianza Lima                    1-2     Sporting Cristal 
+*Sport Boys                      4-3     Deportivo Sipesa 
+*
+*Round: 3                                           
+*Alianza Lima                                      2-0   Sport Boys 
+*Sporting Cristal                                  0-0   Deportivo Sipesa 
+*
+*              
+*Final Table                            P -  W -  D -  L - GF - GA - PTS  
+* 1. Alianza Lima                       3 -  2 -  0 -  1 -  6 -  3 -   5  [To Copa Libertadores]
+* 2. Sporting Cristal                   3 -  2 -  1 -  0 -  9 -  1 -   5  [To Copa Conmebol]
+* 3. Sport Boys (Callao)                3 -  1 -  0 -  2 -  4 - 12 -   2
+* 4. Deportivo Sipesa (Chimbote)        3 -  0 -  1 -  2 -  4 -  7 -   1
+*
+*Playoff: Alianza Lima - Sporting Cristal  1-1 (5-4 on penalty shootout)
+*
+*
+*Relegation Playoff (14th.Decentralizado and 2nd.Copa Peru)
+*------------------
+*Defensor Lima  3-3 (7-6)p FBC Aurora [Arequipa]
+*
+*
+
+*Intermedio Tournament 1993
+*..........................
+*Group 1                                P -  W -  D -  L - GF - GA - PTS
+* 1. Unión Huaral (Huaral)              6 -  3 -  2 -  1 -  8 -  6 -   8  [To Quarterfinals]
+* 2. León de Huánuco                    6 -  2 -  3 -  1 -  6 -  5 -   7  [To Quarterfinals]
+* 3. Sport Boys (Callao)                6 -  2 -  2 -  2 - 10 -  5 -   6
+* 4. Unión Minas (Cerro de Pasco)       6 -  0 -  3 -  3 -  2 - 10 -   3
+*
+Round: 1 (in Huanuco)
+Leon de Huanuco         0-0     Union Minas
+Union Huaral            2-1     Sport Boys
+
+Round: 2 (in Huanuco)                  
+Union Huaral                          1-0       Union Minas
+Leon de Huanuco                       2-1       Sport Boys
+
+Round: 3 (in Callao)                                   
+Union Huaral                                          3-1       Leon de Huanuco
+Sport Boys                                            5-0       Union Minas
+
+Round: 4(in Huaral)                                                    
+Union Huaral                                                          0-0       Sport Boys
+Union Minas                                                           0-0       Leon de Huanuco
+
+Round: 5 (in Callao)                                                                  
+Union Huaral                                                                         2-2        Union Minas
+Sport Boys                                                                           1-1        Leon de Huanuco
+
+Round: 6 (in Huaral)                                                                                  
+Union Huaral                                                                                         0-2        Leon de Huanuco
+Sport Boys                                                                                           2-0        Union Minas
+
+Group 2                                P -  W -  D -  L - GF - GA - PTS
+ 1. Deportivo Municipal                6 -  3 -  3 -  0 -  9 -  2 -   9  [To Quarterfinals]
+ 2. Cienciano (Cusco)                  6 -  2 -  4 -  0 -  9 -  4 -   8  [To Quarterfinals] 
+ 3. FBC Melgar (Arequipa)              6 -  2 -  2 -  2 -  8 - 11 -   6  
+ 4. Alianza Lima                       6 -  0 -  1 -  5 -  5 - 14 -   1  
+
+Round: 1 (in Arequipa)
+Cienciano               0-0     Dep. Municipal
+FBC Melgar              5-3     Alianza Lima
+
+Round: 2 (in Arequipa)                   
+FBC Melgar                              0-2     Dep. Municipal
+Cienciano                               2-1     Alianza Lima
+
+Round: 3 (in Arequipa)                                   
+Dep. Municipal                                          4-0     Alianza Lima
+FBC Melgar                                              1-1     Cienciano
+
+Round: 4 (in Cusco)                                                      
+Cienciano                                                               1-1     Dep. Municipal
+FBC Melgar                                                              1-0     Alianza Lima
+
+Round: 5 (in Cusco)                                                                      
+Cienciano                                                                               1-1     Alianza Lima
+Dep. Municipal                                                                          1-1     FBC Melgar
+
+Round: 6 (in Cusco)                                                                                  
+Dep. Municipal                                                                                      1-0 Alianza Lima
+Cienciano                                                                                           4-0 FBC Melgar
+
+Group 3                                P -  W -  D -  L - GF - GA - PTS  
+ 1. Alianza Atlético (Sullana)         6 -  4 -  2 -  0 - 11 -  1 -  10  [To Quarterfinals]
+ 2. Sporting Cristal                   6 -  3 -  2 -  1 - 20 -  9 -   8  [To Quarterfinals]
+ 3. Defensor Lima                      6 -  2 -  2 -  2 - 10 -  5 -   6
+ 4. Universidad Técnica de Cajamarca   6 -  0 -  0 -  6 -  7 - 33 -   0
+
+Round: 1 (in Sullana)
+Defensor Lima           3-1     U.T.C.
+Alianza Atletico        2-0     Sporting Cristal
+
+Round: 2 
+(in Sullana)                    
+Alianza Atletico                4-1     U.T.C.
+(in Lima)                                       
+Sporting Cristal                                1-1     Defensor Lima
+
+Round: 3 (in Sullana)                                             
+Sporting Cristal                                                 7-4    U.T.C.
+Alianza Atletico                                                 0-0    Defensor Lima
+
+Round: 4 (in Chiclayo)                                                            
+Defensor Lima                                                                    5-0    U.T.C.
+Sporting Cristal                                                                 0-0    Alianza Atletico
+
+Round: 5 
+(in Chiclayo)                   
+Sporting Cristal                2-1     Defensor Lima
+(in Lambayeque)                                  
+Alianza Atletico                                 4-0    U.T.C.
+
+Round: 6 (in Chiclayo)                                           
+Alianza Atletico                                                1-0     Defensor Lima
+Sporting Cristal       10-1                                     U.T.C.
+
+Group 4                                P -  W -  D -  L - GF - GA - PTS
+ 1. Deportivo Sipesa (Chimbote)        6 -  3 -  3 -  0 -  8 -  3 -   9  [To Quarterfinals]
+ 2. Universitario de Deportes          6 -  3 -  1 -  2 - 10 -  5 -   7  [To Quarterfinals]
+ 3. Deportivo San Agustín              6 -  3 -  1 -  2 -  6 -  7 -   7
+ 4. Carlos A. Mannucci (Trujillo)      6 -  0 -  1 -  5 -  3 - 12 -   1
+
+Round: 1 (in Chimbote)
+Deportivo Sipesa        1-1     Dep. San Agustin
+Universitario           3-1     Carlos A. Manucci
+
+Round: 2 (in Trujillo)                  
+Carlos A. Manucci                      0-1      Dep. San Agustin
+Deportivo Sipesa                       1-0      Universitario
+
+Round: 3 (in Chimbote)                                   
+Dep. San Agustin                                        1-0     Universitario
+Deportivo Sipesa                                        1-1     Carlos A. Manucci
+
+Round: 4 (in Trujillo)                                                  
+Deportivo Sipesa                                                       2-0      Dep. San Agustin
+Carlos A. Manucci                                                      1-2      Universitario
+
+Round: 5 (in Chimbote)                                                                   
+Dep. San Agustin                                                                        3-0     Carlos A. Manucci
+Deportivo Sipesa                                                                        1-1     Universitario
+
+Round: 6 (in Trujillo)                                                                                   
+Deportivo Sipesa                                                                                        2-0     Carlos A. Manucci
+Universitario                                                                                           4-0     Dep. San Agustin
+
+
+Quarterfinals
+
+Leon de Huanuco - Dep. Municipal        1-2 / 3-2 (3-4)p     Dep. Municipal [To Semifinals]
+Deportivo Sipesa - Sporting Cristal     3-0 / 2-2          Deportivo Sipesa [To Semifinals]
+Cienciano - Union Huaral                3-0 / 0-3 (4-5)p       Union Huaral [To Semifinals]
+Alianza Atletico - Universitario        2-1 / 1-2 (1-3)p      Universitario [To Semifinals]
+
+
+Semifinals
+
+Dep. Municipal - Universitario          0-0 / 1-0            Dep. Municipal [To Final]
+Union Huaral - Deportivo Sipesa         0-2 / .-.          Deportivo Sipesa [To Final]
+
+Final
+
+Dep. Municipal - Deportivo Sipesa       2-2 (4-3)            Dep. Municipal [champions]
+
+*Note:
+*1. The Intermedio Tournament "Middle-Season Tournament" was played at half season,
+*   while the National Team participated at Copa América and WC Qualifiers. The
+*   winners qualified for Copa Conmebol. Eventually, Deportivo Municipal, Intermedio
+*   winners, resigned their place and Sporting Cristal as Liguilla runners-up
+*   qualified for Copa Conmebol.
+
+
+
+* 1.Ciclista Lima        22  16  3  3  39-14  35  Promoted
+* 2.Guardia Republicana  22  12  6  4  26-15  30
+* 3.Alcides Vigo         22  10  6  6  31-25  26
+* 4.Bella Esperanza      22   8  7  7  28-28  23
+* 5.Juventud la Palma    22   6 10  6  28-31  22
+* 6.Centro Iqueño        22   8  5  9  30-26  21
+* 7.Meteor-Lawn Tennis   22   8  5  9  32-32  21
+* 8.Deportivo Yurimaguas 22   8  5  9  19-22  21
+* 9.América Cochahuayco  22   7  5 10  29-39  19
+*10.Deportivo Zuñiga     22   5  8  9  24-35  18
+*11.Octavio Espinoza     22   5  5 12  20-31  15  Relegated
+*12.A.E.L.U.             22   4  5 13  31-42  13  Relegated
+*
+*NB: Meteor-Lawn Tennis was a merger of Meteor Sport Club and 
+*    Lawn Tennis de la Exposición.
+*    A.E.L.U. is for Asociación Estadio La Unión.
+*    Centro Iqueño which had taken over Enrique Lau Chun withdrew 
+*    for 1994.  Therefore, Enrique Lau Chun will play in 1994.
+*
+*Promoted: Mixto Estudiantil and José Carlos Mariátegui (in Copa
+*          Perú tournament).
+
+
+
+
+
+
+*Prepared and maintained by Carlos Manuel Nieto Tarazona, José Luis Pierrend and Eli Schmerler for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Carlos Manuel Nieto Tarazona (carmanieto@hotmail.com), José Luis Pierrend (josepie@hotmail.com) and Eli Schmerler (e_schmerler@hotmail.com) 
+*Last updated: 8 Sep 2004
+*(C) Copyright Carlos Manuel Nieto Tarazona, José Luis Pierrend, Eli Schmerler and RSSSF 1999/2004
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

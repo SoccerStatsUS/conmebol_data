@@ -1,0 +1,463 @@
+BlockSource: http://www.rsssf.com/tablesc/chile76.html
+Season: 1976
+Competition: Chilean Primera Division
+
+* 1.EVERTON              34 22  9  3  77-44  53  (Viña del Mar) - Championship Playoff
+* 2.Unión Española       34 21 11  2  69-28  53  - Championship Playoff      
+* 3.Universidad de Chile 34 17 11  6  70-41  45      
+* 4.Colo Colo      34 16 12  6  57-36  44     
+* 5.Palestino         34 16 10  8  67-53  42   
+* 6.Green Cross-Temuco   34 16  9  9  57-38  41  (Temuco)            
+* 7.Universidad Catolica 34 14 10 10  48-39  38      
+* 8.Santiago Wanderers   34 11 11 12  53-61  33  (Valparaíso)   
+* 9.Concepción              34 12  7 15  61-59  31  (Concepción)  
+*10.Ovalle                     34  9 12 13  46-48  30  (Ovalle)  
+*11.Antofagasta                    34 12  6 16  51-70  30  (Antofagasta)
+*12.Aviación                          34  9 10 15  49-70  28    
+*13.Lota Schwager                     34  7 13 14  48-62  27  (Coronel)
+*14.Santiago Morning                  34 10  7 17  41-57  27   
+*15.Huachipato                           34 10  6 18  49-64  26  (Talcahuano) - Relegation Playoff
+*16.Rangers                                 34  7 11 16  41-62  25  (Talca) - Relegation Playoff
+*17.Naval                                       34  7  8 19  39-56  22  (Talcahuano) - Relegated
+*18.La Serena                                       34  6  5 23  41-76  17  (La Serena) - Relegated
+
+Round: Round 1
+
+; Universidad Catolica   ; 3-2; Ovalle 
+; Unión Española             ; 1-1; Everton  
+; Palestino                  ; 2-2; Lota Schwager 
+; Green Cross                    ; 1-0; Naval
+; Concepción                         ; 1-3; Universidad de Chile 
+; Huachipato                             ; 0-1; Santiago Morning 
+; Santiago Wanderers                     ; 1-1; Aviación 
+; La Serena                                  ; 1-2; Colo Colo 
+; Antofagasta                                    ; 7-1; Rangers 
+
+Round: Round 2
+
+; Colo Colo              ; 2-2; Santiago Wanderers
+; Aviación                   ; 0-3; Huachipato                      
+; Santiago Morning           ; 1-0; Concepción                              
+; Universidad de Chile       ; 2-1; Antofagasta
+; La Serena     ; 0-0; Universidad Catolica
+; Everton                       ; 1-0; Ovalle
+; Rangers                                ; 2-2; Palestino
+; Naval                                          ; 0-4; Unión Española
+; Lota Schwager                                      ; 0-0; Green Cross
+
+Round: Round 3
+
+; Universidad Catolica   ; 1-1; Everton              
+; Unión Española             ; 2-1; Lota Schwager    
+; Palestino                      ; 2-0; Universidad de Chile
+; Antofagasta                        ; 2-1; Santiago Morning
+; Ovalle                                          ; 5-2; Naval                              
+; Huachipato                                          ; 2-2; Colo Colo
+; Green Cross                                             ; 1-0; Rangers
+; Concepción                                                  ; 4-3; Aviación
+; Santiago Wanderers                                          ; 3-0; La Serena
+
+Round: Round 4
+
+; Colo Colo              ; 2-1; Concepción  
+; Aviación                   ; 3-3; Antofagasta
+; Santiago Morning           ; 0-3; Palestino
+; Universidad de Chile       ; 2-1; Green Cross                     
+; La Serena     ; 1-2; Huachipato
+; Rangers                ; 2-3; Unión Española
+; Santiago Wanderers     ; 2-1; Universidad Catolica
+; Naval                      ; 0-1; Everton
+; Lota Schwager                  ; 1-2; Ovalle
+
+Round: Round 5
+
+; Universidad Catolica   ; 0-1; Naval       
+; Unión Española             ; 2-2; Universidad de Chile
+; Palestino                      ; 3-0; Aviación
+; Antofagasta                        ; 1-3; Colo Colo
+; Ovalle                                      ; 0-0; Rangers        
+; Everton                                                        ; 2-1; Lota Schwager
+; Concepción                                                         ; 2-2; La Serena
+; Huachipato                                                             ; 1-5; Santiago Wanderers
+; Green Cross                                                                ; 1-0; Santiago Morning
+
+Round: Round 6
+
+; Colo Colo              ; 1-1; Palestino
+; Aviación                   ; 1-1; Green Cross                     
+; Santiago Morning           ; 0-2; Unión Española
+; Universidad de Chile       ; 1-1; Ovalle
+; La Serena     ; 0-2; Antofagasta
+; Santiago Wanderers; 1-0; Concepción
+; Huachipato            ; 3-2; Universidad Catolica
+; Lota Schwager             ; 2-1; Naval   
+; Rangers                               ; 0-2; Everton
+
+Round: Round 7
+
+; Universidad Catolica   ; 3-1; Lota Schwager
+; Unión Española             ; 3-2; Aviación                 
+; Palestino                      ; 4-3; La Serena
+; Antofagasta                        ; 2-1; Santiago Wanderers                      
+; Ovalle                                          ; 2-1; Santiago Morning
+; Everton                                                      ; 2-1; Universidad de Chile  
+; Concepción                                                       ; 0-3; Huachipato
+; Naval                                                                  ; 1-1; Rangers
+; Green Cross                                                                ; 2-1; Colo Colo
+
+Round: Round 8
+
+; Colo Colo              ; 0-0; Unión Española
+; Aviación                   ; 0-1; Ovalle
+; Santiago Morning           ; 1-2; Everton
+; Universidad de Chile       ; 2-1; Naval   
+; La Serena     ; 0-1; Green Cross  
+; Santiago Wanderers; 2-4; Palestino
+; Rangers               ; 2-1; Lota Schwager
+; Concepción                ; 2-1; Universidad Catolica
+; Huachipato                    ; 4-2; Antofagasta
+
+Round: Round 9
+
+; Universidad Catolica   ; 3-1; Rangers              
+; Unión Española             ; 2-0; La Serena                       
+; Palestino                      ; 2-0; Huachipato
+; Antofagasta                        ; 2-2; Concepción
+; Ovalle                                         ; 3-1; Colo Colo
+; Everton                                                 ; 2-2; Aviación
+; Naval                                                          ; 0-1; Santiago Morning
+; Lota Schwager                                                      ; 0-0; Universidad de Chile
+; Green Cross                                                            ; 5-2; Santiago Wanderers
+
+Round: Round 10
+
+; Colo Colo              ; 2-0; Everton
+; Aviación                   ; 2-2; Naval            
+; Santiago Morning           ; 2-3; Lota Schwager
+; Universidad de Chile       ; 6-3; Rangers                 
+; Antofagasta   ; 1-1; Universidad Catolica                 
+; La Serena         ; 2-1; Ovalle
+; Santiago Wanderers; 2-2; Unión Española
+; Concepción            ; 0-1; Palestino
+; Huachipato                ; 1-2; Green Cross
+
+Round: Round 11
+
+; Universidad Catolica   ; 3-4; Universidad de Chile
+; Unión Española             ; 1-1; Huachipato
+; Palestino                      ; 7-2; Antofagasta
+; Ovalle                                 ; 4-0; Santiago Wanderers
+; Everton                                             ; 3-1; La Serena
+; Rangers                                                    ; 2-1; Santiago Morning
+; Lota Schwager                                                  ; 1-2; Aviación
+; Naval                                                                  ; 1-0; Colo Colo
+; Green Cross                                                                ; 2-1; Concepción
+
+Round: Round 12
+
+; Universidad Catolica   ; 1-1; Palestino                           
+; Colo Colo              ; 2-0; Lota Schwager                                
+; Aviación                   ; 2-1; Rangers                                  
+; Santiago Morning           ; 1-2; Universidad de Chile
+; Antofagasta                    ; 1-1; Green Cross
+; La Serena                          ; 5-0; Naval   
+; Santiago Wanderers                 ; 1-1; Everton
+; Concepción                             ; 0-1; Unión Española
+; Huachipato                                 ; 3-2; Ovalle
+
+Round: Round 13
+
+; Santiago Morning       ; 1-2; Universidad Catolica
+; Universidad de Chile   ; 6-0; Aviación    
+; Unión Española         ; 5-0; Antofagasta          
+; Green Cross                ; 1-1; Palestino        
+; Lota Schwager                  ; 2-0; La Serena
+; Naval                                 ; 0-2; Santiago Wanderers
+; Rangers                                            ; 0-0; Colo Colo
+; Everton                                                     ; 3-0; Huachipato
+; Ovalle                                                                 ; 2-1; Concepción
+
+Round: Round 14
+
+; Universidad Catolica   ; 3-2; Green Cross
+; Palestino              ; 0-6; Unión Española
+; Colo Colo                  ; 2-1; Universidad de Chile    
+; Aviación                       ; 0-3; Santiago Morning
+; Antofagasta                        ; 3-2; Ovalle                  
+; La Serena                              ; 2-1; Rangers
+; Santiago Wanderers                     ; 2-1; Lota Schwager
+; Concepción                                 ; 3-2; Everton
+; Huachipato                                     ; 1-0; Naval       
+
+Round: Round 15
+
+; Aviación               ; 0-0; Universidad Catolica
+; Santiago Morning       ; 1-2; Colo Colo
+; Unión Española             ; 2-1; Green Cross
+; Universidad de Chile       ; 1-0; La Serena       
+; Lota Schwager              ; 0-0; Huachipato
+; Naval                                  ; 1-2; Concepción
+; Everton                                        ; 4-3; Antofagasta
+; Rangers                                                ; 2-0; Santiago Wanderers
+; Ovalle                                                              ; 1-3; Palestino
+
+Round: Round 16
+
+; Universidad Catolica   ; 0-1; Unión Española      
+; Palestino              ; 2-3; Everton                      
+; Colo Colo                  ; 3-1; Aviación
+; Green Cross                    ; 4-1; Ovalle      
+; Concepción                         ; 1-1; Lota Schwager
+; Huachipato                             ; 0-2; Rangers
+; Santiago Wanderers                     ; 1-2; Universidad de Chile
+; La Serena                                  ; 2-1; Santiago Morning
+; Antofagasta                                    ; 2-1; Naval       
+
+Round: Round 17
+
+; Colo Colo              ; 0-1; Universidad Catolica
+; Aviación                   ; 3-1; La Serena       
+; Santiago Morning           ; 2-2; Santiago Wanderers               
+; Universidad de Chile       ; 3-1; Huachipato
+; Ovalle                     ; 0-2; Unión Española
+; Everton                              ; 2-2; Green Cross
+; Rangers                                        ; 1-1; Concepción
+; Naval                                                  ; 2-0; Palestino
+; Lota Schwager                                              ; 1-1; Antofagasta
+
+Round: Round 18
+
+; Ovalle                 ; 2-2; Universidad Catolica
+; Everton                                ; 3-0; Unión Española       
+; Lota Schwager                              ; 0-0; Palestino
+; Naval                                                  ; 1-0; Green Cross
+; Universidad de Chile                                   ; 4-2; Concepción
+; Santiago Morning                                       ; 1-1; Huachipato
+; Aviación                                               ; 1-5; Santiago Wanderers
+; Colo Colo                                                  ; 5-1; La Serena
+; Rangers                                                           ; 2-2; Antofagasta
+
+Round: Round 19
+
+; Santiago Wanderers     ; 1-1; Colo Colo
+; Huachipato                 ; 2-3; Aviación                        
+; Concepción                     ; 7-1; Santiago Morning                    
+; Antofagasta                        ; 1-0; Universidad de Chile
+; Universidad Catolica               ; 4-1; La Serena
+; Ovalle                                 ; 2-3; Everton
+; Palestino                                  ; 2-1; Rangers
+; Unión Española                                 ; 2-1; Naval       
+; Green Cross                                        ; 6-0; Lota Schwager
+
+Round: Round 20
+
+; Everton                ; 3-1; Universidad Catolica                 
+; Lota Schwager              ; 0-1; Unión Española                   
+; Universidad de Chile       ; 2-2; Palestino
+; Santiago Morning           ; 1-2; Antofagasta
+; Naval                          ; 1-1; Ovalle                      
+; Colo Colo                          ; 4-1; Huachipato
+; Rangers                                        ; 1-3; Green Cross
+; Aviación                                           ; 1-2; Concepción
+; La Serena                                              ; 1-2; Santiago Wanderers
+
+Round: Round 21
+
+; Concepción             ; 0-1; Colo Colo   
+; Antofagasta                ; 1-2; Aviación
+; Palestino                      ; 0-0; Santiago Morning
+; Green Cross                        ; 2-2; Universidad de Chile                    
+; Huachipato                             ; 1-0; La Serena
+; Unión Española                             ; 2-2; Rangers
+; Universidad Catolica                       ; 2-0; Santiago Wanderers
+; Everton                                        ; 3-1; Naval       
+; Ovalle                                                         ; 0-1; Lota Schwager
+
+Round: Round 22
+
+; Naval          ; 0-1; Universidad Catolica
+; Universidad de Chile           ; 0-0; Unión Española
+; Aviación      ; 3-1; Palestino
+; Colo Colo         ; 1-0; Antofagasta
+; Rangers                ; 0-0; Ovalle      
+; Lota Schwager              ; 1-1; Everton
+; La Serena                      ; 2-2; Concepción
+; Santiago Wanderers             ; 0-3; Huachipato
+; Santiago Morning               ; 2-0; Green Cross
+
+Round: Round 23
+
+; Palestino              ; 1-1; Colo Colo
+; Green Cross                ; 2-0; Aviación                        
+; Unión Española                 ; 1-1; Santiago Morning
+; Ovalle                                      ; 0-0; Universidad de Chile
+; Antofagasta                                     ; 1-0; La Serena
+; Concepción                                          ; 3-1; Santiago Wanderers
+; Universidad Catolica                                ; 1-1; Huachipato
+; Naval                                                   ; 2-2; Lota Schwager
+; Everton                                                          ; 2-1; Rangers
+
+Round: Round 24
+
+; Lota Schwager          ; 2-2; Universidad Catolica
+; Aviación                   ; 1-1; Unión Española           
+; La Serena                      ; 1-1; Palestino
+; Santiago Wanderers             ; 0-1; Antofagasta                 
+; Santiago Morning               ; 1-1; Ovalle
+; Universidad de Chile           ; 1-1; Everton     
+; Huachipato    ; 1-3; Concepción
+; Rangers                ; 0-0; Naval       
+; Colo Colo                  ; 1-1; Green Cross
+
+Round: Round 25
+
+; Unión Española         ; 1-0; Colo Colo
+; Ovalle                          ; 0-0; Aviación
+; Everton                                ; 5-1; Santiago Morning
+; Naval                                               ; 0-1; Universidad de Chile
+; Green Cross                                             ; 1-0; La Serena  
+; Palestino                                                   ; 1-2; Santiago Wanderers
+; Lota Schwager                                                   ; 4-1; Rangers
+; Universidad Catolica                                            ; 0-1; Concepción
+; Antofagasta                                                     ; 1-0; Huachipato
+
+Round: Round 26
+
+; Rangers                ; 1-0; Universidad Catolica                 
+; La Serena                  ; 1-3; Unión Española                                  
+; Huachipato                     ; 3-1; Palestino
+; Concepción                         ; 5-0; Antofagasta
+; Colo Colo                              ; 1-1; Ovalle
+; Aviación                                   ; 1-2; Everton
+; Santiago Morning                           ; 1-1; Naval   
+; Universidad de Chile                       ; 6-1; Lota Schwager
+; Santiago Wanderers                         ; 2-1; Green Cross
+
+Round: Round 27
+
+; Everton                ; 2-3; Colo Colo
+; Naval                           ; 2-2; Aviación    
+; Lota Schwager                       ; 2-3; Santiago Morning
+; Rangers                                          ; 0-0; Universidad de Chile                      
+; Universidad Catolica                             ; 1-0; Antofagasta 
+; Ovalle                                               ; 1-1; La Serena
+; Unión Española                                           ; 5-0; Santiago Wanderers
+; Palestino                                                    ; 2-1; Concepción
+; Green Cross                                                      ; 4-1; Huachipato
+
+Round: Round 28
+
+; Universidad de Chile   ; 0-0; Universidad Catolica
+; Huachipato    ; 1-2; Unión Española
+; Antofagasta       ; 1-2; Palestino
+; Santiago Wanderers; 0-0; Ovalle
+; La Serena             ; 1-4; Everton
+; Santiago Morning      ; 1-0; Rangers
+; Aviación              ; 2-0; Lota Schwager
+; Colo Colo                 ; 2-2; Naval    
+; Concepción                    ; 1-3; Green Cross
+
+Round: Round 29
+
+; Palestino              ; 4-2; Universidad Catolica                                
+; Lota Schwager              ; 2-2; Colo Colo                                                
+; Rangers                             ; 1-2; Aviación                                        
+; Universidad de Chile                ; 0-2; Santiago Morning
+; Green Cross   ; 4-0; Antofagasta
+; Naval             ; 4-0; La Serena
+; Everton                  ; 3-1; Santiago Wanderers
+; Unión Española               ; 3-3; Concepción
+; Ovalle                                 ; 3-1; Huachipato
+
+Round: Round 30
+
+; Universidad Catolica   ; 3-0; Santiago Morning
+; Aviación               ; 3-7; Universidad de Chile        
+; Antofagasta                ; 1-0; Unión Española                   
+; Palestino                      ; 1-0; Green Cross                  
+; La Serena                          ; 5-3; Lota Schwager
+; Santiago Wanderers                 ; 2-0; Naval   
+; Colo Colo                              ; 4-1; Rangers
+; Huachipato                                 ; 1-3; Everton
+; Concepción                                     ; 3-2; Ovalle
+
+Round: Round 31
+
+; Green Cross            ; 0-1; Universidad Catolica
+; Unión Española             ; 4-1; Palestino
+; Universidad de Chile       ; 0-1; Colo Colo       
+; Santiago Morning           ; 1-0; Aviación
+; Ovalle                         ; 2-0; Antofagasta                 
+; Rangers                                                        ; 3-4; La Serena
+; Lota Schwager                                                      ; 2-2; Santiago Wanderers
+; Everton                                                                         ; 3-3; Concepción
+; Naval                                                                                  ; 2-1; Huachipato
+
+Round: Round 32
+
+; Universidad Catolica   ; 2-1; Aviación
+; Colo Colo              ; 4-2; Santiago Morning
+; Green Cross                ; 1-4; Unión Española
+; La Serena                      ; 0-4; Universidad de Chile        
+; Huachipato                         ; 2-2; Lota Schwager
+; Concepción                             ; 3-2; Naval       
+; Antofagasta                                ; 2-3; Everton
+; Santiago Wanderers                         ; 2-2; Rangers
+; Palestino                                      ; 5-2; Ovalle
+
+Round: Round 33
+
+; Unión Española         ; 0-0; Universidad Catolica        
+; Everton                                ; 3-2; Palestino            
+; Aviación                                   ; 1-1; Colo Colo
+; Ovalle                                              ; 0-0; Green Cross    
+; Lota Schwager                                           ; 3-1; Concepción
+; Rangers                                                        ; 3-2; Huachipato
+; Universidad de Chile                                           ; 2-2; Santiago Wanderers
+; Santiago Morning                                               ; 3-1; La Serena
+; Naval                                                              ; 5-1; Antofagasta
+
+Round: Round 34
+
+; Universidad Catolica   ; 1-0; Colo Colo
+; La Serena              ; 2-4; Aviación    
+; Santiago Wanderers     ; 2-2; Santiago Morning             
+; Huachipato                 ; 2-3; Universidad de Chile
+; Unión Española                 ; 1-0; Ovalle
+; Green Cross                        ; 1-1; Everton
+; Concepción                             ; 0-1; Rangers
+; Palestino                                  ; 3-1; Naval   
+; Antofagasta                                    ; 2-3; Lota Schwager
+
+* 1.EVERTON              34 22  9  3  77-44  53  (Viña del Mar) - Championship Playoff
+* 2.Unión Española       34 21 11  2  69-28  53  - Championship Playoff      
+* 3.Universidad de Chile 34 17 11  6  70-41  45      
+* 4.Colo Colo      34 16 12  6  57-36  44     
+* 5.Palestino         34 16 10  8  67-53  42   
+* 6.Green Cross-Temuco   34 16  9  9  57-38  41  (Temuco)            
+* 7.Universidad Catolica 34 14 10 10  48-39  38      
+* 8.Santiago Wanderers   34 11 11 12  53-61  33  (Valparaíso)   
+* 9.Concepción              34 12  7 15  61-59  31  (Concepción)  
+*10.Ovalle                     34  9 12 13  46-48  30  (Ovalle)  
+*11.Antofagasta                    34 12  6 16  51-70  30  (Antofagasta)
+*12.Aviación                          34  9 10 15  49-70  28    
+*13.Lota Schwager                     34  7 13 14  48-62  27  (Coronel)
+*14.Santiago Morning                  34 10  7 17  41-57  27   
+*15.Huachipato                           34 10  6 18  49-64  26  (Talcahuano) - Relegation Playoff
+*16.Rangers                                 34  7 11 16  41-62  25  (Talca) - Relegation Playoff
+*17.Naval                                       34  7  8 19  39-56  22  (Talcahuano) - Relegated
+*18.La Serena                                       34  6  5 23  41-76  17  (La Serena) - Relegated
+
+*Championship Playoff (in Santiago)  
+*Unión Española           0-0 Everton
+*Unión Española               1-3 Everton                        (Replay)
+*
+*Relegated: Rangers (Talca), Naval (Talcahuano) and La Serena (La Serena)
+*Promoted : Ñublense (Chillán), O'Higgins (Rancagua) and Audax Italiano (Santiago)     
+
+
+*Prepared and maintained by Eduardo Espina for the Rec.Sport.Soccer Statistics Foundation
+*Author: Eduardo Espina (ecem54 at chile.com)
+*Last updated: 11 Dec 2005
+*(C) Copyright Eduardo Espina and RSSSF 2005
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

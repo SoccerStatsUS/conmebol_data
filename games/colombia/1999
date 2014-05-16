@@ -1,0 +1,859 @@
+BlockSource: http://www.rsssf.com/tablesc/col99.html
+Competition: Categoría Primera A
+
+*Format:
+*Apertura: consists of 6 rounds in Cuadrangulares, 15 rounds in a single
+*          round robin, and one round (22) with regional derbies.  The 
+*          winners qualify for the Copa Libertadores, runners-up for Copa
+*          Conmebol.
+*Finalizacion: again 6 rounds of Cuadrangulares, 15 rounds in a single round
+*              robin, one more round of regional derbies, and then another
+*              set of Cuadrangulares according to the table; the winners
+*              of groups A and B play two matches to decide the remaining
+*              places in the Libertadores and Conmebol cups.
+*The first team of the overall table (50 matches) are champions of the 
+*Copa Mustang (national title).
+
+Season: 1999 
+
+Stage: Apertura
+
+* 1.CD America Cali        22 11  7  4 42-27 40
+* 2.Atl. Nacional          22  9  9  4 25-18 36   
+* 3.Once Caldas            22  9  7  6 35-19 34  
+* 4.Atl. Junior            22  9  7  6 34-34 34
+* 5.Dep. Tolima            22  7 11  4 25-20 32
+* 6.Dep. Tuluá             22  8  7  7 31-31 31  
+* 7.Dep. Cali              22  9  4  9 37-41 31  
+* 8.Dep. Indep. Medellín   22  6 12  4 26-20 30   
+* 9.Atl. Bucaramanga       22  5 12  5 30-24 27
+*10.Indep. Santa Fe        22  6  8  8 23-26 26  
+*11.Millonarios            22  5 10  7 25-34 25  
+*12.Dep. Pasto             22  4 13  5 32-32 25
+*13.Dep. Quindío           22  6  6 10 32-40 24
+*14.Envigado FC            22  6  4 12 21-32 22   
+*15.Un. Magdalena          22  4 10  8 31-38 22
+*16.Atl. Huila             22  3 11  8 18-31 20
+
+*[first tie-breaker: number of wins]
+*[rounds 1-6 in cuadrangulares]
+
+Round: 1 
+Date: 2/7/1999
+
+; Quindio    ; 2-0; Tulua
+; Envigado   ; 0-2; Caldas      
+; Millonarios; 1-1; Santa Fe
+; Huila      ; 1-1; Tolima
+; Magdalena  ; 1-1; Junior
+; America    ; 3-3; Cali
+; Pasto      ; 1-1; Bucaramanga
+
+Date: 4/15/1999
+
+; Nacional   ; 1-1; DI Medellin    
+*[corrected from 0-0]
+
+Round: 2 
+Date: 2/14/1999
+
+; Cali       ; 3-2; Tulua
+; Caldas     ; 0-2; Nacional
+; Envigado   ; 2-1; DI Medellin 
+; Santa Fe   ; 2-0; Huila
+; Tolima     ; 1-1; Millonarios
+; Bucaramanga; 1-1; Magdalena
+; Quindio    ; 0-3; America
+
+Date: 2/25/1999
+
+; Junior     ; 1-1; Pasto
+
+Round: 3 
+Date: 2/21/1999
+
+; Cali       ; 0-2; Quindio     
+; Tulua      ; 3-2; America
+; Nacional   ; 1-1; Envigado
+; Caldas     ; 1-1; DI Medellin
+; Bucaramanga; 1-1; Junior
+; Magdalena  ; 4-1; Pasto
+; Santa Fe   ; 2-0; Tolima
+; Huila      ; 1-1; Millonarios
+
+Round: 4 
+Date: 2/28/1999
+
+; America    ; 4-0; Tulua
+; Quindio    ; 1-2; Cali
+; Envigado   ; 0-1; Nacional
+; DI Medellin; 1-0; Caldas
+; Junior     ; 3-2; Bucaramanga
+; Pasto      ; 6-1; Magdalena
+; Tolima     ; 1-1; Santa Fe
+; Millonarios; 1-0; Huila
+
+Round: 5
+Date: 3/7/1999
+
+; Caldas     ; 2-1; Envigado       
+*[corrected from 3-1]
+; Cali       ; 0-3; America
+; Tulua      ; 2-0; Quindio   
+; Santa Fe   ; 2-0; Millonarios
+; Tolima     ; 0-1; Huila
+; Junior     ; 2-0; Magdalena
+; Bucaramanga; 1-0; Pasto
+
+Date: 4/8/1999
+
+; DI Medellin; 2-0; Nacional       
+*[corrected from 3-0]
+
+Round: 6 
+Date: 3/14/1999
+
+; Nacional   ; 1-0; Caldas
+; Pasto      ; 4-2; Junior
+; Magdalena  ; 3-3; Bucaramanga
+; America    ; 3-0; Quindio
+; Tulua      ; 3-2; Cali
+; Millonarios; 2-2; Tolima
+; Huila      ; 1-0; Santa Fe
+
+Date: 3/18/1999
+
+; Envigado   ; 0-0; DI Medellin    
+*[corrected from 0-1] 
+
+Round: 7 
+Date: 3/21/1999
+
+; Nacional   ; 1-1; Magdalena
+; Junior     ; 2-1; DI Medellin 
+; Caldas     ; 3-1; Envigado
+; Millonarios; 1-1; Santa Fe       
+*[corrected from 0-0]
+; America    ; 2-2; Tulua          
+*[corrected from 0-0]
+; Bucaramanga; 0-0; Tolima
+; Quindio    ; 4-2; Cali
+; Huila      ; 2-2; Pasto
+
+Round: 8 
+Date: 3/28/1999
+
+; DI Medellin; 0-0; Millonarios
+; Santa Fe   ; 2-0; Nacional       
+*[corrected from 2-1]
+; Magdalena  ; 0-2; Bucaramanga
+; Pasto      ; 3-3; Junior
+; Envigado   ; 0-0; America
+; Cali       ; 2-1; Caldas
+; Tolima     ; 1-1; Quindio
+; Tulua      ; 1-1; Huila
+
+Round: 9 
+Date: 4/4/1999
+
+; Nacional   ; 0-1; Cali
+; America    ; 1-0; DI Medellin
+; Bucaramanga; 6-0; Envigado
+; Santa Fe   ; 0-0; Tolima
+; Caldas     ; 0-0; Pasto
+; Quindio    ; 1-2; Tulua
+; Huila      ; 0-1; Junior
+; Magdalena  ; 4-0; Millonarios
+
+Round: 10 
+Date: 4/11/1999
+
+; DI Medellin; 1-0; Caldas
+; Envigado   ; 0-1; Nacional
+; Cali       ; 2-0; Santa Fe
+; Junior     ; 2-1; America
+; Millonarios; 2-0; Huila
+; Tulua      ; 0-1; Bucaramanga
+; Tolima     ; 2-0; Magdalena
+
+Date: 4/15/1999
+
+; Pasto      ; 2-2; Quindio
+
+Round: 11 
+Date: 4/18/1999
+
+; Nacional   ; 3-2; Tulua
+; Quindio    ; 2-2; DI Medellin
+; Santa Fe   ; 0-1; Envigado
+; Tolima     ; 2-0; Millonarios
+; Caldas     ; 4-0; Junior
+; America    ; 0-0; Huila
+; Magdalena  ; 2-2; Cali
+; Bucaramanga; 0-0; Pasto
+
+Round: 12 
+Date: 4/25/1999
+
+; DI Medellin; 2-2; Bucaramanga
+; Envigado   ; 2-2; Magdalena
+; Pasto      ; 0-0; Nacional
+; Millonarios; 1-2; America
+; Junior     ; 3-0; Quindio
+; Cali       ; 2-1; Tolima
+; Tulua      ; 3-1; Santa Fe
+; Huila      ; 2-2; Caldas
+
+Round: 13 
+Date: 4/28/1999
+
+; Nacional   ; 1-0; DI Medellin
+; Tolima     ; 1-0; Envigado
+; Caldas     ; 6-0; America
+; Bucaramanga; 1-1; Junior
+; Santa Fe   ; 2-2; Pasto
+; Quindio    ; 3-1; Huila
+; Magdalena  ; 0-0; Tulua
+; Cali       ; 2-0; Millonarios
+
+Round: 14 
+Date: 5/2/1999
+
+; DI Medellin; 4-2; Santa Fe
+; Envigado   ; 3-1; Cali
+; Junior     ; 0-1; Nacional
+; Millonarios; 3-2; Caldas
+; Huila      ; 1-1; Bucaramanga
+; America    ; 4-1; Quindio
+; Pasto      ; 1-0; Magdalena
+; Tulua      ; 0-1; Tolima
+
+Round: 15 
+Date: 5/9/1999
+
+; Nacional   ; 5-1; Huila
+; Envigado   ; 3-1; Millonarios
+; Magdalena  ; 1-1; DI Medellin
+; Santa Fe   ; 2-2; Junior
+; Bucaramanga; 1-2; America
+; Cali       ; 1-1; Tulua
+; Tolima     ; 2-2; Pasto
+; Quindio    ; 1-1; Caldas
+
+Round: 16 
+Date: 5/16/1999
+
+; America    ; 0-0; Nacional
+; Millonarios; 2-4; Quindio
+; Junior     ; 3-2; Magdalena
+; DI Medellin; 1-1; Tolima
+; Tulua      ; 1-0; Envigado
+; Pasto      ; 3-1; Cali
+; Caldas     ; 0-0; Bucaramanga
+; Huila      ; 0-0; Santa Fe
+
+Round: 17 
+Date: 5/23/1999
+
+; Nacional   ; 0-0; Caldas
+; Tolima     ; 3-1; Junior
+; Bucaramanga; 3-1; Quindio
+; Magdalena  ; 3-3; Huila
+; Tulua      ; 2-2; Millonarios
+; Santa Fe   ; 1-2; America
+; Envigado   ; 2-1; Pasto
+; Cali       ; 1-1; DI Medellin
+
+Round: 18 
+Date: 5/30/1999
+
+; America    ; 2-3; Magdalena
+; DI Medellin; 2-1; Envigado       
+*[corrected from 2-2]
+; Junior     ; 3-2; Cali
+; Millonarios; 2-2; Bucaramanga
+; Pasto      ; 0-2; Tulua
+; Quindio    ; 2-2; Nacional
+; Huila      ; 0-1; Tolima
+
+Date: 6/3/1999
+
+; Caldas     ; 3-0; Santa Fe       
+*[corrected from 2-0]
+
+Round: 19 
+Date: 6/6/1999
+
+; Nacional   ; 2-0; Bucaramanga
+; Pasto      ; 2-2; Millonarios
+; Tolima     ; 1-1; America
+; Magdalena  ; 0-2; Caldas
+; Santa Fe   ; 2-2; Quindio
+; Tulua      ; 1-1; DI Medellin
+; Cali       ; 3-0; Huila
+; Envigado   ; 2-0; Junior
+
+Round: 20 
+Date: 6/9/1999
+
+; DI Medellin; 3-0; Pasto
+; Millonarios; 1-1; Nacional
+; Huila      ; 2-1; Envigado
+; Caldas     ; 2-0; Tolima
+; Quindio    ; 0-1; Magdalena
+; Bucaramanga; 0-1; Santa Fe
+; Junior     ; 1-0; Tulua
+; America    ; 4-1; Cali           
+*[corrected from 3-1]
+
+Round: 21 
+Date: 6/13/1999
+
+; DI Medellin; 0-0; Huila
+; Envigado   ; 1-3; Quindio
+; Tolima     ; 3-1; Nacional
+; Pasto      ; 1-1; America
+; Cali       ; 3-2; Bucaramanga
+; Millonarios; 1-0; Junior
+; Tulua      ; 3-3; Caldas
+; Magdalena  ; 0-1; Santa Fe
+
+Round: 22 
+Date: 6/20/1999
+* [local derbies]
+; Santa Fe   ; 0-1; Millonarios
+; Nacional   ; 1-1; DI Medellin
+; Bucaramanga; 0-0; Pasto
+; Quindio    ; 0-1; Tulua
+; Caldas     ; 1-0; Envigado
+; America    ; 2-1; Cali
+; Huila      ; 1-1; Tolima
+; Junior     ; 2-2; Magdalena
+
+* 1.CD America Cali        22 11  7  4 42-27 40 
+* 2.Atl. Nacional          22  9  9  4 25-18 36   
+* 3.Once Caldas            22  9  7  6 35-19 34  
+* 4.Atl. Junior            22  9  7  6 34-34 34
+* 5.Dep. Tolima            22  7 11  4 25-20 32
+* 6.Dep. Tuluá             22  8  7  7 31-31 31  
+* 7.Dep. Cali              22  9  4  9 37-41 31  
+* 8.Dep. Indep. Medellín   22  6 12  4 26-20 30   
+* 9.Atl. Bucaramanga       22  5 12  5 30-24 27
+*10.Indep. Santa Fe        22  6  8  8 23-26 26  
+*11.Millonarios            22  5 10  7 25-34 25  
+*12.Dep. Pasto             22  4 13  5 32-32 25
+*13.Dep. Quindío           22  6  6 10 32-40 24
+*14.Envigado FC            22  6  4 12 21-32 22   
+*15.Un. Magdalena          22  4 10  8 31-38 22
+*16.Atl. Huila             22  3 11  8 18-31 20 
+*[first tie-breaker: number of wins]
+
+
+Season: 1999 
+
+Stage: Finalización
+
+* 1.Millonarios            22 10 12  0 31-14 42
+* 2.Dep. Tuluá             22 10  8  4 29-19 38
+* 3.Dep. Indep. Medellín   22 10  5  7 32-29 35
+* 4.Atl. Junior            22 10  5  7 27-24 35
+* 5.Dep. Cali              22  9  7  6 30-23 34
+* 6.Atl. Nacional          22  9  7  6 31-25 34
+* 7.Once Caldas            22  8 10  4 37-24 34
+* 8.Dep. Pasto             22 10  2 10 33-33 32
+* - - - - - - - - - - - - - - - - - - - - - - - 
+* 9.Atl. Bucaramanga       22  9  4  9 25-25 31
+*10.CD America Cali        22  7  8  7 28-26 29
+*11.Dep. Tolima            22  8  3 11 26-27 27
+*12.Envigado FC            22  8  4 10 25-33 25
+*13.Indep. Santa Fe        22  5  8  9 25-30 23
+*14.Un. Magdalena          22  5  7 10 22-31 22
+*15.Dep. Quindío           22  4  6 12 28-45 18
+*16.Atl. Huila             22  4  4 14 22-43 16
+
+Round: 1 
+Date: 7/25/1999
+
+; America    ; 3-0; Medellin 
+; Junior     ; 1-0; Bucaramanga  
+; Santa Fe   ; 2-2; Caldas  
+; Envigado   ; 0-0; Cali
+; Tolima     ; 2-3; Quindio  
+; Huila      ; 0-2; Pasto  
+; Tulua      ; 1-1; Millonarios  
+
+Date: 8/11/1999
+
+; Nacional   ; 4-1; Magdalena
+
+Round: 2 
+Date: 8/1/1999
+
+; Medellin   ; 4-1; Huila  
+; Millonarios; 2-0; Nacional  
+; Caldas     ; 2-3; Envigado  
+; Pasto      ; 2-0; America 
+; Cali       ; 1-1; Santa Fe  
+; Quindio    ; 0-2; Junior  
+; Magdalena  ; 1-2; Tulua  
+; Bucaramanga; 1-2; Tolima  
+
+Round: 3 
+Date: 8/8/1999
+
+; Medellin   ; 2-0; Pasto  
+; Tulua      ; 2-1; Nacional  
+; Santa Fe   ; 1-1; Envigado  
+; Huila      ; 1-1; America
+; Cali       ; 0-0; Caldas  
+; Tolima     ; 0-0; Junior  
+; Magdalena  ; 1-1; Millonarios  
+; Bucaramanga; 2-2; Quindio
+
+Round: 4 
+Date: 8/15/1999
+
+; Millonarios; 2-0; Magdalena
+; América    ; 1-1; Huila
+; Nacional   ; 0-0; Tuluá
+; Envigado   ; 2-1; Santa Fé
+; Junior     ; 1-0; Tolima
+; Caldas     ; 3-0; Cali
+; Quindio    ; 1-1; Bucaramanga
+; Pasto      ; 2-1; Medellin
+
+Round: 5 
+Date: 8/22/1999
+
+; Medellin   ; 1-0; America  
+; Magdalena  ; 1-2; Nacional  
+; Cali       ; 4-0; Envigado  
+; Millonarios; 1-1; Tulua
+; Pasto      ; 3-2; Huila  
+; Quindio    ; 2-1; Tolima  
+; Bucaramanga; 2-0; Junior  
+; Caldas     ; 0-0; Santa Fe
+
+Round: 6 
+Date: 8/29/1999
+
+; Junior     ; 2-1; Quindio
+; America    ; 2-0; Pasto
+; Huila      ; 2-2; Medellin
+; Tulua      ; 1-1; Magdalena
+; Tolima     ; 1-0; Bucaramanga
+; Nacional   ; 1-1; Millonarios 
+; Santa Fe   ; 3-2; Cali
+; Envigado   ; 0-1; Once Caldas
+ 
+Round: 7 
+Date: 9/5/1999
+
+; Santa Fe   ; 0-0; Millonarios
+; Cali       ; 1-1; Quindio
+; Tolima     ; 0-1; Bucaramanga
+; Tulua      ; 2-2; America
+; Magdalena  ; 0-1; Nacional
+; Pasto      ; 4-0; Huila
+; Envigado   ; 1-1; Caldas
+; Medellin   ; 3-1; Junior
+
+Round: 8 
+Date: 9/12/1999
+
+; Millonarios; 1-0; Medellin
+; Huila      ; 0-1; Tulua
+; America    ; 2-1; Envigado
+; Caldas     ; 3-0; Cali  
+; Quindio    ; 1-3; Tolima
+; Bucaramanga; 1-0; Magdalena
+; Nacional   ; 1-1; Santa Fe
+; Junior     ; 2-1; Pasto
+
+Round: 9 
+Date: 9/15/1999
+
+; D.Cali     ; 2-3; Nacional
+; Envigado   ; 2-1; Bucaramanga     
+; Millonarios; 1-1; Magdalena
+; Tuluá      ; 2-0; Quindío
+; Junior     ; 2-2; Huila
+; Pasto      ; 2-2; Once Caldas
+; DI Medellín; 1-1; América
+; Tolima     ; 2-1; Santa Fé
+  
+Round: 10 
+Date: 9/19/1999
+
+; Nacional   ; 2-0; Envigado
+; Once Caldas; 4-1; DI Medellín
+; América    ; 2-0; Junior
+; Bucaramanga; 0-0; Tuluá
+; Quindío    ; 3-0; Pasto
+; Santa Fé   ; 1-2; D.Cali
+; Magdalena  ; 1-0; Tolima
+; Huila      ; 0-1; Millonarios
+
+Round: 11 
+Date: 9/26/1999
+
+; Millonarios; 2-1; Tolima
+; Tulua      ; 1-0; Nacional  
+; Junior     ; 2-0; Caldas
+; Huila      ; 1-0; America   
+; Pasto      ; 1-0; Bucaramanga 
+; Medellin   ; 2-1; Quindio
+; Cali       ; 0-0; Magdalena
+; Envigado   ; 2-1; Santa Fe
+
+Round: 12 
+Date: 10/3/1999
+
+; Nacional   ; 2-1; Pasto
+; Santa Fé   ; 1-1; Tuluá
+; Quindío    ; 2-3; Junior
+; América    ; 1-1; Millonarios
+; Magdalena  ; 1-0; Envigado
+; Tolima     ; 1-0; D.Cali
+; Bucaramanga; 2-1; DI Medellín
+; Once Caldas; 3-1; Huila
+
+Round: 13 
+Date: 10/6/1999
+
+; Atl. Junior; 2-2; Bucaramanga
+; Millonarios; 1-1; Dep. Cali
+; Dep. Tuluá ; 2-1; Un. Magdalena   
+; América    ; 2-1; Once Caldas
+; Dep. Pasto ; 0-1; Ind. Santa Fe   
+; DI Medellín; 0-0; Nacional
+; Envigado FC; 2-1; Dep. Tolima
+; Huila      ; 2-0; Quindío   
+
+Round: 14 
+Date: 10/10/1999
+
+; Bucaramanga; 2-1; Huila
+; Nacional   ; 3-1; Junior
+; Magdalena  ; 3-2; Pasto
+; Cali       ; 3-2; Envigado
+; Quindio    ; 1-1; America
+; Once Caldas; 1-1; Millonarios
+; Santa Fe   ; 0-2; Medellin
+; Tolima     ; 0-2; Tulua
+
+Round: 15 
+Date: 10/17/1999
+                                       
+; Caldas     ; 3-3; Quindio                                   
+; Huila      ; 1-0; Nacional
+; Medellin   ; 3-0; Magdalena
+; Tulua      ; 1-1; Cali
+; Junior     ; 1-0; Santa Fe                                
+; America    ; 3-1; Bucaramanga                               
+; Millonarios; 3-2; Envigado
+; Pasto      ; 1-0; Tolima
+
+Round: 16 
+Date: 10/24/1999
+
+; Quindio    ; 2-2; Millonarios
+; Nacional   ; 1-0; America
+; Cali       ; 2-0; Pasto
+; Envigado FC; 1-0; Tulua
+; Tolima     ; 0-3; Medellin
+; Magdalena  ; 2-2; Junior
+; Santa Fe   ; 2-1; Huila
+; Bucaramanga; 2-1; Caldas  
+
+Round: 17 
+Date: 10/27/1999
+
+; América    ; 3-1; Santa Fé
+; Once Caldas; 4-1; Nacional
+; Junior     ; 2-0; Tolima
+; Millonarios; 3-0; Tuluá
+; Medellín   ; 0-2; Cali
+; Pasto      ; 3-2; Envigado
+; Quindío    ; 1-0; Bucaramanga
+; Huila      ; 2-1; Magdalena
+
+Round: 18 
+Date: 10/31/1999
+
+; Nacional   ; 5-1; Quindío
+; Tuluá      ; 5-0; Pasto
+; Cali       ; 1-0; Junior
+; Tolima     ; 2-1; Huila
+; Bucaramanga; 0-2; Millonarios
+; Envigado   ; 0-0; Medellín
+; Santa Fé   ; 1-1; Once Caldas
+; Magdalena  ; 1-1; América
+
+Round: 19 
+Date: 11/3/1999
+
+; Millonarios; 1-0; Pasto 
+; Junior     ; 2-0; Envigado
+; Medellín   ; 2-1; Tuluá
+; Bucaramanga; 3-1; Nacional
+; América    ; 0-2; Tolima 
+; Once Caldas; 1-1; Magdalena
+; Quindío    ; 1-3; Santa Fé 
+; Huila      ; 0-2; Cali
+
+Round: 20 
+Date: 11/7/1999
+
+; Nacional   ; 0-0; Millonarios
+; Cali       ; 3-1; América
+; Pasto      ; 6-1; Medellín 
+; Envigado   ; 2-1; Huila 
+; Tolima     ; 0-0; Once Caldas 
+; Santa Fé   ; 1-2; Bucaramanga
+; Magdalena  ; 4-0; Quindío
+
+Date: 11/8/1999
+
+; Tuluá      ; 1-0; Junior 
+
+Round: 21 
+Date: 11/11/1999
+
+; Huila      ; 1-2; DI Medellin    
+; Quindío    ; 1-2; Envigado 
+; Nacional   ; 2-2; Tolima   
+; América    ; 2-2; Pasto   
+; Bucaramanga; 2-1; Cali        
+; Junior     ; 1-1; Millonarios 
+; Caldas     ; 2-1; Tulua       
+; Santa Fe   ; 3-0; Magdalena
+
+Round: 22 
+Date: 11/14/1999
+* [local derbies]
+; Millonarios; 3-0; Santa Fé
+; Cali       ; 2-0; América
+; Pasto      ; 1-0; Bucaramanga
+; Envigado   ; 0-2; Once Caldas    
+; Tolima     ; 6-1; Huila
+; Magdalena  ; 1-0; Junior
+; Medellín   ; 1-1; Nacional
+; Tuluá      ; 2-1; Quindío
+
+*Table:
+* 1.Millonarios            22 10 12  0 31-14 42
+* 2.Dep. Tuluá             22 10  8  4 29-19 38
+* 3.Dep. Indep. Medellín   22 10  5  7 32-29 35
+* 4.Atl. Junior            22 10  5  7 27-24 35
+* 5.Dep. Cali              22  9  7  6 30-23 34
+* 6.Atl. Nacional          22  9  7  6 31-25 34
+* 7.Once Caldas            22  8 10  4 37-24 34
+* 8.Dep. Pasto             22 10  2 10 33-33 32
+* - - - - - - - - - - - - - - - - - - - - - - - 
+* 9.Atl. Bucaramanga       22  9  4  9 25-25 31
+*10.CD America Cali        22  7  8  7 28-26 29
+*11.Dep. Tolima            22  8  3 11 26-27 27
+*12.Envigado FC            22  8  4 10 25-33 25
+*13.Indep. Santa Fe        22  5  8  9 25-30 23
+*14.Un. Magdalena          22  5  7 10 22-31 22
+*15.Dep. Quindío           22  4  6 12 28-45 18
+*16.Atl. Huila             22  4  4 14 22-43 16
+*[first tie-breaker: number of wins]
+
+*Clausura Cuadrangulares Semifinals
+
+*Tables:
+*Group A [odd]
+* 1.Dep. Indep. Medellín    6  3  2  1 10- 9 11
+* 2.Dep. Cali               6  3  1  2 12- 8 10
+* 3.Once Caldas             6  0  5  1  5- 7  5
+* 4.Millonarios             6  1  2  3  7-10  5
+
+*Group B [even]
+* 1.Atl. Nacional           6  5  0  1 14-10 15
+* 2.Atl. Junior             6  3  1  2 11-10 10
+* 3.Dep. Tuluá              6  2  2  2 10-10  8
+* 4.Dep. Pasto              6  0  1  5  7-12  1
+
+Round: 1
+Date: 11/17/1999
+
+; Medellín   ; 1-3; Cali
+; Tuluá      ; 2-1; Pasto
+; Junior     ; 1-2; Nacional
+
+Date: 11/18/1999
+
+; Caldas     ; 1-1; Millonarios
+
+Round: 2 
+Date: 11/21/1999
+
+; Millonarios; 2-3; Medellin
+; Cali       ; 0-0; Caldas
+; Nacional   ; 3-2; Tulua
+
+Date: 11/22/1999
+
+; Pasto      ; 2-3; Junior
+
+Round: 3 
+Date: 11/24/1999
+
+; Caldas     ; 1-1; Medellín
+; Cali       ; 3-1; Millonarios
+; Nacional   ; 3-2; Pasto  
+
+Date: 11/25/1999
+
+; Tuluá      ; 1-1; Junior
+
+Round: 4 
+Date: 11/28/1999
+
+; Medellín   ; 1-1; Caldas
+; Millonarios; 2-1; Cali
+; Junior     ; 2-1; Tuluá
+; Pasto      ; 0-1; Nacional
+ 
+Round: 5 
+Date: 12/1/1999
+
+; Millonarios; 0-0; Caldas
+; Cali       ; 1-2; Medellín
+; Nacional   ; 2-1; Junior 
+
+Date: 12/2/1999
+
+; Pasto      ; 0-0; Tuluá
+ 
+Round: 6 
+Date: 12/5/1999
+
+; Caldas     ; 2-4; Cali
+; Medellín   ; 2-1; Millonarios     
+; Tuluá      ; 4-3; Nacional 
+; Junior     ; 3-2; Pasto
+
+*Group A [odd]
+* 1.Dep. Indep. Medellín    6  3  2  1 10- 9 11
+* 2.Dep. Cali               6  3  1  2 12- 8 10
+* 3.Once Caldas             6  0  5  1  5- 7  5
+* 4.Millonarios             6  1  2  3  7-10  5
+
+*Group B [even]
+* 1.Atl. Nacional           6  5  0  1 14-10 15
+* 2.Atl. Junior             6  3  1  2 11-10 10
+* 3.Dep. Tuluá              6  2  2  2 10-10  8
+* 4.Dep. Pasto              6  0  1  5  7-12  1
+
+Round: Final 
+*Clausura
+
+*First Leg 
+Date: 12/8/1999
+
+; Medellín      ; 0-0; Nacional       
+
+*Second Leg 
+Date: 12/12/1999
+
+; Nacional      ; 1-0; Medellín 
+Wilmer Ortegón 48;
+
+*Nacional win Clausura.
+*Topscorers Finalizacion 1999
+
+  
+*Championship Final
+
+*First Leg 
+Date: 12/16/1999
+ 
+*América de Cali 1-1 Nacional
+*  [34' Jairo Castillo; 87' Oswaldo McKenzie]
+*  [Stadium: Pascual Guerrero, Cali - 31.395 persons]
+*  [lines-ups:
+*    América: Gómez; W. Pérez, Navarro, C. González, J. González; Zapata,
+*             Perafán, Vargas, Oviedo; Castillo, Téllez.
+*             Coach: Jaime de la Pava.
+*             Changes: F.Moreno x Tellez 76´, Romero x Vargas 84´.
+*    Nacional: Calero; Calle, Vanegas, Ortegón, Martínez; Rueda, Alvarez,
+*              Grisales, Mackenzie; Vilarete, Muñoz.
+*              Coach: Luis Fernando Suárez.
+*              Changes: Escobar x Vilarete 56´, Patiño x Muñoz 75´,
+*              Estrada x Grisales 88´]
+*   [Red card: Miguel Calero]
+
+*Second Leg 
+Date: 12/19/1999
+
+*Nacional        0-0 América de Cali
+*  [Stadium: Atanasio Girardot, Medellín - 41.568 persons]
+*  [Referee: Felipe Russi]
+*  [lines-ups:
+*    Nacional: Patiño; Calle, Ortegón, Vanegas, Martínez; Alvarez, Rueda,
+*              Grisales, Morantes, Mackenzie; Muñoz.
+*              Coach: Luis Fernando Suárez.
+*              Changes: Vilarete x Rueda 57´, Escobar x Muñoz 74´
+*    América: Gómez; Pérez, C. González, Navarro, J. González; Perafán,
+*             Zapata, Vargas, Oviedo; Téllez, Castillo.
+*             Coach: Jaime de la Pava.
+*             Changes:Moreno x Vargas 59´, Murillo x Zapata 75´]
+*  [Penaties:
+*    Nacional: Grisales 1-0, Morantes 2-0, Vilarete 3-0, Mackenzie 3-1
+*              (failed), Martinez 4-2.
+*    América: Oviedo 1-0 (failed), Pérez 2-0 (failed), Moreno 3-1,
+*             Téllez 3-2]
+* 
+*  Nacional won 4-2 on penalties
+  
+*Atlético Nacional [Medellín] champions of Colombia 1999
+*Overall Table (Tabla de Reclasificacion):
+* 1.Atl. Nacional          50 23 16 11 70-53 85
+* 2.Atl. Junior            50 24 13 15 72-68 79
+* 3.Dep. Tuluá             50 20 17 13 70-60 77
+* 4.Dep. Indep. Medellín   50 19 19 13 68-58 76
+* 5.Dep. Cali              50 21 12 17 79-72 75
+* 6.Once Caldas            50 17 22 11 77-50 73
+* 7.Millonarios            50 16 24 10 63-58 72
+* 8.CD America Cali        44 18 15 11 70-53 69
+* 9.Dep. Tolima            44 15 14 15 51-47 59
+*10.Atl. Bucaramanga       44 14 16 14 55-49 58
+*11.Dep. Pasto             50 14 16 20 72-76 58
+*12.Envigado FC            44 14  8 22 46-65 50
+*13.Indep. Santa Fe        44 11 16 17 48-56 49
+*14.Un. Magdalena          44  9 17 18 53-69 44
+*15.Dep. Quindío           44 10 12 22 60-85 42
+*16.Atl. Huila             44  7 15 22 40-74 36
+*Atlético Junior qualified for Copa Libertadores along with Nacional and
+*América.
+
+
+*Relegation Table:
+* 1.Once Caldas 1,869
+* 2.Nacional    1,828
+* 3.Cali        1,718
+* 4.Millonarios 1,614
+* 5.América     1,545
+* 6.Medellín    1,517
+* 7.Tuluá       1,494
+* 8.Junior      1,489
+* 9.Bucaramanga 1,405
+*10.Tolima      1,400
+*11.Santa Fé    1,371
+*12.Quindío     1,319
+*13.Envigado    1,284
+*14.Pasto       1,211
+*15.Huila       1,138
+*16.Magdalena   1,099  Relegated
+*Relegated: Unión Magdalena
+
+
+
+*Prepared and maintained by Roberto Lahsen, Gurgen Mahari and Frank Ballesteros for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Roberto Lahsen (rlahsen@entelchile.net), Gurgen Mahari (gmahari@best.am) and Frank Ballesteros f-balles@uniandes.edu.co) 
+*Last updated: 16 Mar 2000
+*(C) Copyright Roberto Lahsen, Gurgen Mahari, Frank Ballesteros and RSSSF 1999/2000
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

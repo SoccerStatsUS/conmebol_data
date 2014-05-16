@@ -1,0 +1,495 @@
+BlockSource: http://www.rsssf.com/tablesa/arg32.html
+Season: 1932
+Competition: Liga Argentina de Football
+
+
+*No. Team                               G    W    D    L    Gf    Ga    P
+*------------------------------------------------------------------------
+* 1. River Plate                       34   22    6    6    81:   43   50 (Playoff)
+* 2. Independiente (Avellaneda)        34   22    6    6    69:   40   50 (Playoff)
+* 3. Racing Club (Argentina)                       34   20    9    5    58:   26   49
+* 4. Boca Juniors                      34   20    6    8    77:   43   46
+* 5. San Lorenzo de Almagro            34   17   11    6    83:   44   45
+* 6. Estudiantes de La Plata           34   16    8   10    80:   62   40
+* 7. Gimnasia y Esgrima La Plata       34   15    7   12    78:   59   37
+* 8. Vélez Sarsfield                   34   15    7   12    47:   52   37
+* 9. Huracán (Buenos Aires)            34   14    7   13    58:   58   35
+*10. Platense                          34   13    9   12    55:   63   35
+*11. Ferro Carril Oeste (Buenos Aires) 34   13    7   14    64:   59   33
+*12. Quilmes                           34   13    6   15    50:   67   32
+*13. Chacarita Juniors                 34   12    7   15    74:   73   31
+*14. Argentinos Juniors                34    6   11   17    40:   65   23
+*15. Lanús                             34    6    6   22    37:   73   18
+*16. Talleres (Remedios de Escalada)   34    5    7   22    44:   74   17
+*17. Tigre                             34    5    7   22    49:   94   17
+*18. Atlanta                           34    6    5   23    31:   80   17
+
+Round: 1 
+Date: 3/13/1932
+
+; Argentinos Juniors                ; 2-2;  Vélez Sarsfield
+; Atlanta                           ; 2-5;  Boca Juniors; San Lorenzo de Almagro
+; Estudiantes de La Plata           ; 6-1;  Gimnasia y Esgrima La Plata
+; Ferro Carril Oeste (Buenos Aires) ; 3-4;  Platense                       ; Boca Juniors
+; Huracán (Buenos Aires)            ; 2-1;  Independiente (Avellaneda)
+; Lanús                             ; 0-3;  Quilmes
+; Racing Club (Argentina)                       ; 0-0;  San Lorenzo de Almagro
+; River Plate                       ; 3-1;  Chacarita Juniors
+; Tigre                             ; 1-1;  Talleres (Remedios de Escalada)
+
+Round: 2 
+Date: 3/20/1932
+
+; Boca Juniors                      ; 1-1;  Lanús
+; Chacarita Juniors                 ; 1-3;  Racing Club (Argentina)                     ; River Plate
+; Gimnasia y Esgrima La Plata       ; 2-4;  Ferro Carril Oeste (Buenos Aires)
+; Independiente (Avellaneda)        ; 3-0;  Atlanta
+; Platense                          ; 1-0;  Quilmes                           ; Argentinos Juniors
+; San Lorenzo de Almagro            ; 2-1;  Huracán (Buenos Aires)
+; Talleres (Remedios de Escalada)   ; 1-2;  Argentinos Juniors
+; Tigre                             ; 1-5;  River Plate
+; Vélez Sarsfield                   ; 2-1;  Estudiantes de La Plata
+
+Round: 3 
+Date: 3/26/1932
+
+; Argentinos Juniors                ; 1-2;  River Plate
+; Atlanta                           ; 0-5;  San Lorenzo de Almagro            ;River Plate 
+; Boca Juniors                      ; 0-2;  Independiente (Avellaneda)
+; Estudiantes de La Plata           ; 6-4;  Talleres (Remedios de Escalada)
+; Ferro Carril Oeste (Buenos Aires) ; 3-0;  Vélez Sarsfield
+; Huracán (Buenos Aires)            ; 3-3;  Chacarita Juniors
+; Lanús                             ; 1-1;  Platense     
+; Quilmes                           ; 2-1;  Gimnasia y Esgrima La Plata
+; Racing Club (Argentina)                       ; 6-2;  Tigre
+
+Round: 4 
+Date: 4/10/1932
+
+; Argentinos Juniors                ; 0-2;  Racing Club (Argentina)
+; Chacarita Juniors                 ; 4-0;  Atlanta                         ;  Boca Juniors
+; Gimnasia y Esgrima La Plata       ; 2-1;  Platense     
+; Independiente (Avellaneda)        ; 2-0;  Lanús
+; River Plate                       ; 5-2;  Estudiantes de La Plata
+; San Lorenzo de Almagro            ; 2-1;  Boca Juniors
+; Talleres (Remedios de Escalada)   ; 0-2;  Ferro Carril Oeste (Buenos Aires)
+; Tigre                             ; 2-3;  Huracán (Buenos Aires)
+; Vélez Sarsfield                   ; 3-0;  Quilmes
+
+Round: 5 
+Date: 4/17/1932
+
+; Atlanta                           ; 0-0;  Tigre                             ; Argentinos Juniors
+; Boca Juniors                      ; 0-2;  Chacarita Juniors
+; Estudiantes de La Plata           ; 0-4;  Racing Club (Argentina)
+; Ferro Carril Oeste (Buenos Aires) ; 2-4;  River Plate
+; Huracán (Buenos Aires)            ; 3-2;  Argentinos Juniors
+; Independiente (Avellaneda)        ; 1-1;  San Lorenzo de Almagro
+; Lanús                             ; 1-2;  Gimnasia y Esgrima La Plata
+; Platense                          ; 5-2;  Vélez Sarsfield                ;    River Plate
+; Quilmes                           ; 0-0;  Talleres (Remedios de Escalada)
+
+Round: 6 
+Date: 4/24/1932
+; Argentinos Juniors                ; 1-1;  Atlanta
+; Chacarita Juniors                 ; 3-6;  Independiente (Avellaneda)     ;    Boca Juniors
+; Estudiantes de La Plata           ; 4-1;  Huracán (Buenos Aires)
+; Racing Club (Argentina)                       ; 3-1;  Ferro Carril Oeste (Buenos Aires)
+; River Plate                       ; 2-0;  Quilmes
+; San Lorenzo de Almagro            ; 2-3;  Lanús
+; Talleres (Remedios de Escalada)   ; 2-1;  Platense     
+; Tigre                             ; 3-4;  Boca Juniors
+; Vélez Sarsfield                   ; 1-0;  Gimnasia y Esgrima La Plata
+
+Round: 7 
+Date: 5/1/1932
+; Atlanta                           ; 0-2;  Estudiantes de La Plata           ; River Plate
+; Boca Juniors                      ; 2-2;  Argentinos Juniors
+; Ferro Carril Oeste (Buenos Aires) ; 3-0;  Huracán (Buenos Aires)
+; Gimnasia y Esgrima La Plata       ; 2-2;  Talleres (Remedios de Escalada)
+; Independiente (Avellaneda)        ; 2-0;  Tigre
+; Lanús                             ; 0-2;  Vélez Sarsfield
+; Platense                          ; 0-4;  River Plate
+; Quilmes                           ; 0-4;  Racing Club (Argentina)
+; San Lorenzo de Almagro            ; 0-1;  Chacarita Juniors
+
+Round: 8 
+Date: 5/5/1932
+; Argentinos Juniors                ; 3-4;  Independiente (Avellaneda)
+; Chacarita Juniors                 ; 1-1;  Lanús                             ; Boca Juniors
+; Estudiantes de La Plata           ; 3-5;  Boca Juniors
+; Ferro Carril Oeste (Buenos Aires) ; 6-1;  Atlanta
+; Huracán (Buenos Aires)            ; 6-1;  Quilmes
+; Racing Club (Argentina)                       ; 1-1;  Platense     
+; River Plate                       ; 2-0;  Gimnasia y Esgrima La Plata
+; Talleres (Remedios de Escalada)   ; 0-2;  Vélez Sarsfield
+; Tigre                             ; 1-2;  San Lorenzo de Almagro
+
+Round: 9 
+Date: 5/9/1932
+; Boca Juniors                      ; 3-1;  Ferro Carril Oeste (Buenos Aires)
+; Chacarita Juniors                 ; 2-2;  Tigre                             ; Argentinos Juniors
+; Gimnasia y Esgrima La Plata       ; 1-1;  Racing Club (Argentina)
+; Independiente (Avellaneda)        ; 1-1;  Estudiantes de La Plata
+; Lanús                             ; 2-1;  Talleres (Remedios de Escalada)
+; Platense                          ; 3-2;  Huracán (Buenos Aires)
+; Quilmes                           ; 1-0;  Atlanta
+; San Lorenzo de Almagro            ; 2-2;  Argentinos Juniors
+; Vélez Sarsfield                   ; 1-1;  River Plate
+
+Round: 10 
+Date: 5/15/1932
+; Argentinos Juniors                ; 0-0;  Chacarita Juniors
+; Atlanta                           ; 0-1;  Platense                          ; San Lorenzo de Almagro
+; Estudiantes de La Plata           ; 4-3;  San Lorenzo de Almagro
+; Ferro Carril Oeste (Buenos Aires) ; 2-4;  Independiente (Avellaneda)
+; Huracán (Buenos Aires)            ; 2-1;  Gimnasia y Esgrima La Plata
+; Lanús                             ; 2-2;  Tigre
+; Quilmes                           ; 0-3;  Boca Juniors
+; Racing Club (Argentina)                       ; 2-1;  Vélez Sarsfield
+; River Plate                       ; 3-0;  Talleres (Remedios de Escalada)
+
+Round: 11 
+Date: 5/22/1932
+; Chacarita Juniors                 ; 1-1;  Estudiantes de La Plata           ; Argentinos Juniors
+; Gimnasia y Esgrima La Plata       ; 6-0;  Atlanta
+; Independiente (Avellaneda)        ; 4-0;  Quilmes
+; Platense                          ; 1-1;  Boca Juniors
+; River Plate                       ; 4-1;  Lanús
+; San Lorenzo de Almagro            ; 3-0;  Ferro Carril Oeste (Buenos Aires) ; Boca Juniors
+; Talleres (Remedios de Escalada)   ; 0-3;  Racing Club (Argentina)
+; Tigre                             ; 3-0;  Argentinos Juniors
+; Vélez Sarsfield                   ; 2-0;  Huracán (Buenos Aires)
+
+Round: 12 
+Date: 5/29/1932
+; Atlanta                           ; 0-1;  Vélez Sarsfield                   ; River Plate
+; Boca Juniors                      ; 2-1;  Gimnasia y Esgrima La Plata
+; Estudiantes de La Plata           ; 4-3;  Tigre
+; Ferro Carril Oeste (Buenos Aires) ; 3-1;  Chacarita Juniors
+; Huracán (Buenos Aires)            ; 2-2;  Talleres (Remedios de Escalada)
+; Lanús                             ; 3-1;  Argentinos Juniors
+; Platense                          ; 2-0;  Independiente (Avellaneda)
+; Quilmes                           ; 2-2;  San Lorenzo de Almagro
+; Racing Club (Argentina)                       ; 0-1;  River Plate
+
+Round: 13
+Date: 6/5/1932
+; Argentinos Juniors                ; 0-3;  Estudiantes de La Plata
+; Chacarita Juniors                 ; 6-2;  Quilmes                           ; Platense
+* Gimnasia y Esgrima La Plata        abd  Independiente (Avellaneda)        
+* [abandoned at 1:2 in 67]
+; Racing Club (Argentina)                       ; 2-0;  Lanús
+* River Plate                        abd  Huracán (Buenos Aires)            
+* [abandoned at 1:1 in 75]
+; San Lorenzo de Almagro            ; 2-0;  Platense     
+; Talleres (Remedios de Escalada)   ; 4-1;  Atlanta
+; Tigre                             ; 3-2;  Ferro Carril Oeste (Buenos Aires)
+* Vélez Sarsfield                    abd  Boca Juniors                      
+* [abandoned at 1:2 in 75]
+
+*6/23/1932; Vélez Sarsfield;                   wp:lp; Boca Juniors                      
+* [awarded]
+7/13/1932; River Plate                       ; 1-1;  Huracán (Buenos Aires)            
+* [15 minutes remaining]
+7/13/1932; Gimnasia y Esgrima La Plata       ; 2-2;  Independiente (Avellaneda)        
+* [23 minutes remaining]
+
+Round: 14
+Date: 6/12/1932
+; Atlanta                           ; 0-3;  River Plate                       ; San Lorenzo de Almagro
+; Boca Juniors                      ; 3-2;  Talleres (Remedios de Escalada)
+; Ferro Carril Oeste (Buenos Aires) ; 1-1;  Argentinos Juniors
+; Gimnasia y Esgrima La Plata       ; 0-2;  San Lorenzo de Almagro
+*Huracán (Buenos Aires)             abd  Racing Club (Argentina)                       
+* [abandoned at 0:1 in 72]
+; Independiente (Avellaneda)        ; 2-0;  Vélez Sarsfield
+; Lanús                             ; 0-4;  Estudiantes de La Plata
+; Platense                          ; 2-1;  Chacarita Juniors
+; Quilmes                           ; 4-0;  Tigre
+
+*6/23/1932; Huracán (Buenos Aires)           ; lw-wp; Racing Club (Argentina)                       
+* [awarded]
+
+Round: 15:
+Date: 6/19/1932
+; Argentinos Juniors                ; 1-1;  Quilmes
+; Chacarita Juniors                 ; 1-1;  Gimnasia y Esgrima La Plata       ; Ferro Carril Oeste (Buenos Aires)
+; Estudiantes de La Plata           ; 3-1;  Ferro Carril Oeste (Buenos Aires)
+; Huracán (Buenos Aires)            ; 3-1;  Lanús
+; Racing Club (Argentina)                       ; 2-1;  Atlanta
+; River Plate                       ; 1-1;  Boca Juniors
+; Talleres (Remedios de Escalada)   ; 1-2;  Independiente (Avellaneda)
+; Tigre                             ; 3-1;  Platense     
+7/14/1932; Vélez Sarsfield                   ; 1-4;  San Lorenzo de Almagro
+
+Round: 16 
+Date: 6/26/1932
+; Atlanta                           ; 0-0;  Huracán (Buenos Aires)            ; River Plate
+; Boca Juniors                      ; 1-1;  Racing Club (Argentina)
+; Gimnasia y Esgrima La Plata       ; 2-2;  Tigre                             ; Talleres (Remedios de Escalada)
+; Independiente (Avellaneda)        ; 5-0;  River Plate
+; Lanús                             ; 2-1;  Ferro Carril Oeste (Buenos Aires) ; Racing Club (Argentina) (Argentina)
+; Platense                          ; 1-0;  Argentinos Juniors
+; Quilmes                           ; 2-1;  Estudiantes de La Plata
+; San Lorenzo de Almagro            ; 2-1;  Talleres (Remedios de Escalada)
+; Vélez Sarsfield                   ; 4-3;  Chacarita Juniors
+
+Round: 17 
+Date: 7/10/1932
+; Argentinos Juniors                ; 0-2;  Gimnasia y Esgrima La Plata
+; Atlanta                           ; 2-1;  Lanús                             ; Platense
+; Estudiantes de La Plata           ; 4-2;  Platense     
+; Ferro Carril Oeste (Buenos Aires) ; 2-0;  Quilmes                           ; Boca Juniors
+*; Huracán (Buenos Aires)           ; lp-wp; Boca Juniors                      
+* [abandoned at; 0-3; in 51, at San Lorenzo de Almagro]
+; Racing Club (Argentina)                       ; 0-2;  Independiente (Avellaneda)
+; River Plate                       ; 0-2;  San Lorenzo de Almagro
+; Talleres (Remedios de Escalada)   ; 1-1;  Chacarita Juniors
+; Tigre                             ; 3-0;  Vélez Sarsfield
+
+Round: 18 
+Date: 7/24/1932
+*; Boca Juniors                     ; wp-lp; Atlanta                           
+* [abandoned at 2:1 in 70]
+; Chacarita Juniors                 ; 2-3;  River Plate                       ; Huracán (Buenos Aires)
+; Gimnasia y Esgrima La Plata       ; 2-3;  Estudiantes de La Plata
+; Independiente (Avellaneda)        ; 3-2;  Huracán (Buenos Aires)
+; Platense                          ; 2-3;  Ferro Carril Oeste (Buenos Aires)
+; Quilmes                           ; 2-0;  Lanús
+; San Lorenzo de Almagro            ; 1-1;  Racing Club (Argentina)
+; Talleres (Remedios de Escalada)   ; 2-0;  Tigre
+; Vélez Sarsfield                   ; 1-1;  Argentinos Juniors
+
+Round: 19 
+Date: 7/31/1932
+; Argentinos Juniors                ; 1-1;  Talleres (Remedios de Escalada)
+; Atlanta                           ; 0-1;  Independiente (Avellaneda)
+; Estudiantes de La Plata           ; 1-1;  Vélez Sarsfield
+; Ferro Carril Oeste (Buenos Aires) ; 4-4;  Gimnasia y Esgrima La Plata       ; Boca Juniors
+; Huracán (Buenos Aires)            ; 2-0;  San Lorenzo de Almagro
+; Lanús                             ; 1-3;  Boca Juniors
+; Quilmes                           ; 5-0;  Platense     
+; Racing Club (Argentina)                       ; 3-1;  Chacarita Juniors
+; River Plate                       ; 3-0;  Tigre
+
+Round: 20 
+Date: 8/7/1932
+; Chacarita Juniors                 ; 6-0;  Huracán (Buenos Aires)            ; Argentinos Juniors
+; Gimnasia y Esgrima La Plata       ; 3-2;  Quilmes
+; Independiente (Avellaneda)        ; 2-1;  Boca Juniors
+; Platense                          ; 3-2;  Lanús
+; River Plate                       ; 5-2;  Argentinos Juniors
+; San Lorenzo de Almagro            ; 6-3;  Atlanta
+; Talleres (Remedios de Escalada)   ; 1-0;  Estudiantes de La Plata
+; Tigre                             ; 2-3;  Racing Club (Argentina)
+; Vélez Sarsfield                   ; 3-0;  Ferro Carril Oeste (Buenos Aires)
+
+Round: 21:
+Date: 8/14/1932
+; Boca Juniors                      ; 1-0;  San Lorenzo de Almagro
+; Estudiantes de La Plata           ; 3-3;  River Plate
+; Ferro Carril Oeste (Buenos Aires) ; 2-0;  Talleres (Remedios de Escalada)
+*; Lanús                            ; lp-wp; Independiente (Avellaneda)        
+* [abandoned at 0:0 in 82]
+*; Platense                         ; wp-lp; Gimnasia y Esgrima La Plata       
+* [abandoned at 2:2 in 73]
+; Quilmes                           ; 0-2;  Vélez Sarsfield
+; Racing Club (Argentina)                       ; 1-0;  Argentinos Juniors
+Date: 8/15/1932
+; Atlanta                           ; 1-3;  Chacarita Juniors                 ; River Plate
+; Huracán (Buenos Aires)            ; 3-0;  Tigre
+
+Round: 22 
+Date: 8/21/1932
+; Argentinos Juniors                ; 1-0;  Huracán (Buenos Aires)
+; Chacarita Juniors                 ; 2-1;  Boca Juniors                      ; Platense
+; Gimnasia y Esgrima La Plata       ; 4-0;  Lanús
+; Racing Club (Argentina)                       ; 2-0;  Estudiantes de La Plata
+; River Plate                       ; 0-2;  Ferro Carril Oeste (Buenos Aires)
+; San Lorenzo de Almagro            ; 2-2;  Independiente (Avellaneda)
+; Talleres (Remedios de Escalada)   ; 1-1;  Quilmes
+; Tigre                             ; 3-2;  Atlanta
+; Vélez Sarsfield                   ; 1-1;  Platense     
+
+Round: 23 
+Date: 8/28/1932
+; Atlanta                           ; 1-0;  Argentinos Juniors                ; River Plate
+; Boca Juniors                      ; 5-0;  Tigre
+; Ferro Carril Oeste (Buenos Aires) ; 0-0;  Racing Club (Argentina)
+; Gimnasia y Esgrima La Plata       ; 2-1;  Vélez Sarsfield
+; Huracán (Buenos Aires)            ; 1-1;  Estudiantes de La Plata
+; Independiente (Avellaneda)        ; 2-1;  Chacarita Juniors
+; Lanús                             ; 0-4;  San Lorenzo de Almagro            ; Argentinos Juniors
+; Platense                          ; 5-3;  Talleres (Remedios de Escalada)
+; Quilmes                           ; 2-0;  River Plate
+
+Round: 24
+Date: 9/4/1932
+; Argentinos Juniors                ; 1-2;  Boca Juniors
+; Chacarita Juniors                 ; 1-5;  San Lorenzo de Almagro            ; Boca Juniors
+; Estudiantes de La Plata           ; 1-2;  Atlanta                           ; Quilmes
+; Huracán (Buenos Aires)            ; 2-0;  Ferro Carril Oeste (Buenos Aires)
+; Racing Club (Argentina)                       ; 1-0;  Quilmes
+; River Plate                       ; 1-0;  Platense     
+; Talleres (Remedios de Escalada)   ; 1-3;  Gimnasia y Esgrima La Plata       ; Platense
+; Tigre                             ; 2-3;  Independiente (Avellaneda)        ; Ferro Carril Oeste (Buenos Aires)
+; Vélez Sarsfield                   ; 3-1;  Lanús
+ 
+Round: 25
+Date: 9/11/1932
+; Atlanta                           ; 2-1;  Ferro Carril Oeste (Buenos Aires); River Plate
+; Boca Juniors                      ; 0-2;  Estudiantes de La Plata
+; Gimnasia y Esgrima La Plata       ; 4-3;  River Plate
+; Independiente (Avellaneda)        ; 1-0;  Argentinos Juniors
+; Lanús                             ; 1-4;  Chacarita Juniors                 ; Ferro Carril Oeste (Buenos Aires)
+; Platense                          ; 1-1;  Racing Club (Argentina)
+; Quilmes                           ; 3-2;  Huracán (Buenos Aires)
+; San Lorenzo de Almagro            ; 8-2;  Tigre
+; Vélez Sarsfield                   ; 3-2;  Talleres (Remedios de Escalada)
+
+Round: 26
+Date: 9/18/1932
+; Argentinos Juniors                ; 1-5;  San Lorenzo de Almagro
+; Atlanta                           ; 4-1;  Quilmes                          ; Platense
+; Estudiantes de La Plata           ; 1-1;  Independiente (Avellaneda)
+; Ferro Carril Oeste (Buenos Aires) ; 1-1;  Boca Juniors
+; Huracán (Buenos Aires)            ; 1-1;  Platense     
+; Racing Club (Argentina)                       ; 2-0;  Gimnasia y Esgrima La Plata
+; River Plate                       ; 4-1;  Vélez Sarsfield
+; Talleres (Remedios de Escalada)   ; 3-2;  Lanús
+; Tigre                             ; 2-3;  Chacarita Juniors
+
+Round: 27
+Date: 9/25/1932
+; Boca Juniors                      ; 7-0;  Quilmes
+; Chacarita Juniors                 ; 1-2;  Argentinos Juniors               ; River Plate
+; Gimnasia y Esgrima La Plata       ; 0-2;  Huracán (Buenos Aires)
+; Independiente (Avellaneda)        ; 2-1;  Ferro Carril Oeste (Buenos Aires)
+; Platense                          ; 3-0;  Atlanta
+; San Lorenzo de Almagro            ; 3-2;  Estudiantes de La Plata
+; Talleres (Remedios de Escalada)   ; 0-1;  River Plate
+; Tigre                             ; 1-2;  Lanús
+; Vélez Sarsfield                   ; 1-3;  Racing Club (Argentina)
+
+Round: 28 
+Date: 10/2/1932
+; Argentinos Juniors                ; 2-1;  Tigre
+; Atlanta                           ; 1-6;  Gimnasia y Esgrima La Plata
+; Boca Juniors                      ; 6-1;  Platense     
+; Estudiantes de La Plata           ; 5-3;  Chacarita Juniors
+; Ferro Carril Oeste (Buenos Aires) ; 1-1;  San Lorenzo de Almagro
+; Huracán (Buenos Aires)            ; 4-1;  Vélez Sarsfield
+; Lanús                             ; 0-1;  River Plate                      ; Platense
+; Quilmes                           ; 3-1;  Independiente (Avellaneda)
+; Racing Club (Argentina)                       ; 3-2;  Talleres (Remedios de Escalada)
+
+Round: 29 
+Date: 10/9/1932
+; Argentinos Juniors                ; 3-1;  Lanús
+; Chacarita Juniors                 ; 2-4;  Ferro Carril Oeste (Buenos Aires) ; Atlanta
+; Gimnasia y Esgrima La Plata       ; 6-2;  Boca Juniors
+; Independiente (Avellaneda)        ; 4-0;  Platense     
+; River Plate                       ; 1-0;  Racing Club (Argentina)
+; San Lorenzo de Almagro            ; 2-3;  Quilmes
+; Talleres (Remedios de Escalada)   ; 2-3;  Huracán (Buenos Aires)
+; Tigre                             ; 1-1;  Estudiantes de La Plata
+; Vélez Sarsfield                   ; 2-0;  Atlanta                         ; Ferro Carril Oeste (Buenos Aires)
+ 
+Round: 30 
+Date: 10/16/1932
+; Atlanta                           ; 2-0;  Talleres (Remedios de Escalada)   ; Argentinos Juniors
+; Boca Juniors                      ; 3-0;  Vélez Sarsfield
+; Estudiantes de La Plata           ; 4-2;  Argentinos Juniors
+; Ferro Carril Oeste (Buenos Aires) ; 3-3;  Tigre
+; Huracán (Buenos Aires)            ; 2-2;  River Plate
+; Independiente (Avellaneda)        ; 1-2;  Gimnasia y Esgrima La Plata
+; Lanús                             ; 1-1;  Racing Club (Argentina)
+; Platense                          ; 1-1;  San Lorenzo de Almagro
+; Quilmes                           ; 3-1;  Chacarita Juniors
+
+Round: 31 
+Date: 10/23/1932
+; Argentinos Juniors                ; 2-1;  Ferro Carril Oeste (Buenos Aires)
+; Chacarita Juniors                 ; 4-2;  Platense                         ; Ferro Carril Oeste (Buenos Aires)
+; Estudiantes de La Plata           ; 2-1;  Lanús
+; Racing Club (Argentina)                       ; 1-2;  Huracán (Buenos Aires)
+; River Plate                       ; 5-3;  Atlanta
+; San Lorenzo de Almagro            ; 4-4;  Gimnasia y Esgrima La Plata
+; Talleres (Remedios de Escalada)   ; 1-5;  Boca Juniors
+; Tigre                             ; 1-3;  Quilmes
+; Vélez Sarsfield                   ; 0-0;  Independiente (Avellaneda)
+
+Round: 32
+Date: 10/31/1932
+; Atlanta                           ; 1-1;  Racing Club (Argentina)
+; Boca Juniors                      ; 2-1;  River Plate
+; Ferro Carril Oeste (Buenos Aires) ; 1-0;  Estudiantes de La Plata
+; Gimnasia y Esgrima La Plata       ; 4-2;  Chacarita Juniors
+; Independiente (Avellaneda)        ; 2-1;  Talleres (Remedios de Escalada)
+; Lanús                             ; 4-1;  Huracán (Buenos Aires)
+; Platense                          ; 5-0;  Tigre
+; Quilmes                           ; 3-3;  Argentinos Juniors
+; San Lorenzo de Almagro            ; 0-0;  Vélez Sarsfield
+
+Round: 33 
+Date: 11/6/1932
+; Argentinos Juniors                ; 1-1;  Platense     
+; Chacarita Juniors                 ; 4-2;  Vélez Sarsfield                   ; Platense
+; Estudiantes de La Plata           ; 3-1;  Quilmes
+; Ferro Carril Oeste (Buenos Aires) ; 3-1;  Lanús
+; Huracán (Buenos Aires)            ; 1-0;  Atlanta
+; Racing Club (Argentina)                       ; 0-1;  Boca Juniors                      ; San Lorenzo de Almagro
+; River Plate                       ; 6-1;  Independiente (Avellaneda)
+; Talleres (Remedios de Escalada)   ; 1-4;  San Lorenzo de Almagro
+; Tigre                             ; 0-5;  Gimnasia y Esgrima La Plata
+
+Round: 34 
+Date: 11/13/1932
+; Boca Juniors                      ; 5-1;  Huracán (Buenos Aires)
+; Chacarita Juniors                 ; 2-1;  Talleres (Remedios de Escalada)   ; River Plate
+; Gimnasia y Esgrima La Plata       ; 3-0;  Argentinos Juniors
+; Independiente (Avellaneda)        ; 0-1;  Racing Club (Argentina)
+; Lanús                             ; 1-1;  Atlanta
+; Platense                          ; 2-2;  Estudiantes de La Plata
+; Quilmes                           ; 0-0;  Ferro Carril Oeste (Buenos Aires)
+; San Lorenzo de Almagro            ; 1-1;  River Plate
+; Vélez Sarsfield                   ; 1-0;  Tigre
+
+*No. Team                               G    W    D    L    Gf    Ga   ; P
+*------------------------------------------------------------------------
+*; 1. River Plate                       34   22    6    6    81:   43   50 (Playoff)
+* 2. Independiente (Avellaneda)        34   22    6    6    69:   40   50 (Playoff)
+* 3. Racing Club (Argentina)                       34   20    9    5    58:   26   49
+* 4. Boca Juniors                      34   20    6    8    77:   43   46
+* 5. San Lorenzo de Almagro            34   17   11    6    83:   44   45
+* 6. Estudiantes de La Plata           34   16    8   10    80:   62   40
+* 7. Gimnasia y Esgrima La Plata       34   15    7   12    78:   59   37
+* 8. Vélez Sarsfield                   34   15    7   12    47:   52   37
+* 9. Huracán (Buenos Aires)            34   14    7   13    58:   58   35
+*10. Platense                          34   13    9   12    55:   63   35
+*11. Ferro Carril Oeste (Buenos Aires) 34   13    7   14    64:   59   33
+*12. Quilmes                           34   13    6   15    50:   67   32
+*13. Chacarita Juniors                 34   12    7   15    74:   73   31
+*14. Argentinos Juniors                34    6   11   17    40:   65   23
+*15. Lanús                             34    6    6   22    37:   73   18
+*16. Talleres (Remedios de Escalada)   34    5    7   22    44:   74   17
+*17. Tigre                             34    5    7   22    49:   94   17
+*18. Atlanta                           34    6    5   23    31:   80   17
+
+Round: Championship Playoff
+
+11/20/1932; River Plate; 3-0; Independiente (Avellaneda); San Lorenzo de Almagro; Eduardo Forte
+Ferreyra 11, Peucelle 22, Zatelli 38;
+River Plate: Sebastián Santos Sirni; Roberto Basílico, Alberto Cuello; Carlos Santamaría, Manuel Dañil, Esteban Malazzo; Ricardo Zatelli, Pedro Lago, Bernabé Ferreyra, Carlos Desiderio Peucelle, Nazareno Segundo Luna.
+Independiente (Avellaneda): Atilio Domingo Maccarone; Luis María Fazio, Fermín D.Lecea; Juan M.Ferrou, Juan Carlos Corazzo, Emilio Almiñana; Roberto Porta, Antonio Sastre, Manuel Seoane, Manuel Ramos, Juan E. Betinotti.
+* Champion: Club Atlético River Plate.
+
+
+*About this document
+*Sources: [CIHF -], [Ram -], newspapers: El Mundo, La Prensa
+*Prepared and maintained by Osvaldo José Gorgazzi for the Rec.Sport.Soccer Statistics Foundation
+*Author: Osvaldo José Gorgazzi (osvaldogorgazzi@yahoo.com.ar) 
+*Last updated: 24 Sep 2009
+*(C) Copyright Osvaldo José Gorgazzi and RSSSF 2000/09
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

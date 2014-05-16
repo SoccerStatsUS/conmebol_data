@@ -1,0 +1,460 @@
+BlockSource: http://www.rsssf.com/tablesc/chile67.html
+Season: 1967
+Competition: Chilean Primera Division
+
+
+* 1.UNIVERSIDAD DE CHILE 34 25  6  3  81-33  56  Champions   
+* 2.Universidad Catolica 34 17 10  7  68-48  44  
+* 3.Colo Colo            34 16  9  9  74-51  41    
+* 4.Unión Española       34 16  6 12  74-56  38        
+* 5.Magallanes              34 12 14  8  55-45  38     
+* 6.Huachipato                 34 11 13 10  56-50  35  (Talcahuano) 
+* 7.La Serena                     34  9 16  9  45-44  34  (La Serena)
+* 8.Unión San Felipe              34 11 12 11  41-55  34  (San Felipe)
+* 9.Santiago Morning              34 12  9 13  55-58  33    
+*10.Audax Italiano                34  9 15 10  50-54  33      
+*11.O'Higgins                         34  9 13 12  53-53  31  (Rancagua) 
+*12.Palestino                             34  8 13 13  47-49  29  
+*13.Santiago Wanderers                    34  7 15 12  37-45  29  (Valparaíso)   
+*14.Everton                               34  8 13 13  47-63  29  (Viña del Mar)     
+*15.Green Cross-Temuco                    34 10  8 16  47-63  28  (Temuco)            
+*16.Rangers                                  34  7 13 14  40-54  27  (Talca)      
+*17.Unión Calera                                 34  9  9 16  44-72  27  (La Calera)
+*18.San Luis                                         34  7 12 15  29-50  26  (Quillota) - relegated
+
+Round: 1
+
+; Palestino              ; 2-2; Everton 
+; Santiago Morning       ; 1-4; La Serena    
+; Universidad de Chile   ; 3-2; Magallanes 
+; Colo Colo     ; 5-2; Universidad Catolica 
+; Santiago Wanderers; 2-2; Unión San Felipe 
+; Unión Calera          ; 2-5; O'Higgins 
+; Rangers                             ; 2-0; San Luis 
+; Huachipato                              ; 1-1; Audax Italiano 
+; Green Cross                                 ; 2-1; Unión Española 
+
+Round: 2
+
+; Universidad Catolica   ; 1-1; Santiago Morning
+; Colo Colo              ; 1-0; San Luis            
+; Huachipato                 ; 5-0; Unión San Felipe                
+; Magallanes                     ; 1-1; Unión Calera
+; Unión Española                     ; 1-1; La Serena
+; Audax Italiano                         ; 3-2; Palestino
+; Everton                                        ; 1-3; Rangers
+; O'Higgins                                          ; 1-2; Santiago Wanderers
+; Green Cross                                            ; 1-4; Universidad de Chile
+
+Round: 3
+
+; Unión San Felipe       ; 0-0; Palestino            
+; Everton                    ; 1-4; Colo Colo        
+; Universidad Catolica       ; 1-0; La Serena
+; O'Higgins                  ; 3-3; Huachipato
+; Magallanes                     ; 0-2; Santiago Wanderers                  
+; Universidad de Chile           ; 4-1; Unión Española
+; Audax Italiano                 ; 1-0; Rangers
+; San Luis                           ; 1-0; Santiago Morning
+; Green Cross                            ; 4-0; Unión Calera
+
+Round: 4
+
+; Palestino              ; 3-2; O'Higgins   
+; Colo Colo                  ; 3-1; Audax Italiano
+; Santiago Morning           ; 4-3; Everton
+; Universidad Catolica       ; 6-2; Unión Española                  
+; La Serena                  ; 0-0; San Luis
+; Unión Calera                   ; 0-2; Universidad de Chile
+; Santiago Wanderers             ; 1-1; Green Cross
+; Rangers                            ; 1-1; Unión San Felipe
+; Huachipato                             ; 2-0; Magallanes
+
+Round: 5
+
+; Palestino              ; 2-2; Magallanes
+; Unión Española             ; 4-1; Unión Calera
+; Audax Italiano                 ; 4-3; Santiago Morning
+; Universidad de Chile           ; 1-1; Santiago Wanderers
+; Everton                        ; 0-0; La Serena   
+; San Luis                           ; 0-1; Universidad Catolica
+; Unión San Felipe                   ; 0-2; Colo Colo
+; O'Higgins                          ; 0-0; Rangers
+; Green Cross                            ; 1-1; Huachipato
+
+Round: 6
+
+; Santiago Morning       ; 1-3; Unión San Felipe
+; Palestino                  ; 3-0; Green Cross                     
+; Colo Colo                      ; 1-1; O'Higgins
+; Universidad Catolica           ; 2-0; Everton
+; La Serena                      ; 4-3; Audax Italiano
+; Santiago Wanderers             ; 1-2; Unión Calera
+; San Luis                       ; 1-5; Unión Española
+; Rangers                                  ; 0-0; Magallanes
+; Huachipato                                   ; 0-2; Universidad de Chile
+
+Round: 7
+
+; Magallanes             ; 3-2; Colo Colo
+; Universidad de Chile   ; 1-0; Palestino            
+; Unión Española         ; 4-0; Santiago Wanderers
+; Universidad Catolica   ; 3-1; Audax Italiano                      
+; Everton                    ; 3-0; San Luis
+; Unión San Felipe           ; 0-0; La Serena       
+; Unión Calera                   ; 3-1; Huachipato
+; O'Higgins                          ; 1-2; Santiago Morning
+; Green Cross                            ; 2-1; Rangers
+
+Round: 8
+
+; Magallanes             ; 1-1; Santiago Morning
+; Palestino                  ; 2-2; Unión Calera
+; Universidad Catolica       ; 0-1; Unión San Felipe
+; Colo Colo                  ; 3-1; Green Cross
+; La Serena                      ; 2-2; O'Higgins   
+; Everton                                        ; 1-0; Unión Española
+; San Luis                                           ; 0-2; Audax Italiano
+; Rangers                                                      ; 1-3; Universidad de Chile
+; Huachipato                                                       ; 1-1; Santiago Wanderers
+
+Round: 9
+
+; Audax Italiano         ; 1-1; Everton              
+; Magallanes                 ; 1-1; La Serena                       
+; O'Higgins                      ; 1-1; Universidad Catolica
+; Unión Española                     ; 3-4; Huachipato
+; Colo Colo                              ; 2-0; Universidad de Chile
+; Santiago Wanderers                     ; 1-0; Palestino
+; Unión Calera                               ; 1-1; Rangers
+; Unión San Felipe                           ; 0-0; San Luis
+; Green Cross                                    ; 3-2; Santiago Morning
+
+Round: 10
+
+; Palestino              ; 1-0; Huachipato
+; Audax Italiano             ; 0-0; Unión Española   
+; Universidad Catolica       ; 2-2; Magallanes
+; Universidad de Chile       ; 2-1; Santiago Morning                        
+; Colo Colo     ; 3-4; Unión Calera 
+; La Serena         ; 2-0; Green Cross
+; Everton                     ; 1-1; Unión San Felipe
+; San Luis                        ; 0-0; O'Higgins
+; Rangers                                ; 1-1; Santiago Wanderers
+
+Round: 11
+
+; Magallanes             ; 3-1; San Luis
+; Palestino                  ; 2-0; Unión Española
+; Universidad de Chile       ; 3-0; La Serena
+; Santiago Wanderers         ; 2-1; Colo Colo
+; Unión Calera                   ; 1-2; Santiago Morning
+; Unión San Felipe               ; 3-0; Audax Italiano
+; O'Higgins                      ; 1-0; Everton
+; Huachipato                         ; 0-1; Rangers
+; Green Cross                            ; 2-3; Universidad Catolica
+
+Round: 12
+
+; Universidad Catolica   ; 3-2; Universidad de Chile                                
+; Santiago Morning       ; 2-2; Santiago Wanderers                                           
+; Audax Italiano             ; 2-2; O'Higgins                                                
+; Colo Colo                      ; 1-1; Huachipato
+; La Serena                          ; 2-0; Unión Calera
+; Everton                                      ; 0-1; Magallanes
+; San Luis                                         ; 1-0; Green Cross
+; Unión San Felipe                                 ; 2-1; Unión Española
+; Rangers                                              ; 0-0; Palestino
+
+Round: 13
+
+; Magallanes             ; 1-0; Audax Italiano
+; Unión Española             ; 2-1; Rangers 
+; Universidad de Chile       ; 1-1; San Luis                 
+; Colo Colo     ; 2-1; Palestino    
+; Santiago Wanderers; 2-2; La Serena
+; Unión Calera          ; 1-3; Universidad Catolica
+; O'Higgins                 ; 1-1; Unión San Felipe
+; Huachipato                    ; 2-0; Santiago Morning
+; Green Cross                       ; 3-5; Everton
+
+Round: 14
+
+; Audax Italiano         ; 2-0; Green Cross
+; Santiago Morning       ; 1-1; Palestino
+; Universidad Catolica   ; 2-0; Santiago Wanderers  
+; Colo Colo              ; 4-0; Rangers
+; La Serena                  ; 0-0; Huachipato                      
+; San Luis                       ; 2-0; Unión Calera
+; Unión San Felipe               ; 0-0; Magallanes
+; O'Higgins                      ; 1-0; Unión Española
+; Everton                                  ; 0-3; Universidad de Chile
+
+Round: 15
+
+; Magallanes             ; 4-2; O'Higgins
+; Palestino                  ; 1-1; La Serena
+; Audax Italiano                 ; 3-3; Universidad de Chile
+; Unión Española                     ; 4-2; Colo Colo  
+; Santiago Wanderers                 ; 3-0; San Luis
+; Unión Calera                           ; 5-0; Everton
+; Rangers                                        ; 1-3; Santiago Morning
+; Huachipato                                         ; 3-1; Universidad Catolica
+; Green Cross                                            ; 2-2; Unión San Felipe
+
+Round: 16
+
+; Audax Italiano         ; 1-1; Unión Calera        
+; Unión Española             ; 2-1; Magallanes               
+; Universidad Catolica       ; 2-2; Palestino
+; Colo Colo                  ; 0-0; Santiago Morning        
+; La Serena                      ; 3-0; Rangers
+; Everton                                ; 1-1; Santiago Wanderers
+; San Luis                                   ; 0-3; Huachipato
+; Unión San Felipe                           ; 0-3; Universidad de Chile
+; O'Higgins                                  ; 5-1; Green Cross
+
+Round: 17
+
+; Palestino              ; 0-0; San Luis
+; Santiago Morning       ; 2-1; Unión Española      
+; Universidad de Chile   ; 2-0; O'Higgins                    
+; Colo Colo     ; 2-2; La Serena
+; Santiago Wanderers; 2-2; Audax Italiano
+; Unión Calera          ; 1-0; Unión San Felipe
+; Rangers                         ; 0-0; Universidad Catolica
+; Huachipato                          ; 1-1; Everton
+; Green Cross                             ; 1-5; Magallanes
+
+Round: 18
+
+; Everton                ; 1-4; Palestino
+; La Serena                  ; 0-2; Santiago Morning         
+; Magallanes                     ; 3-3; Universidad de Chile
+; Universidad Catolica           ; 2-3; Colo Colo
+; Unión San Felipe               ; 2-2; Santiago Wanderers
+; O'Higgins                      ; 1-2; Unión Calera
+; San Luis                           ; 0-0; Rangers
+; Audax Italiano                         ; 2-2; Huachipato
+; Unión Española                             ; 4-2; Green Cross
+
+Round: 19
+
+; Santiago Morning       ; 2-2; Universidad Catolica
+; San Luis               ; 0-3; Colo Colo                   
+; Unión San Felipe       ; 3-1; Huachipato                          
+; Unión Calera               ; 2-2; Magallanes
+; La Serena                      ; 1-4; Unión Española
+; Palestino                          ; 2-0; Audax Italiano
+; Rangers                                      ; 2-3; Everton
+; Santiago Wanderers                           ; 0-1; O'Higgins
+; Universidad de Chile                         ; 3-1; Green Cross
+
+Round: 20
+
+; Palestino              ; 2-3; Unión San Felipe             
+; Colo Colo                  ; 1-0; Everton                  
+; La Serena                      ; 2-2; Universidad Catolica
+; Huachipato                         ; 3-4; O'Higgins
+; Santiago Wanderers                 ; 1-1; Magallanes                      
+; Unión Española                         ; 2-2; Universidad de Chile
+; Rangers                                                ; 2-2; Audax Italiano
+; Santiago Morning                                       ; 1-0; San Luis
+; Unión Calera                                               ; 1-1; Green Cross
+
+Round: 21
+
+; O'Higgins              ; 5-2; Palestino   
+; Audax Italiano             ; 1-1; Colo Colo
+; Everton                             ; 3-1; Santiago Morning
+; Unión Española                          ; 2-4; Universidad Catolica                       
+; San Luis                                    ; 3-3; La Serena
+; Universidad de Chile                        ; 5-2; Unión Calera
+; Green Cross   ; 0-0; Santiago Wanderers
+; Unión San Felipe  ; 1-1; Rangers
+; Magallanes            ; 2-0; Huachipato
+
+Round: 22
+
+; Magallanes             ; 2-2; Palestino
+; Unión Calera               ; 0-4; Unión Española
+; Santiago Morning           ; 1-1; Audax Italiano
+; Santiago Wanderers         ; 0-3; Universidad de Chile
+; La Serena                      ; 4-1; Everton 
+; Universidad Catolica           ; 0-0; San Luis
+; Colo Colo                      ; 5-3; Unión San Felipe
+; Rangers                                  ; 3-3; O'Higgins
+; Huachipato                                   ; 2-1; Green Cross
+
+Round: 23
+
+; Unión San Felipe       ; 2-1; Santiago Morning
+; Green Cross                ; 1-0; Palestino                       
+; O'Higgins                      ; 1-1; Colo Colo
+; Everton                                 ; 0-0; Universidad Catolica
+; Audax Italiano                              ; 0-0; La Serena
+; Unión Calera                                    ; 3-2; Santiago Wanderers
+; Unión Española                                      ; 5-1; San Luis
+; Magallanes                                              ; 2-1; Rangers
+; Universidad de Chile                                    ; 6-0; Huachipato
+
+Round: 24
+
+; Colo Colo              ; 2-1; Magallanes
+; Palestino                  ; 1-2; Universidad de Chile             
+; Santiago Wanderers         ; 1-0; Unión Española
+; Audax Italiano                 ; 3-5; Universidad Catolica                        
+; San Luis                           ; 2-2; Everton
+; La Serena                              ; 1-0; Unión San Felipe    
+; Huachipato                                 ; 4-0; Unión Calera
+; Santiago Morning                           ; 1-0; O'Higgins
+; Rangers                                        ; 0-0; Green Cross
+
+Round: 25
+
+; Santiago Morning       ; 0-0; Magallanes
+; Unión Calera               ; 1-1; Palestino
+; Unión San Felipe           ; 2-1; Universidad Catolica
+; Green Cross                    ; 3-1; Colo Colo
+; O'Higgins                          ; 1-0; La Serena       
+; Unión Española                         ; 2-2; Everton
+; Audax Italiano                             ; 2-1; San Luis
+; Universidad de Chile                       ; 2-1; Rangers
+; Santiago Wanderers                         ; 1-1; Huachipato
+
+Round: 26
+
+; Everton                ; 2-2; Audax Italiano               
+; La Serena                  ; 1-1; Magallanes                              
+; Universidad Catolica       ; 3-1; O'Higgins
+; Huachipato                 ; 1-2; Unión Española
+; Universidad de Chile       ; 2-1; Colo Colo
+; Palestino     ; 2-1; Santiago Wanderers
+; Rangers                    ; 2-0; Unión Calera
+; San Luis                       ; 4-1; Unión San Felipe
+; Santiago Morning               ; 0-2; Green Cross
+
+Round: 27
+
+; Huachipato             ; 2-0; Palestino
+; Unión Española             ; 5-2; Audax Italiano   
+; Magallanes                     ; 3-4; Universidad Catolica
+; Santiago Morning               ; 1-2; Universidad de Chile                        
+; Unión Calera                       ; 0-5; Colo Colo  
+; Green Cross                            ; 3-1; La Serena
+; Unión San Felipe                       ; 2-2; Everton
+; O'Higgins                              ; 2-0; San Luis
+; Santiago Wanderers                     ; 1-2; Rangers
+
+Round: 28
+
+; San Luis               ; 1-2; Magallanes
+; Unión Española             ; 1-0; Palestino
+; La Serena                      ; 0-1; Universidad de Chile
+; Colo Colo                          ; 1-0; Santiago Wanderers
+; Santiago Morning                   ; 5-1; Unión Calera
+; Audax Italiano                         ; 3-0; Unión San Felipe
+; Everton                                          ; 2-1; O'Higgins
+; Rangers                                                ; 1-3; Huachipato
+; Universidad Catolica                                   ; 1-2; Green Cross
+
+Round: 29
+
+; Universidad de Chile   ; 3-2; Universidad Catolica                                
+; Santiago Wanderers     ; 3-1; Santiago Morning                                             
+; O'Higgins                  ; 0-2; Audax Italiano                                           
+; Huachipato                     ; 1-1; Colo Colo
+; Unión Calera                       ; 4-2; La Serena
+; Magallanes                             ; 1-2; Everton
+; Green Cross                                ; 1-1; San Luis
+; Unión Española                                 ; 3-0; Unión San Felipe
+; Palestino                                          ; 3-4; Rangers
+
+Round: 30
+
+; Audax Italiano         ; 1-0; Magallanes
+; Rangers                        ; 0-1; Unión Española      
+; San Luis                           ; 2-0; Universidad de Chile             
+; Palestino                              ; 3-2; Colo Colo  
+; La Serena                                  ; 1-0; Santiago Wanderers
+; Universidad Catolica                       ; 2-1; Unión Calera
+; Unión San Felipe                           ; 3-1; O'Higgins
+; Santiago Morning                           ; 3-2; Huachipato
+; Everton                                        ; 4-3; Green Cross
+
+Round: 31
+
+; Green Cross            ; 1-0; Audax Italiano
+; Palestino                  ; 2-2; Santiago Morning
+; Santiago Wanderers         ; 0-1; Universidad Catolica    
+; Rangers                        ; 2-2; Colo Colo
+; Huachipato                         ; 1-0; La Serena                       
+; Unión Calera                           ; 0-0; San Luis
+; Magallanes                                 ; 4-1; Unión San Felipe
+; Unión Española                                 ; 3-3; O'Higgins
+; Universidad de Chile                           ; 3-1; Everton
+
+Round: 32
+
+; O'Higgins              ; 0-1; Magallanes
+; La Serena                  ; 0-0; Palestino
+; Universidad de Chile       ; 1-0; Audax Italiano
+; Colo Colo     ; 2-3; Unión Española     
+; San Luis          ; 2-0; Santiago Wanderers
+; Everton                        ; 0-1; Unión Calera
+; Santiago Morning               ; 1-3; Rangers
+; Universidad Catolica           ; 0-0; Huachipato
+; Unión San Felipe               ; 1-0; Green Cross
+
+Round: 33
+
+; Unión Calera           ; 1-1; Audax Italiano      
+; Magallanes                 ; 1-1; Unión Española           
+; Palestino                      ; 0-1; Universidad Catolica
+; Santiago Morning               ; 4-3; Colo Colo   
+; Rangers                            ; 2-3; La Serena
+; Santiago Wanderers                 ; 0-0; Everton
+; Huachipato                             ; 3-3; San Luis
+; Universidad de Chile                   ; 4-0; Unión San Felipe
+; Green Cross   ; 1-1; O'Higgins
+
+Round: 34
+
+; San Luis               ; 2-1; Palestino
+; Unión Española             ; 1-3; Santiago Morning        
+; O'Higgins                      ; 0-0; Universidad de Chile                 
+; La Serena                          ; 2-2; Colo Colo
+; Audax Italiano                         ; 1-1; Santiago Wanderers
+; Unión San Felipe                       ; 1-0; Unión Calera
+; Universidad Catolica                   ; 5-1; Rangers
+; Everton                                    ; 2-2; Huachipato
+; Magallanes                                     ; 2-1; Green Cross
+
+* 1.UNIVERSIDAD DE CHILE 34 25  6  3  81-33  56  Champions   
+* 2.Universidad Catolica 34 17 10  7  68-48  44  
+* 3.Colo Colo            34 16  9  9  74-51  41    
+* 4.Unión Española       34 16  6 12  74-56  38        
+* 5.Magallanes              34 12 14  8  55-45  38     
+* 6.Huachipato                 34 11 13 10  56-50  35  (Talcahuano) 
+* 7.La Serena                     34  9 16  9  45-44  34  (La Serena)
+* 8.Unión San Felipe              34 11 12 11  41-55  34  (San Felipe)
+* 9.Santiago Morning              34 12  9 13  55-58  33    
+*10.Audax Italiano                34  9 15 10  50-54  33      
+*11.O'Higgins                         34  9 13 12  53-53  31  (Rancagua) 
+*12.Palestino                             34  8 13 13  47-49  29  
+*13.Santiago Wanderers                    34  7 15 12  37-45  29  (Valparaíso)   
+*14.Everton                               34  8 13 13  47-63  29  (Viña del Mar)     
+*15.Green Cross-Temuco                    34 10  8 16  47-63  28  (Temuco)            
+*16.Rangers                                  34  7 13 14  40-54  27  (Talca)      
+*17.Unión Calera                                 34  9  9 16  44-72  27  (La Calera)
+*18.San Luis                                         34  7 12 15  29-50  26  (Quillota) - relegated
+
+*Relegated: San Luis (Quillota)
+*Promoted : Concepción (Concepción)
+
+
+*Prepared and maintained by Eduardo Espina for the Rec.Sport.Soccer Statistics Foundation
+*Author: Eduardo Espina (ecem54 at chile.com)
+*Last updated: 17 Nov 2005
+*(C) Copyright Eduardo Espina and RSSSF 2005
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

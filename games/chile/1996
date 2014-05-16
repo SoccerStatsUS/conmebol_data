@@ -1,0 +1,388 @@
+BlockSource: http://www.rsssf.com/tablesc/chile96.html
+Competition: Chilean Primera Division
+Season: 1996
+
+* 1.Colo Colo             30 19  6  5  62-24  63  Champions
+* 2.Universidad Catolica  30 17  8  5  70-40  59  Liguilla
+* 3.Cobreloa              30 15  6  9  58-44  51  Liguilla
+* 4.Audax Italiano        30 14  9  7  51-38  51  Liguilla
+* 5.Universidad de Chile  30 13  8  9  49-42  47
+* 6.Provincial Osorno     30 11 10  9  54-40  43
+* 7.Antofagasta           30 12  7 11  47-46  43
+* 8.Unión Española        30 11  7 12  43-47  40
+* 9.Coquimbo Unido        30 12  4 14  46-53  40
+*10.Deportivo Concepción  30  8 15  7  44-53  39
+*11.Santiago Wanderers    30 10  7 13  49-57  37
+*12.Huachipato            30  8 11 11  42-46  35
+*- - - - - - - - - - - - - - - - - - - - - - - -
+*13.Palestino             30  8  9 13  40-53  33  Promotion/Relegation
+*14.Deportivo Temuco      30  8  4 18  35-55  28  Promotion/Relegation
+*-----------------------------------------------
+*15.Regional Atacama      30  7  6 17  38-70  27  Relegated
+*16.O'higgins             30  5  7 18  41-61  22  Relegated
+
+
+Round: 1
+; Osorno       ; 1-1; Concepcion   
+; Palestino    ; 1-1; Colo Colo    
+; Cobreloa     ; 5-1; Atacama      
+; Audax I.     ; 0-0; U.Catolica   
+; Coquimbo U.  ; 2-1; U.Espanola   
+; O'higgins    ; 2-1; Antofagasta  
+; U.de Chile   ; 0-1; Temuco       
+; Huachipato   ; 2-2; S.Wanderers  
+
+Round: 2
+; Huachipato   ; 1-1; Osorno       
+; S.Wanderers  ; 2-4; U.de Chile   
+; Temuco       ; 4-2; O'higgins    
+; Antofagasta  ; 2-3; Coquimbo U.  
+; U.Espanola   ; 1-2; Audax I.     
+; U.Catolica   ; 3-0; Cobreloa     
+; Atacama      ; 2-2; Palestino    
+; Colo Colo    ; 7-1; Concepcion   
+
+Round: 3
+; Osorno       ; 0-2; Colo Colo    
+; Concepcion   ; 5-1; Atacama      
+; Palestino    ; 1-3; U.Catolica   
+; Cobreloa     ; 5-0; U.Espanola   
+; Audax I.     ; 1-2; Antofagasta  
+; Coquimbo U.  ; 0-1; Temuco       
+; O'higgins    ; 1-2; S.Wanderers  
+; U.de Chile   ; 1-3; Huachipato   
+
+Round: 4
+; U.Catolica   ; 6-0; Concepcion    
+; Huachipato   ; 2-1; O'higgins     
+; S.Wanderers  ; 1-3; Coquimbo U.   
+; Temuco       ; 0-2; Audax I.      
+; Antofagasta  ; 0-0; Cobreloa      
+; U.Espanola   ; 1-2; Palestino     
+; U.de Chile   ; 1-0; Osorno        
+; Atacama      ; 0-0; Colo Colo     
+
+Round: 5
+; Osorno       ; 3-2; Atacama      
+; Colo Colo    ; 3-1; U.Catolica   
+; Concepcion   ; 0-0; U.Espanola   
+; Palestino    ; 1-2; Antofagasta  
+; Cobreloa     ; 3-0; Temuco       
+; Audax I.     ; 1-1; S.Wanderers  
+; Coquimbo U.  ; 1-1; Huachipato   
+; O'higgins    ; 4-1; U.de Chile   
+
+Round: 6
+; O'higgins    ; 1-1; Osorno        
+; U.Espanola   ; 0-5; Colo Colo     
+; Huachipato   ; 1-1; Audax I.      
+; S.Wanderers  ; 4-2; Cobreloa      
+; Temuco       ; 0-1; Palestino     
+; Antofagasta  ; 3-0; Concepcion    
+; U.de Chile   ; 1-0; Coquimbo U.   
+; U.Catolica   ; 2-0; Atacama       
+
+Round: 7
+; Osorno       ; 1-1; U.Catolica   
+; Atacama      ; 2-0; U.Espanola   
+; Audax I.     ; 1-2; U.de Chile   
+; Concepcion   ; 3-2; Temuco       
+; Palestino    ; 2-1; S.Wanderers  
+; Cobreloa     ; 6-2; Huachipato   
+; Colo Colo    ; 2-1; Antofagasta  
+; Coquimbo U.  ; 3-0; O'higgins    
+
+Round: 8
+; Coquimbo U.  ; 2-1; Osorno       
+; O'higgins    ; 0-2; Audax I.     
+; U.Espanola   ; 1-0; U.Catolica   
+; Huachipato   ; 3-2; Palestino    
+; S.Wanderers  ; 2-2; Concepcion   
+; Temuco       ; 0-1; Colo Colo    
+; Antofagasta  ; 1-0; Atacama      
+; U.de Chile   ; 1-1; Cobreloa     
+
+Round: 9
+; Osorno       ; 3-0; U.Espanola  
+; U.Catolica   ; 5-1; Antofagasta 
+; Atacama      ; 1-2; Temuco      
+; Colo Colo    ; 3-0; S.Wanderers 
+; Concepcion   ; 4-2; Huachipato  
+; Palestino    ; 0-3; U.de Chile  
+; Cobreloa     ; 3-1; O'higgins   
+; Audax I.     ; 5-1; Coquimbo U. 
+
+Round: 10
+; Audax I.     ; 2-0; Osorno      
+; Coquimbo U.  ; 3-0; Cobreloa    
+; O'higgins    ; 1-1; Palestino   
+; U.de Chile   ; 2-3; Concepcion  
+; Huachipato   ; 1-0; Colo Colo   
+; S.Wanderers  ; 4-1; Atacama     
+; Temuco       ; 0-1; U.Catolica  
+; Antofagasta  ; 2-0; U.Espanola  
+
+Round: 11
+; Osorno       ; 1-1; Antofagasta 
+; U.Espanola   ; 2-0; Temuco      
+; U.Catolica   ; 1-1; S.Wanderers 
+; Atacama      ; 1-0; Huachipato  
+; Colo Colo    ; 0-1; U.de Chile  
+; Concepcion   ; 1-1; O'higgins   
+; Palestino    ; 3-1; Coquimbo U. 
+; Cobreloa     ; 3-0; Audax I.    
+
+Round: 12
+; Cobreloa     ; 1-1; Osorno      
+; Audax I.     ; 0-1; Palestino   
+; Coquimbo U.  ; 2-1; Concepcion  
+; O'higgins    ; 0-5; Colo Colo   
+; U.de Chile   ; 4-1; Atacama     
+; Huachipato   ; 3-3; U.Catolica  
+; S.Wanderers  ; 1-0; U.Espanola  
+; Temuco       ; 3-0; Antofagasta 
+
+Round: 13
+; Osorno       ; 2-2; Temuco      
+; Antofagasta  ; 6-0; S.Wanderers 
+; U.Espanola   ; 1-1; Huachipato  
+; U.Catolica   ; 0-3; U.de Chile  
+; Atacama      ; 3-1; O'higgins   
+; Colo Colo    ; 3-0; Coquimbo U. 
+; Concepcion   ; 2-0; Audax I.    
+; Palestino    ; 1-0; Cobreloa    
+
+Round: 14
+; Palestino    ; 4-0; Osorno     
+; Cobreloa     ; 4-3; Concepcion 
+; Audax I.     ; 1-3; Colo Colo  
+; Coquimbo U.  ; 2-2; Atacama    
+; O'higgins    ; 1-1; U.Catolica 
+; U.de Chile   ; 1-1; U.Espanola 
+; Huachipato   ; 1-1; Antofagasta 
+; S.Wanderers  ; 4-2; Temuco      
+
+Round: 15
+; Osorno       ; 6-1; S.Wanderers 
+; Temuco       ; 0-1; Huachipato  
+; Antofagasta  ; 2-2; U.de Chile  
+; U.Espanola   ; 3-1; O'higgins   
+; U.Catolica   ; 2-1; Coquimbo U. 
+; Atacama      ; 2-3; Audax I.    
+; Colo Colo    ; 0-1; Cobreloa   
+; Concepcion   ; 3-0; Palestino  
+
+Round: 16
+; Concepcion   ; 0-5; Osorno      
+; Colo Colo    ; 4-2; Palestino   
+; Atacama      ; 3-1; Cobreloa    
+; U.Catolica   ; 3-2; Audax I.    
+; U.Espanola   ; 3-2; Coquimbo U. 
+; Antofagasta  ; 1-0; O'higgins   
+; Temuco       ; 1-2; U.de Chile  
+; S.Wanderers  ; 2-0; Huachipato  
+
+Round: 17
+; Osorno       ; 1-1; Huachipato  
+; U.de Chile   ; 1-2; S.Wanderers 
+; O'higgins    ; 5-1; Temuco      
+; Coquimbo U.  ; 3-1; Antofagasta 
+; Audax I.     ; 2-1; U.Espanola  
+; Cobreloa     ; 4-4; U.Catolica  
+; Palestino    ; 1-2; Atacama     
+; Concepcion   ; 1-1; Colo Colo   
+
+Round: 18
+; Colo Colo    ; 1-0; Osorno       
+; Atacama      ; 2-0; Concepcion
+; U.Catolica   ; 1-0; Palestino    
+; U.Espanola   ; 3-0; Cobreloa     
+; Antofagasta  ; 0-2; Audax I.     
+; Temuco       ; 2-2; Coquimbo U.  
+; S.Wanderers  ; 1-0; O'higgins   
+; Huachipato   ; 2-3; U.de Chile   
+
+Round: 19
+; Concepcion   ; 0-0; U.Catolica    
+; O'higgins    ; 4-0; Huachipato  
+; Coquimbo U.  ; 2-1; S.Wanderers 
+; Audax I.     ; 1-1; Temuco      
+; Cobreloa     ; 1-2; Antofagasta 
+; Palestino    ; 2-2; U.Espanola  
+; Osorno       ; 2-0; U.de Chile  
+; Colo Colo    ; 4-1; Atacama     
+
+Round: 20
+; Atacama      ; 0-1; Osorno
+; U.Catolica   ; 3-3; Colo Colo
+; U.Espanola   ; 1-1; Concepcion
+; Antofagasta  ; 1-1; Palestino
+; Temuco       ; 1-2; Cobreloa
+; S.Wanderers  ; 3-4; Audax I.
+; Huachipato   ; 1-0; Coquimbo U.
+; U.de Chile   ; 4-2; O'higgins
+
+Round: 21
+; Colo Colo    ; 2-0; U.Espanola 
+; Atacama      ; 0-2; U.Catolica 
+; Coquimbo U.  ; 2-5; U.de Chile 
+; Cobreloa     ; 2-1; S.Wanderers 
+; Osorno       ; 4-1; O'higgins 
+; Palestino    ; 2-0; Temuco 
+; Concepcion   ; 2-1; Antofagasta 
+; Audax I.     ; 0-0; Huachipato 
+
+Round: 22
+; U.Espanola   ; 7-0; Atacama
+; Audax I.     ; 0-0; U.de Chile
+; U.Catolica   ; 4-3; Osorno
+; S.Wanderers  ; 2-2; Palestino
+; O'higgins    ; 2-1; Coquimbo U.
+; Temuco       ; 1-2; Concepcion
+; Antofagasta  ; 4-2; Colo Colo
+; Huachipato   ; 1-2; Cobreloa
+
+Round: 23
+; Cobreloa     ; 0-0; U.de Chile 
+; U. Catolica  ; 3-1; U.Espanola     
+; Audax I.     ; 3-2; O'higgins
+; Osorno       ; 1-2; Coquimbo U.      
+; Palestino    ; 0-4; Huachipato   
+; Concepcion   ; 0-0; Wanderers   
+; Atacama      ; 1-1; Antofagasta
+; Colo Colo    ; 4-1; Temuco    
+
+Round: 24
+; Antofagasta  ; 1-0; U.Catolica 
+; S.Wanderers  ; 0-0; Colo Colo 
+; U.Espanola   ; 2-1; Osorno 
+; O'higgins    ; 1-2; Cobreloa 
+; Temuco       ; 2-1; Atacama 
+; Huachipato   ; 2-2; Concepcion 
+; U.de Chile   ; 1-0; Palestino 
+; Coquimbo U.  ; 1-3; Audax I.
+
+Round: 25
+; Osorno       ; 2-2; Audax I.
+; Cobreloa     ; 1-0; Coquimbo
+; Palestino    ; 1-1; O'higgins
+; Concepcion   ; 1-1; U.de Chile
+; Colo Colo    ; 1-0; Huachipato
+; Atacama      ; 0-5; Wanderers
+; U.Catolica   ; 5-2; Temuco
+; U.Espanola   ; 6-4; Antofagasta
+
+Round: 26
+; Antofagasta  ; 1-2; Osorno
+; Temuco       ; 1-1; U.Espanola
+; Wanderers    ; 0-2; U.Catolica
+; Huachipato   ; 5-0; Atacama
+; U.de Chile   ; 0-2; Colo Colo
+; O'higgins    ; 2-2; Concepcion
+; Coquimbo     ; 2-1; Palestino
+; Audax I.     ; 2-0; Cobreloa
+
+Round: 27
+; Osorno       ; 4-0; Cobreloa
+; Palestino    ; 2-4; Audax I.
+; Concepcion   ; 0-0; Coquimbo
+; Colo Colo    ; 1-0; O'higgins
+; Atacama      ; 2-2; U.de Chile
+; U.Catolica   ; 4-2; Huachipato
+; U.Espanola   ; 1-0; Wanderers
+; Antofagasta  ; 2-1; Temuco
+
+Round: 28
+; Temuco       ; 0-2; Osorno 
+; S.Wanderers  ; 3-1; Antofagasta 
+; Huachipato   ; 0-1; U.Espanola 
+; U.de Chile   ; 2-5; U.Catolica 
+; O'higgins    ; 2-2; Atacama 
+; Coquimbo U.  ; 0-1; Colo Colo  
+; Audax I.     ; 2-2; Concepcion 
+; Cobreloa     ; 5-1; Palestino 
+
+Round: 29
+; Osorno       ; 2-2; Palestino 
+; Concepcion   ; 1-1; Cobreloa  
+; Colo Colo    ; 1-1; Audax I.  
+; Atacama      ; 4-1; Coquimbo U. 
+; U.Catolica   ; 2-0; O'higgins  
+; U.Espanola   ; 0-0; U.de Chile  
+; Antofagasta  ; 0-0; Huachipato 
+; Temuco       ; 3-1; S.Wanderers 
+
+Round: 30
+; Coquimbo U.  ; 4-3; U.Catolica
+; U.de Chile   ; 1-2; Antofagasta
+; O'higgins    ; 2-3; U.Espanola
+; Palestino    ; 1-1; Concepcion
+; Huachipato   ; 0-1; Temuco
+; Audax I.     ; 2-1; Atacama
+; S.Wanderers  ; 2-3; Osorno
+; Cobreloa     ; 3-0; Colo Colo
+
+* 1.Colo Colo             30 19  6  5  62-24  63  Champions
+* 2.Universidad Catolica  30 17  8  5  70-40  59  Liguilla
+* 3.Cobreloa              30 15  6  9  58-44  51  Liguilla
+* 4.Audax Italiano        30 14  9  7  51-38  51  Liguilla
+* 5.Universidad de Chile  30 13  8  9  49-42  47  Liguilla
+* 6.Provincial Osorno     30 11 10  9  54-40  43
+* 7.Antofagasta           30 12  7 11  47-46  43
+* 8.Unión Española        30 11  7 12  43-47  40
+* 9.Coquimbo Unido        30 12  4 14  46-53  40
+*10.Deportivo Concepción  30  8 15  7  44-53  39
+*11.Santiago Wanderers    30 10  7 13  49-57  37
+*12.Huachipato            30  8 11 11  42-46  35
+*- - - - - - - - - - - - - - - - - - - - - - - -
+*13.Palestino             30  8  9 13  40-53  33  Promotion/Relegation
+*14.Deportivo Temuco      30  8  4 18  35-55  28  Promotion/Relegation
+*-----------------------------------------------
+*15.Regional Atacama      30  7  6 17  38-70  27  Relegated
+*16.O'higgins             30  5  7 18  41-61  22  Relegated
+
+
+*Season: 1996 
+Stage: Liguilla Copa Libertadores
+
+
+Round: Semifinals 
+
+
+11/30/1996; Audax Italiano ; 3-1; Cobreloa
+
+12/4/1996; Cobreloa       ; 3-1; Audax Italiano  
+Penalty kicks: 8-7
+* Cobreloa qualified for final
+
+
+12/1/1996; U.de Chile     ; 1-2; U.Catolica
+
+12/5/1996; U.Catolica     ; 5-2; U.de Chile
+
+Round: Final
+
+12/8/1996; Cobreloa       ; 3-2; U.Catolica
+
+12/18/1996; U.Catolica     ; 3-2; Cobreloa        
+Penalty kicks: 4-2
+*  Universidad Catolica qualified for Copa Libertadores 1997
+
+Season: 1996 
+Stage: Liguilla de Promocion
+
+12/1/1996; Cobresal       ; 3-1; Temuco
+12/1/1996; Iquique        ; 1-0; Palestino
+
+12/8/1996; Temuco         ; 2-0; Cobresal
+12/8/1996; Palestino      ; 5-1; Iquique
+
+*Temuco and Palestino remain in 1A.
+
+
+
+*Prepared and maintained by Juan Pablo Andrés and Luis Antonio Reyes for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Juan Pablo Andrés (jpandres@tutopia.com) and Luis Antonio Reyes (luchoasis@yahoo.es)
+*Last updated: 13 Aug 2001
+*(C) Copyright Juan Pablo Andrés and RSSSF 1999/2001
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

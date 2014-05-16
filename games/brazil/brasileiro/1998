@@ -1,0 +1,666 @@
+Competition: Campeonato Brasileiro Série A
+BlockSource: http://www.rsssfbrasil.com/tablesae/br1998.htm
+Season: 1998
+
+
+* 1.Corinthians     23 14  4  5 46-30 46  Qualified
+* 2.Palmeiras       23 14  3  6 46-32 45  Qualified
+* 3.Coritiba        23 11  9  3 32-26 42  Qualified
+* 4.Santos          23 11  8  4 46-29 41  Qualified
+* 5.Sport           23 12  4  7 34-22 40  Qualified
+* 6.Portuguesa      23 11  7  5 44-34 40  Qualified
+* 7.Cruzeiro        23 10  7  6 42-28 37  Qualified
+* 8.Grêmio          23 10  6  7 32-30 36  Qualified
+*- - - - - - - - - - - - - - - - - - - -  
+* 9.Atlético/MG     23  9  9  5 38-33 36
+*10.Vasco da Gama   23  9  7  7 34-24 34
+*11.Flamengo        23  9  6  8 37-34 33
+*12.Internacional   23  9  5  9 25-25 32
+*13.Vitória         23  9  3 11 31-38 30
+*14.Botafogo        23  7  8  8 35-37 29
+*15.São Paulo       23  8  3 12 34-35 27
+*16.Atlético/PR     23  7  6 10 32-32 27
+*17.Ponte Preta     23  7  5 11 25-34 26
+*18.Juventude       23  6  8  9 24-32 26
+*19.Guarani         23  6  7 10 34-39 25
+*20.Paraná          23  7  3 13 25-41 24
+*---------------------------------------
+*21.América/MG      23  6  5 12 26-39 23  Relegated
+*22.Goiás           23  5  7 11 29-37 22  Relegated
+*23.Bragantino      23  5  6 12 20-37 21  Relegated
+*24.América/RN      23  3  6 14 24-47 15  Relegated
+
+
+Date: 7/25/1998
+
+; Vasco        ; 0-1; Corinthians 
+
+Date: 7/26/1998
+
+; Internacional; 1-0; Gremio 
+; Portuguesa   ; 2-1; America/MG 
+; Guarani      ; 2-0; Ponte Preta 
+; Juventude    ; 3-0; Parana 
+; Atletico/PR  ; 2-2; Coritiba 
+; Santos       ; 2-0; Bragantino 
+; Flamengo     ; 1-1; Botafogo 
+; Palmeiras    ; 2-1; Sao Paulo 
+; Atletico/MG  ; 1-1; Cruzeiro 
+; Vitoria      ; 1-2; Goias 
+; America/RN   ; 0-4; Sport
+ 
+*Moved Matches 
+Date: 7/29/1998
+
+; Santos       ; 1-1; Atletico/PR   
+; Atletico/MG  ; 1-1; Guarani      
+
+Round: 2
+Date: 8/1/1998
+
+; Coritiba     ; 1-3; Flamengo
+; Goias        ; 1-1; Palmeiras
+
+Date: 8/2/1998
+
+; Ponte Preta  ; 0-0; Internacional
+; Corinthians  ; 4-0; Juventude
+; Sao Paulo    ; 2-1; Guarani
+; Parana       ; 0-1; Portuguesa
+; Bragantino  ; 0-0; Vasco
+; Gremio       ; 2-3; Atletico/MG 
+; Cruzeiro     ; 1-2; Santos
+; Botafogo     ; 1-2; Vitoria
+; Sport        ; 2-0; Atletico/PR  
+; America/MG   ; 2-2; America/RN   
+
+Round: 3 
+Date: 8/5/1998
+
+; Atletico/PR  ; 0-1; Palmeiras
+; Corinthians  ; 2-1; Gremio
+; Cruzeiro     ; 4-2; Ponte Preta
+; Guarani      ; 2-3; Botafogo
+; Internacional; 0-3; Sao Paulo
+; Parana       ; 3-2; America/RN
+; Portuguesa   ; 1-1; Coritiba
+; Sport        ; 2-1; Vitoria
+; Vasco        ; 5-1; America/MG
+
+Round: 4
+Date: 8/8/1998
+
+; Coritiba     ; 2-2; Ponte Preta
+; Atletico/MG  ; 1-5; Corinthians
+; Juventude    ; 0-0; Botafogo
+
+Date: 8/9/1998
+
+; Flamengo     ; 0-1; Bragantino
+; Sao Paulo    ; 0-2; Cruzeiro
+; America/RN   ; 2-2; Portuguesa
+; Vitoria      ; 1-3; Santos
+; Guarani      ; 1-2; America/MG
+; Internacional; 2-1; Parana
+; Atletico/PR  ; 0-0; Gremio
+; Goias        ; 2-0; Sport
+
+Date: 11/7/1998
+
+; Palmeiras    ; 2-1; Vasco
+
+Round: 5
+Date: 8/12/1998
+
+; Ponte Preta  ; 0-1; Flamengo
+; Coritiba     ; 0-0; Corinthians
+; Botafogo     ; 3-0; Sao Paulo
+; Gremio       ; 0-0; Juventude  
+; America/MG   ; 2-0; Parana
+; Vitoria      ; 3-3; Guarani
+; Palmeiras    ; 1-2; Sport
+; Goias        ; 0-0; Cruzeiro
+; America/RN   ; 0-0; Internacional 
+
+
+8/23/1998; Atletico/MG  ; 0-2; Bragantino
+
+9/2/1998; Vasco        ; 1-2; Portuguesa
+
+Round: 6
+Date: 8/15/1998
+
+; Corinthians  ; 1-0; Botafogo
+; Santos       ; 1-0; Palmeiras
+
+Date: 8/16/1998
+
+; Gremio       ; 2-2; Flamengo
+; Vasco        ; 2-1; Guarani
+; Sport        ; 1-0; Sao Paulo
+; Portuguesa   ; 0-1; Vitoria
+; Bragantino   ; 1-2; Coritiba
+; Parana       ; 1-0; Goias    
+; Cruzeiro     ; 0-2; America/RN
+; Juventude    ; 0-0; Atletico/MG 
+; America/MG   ; 0-1; Internacional
+
+Date: 8/19/1998
+
+; Ponte Preta  ; 2-0; Atletico/PR
+
+Round: 7 
+Date: 8/19/1998
+
+; Santos       ; 4-4; Atletico/MG
+; Guarani      ; 2-1; America/RN
+; Parana       ; 2-2; Bragantino
+
+Date: 8/22/1998
+
+; Internacional; 1-1; Corinthians
+; Atletico/PR  ; 2-2; Portuguesa
+; Vitoria      ; 2-1; America/MG
+
+Date: 8/23/1998
+
+; Coritiba     ; 0-0; Sport
+; Botafogo     ; 1-1; Cruzeiro
+; Sao Paulo    ; 1-3; Santos
+; Goias        ; 0-0; Gremio
+; Flamengo     ; 1-3; Juventude
+; America/RN   ; 1-2; Palmeiras
+
+Round: 8
+Date: 8/25/1998
+
+; Corinthians  ; 3-1; America/MG
+
+Date: 8/26/1998
+
+; Bragantino   ; 2-2; Botafogo
+; Cruzeiro     ; 2-2; Portuguesa  
+; Palmeiras    ; 2-1; Atletico/MG
+; Internacional; 6-1; Goias
+; Flamengo     ; 0-0; Atletico/PR  
+; Sao Paulo    ; 6-1; America/RN
+; Parana       ; 1-0; Ponte Preta 
+; Juventude    ; 2-0; Vitoria
+
+Date: 11/4/1998
+
+; Vasco        ; 2-1; Gremio
+
+Round: 9
+Date: 8/29/1998
+
+; America/MG   ; 0-0; Botafogo
+; Gremio       ; 1-1; Palmeiras
+; Coritiba     ; 2-0; Goias
+; Corinthians  ; 3-2; Guarani
+
+Date: 8/30/1998
+
+; Vasco        ; 1-1; Flamengo     
+; Santos       ; 2-0; Internacional 
+; Portuguesa   ; 1-0; Atletico/MG
+; Bragantino   ; 1-1; America/RN
+; Atletico/PR  ; 0-0; Juventude
+; Ponte Preta  ; 1-1; Sao Paulo  
+; Sport        ; 4-1; Parana    
+; Cruzeiro     ; 0-2; Vitoria
+
+*Moved Matches
+Date: 9/2/1998
+
+; America/MG   ; 2-1; Ponte Preta
+; Guarani      ; 1-1; Santos
+; Internacional; 2-1; Bragantino
+; Vitoria      ; 1-0; Parana
+
+Round: 10
+Date: 9/5/1998
+
+; Palmeiras    ; 2-1; Flamengo
+; Bragantino   ; 1-0; Corinthians
+; Gremio       ; 2-1; Vitoria
+
+Date: 9/6/1998
+
+; Santos       ; 0-0; Sport
+; Portuguesa   ; 5-2; Botafogo
+Leandro, Leandro, Leandro;
+
+; Internacional; 1-3; Guarani
+; Ponte Preta  ; 1-0; Juventude
+; Parana       ; 1-0; Atletico-PR
+; Atletico-MG;   1-0; Sao Paulo
+; Vasco        ; 2-0; Cruzeiro
+; America-MG;    1-0; Goias
+; America-RN;    0-1; Coritiba
+
+Round: 11 
+Date: 9/9/1998
+
+; Cruzeiro     ; 1-1; Flamengo
+; Guarani      ; 3-2; Palmeiras
+; Vasco        ; 0-0; Sport
+; Corinthians  ; 3-0; Portuguesa
+; Bragantino   ; 1-2; Sao Paulo
+; Parana       ; 1-2; Gremio
+; Vitoria      ; 0-3; Coritiba
+; America-RN;    2-2; Juventude
+; Goias        ; 2-3; Atletico-PR
+
+Date: 10/15/1998
+
+; Santos       ; 3-3; America-MG
+
+Round: 12
+Date: 9/12/1998
+
+; Sao Paulo    ; 1-1; Vasco
+; Sport        ; 0-2; Corinthians
+; Marcelinho Carioca, Marcelinho Carioca
+
+; Botafogo     ; 3-3; Parana
+
+Date: 9/13/1998
+
+; Gremio       ; 3-2; Santos
+; Flamengo     ; 2-3; Portuguesa
+; Palmeiras    ; 3-0; Ponte Preta
+; Guarani      ; 2-2; Cruzeiro
+; Atletico-MG;   3-2; Atletico-PR
+; Coritiba     ; 0-0; America-MG
+; Goias        ; 3-0; Bragantino
+
+Date: 9/16/1998
+
+; Vitoria      ; 3-0; America-RN
+
+Date: 9/20/1998
+
+; Juventude    ; 1-2; Internacional
+
+*Moved Matches
+Date: 9/15/1998
+
+; Flamengo     ; 2-1; Goias
+; Atletico-MG;   1-1; Vasco
+
+Date: 9/16/1998
+
+; Juventude    ; 1-2; Santos
+; Sport        ; 1-0; Bragantino
+
+Round: 13
+Date: 9/19/1998
+
+; Cruzeiro     ; 4-0; Coritiba
+; Ponte Preta  ; 4-5; Corinthians
+; Parana       ; 2-1; Vasco
+; Botafogo     ; 2-0; America-RN
+
+Date: 9/20/1998
+
+; Palmeiras    ; 3-2; Vitoria
+; Guarani      ; 2-2; Goias
+; Santos       ; 4-1; Flamengo
+; Sport        ; 5-0; Gremio
+; America-MG;    0-2; Atletico-MG
+; Sao Paulo    ; 2-7; Portuguesa
+
+Date: 10/28/1998
+
+; Bragantino   ; 1-0; Juventude
+
+Round: 14 
+Date: 9/24/1998
+
+; Palmeiras    ; 4-0; Bragantino
+; Goias        ; 2-0; Botafogo
+; America-MG;    1-3; Sao Paulo
+; Flamengo     ; 1-3; Internacional
+; Corinthians  ; 1-2; Cruzeiro
+; Vasco        ; 1-1; Juventude
+; Portuguesa   ; 2-0; Sport
+; Gremio       ; 1-0; Ponte Preta
+; Atletico-PR;   4-0; Guarani
+
+Date: 9/30/1998
+
+; Vitoria      ; 1-1; Atletico-MG
+
+Date: 10/3/1998
+
+; Coritiba     ; 1-1; Santos
+
+Round: 15
+Date: 9/26/1998
+
+; Juventude    ; 3-6; Palmeiras
+; Sao Paulo    ; 0-0; Flamengo
+
+Date: 9/27/1998
+
+; Portuguesa   ; 1-0; Ponte Preta
+; Atletico-PR;   3-2; Bragantino
+; Guarani      ; 0-1; Coritiba
+; Atletico-MG;   3-0; Parana
+; Sport        ; 1-1; Cruzeiro
+; Gremio       ; 2-1; America-MG
+; Vitoria      ; 2-0; Internacional
+; America-RN;    2-1; Goias
+; Corinthians  ; 0-2; Santos
+; Botafogo     ; 0-2; Vasco
+
+*Moved Matches 
+Date: 9/30/1998
+
+; Santos       ; 4-0; Ponte Preta
+; Atletico-PR;   3-1; Botafogo
+; Juventude    ; 1-0; America-MG
+
+Round: 16 
+Date: 9/30/1998
+
+; Coritiba     ; 3-2; Parana
+
+Date: 10/3/1998
+
+; America-RN;    1-3; Vasco
+; Vitoria      ; 1-0; Sao Paulo
+; Juventude    ; 0-0; Guarani
+; Internacional; 0-1; Atletico-PR  
+; Ponte Preta  ; 2-1; Sport
+; Flamengo     ; 3-2; Atletico-MG
+; Palmeiras    ; 3-1; Corinthians
+; Botafogo     ; 2-1; Gremio   
+; Cruzeiro     ; 4-1; America-MG
+; Goias        ; 3-1; Portuguesa
+
+Round: 17 
+Date: 10/7/1998
+
+; Ponte Preta  ; 2-1; Vasco
+; Flamengo     ; 3-2; Sport
+; Botafogo     ; 2-3; Coritiba  
+; Corinthians  ; 2-2; Goias
+; Bragantino   ; 1-0; Gremio
+; Atletico-PR;   4-1; Vitoria
+; Internacional; 3-1; Cruzeiro
+; Portuguesa   ; 2-3; Palmeiras
+
+Date: 10/8/1998
+
+; Sao Paulo    ; 3-0; Parana
+
+Date: 10/28/1998
+
+; America-RN;    2-2; Santos
+
+Round: 18
+Date: 10/10/1998
+
+; Flamengo     ; 4-1; Corinthians
+; Atletico-MG;   5-5; Botafogo
+; Palmeiras    ; 1-0; Internacional
+
+Date: 10/11/1998
+
+; Gremio       ; 1-1; Coritiba
+; Portuguesa   ; 2-1; Juventude
+; Atletico-PR;   2-0; America-RN 
+; Ponte Preta  ; 4-2; Vitoria
+; Parana       ; 1-2; Cruzeiro
+; Vasco        ; 3-1; Santos
+; Sao Paulo    ; 3-1; Goias
+; Sport        ; 3-2; America-MG
+
+Date: 10/14/1998
+
+; Bragantino   ; 1-2; Guarani
+
+*Moved Matches
+Date: 10/14/1998
+
+; Atletico-MG;   2-0; Internacional
+
+Date: 10/15/1998
+
+; Juventude    ; 1-2; Coritiba
+
+Round: 19 
+Date: 10/17/1998
+
+; Botafogo     ; 3-1; Palmeiras
+
+Date: 10/18/1998
+
+; Vitoria      ; 1-4; Flamengo
+; Coritiba     ; 2-1; Sao Paulo
+; Corinthians  ; 4-2; Atletico-PR
+; Santos       ; 1-1; Portuguesa
+; America-MG;    2-0; Bragantino
+; Guarani      ; 2-0; Parana
+; Goias        ; 0-1; Ponte Preta
+; Cruzeiro     ; 0-2; Gremio
+; America-RN;    1-3; Atletico-MG
+; Juventude    ; 1-0; Sport
+; Internacional; 1-0; Vasco
+
+Round: 20 
+Date: 10/21/1998
+
+; America-RN;    2-1; Flamengo
+; Parana       ; 0-0; Corinthians
+; Atletico-PR;   1-2; Vasco
+; Botafogo     ; 1-0; Ponte Preta
+; Palmeiras    ; 1-2; Coritiba
+; Sao Paulo    ; 1-2; Gremio
+; Guarani      ; 1-1; Portuguesa
+; Bragantino   ; 0-4; Cruzeiro
+; Atletico-MG;   2-1; Goias      
+; Internacional; 1-2; Sport
+
+Round: 21 
+Date: 10/24/1998
+
+; Sport        ; 2-1; Botafogo
+; Cruzeiro     ; 3-1; Palmeiras
+; Vasco        ; 0-1; Vitoria
+; Flamengo     ; 2-1; Guarani
+; Sao Paulo    ; 1-2; Corinthians
+; Portuguesa   ; 1-1; Internacional
+; Santos       ; 1-2; Parana
+; Ponte Preta  ; 2-2; Bragantino
+; America-MG;    2-1; Atletico-PR
+; Coritiba     ; 1-1; Atletico-MG
+; Gremio       ; 2-1; America-RN
+; Goias        ; 2-2; Juventude
+
+Round: 22
+Date: 10/29/1998
+
+; Vasco        ; 3-1; Coritiba 
+
+Date: 10/31/1998
+
+; Internacional; 0-0; Botafogo
+; Vitoria      ; 2-3; Corinthians
+
+Date: 11/1/1998
+
+; Portuguesa   ; 3-1; Bragantino
+; Santos       ; 3-1; Goias
+; Flamengo     ; 2-0; America-MG
+; Guarani      ; 1-3; Gremio
+; America-RN;    0-1; Ponte Preta
+; Atletico-PR;   1-2; Cruzeiro
+; Atletico-MG;   1-0; Sport
+; Palmeiras    ; 3-2; Parana
+
+Date: 11/4/1998
+
+; Juventude    ; 2-1; Sao Paulo
+
+Round: 23 
+Date: 11/12/1998
+
+; Goias        ; 2-2; Vasco
+; Parana       ; 2-1; Flamengo
+; Botafogo     ; 2-1; Santos
+; America-MG;    1-1; Palmeiras
+; Corinthians  ; 2-1; America-RN
+; Sao Paulo    ; 2-0; Atletico-PR
+; Gremio       ; 4-2; Portuguesa
+; Bragantino   ; 0-0; Vitoria
+; Sport        ; 2-1; Guarani
+; Ponte Preta  ; 0-0; Atletico-MG
+; Coritiba     ; 1-0; Internacional
+; Cruzeiro     ; 5-0; Juventude
+
+*Table:
+* 1.Corinthians     23 14  4  5 46-30 46  Qualified
+* 2.Palmeiras       23 14  3  6 46-32 45  Qualified
+* 3.Coritiba        23 11  9  3 32-26 42  Qualified
+* 4.Santos          23 11  8  4 46-29 41  Qualified
+* 5.Sport           23 12  4  7 34-22 40  Qualified
+* 6.Portuguesa      23 11  7  5 44-34 40  Qualified
+* 7.Cruzeiro        23 10  7  6 42-28 37  Qualified
+* 8.Grêmio          23 10  6  7 32-30 36  Qualified
+*- - - - - - - - - - - - - - - - - - - -  
+* 9.Atlético/MG     23  9  9  5 38-33 36
+*10.Vasco da Gama   23  9  7  7 34-24 34
+*11.Flamengo        23  9  6  8 37-34 33
+*12.Internacional   23  9  5  9 25-25 32
+*13.Vitória         23  9  3 11 31-38 30
+*14.Botafogo        23  7  8  8 35-37 29
+*15.São Paulo       23  8  3 12 34-35 27
+*16.Atlético/PR     23  7  6 10 32-32 27
+*17.Ponte Preta     23  7  5 11 25-34 26
+*18.Juventude       23  6  8  9 24-32 26
+*19.Guarani         23  6  7 10 34-39 25
+*20.Paraná          23  7  3 13 25-41 24
+*---------------------------------------
+*21.América/MG      23  6  5 12 26-39 23  Relegated
+*22.Goiás           23  5  7 11 29-37 22  Relegated
+*23.Bragantino      23  5  6 12 20-37 21  Relegated
+*24.América/RN      23  3  6 14 24-47 15  Relegated
+
+*Championship Playoff
+*Quarterfinals
+*First Leg 
+
+*Date: 11/14/1998
+*Cruzeiro      2-1 Palmeiras
+*  [62' Fabio Junior, 82' Marcelo; 64' Oseas]
+
+*Date: 11/15/1998
+*Gremio        0-1 Corinthians
+*  [78' Rincon]
+*Portuguesa    3-1 Coritiba
+*  [14' Leandro, 22' Alexandre, 51' Fabricio; 7' Macedo]
+*Sport         3-1 Santos
+*  [65' Robson, 68' Wallace, 90' (pen) Lima; 60' Argel]
+
+*Second Leg 
+*Date: 11/21/1998
+*Corinthians   0-2 Gremio
+*  [30' Itaqui, 87' Clovis]
+*Santos        2-1 Sport
+* [32' E.Marques, 76' Robson Luis; 61' Robson]
+
+*Date: 11/22/1998
+*Palmeiras     2-1 Cruzeiro
+*  [26' Paulo Nunes, 45' Junior Baiano; 42' Djair]
+*Coritiba      0-0 Portuguesa
+
+*Third Leg 
+*Date: 11/25/1998
+*Corinthians   1-0 Gremio
+*  [36' Edilson]
+*Coritiba      2-2 Portuguesa
+*  [15' Joao Santos, 77' Gelson Baresi; 84' Cesar, 89' Ailton]
+*Santos        3-0 Sport
+*  [24' Alessandro, 50' and 90' Viola]
+
+*Date: 11/26/1998
+*Palmeiras     2-3 Cruzeiro
+*  [48' Almir, 62' Paulo Nunes; 32' and 34' M.Ramos, 88' Fabio Junior]
+
+*Semifinals
+*First Leg 
+*Date: 11/29/1998
+*Cruzeiro      3-1 Portuguesa
+*  [12' Marcelo Ramos, 52' (pen) Fabio Junior, 90' Alex Alves; 22' Leandro]
+*Santos        2-1 Corinthians
+*  [30' Robson Luiz, 82' Viola; 1' Gamarra]
+
+*Second Leg 
+*Date: 12/6/1998
+*Portuguesa    2-1 Cruzeiro
+*  [12' and 76' Alexandre; 14' Marcelo P.]
+*Corinthians   2-0 Santos
+*  [27' (pen) Marcelinho, 60' Edilson]
+
+*Third Leg 
+*Date: 12/9/1998
+*Portuguesa    0-1 Cruzeiro
+*  [1' Djair]
+*Corinthians   1-1 Santos
+*  [57' Edilson; 41' Viola]
+
+
+*Final
+*First Leg 
+*Date: 12/13/1998
+*Cruzeiro      2-2 Corinthians
+*  [43' Muller, 46' Valdo; 53' Dinei, 58' Marcelinho]
+
+*Second Leg 
+*Date: 12/20/1998
+*Corinthians   1-1 Cruzeiro
+*  [58' Marcelinho; 70' Marcelo R.]
+
+*Third Leg 
+Date: 12/23/1998
+
+*Corinthians   2-0 Cruzeiro
+*  [70' Edilson, 81' Marcelinho]
+*23/dezembro/1998 
+*CORINTHIANS 2-0 CRUZEIRO 
+*Local: Morumbi (São Paulo-SP); 
+*Juiz: Carlos Eugênio Simon (RS); 
+*Público Presente: 57.230 espectadores; 
+*Gols: Edílson 25 e Marcelinho 35 do 2º tempo; 
+*Cartões Amarelos: Batata, Rincón e Gustavo; 
+*CORINTHIANS: Nei, Índio, Batata (Cris), Gamarra e Silvinho; Ricardinho (Amaral), Rincón,
+*Vampeta e Marcelinho; Edílson e Mirandinha (Dinei). 
+*Técnico: Wanderley Luxemburgo. 
+*CRUZEIRO: Dida, Gustavo (Alex Alves), Marcelo Djian, João Carlos e Gilberto; Valdir (Marcelo 
+*Ramos), Ricardinho (Caio), Djair e Valdo; 
+*Müller e Fábio Júnior. Técnico: Levir Culpi
+*Corinthians champions of Brazil 1998.
+*
+*Corinthians qualified to Copa Libertadores 1999
+*
+
+*Topscorers:
+*Viola (Santos)                   21
+*Marcelinho Carioca (Corinthians) 19
+*Fabio Junior (Cruzeiro)          18
+*Valdir (Atlético-MG)             18
+*Edilson (Corinthians)            15
+*Leandro (Portuguesa)             15
+*Oseas (Palmeiras)                15
+*Petkovic (Vitória)               14
+*Romário (Flamengo)               14
+
+*Thanks to Venício Stasun (vstasun@rondonesportes.com) and Carlos Alberto Franco Jr. (bananachips4@hotmail.com).
+*Prepared and maintained by the Rec.Sport.Soccer Statistics Foundation and RSSSF Brazil
+*Author: RSSSF and RSSSF Brazil
+*Last updated: 06 Jun 2008
+*(C) Copyright RSSSF and RSSSF Brazil 1999/2008
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

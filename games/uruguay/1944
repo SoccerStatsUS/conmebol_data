@@ -1,0 +1,176 @@
+BlockSource: http://www.rsssf.com/tablesu/uru44.html
+Competition: Uruguayan Primera Division
+Season: 1944
+
+
+*  1. CA Peñarol                   18 12  3  3  41-21  27 
+*   . C Nacional dF                18 12  3  3  48-21  27 
+* -------------------------------------------------------- 
+*  3. CA Defensor                  18 10  5  3  43-27  25 
+*  4. Montevideo Wanderers FC      18  7  5  6  32-31  19 
+*  5. Central FC                   18  7  3  8  35-34  17 
+*  6. IA Sud América               18  5  4  9  24-37  14 
+*  7. Liverpool FC                 18  5  3 10  22-30  13 
+*  8. CA River Plate               18  6  1 11  29-43  13 
+*  9. CS Miramar                   18  4  5  9  23-37  13 
+* --------------------------------------------------------
+* 10. Racing Club Montevideo       18  5  2 11  27-43  12  Relegated
+
+Round: 1
+; Peñarol             ; 3-1; Racing (Montevideo)
+; Miramar             ; 3-2; Nacional
+; Liverpool (Montevideo)           ; 2-1; Central
+; Defensor            ; 3-2; River Plate (Montevideo)
+; Montevideo Wanderers; 3-2; Sud América
+
+Round: 2
+; Nacional            ; 4-1; Liverpool (Montevideo)
+; Peñarol             ; 3-1; River Plate (Montevideo)
+; Sud América         ; 2-0; Racing (Montevideo)
+; Central             ; 2-0; Defensor
+; Montevideo Wanderers; 1-1; Miramar
+
+Round: 3
+; Peñarol             ; 1-1; Sud América
+; Nacional            ; 3-1; River Plate (Montevideo)
+; Defensor            ; 1-0; Racing (Montevideo)
+; Central             ; 1-1; Montevideo Wanderers
+; Miramar             ; 2-1; Liverpool (Montevideo)
+
+Round: 4
+; River Plate (Montevideo)         ; 3-2; Miramar
+; Defensor            ; 2-2; Montevideo Wanderers
+; Peñarol             ; 5-1; Central
+; Liverpool (Montevideo)           ; 3-1; Sud América
+; Nacional            ; 7-0; Racing (Montevideo)
+
+Round: 5
+; Montevideo Wanderers; 3-0; Liverpool (Montevideo)
+; Central             ; 3-1; Miramar
+; Racing (Montevideo)              ; 2-1; River Plate (Montevideo)
+; Nacional            ; 1-1; Sud América
+; Defensor            ; 3-3; Peñarol
+
+Round: 6
+; Nacional            ; 4-2; Central
+; Montevideo Wanderers; 2-0; Peñarol
+; Miramar             ; 2-2; Racing (Montevideo)
+; Sud América         ; 2-0; River Plate (Montevideo)
+; Defensor            ; 2-1; Liverpool (Montevideo)
+
+Round: 7
+; Nacional            ; 3-0; Defensor
+; Peñarol             ; 4-2; Liverpool (Montevideo)
+; Montevideo Wanderers; 2-0; River Plate (Montevideo)
+; Sud América         ; 1-0; Miramar
+; Racing (Montevideo)              ; 3-1; Central
+
+Round: 8
+; Montevideo Wanderers; 4-3; Racing (Montevideo)
+; River Plate (Montevideo)         ; 2-1; Liverpool (Montevideo)
+; Central             ; 5-1; Sud América
+; Defensor            ; 3-1; Miramar
+; Peñarol             ; 2-0; Nacional
+
+Round: 9
+; Peñarol             ; 8-4; Miramar
+; Montevideo Wanderers; 2-2; Nacional
+; Defensor            ; 3-0; Sud América
+; Liverpool (Montevideo)           ; 1-1; Racing (Montevideo)
+; Central             ; 4-1; River Plate (Montevideo)
+
+Round: 10
+; Racing (Montevideo)              ; 1-0; Peñarol
+; Nacional            ; 3-0; Miramar
+; Central             ; 2-0; Liverpool (Montevideo)
+; Defensor            ; 5-2; River Plate (Montevideo)
+; Montevideo Wanderers; 1-1; Sud América
+
+Round: 11
+; Liverpool (Montevideo)           ; 2-0; Nacional
+; Peñarol             ; 2-1; River Plate (Montevideo)
+; Sud América         ; 3-2; Racing (Montevideo)
+; Central             ; 2-2; Defensor
+; Miramar             ; 2-1; Montevideo Wanderers
+
+Round: 12
+; Peñarol             ; 1-0; Sud América
+; Nacional            ; 5-1; River Plate (Montevideo)
+; Defensor            ; 6-2; Racing (Montevideo)
+; Montevideo Wanderers; 3-2; Central
+; Miramar             ; 1-0; Liverpool (Montevideo)
+
+Round: 13
+; River Plate (Montevideo)         ; 2-1; Miramar
+; Defensor            ; 4-2; Montevideo Wanderers
+; Peñarol             ; 2-0; Central
+; Liverpool (Montevideo)           ; 3-0; Sud América
+; Nacional            ; 1-0; Racing (Montevideo)
+
+Round: 14
+; Liverpool (Montevideo)           ; 2-1; Montevideo Wanderers
+; Central             ; 1-1; Miramar
+; River Plate (Montevideo)         ; 2-1; Racing (Montevideo)
+; Nacional            ; 4-1; Sud América
+; Defensor            ; 2-0; Peñarol
+
+Round: 15
+; Nacional            ; 2-1; Central
+; Peñarol             ; 1-0; Montevideo Wanderers
+; Racing (Montevideo)              ; 2-1; Miramar
+; River Plate (Montevideo)         ; 4-3; Sud América
+; Defensor            ; 0-0; Liverpool (Montevideo)
+
+Round: 16
+; Nacional            ; 2-1; Defensor
+; Peñarol             ; 1-0; Liverpool (Montevideo)
+; River Plate (Montevideo)         ; 3-0; Montevideo Wanderers
+; Sud América         ; 0-0; Miramar
+; Central             ; 4-2; Racing (Montevideo)
+
+Round: 17
+; Montevideo Wanderers; 3-2; Racing (Montevideo)
+; River Plate (Montevideo)         ; 2-2; Liverpool (Montevideo)
+; Sud América         ; 3-1; Central
+; Defensor            ; 1-1; Miramar
+; Peñarol             ; 2-2; Nacional
+
+Round: 18
+; Peñarol             ; 3-0; Miramar
+; Nacional            ; 3-1; Montevideo Wanderers
+; Defensor            ; 5-2; Sud América
+; Racing (Montevideo)              ; 3-1; Liverpool (Montevideo)
+; Central             ; 2-1; River Plate (Montevideo)
+
+
+Round: Championship Playoff
+
+* First Playoff [Dec 10, Estadio Centenario; attendance: 55,000]
+12/10/1944; Nacional; 0-0; Peñarol; Estadio Centenario; Manuel Domínguez, A. Mancebo, C. Martín; 55000
+Minutes: 150
+Nacional: Aníbal Paz; Raúl Pini, Secundino Arrascaeta; General Viana, Rodolfo Pini,Schubert Gambetta; Luis Ernesto Castro, Aníbal Ciocca, Atilio García, Roberto Porta, Bibiano Zapirain. 
+* Coach: Héctor Castro.
+Peñarol: Roque Gastón Máspoli; Agustín Prado, Sixto Possamai; José Pedro Colturi, Obdulio Varela, Luis Prais; José María Ortiz, Domingo Gelpi, Elmo Bovio, Lorenzo Pino, Ernesto Vidal. 
+* Coach: Aníbal Tejada]
+
+
+* Second Playoff [Dec 17, Estadio Centenario; attendance: 45,000]
+
+12/17/1944; Peñarol; 3-2; Nacional; Estadio Centenario; Genaro Cirilo, J. Benítez, Tecitore; 45000
+Luis Prais 37, Obdulio Varela (pk) 59, Ernesto Vidal 68; Atilio García 25, Atilio Garcia 28
+Peñarol: Roque Gastón Máspoli; Agustín Prado, Gerardo Spósito; José Pedro Colturi, Obdulio Varela, Luis Prais; José María Ortiz, Domingo Gelpi, Elmo Bovio, Lorenzo Pino, Ernesto Vidal. 
+* Coach: Aníbal Tejada.
+Nacional: Aníbal Paz; Raúl Pini, Secundino Arrascaeta; General Viana, Rodolfo Pini, Schubert Gambetta; Juan Alberto Bugallo, Aníbal Ciocca, Atilio García, Roberto Porta, Bibiano Zapirain. 
+* Coach: Héctor Castro
+
+* Peñarol Champions of Uruguay 1944.
+
+
+
+* About this document
+* Thanks to Humberto Arosteguiberry and Héctor Sicco
+* Prepared and maintained by Diego Antognazza, Diego Cervini and Martín Tabeira for the Rec.Sport.Soccer Statistics Foundation
+* Authors: Diego Antognazza (oguico@hotmail.com), Diego Cervini (dcervini@hotmail.com) and Martín Tabeira (martintab@hotmail.com) 
+* Last updated: 1 May 2004
+* (C) Copyright Diego Antognazza, Diego Cervini, Martín Tabeira and RSSSF 2004
+* You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

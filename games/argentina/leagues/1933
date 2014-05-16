@@ -1,0 +1,503 @@
+BlockSource: http://www.rsssf.com/tablesa/arg33.html
+Season: 1933
+Competition: Liga Argentina de Football
+
+
+*Table:
+*No. Team                               G    W    D    L    Gf    Ga    P
+*------------------------------------------------------------------------
+* 1. San Lorenzo de Almagro            34   22    6    6    81:   48   50  Champions
+* 2. Boca Juniors                      34   22    5    7    86:   47   49
+* 3. Racing Club (Argentina)                       34   21    6    7    76:   33   48  Cup Winners
+* 4. River Plate                       34   20    6    8    71:   36   46
+* 5. Gimnasia y Esgrima La Plata       34   21    4    9    90:   55   46
+* 6. Independiente                     34   18    5   11    54:   39   41
+* 7. Vélez Sarsfield                   34   15    8   11    60:   43   38
+* 8. Chacarita Juniors                 34   14    7   13    55:   61   35
+* 9. Platense                          34   11    9   14    61:   74   31
+*10. Estudiantes de La Plata           34   12    6   16    60:   65   30
+*11. Ferro Carril Oeste (Buenos Aires) 34    9   10   15    43:   56   28
+*12. Huracán (Buenos Aires)            34   10    7   17    49:   60   27
+*13. Quilmes                           34    8   10   16    41:   61   26  Relegated
+*14. Argentinos Juniors                34    8    9   17    45:   71   25  Relegated
+*15. Lanús                             34    7   10   17    52:   76   24  Relegated
+*16. Talleres (Remedios de Escalada)   34    7    9   18    61:   84   23  Relegated
+*17. Atlanta                           34    9    5   20    46:   70   23  Relegated
+*18. Tigre                             34    9    4   21    44:   96   22  Relegated
+
+Round: 1
+Date: 3/12/1933
+
+; Boca Juniors                      ; 0-1;  Racing Club (Argentina)
+; Chacarita Juniors                 ; 3-1;  Tigre
+; Estudiantes de La Plata           ; 0-2;  Gimnasia y Esgrima La Plata
+; Independiente (Avellaneda)        ; 1-0;  River Plate
+; Platense                          ; 1-1;  Ferro Carril Oeste (Buenos Aires)
+; Quilmes                           ; 2-0;  Atlanta; Ferro Carril Oeste
+; San Lorenzo de Almagro            ; 1-1;  Lanús
+; Talleres (Remedios de Escalada)   ; 2-2;  Huracán (Buenos Aires)
+; Vélez Sarsfield                   ; 4-0;  Argentinos Juniors
+
+Round: 2
+Date: 3/19/1933
+
+; Argentinos Juniors                ; 3-0;  Tigre
+; Atlanta                           ; 2-2;  Platense
+; Ferro Carril Oeste (Buenos Aires) ; 4-0;  Estudiantes de La Plata
+; Gimnasia y Esgrima La Plata       ; 4-0;  Vélez Sarsfield
+; Huracán (Buenos Aires)            ; 0-2;  Boca Juniors
+; Lanús                             ; 3-2;  Chacarita Juniors
+; Quilmes                           ; 2-2;  Talleres (Remedios de Escalada); Boca Juniors
+; Racing Club (Argentina)                       ; 2-1;  Independiente (Avellaneda)
+; River Plate                       ; 7-1;  San Lorenzo de Almagro
+
+Round: 3 
+Date: 3/26/1933
+
+; Boca Juniors                      ; 4-0;  Quilmes
+; Chacarita Juniors                 ; 2-2;  Argentinos Juniors
+; Estudiantes de La Plata           ; 3-0;  Atlanta
+; Independiente (Avellaneda)        ; 3-1;  Huracán (Buenos Aires)
+; Lanús                             ; 1-1;  River Plate
+; Platense                          ; 4-1;  Talleres (Remedios de Escalada)
+; San Lorenzo de Almagro            ; 2-0;  Racing Club (Argentina) 
+; Tigre                             ; 2-3;  Gimnasia y Esgrima La Plata 
+; Vélez Sarsfield                   ; 1-1;  Ferro Carril Oeste (Buenos Aires)  
+
+Round: 4 
+Date: 4/2/1933
+
+; Atlanta                           ; 1-3;  Vélez Sarsfield 
+; Ferro Carril Oeste (Buenos Aires) ; 2-0;  Tigre
+; Gimnasia y Esgrima La Plata       ; 5-2;  Argentinos Juniors
+; Huracán (Buenos Aires)            ; 1-2;  San Lorenzo de Almagro
+; Platense                          ; 1-0;  Boca Juniors
+; Quilmes                           ; 0-1;  Independiente (Avellaneda)
+; Racing Club (Argentina)                       ; 4-0;  Lanús
+; River Plate                       ; 0-1;  Chacarita Juniors
+; Talleres (Remedios de Escalada)   ; 1-1;  Estudiantes de La Plata
+
+Round: 5 
+Date: 4/9/1933
+
+; Argentinos Juniors                ; 1-0;  Ferro Carril Oeste (Buenos Aires)
+; Chacarita Juniors                 ; 1-5;  Gimnasia y Esgrima La Plata
+; Estudiantes de La Plata           ; 4-3;  Boca Juniors
+; Independiente (Avellaneda)        ; 6-3;  Platense
+; Lanús                             ; 2-4;  Huracán (Buenos Aires)
+; River Plate                       ; 2-1;  Racing Club (Argentina)
+; San Lorenzo de Almagro            ; 1-1;  Quilmes
+; Tigre                             ; 5-2;  Atlanta 
+; Vélez Sarsfield                   ; 3-1;  Talleres (Remedios de Escalada) 
+
+Round: 6 
+Date: 4/16/1933
+
+; Atlanta                           ; 3-1;  Argentinos Juniors 
+; Boca Juniors                      ; 3-1;  Vélez Sarsfield 
+; Estudiantes de La Plata           ; 0-0;  Independiente (Avellaneda) 
+; Ferro Carril Oeste (Buenos Aires) ; 0-0;  Gimnasia y Esgrima La Plata 
+; Huracán (Buenos Aires)            ; 2-0;  River Plate 
+; Platense                          ; 1-3;  San Lorenzo de Almagro 
+; Quilmes                           ; 6-2;  Lanús 
+; Racing Club (Argentina)                       ; 0-0;  Chacarita Juniors 
+; Talleres (Remedios de Escalada)   ; 2-1;  Tigre
+
+Round: 7 
+Date: 4/23/1933
+
+; Argentinos Juniors                ; 1-4;  Talleres (Remedios de Escalada); Platense
+; Chacarita Juniors                 ; 2-0;  Ferro Carril Oeste (Buenos Aires)  
+; Gimnasia y Esgrima La Plata       ; 2-0;  Atlanta 
+; Lanús                             ; 5-2;  Platense; Independiente (Avellaneda)
+; Racing Club (Argentina)                       ; 4-0;  Huracán (Buenos Aires); Boca Juniors
+; River Plate                       ; 1-0;  Quilmes; Huracán (Buenos Aires)
+; San Lorenzo de Almagro            ; 6-1;  Estudiantes de La Plata 
+; Tigre                             ; 1-6;  Boca Juniors 
+; Vélez Sarsfield                   ; 2-0;  Independiente (Avellaneda) 
+
+Round: 8 
+Date: 4/30/1933
+
+; Atlanta                           ; 2-0;  Ferro Carril Oeste (Buenos Aires)  
+; Boca Juniors                      ; 6-2;  Argentinos Juniors 
+; Estudiantes de La Plata           ; 4-1;  Lanús 
+; Huracán (Buenos Aires)            ; 0-1;  Chacarita Juniors 
+; Independiente (Avellaneda)        ; 7-0;  Tigre 
+; Platense                          ; 1-2;  River Plate 
+; Quilmes                           ; 2-0;  Racing Club (Argentina) 
+; Talleres (Remedios de Escalada)   ; 2-5;  Gimnasia y Esgrima La Plata 
+; Vélez Sarsfield                   ; 1-1;  San Lorenzo de Almagro 
+
+Round: 9 
+Date: 5/7/1933
+
+; Argentinos Juniors                ; 1-0;  Independiente (Avellaneda) 
+; Chacarita Juniors                 ; 1-3;  Atlanta 
+; Ferro Carril Oeste (Buenos Aires) ; 4-4;  Talleres (Remedios de Escalada); Boca Juniors
+; Gimnasia y Esgrima La Plata       ; 5-2;  Boca Juniors 
+; Huracán (Buenos Aires)            ; 0-0;  Quilmes 
+; Lanús                             ; 0-0;  Vélez Sarsfield 
+; Racing Club (Argentina)                       ; 2-3;  Platense 
+; River Plate                       ; 1-0;  Estudiantes de La Plata 
+; Tigre                             ; 0-1;  San Lorenzo de Almagro 
+
+Round: 10 
+Date: 5/14/1933
+
+; Boca Juniors                      ; 4-1;  Ferro Carril Oeste (Buenos Aires)  
+; Chacarita Juniors                 ; 6-3;  Quilmes 
+; Estudiantes de La Plata           ; 0-2;  Racing Club (Argentina) 
+; Independiente (Avellaneda)        ; 2-1;  Gimnasia y Esgrima La Plata 
+; Platense                          ; 3-1;  Huracán (Buenos Aires) 
+; San Lorenzo de Almagro            ; 1-1;  Argentinos Juniors
+; Talleres (Remedios de Escalada)   ; 4-0;  Atlanta
+; Tigre                             ; 2-2;  Lanús
+; Vélez Sarsfield                   ; 0-0;  River Plate
+
+Round: 11 
+Date: 5/21/1933
+
+; Argentinos Juniors                ; 2-3;  Lanús
+; Atlanta                           ; 1-2;  Boca Juniors
+; Ferro Carril Oeste (Buenos Aires) ; 1-2;  Independiente (Avellaneda)
+; Gimnasia y Esgrima La Plata       ; 4-2;  San Lorenzo de Almagro
+; Huracán (Buenos Aires)            ; 2-1;  Estudiantes de La Plata
+; Quilmes                           ; 3-0;  Platense
+; Racing Club (Argentina)                       ; 5-1;  Vélez Sarsfield
+; River Plate                       ; 5-0;  Tigre
+; Talleres (Remedios de Escalada)   ; 3-2;  Chacarita Juniors
+
+Round: 12
+Date: 5/28/1933
+
+; Argentinos Juniors                ; 1-2;  River Plate
+; Boca Juniors                      ; 3-2;  Talleres (Remedios de Escalada); River Plate
+; Estudiantes de La Plata           ; 2-1;  Quilmes 
+; Independiente (Avellaneda)        ; 4-0;  Atlanta 
+; Lanús                             ; 3-3;  Gimnasia y Esgrima La Plata 
+; Tigre                             ; 1-3;  Racing Club (Argentina); Ferro Carril Oeste (Buenos Aires)
+; Vélez Sarsfield                   ; 5-0;  Huracán (Buenos Aires) 
+
+Date: 5/31/1933
+
+; Chacarita Juniors                 ; 4-2;  Platense
+
+Date: 6/1/1933
+
+; San Lorenzo de Almagro            ; 3-1;  Ferro Carril Oeste (Buenos Aires)
+
+Round: 13 
+Date: 6/4/1933
+
+; Atlanta                           ; 1-2;  San Lorenzo de Almagro 
+; Boca Juniors                      ; 4-1;  Chacarita Juniors 
+; Ferro Carril Oeste (Buenos Aires) ; 2-1;  Lanús 
+; Gimnasia y Esgrima La Plata       ; 2-1;  River Plate 
+; Huracán (Buenos Aires)            ; 1-3;  Tigre 
+; Platense                          ; 3-2;  Estudiantes de La Plata 
+; Quilmes                           ; 0-0;  Vélez Sarsfield 
+; Racing Club (Argentina)                       ; 1-0;  Argentinos Juniors
+; Talleres (Remedios de Escalada)   ; 3-0;  Independiente (Avellaneda)
+
+Round: 14 
+Date: 6/11/1933
+
+; Argentinos Juniors                ; 2-0;  Huracán (Buenos Aires)
+; Chacarita Juniors                 ; 3-3;  Estudiantes de La Plata
+; Gimnasia y Esgrima La Plata       ; 1-1;  Racing Club (Argentina)
+; Independiente (Avellaneda)        ; 1-1;  Boca Juniors
+; Lanús                             ; 2-0;  Atlanta
+; River Plate                       ; 2-0;  Ferro Carril Oeste (Buenos Aires)
+; San Lorenzo de Almagro            ; 4-3;  Talleres (Remedios de Escalada)
+; Tigre                             ; 5-1;  Quilmes
+; Vélez Sarsfield                   ; 2-0;  Platense
+
+Round: 15 
+Date: 6/18/1933
+
+; Atlanta                           ; 1-2;  River Plate
+; Boca Juniors                      ; 2-2;  San Lorenzo de Almagro
+; Estudiantes de La Plata           ; 2-0;  Vélez Sarsfield
+; Ferro Carril Oeste (Buenos Aires) ; 0-0;  Racing Club (Argentina)
+; Huracán (Buenos Aires)            ; 2-4;  Gimnasia y Esgrima La Plata
+; Independiente (Avellaneda)        ; 2-1;  Chacarita Juniors
+; Platense                          ; 0-0;  Tigre
+; Quilmes                           ; 0-0;  Argentinos Juniors
+; Talleres (Remedios de Escalada)   ; 2-2;  Lanús
+
+Round: 16 
+Date: 6/25/1933
+
+; Argentinos Juniors                ; 2-2;  Platense
+; Chacarita Juniors                 ; 1-0;  Vélez Sarsfield
+; Ferro Carril Oeste (Buenos Aires) ; 0-0;  Huracán (Buenos Aires)
+; Gimnasia y Esgrima La Plata       ; 3-0;  Quilmes
+; Lanús                             ; 1-3;  Boca Juniors
+; Racing Club (Argentina)                       ; 3-2;  Atlanta
+; River Plate                       ; 4-2;  Talleres (Remedios de Escalada)
+; San Lorenzo de Almagro            ; 2-0;  Independiente (Avellaneda)
+; Tigre                             ; 1-4;  Estudiantes de La Plata
+
+Round: 17 
+Date: 7/2/1933
+
+; Atlanta                           ; 0-0;  Huracán (Buenos Aires) 
+; Boca Juniors                      ; 1-1;  River Plate 
+; Estudiantes de La Plata           ; 6-2;  Argentinos Juniors 
+; Independiente (Avellaneda)        ; 3-2;  Lanús 
+; Platense                          ; 4-2;  Gimnasia y Esgrima La Plata; River Plate
+; Quilmes                           ; 4-1;  Ferro Carril Oeste (Buenos Aires)  
+; San Lorenzo de Almagro            ; 1-0;  Chacarita Juniors 
+; Talleres (Remedios de Escalada)   ; 1-1;  Racing Club (Argentina) 
+; Vélez Sarsfield                   ; 6-0;  Tigre 
+
+Round: 18
+Date: 7/9/1933
+
+; Racing Club (Argentina)                       ; 1-0;  Boca Juniors
+
+Date: 7/16/1933
+
+; Argentinos Juniors                ; 1-3;  Vélez Sarsfield 
+; Atlanta                           ; 3-0;  Quilmes 
+; Ferro Carril Oeste (Buenos Aires) ; 1-1;  Platense 
+; Gimnasia y Esgrima La Plata       ; 1-0;  Estudiantes de La Plata 
+; Huracán (Buenos Aires)            ; 1-1;  Talleres (Remedios de Escalada) 
+; Lanús                             ; 2-2;  San Lorenzo de Almagro 
+; River Plate                       ; 1-1;  Independiente (Avellaneda) 
+; Tigre                             ; 2-0;  Chacarita Juniors 
+
+Round: 19 
+Date: 7/23/1933
+
+; Boca Juniors                      ; 3-2;  Huracán (Buenos Aires) 
+; Chacarita Juniors                 ; 4-2;  Lanús 
+; Estudiantes de La Plata           ; 1-0;  Ferro Carril Oeste (Buenos Aires)  
+; Independiente (Avellaneda)        ; 2-1;  Racing Club (Argentina) 
+; Platense                          ; 0-0;  Atlanta; River Plate
+; San Lorenzo de Almagro            ; 2-0;  River Plate 
+; Talleres (Remedios de Escalada)   ; 1-1;  Quilmes 
+; Tigre                             ; 1-1;  Argentinos Juniors 
+; Vélez Sarsfield                   ; 2-0;  Gimnasia y Esgrima La Plata 
+
+Round: 20 
+Date: 7/30/1933
+
+; Argentinos Juniors                ; 2-2;  Chacarita Juniors 
+; Atlanta                           ; 3-0;  Estudiantes de La Plata
+; Ferro Carril Oeste (Buenos Aires) ; 1-2;  Vélez Sarsfield
+; Gimnasia y Esgrima La Plata       ; 7-1;  Tigre
+; Huracán (Buenos Aires)            ; 3-0;  Independiente (Avellaneda)
+; Quilmes                           ; 0-0;  Boca Juniors
+; Racing Club (Argentina)                       ; 2-1;  San Lorenzo de Almagro
+; River Plate                       ; 5-3;  Lanús
+; Talleres (Remedios de Escalada)   ; 2-3;  Platense
+
+Round: 21
+Date: 8/6/1933
+
+; Argentinos Juniors                ; 2-1;  Gimnasia y Esgrima La Plata
+; Boca Juniors                      ; 2-2;  Platense
+; Chacarita Juniors                 ; 1-4;  River Plate
+; Estudiantes de La Plata           ; 1-4;  Talleres (Remedios de Escalada)
+; Independiente (Avellaneda)        ; 2-0;  Quilmes
+; Lanús                             ; 1-4;  Racing Club (Argentina)
+; San Lorenzo de Almagro            ; 1-4;  Huracán (Buenos Aires)
+; Tigre                             ; 0-3;  Ferro Carril Oeste (Buenos Aires)
+; Vélez Sarsfield                   ; 2-1;  Atlanta
+
+Round: 22 
+Date: 8/13/1933
+
+; Atlanta                           ; 4-2;  Tigre
+; Boca Juniors                      ; 3-2;  Estudiantes de La Plata
+; Ferro Carril Oeste (Buenos Aires) ; 1-1;  Argentinos Juniors
+; Gimnasia y Esgrima La Plata       ; 3-0;  Chacarita Juniors
+; Huracán (Buenos Aires)            ; 2-0;  Lanús
+; Platense                          ; 2-1;  Independiente (Avellaneda)
+; Quilmes                           ; 0-1;  San Lorenzo de Almagro
+; Racing Club (Argentina)                       ; 3-0;  River Plate
+; Talleres (Remedios de Escalada)   ; 0-1;  Vélez Sarsfield
+
+Round: 23 
+Date: 8/20/1933
+
+; Argentinos Juniors                ; 2-1;  Atlanta
+; Chacarita Juniors                 ; 2-1;  Racing Club (Argentina)
+; Gimnasia y Esgrima La Plata       ; 1-0;  Ferro Carril Oeste (Buenos Aires)
+; Independiente (Avellaneda)        ; 0-0;  Estudiantes de La Plata
+; Lanús                             ; 1-1;  Quilmes
+; River Plate                       ; 0-0;  Huracán (Buenos Aires)
+; San Lorenzo de Almagro            ; 3-1;  Platense
+; Tigre                             ; 1-0;  Talleres (Remedios de Escalada)
+; Vélez Sarsfield                   ; 2-4;  Boca Juniors
+
+Round: 24 
+Date: 8/27/1933
+
+; Atlanta                           ; 2-1;  Gimnasia y Esgrima La Plata
+; Boca Juniors                      ; 2-1;  Tigre
+; Estudiantes de La Plata           ; 2-1;  San Lorenzo de Almagro
+; Ferro Carril Oeste (Buenos Aires) ; 1-1;  Chacarita Juniors
+; Huracán (Buenos Aires)            ; 2-1;  Racing Club (Argentina)
+; Independiente (Avellaneda)        ; 1-0;  Vélez Sarsfield
+; Platense                          ; 3-0;  Lanús
+; Quilmes                           ; 0-2;  River Plate
+; Talleres (Remedios de Escalada)   ; 2-2;  Argentinos Juniors
+
+Round: 25 
+Date: 9/3/1933
+
+; Argentinos Juniors                ; 2-3;  Boca Juniors 
+; Chacarita Juniors                 ; 1-0;  Huracán (Buenos Aires) 
+; Ferro Carril Oeste (Buenos Aires) ; 3-3;  Atlanta 
+; Gimnasia y Esgrima La Plata       ; 7-1;  Talleres (Remedios de Escalada) 
+; Lanús                             ; 1-1;  Estudiantes de La Plata 
+; Racing Club (Argentina)                       ; 4-0;  Quilmes 
+; River Plate                       ; 5-0;  Platense 
+; San Lorenzo de Almagro            ; 4-2;  Vélez Sarsfield 
+; Tigre                             ; 1-3;  Independiente (Avellaneda) 
+
+Round: 26
+Date: 9/10/1933
+
+; Estudiantes de La Plata           ; 2-3;  River Plate 
+; Independiente (Avellaneda)        ; 3-1;  Argentinos Juniors 
+; Platense                          ; 1-2;  Racing Club (Argentina) 
+; Quilmes                           ; 4-2;  Huracán (Buenos Aires) 
+; Talleres (Remedios de Escalada)   ; 3-1;  Ferro Carril Oeste (Buenos Aires)  
+
+Date: 9/24/1933
+
+; Atlanta                           ; 1-2;  Chacarita Juniors
+; Boca Juniors                      ; 3-2;  Gimnasia y Esgrima La Plata
+; San Lorenzo de Almagro            ; 5-2;  Tigre
+; Vélez Sarsfield                   ; 2-0;  Lanús
+
+Round: 27 
+Date: 10/1/1933
+
+; Argentinos Juniors                ; 2-3;  San Lorenzo de Almagro 
+; Atlanta                           ; 3-1;  Talleres (Remedios de Escalada) 
+; Ferro Carril Oeste (Buenos Aires) ; 0-4;  Boca Juniors 
+; Gimnasia y Esgrima La Plata       ; 2-1;  Independiente (Avellaneda) 
+; Huracán (Buenos Aires)            ; 4-2;  Platense 
+; Lanús                             ; 4-0;  Tigre 
+; Quilmes                           ; 1-0;  Chacarita Juniors 
+; Racing Club (Argentina)                       ; 4-2;  Estudiantes de La Plata 
+; River Plate                       ; 3-0;  Vélez Sarsfield 
+
+Round: 28 
+Date: 10/8/1933
+
+; Boca Juniors                      ; 3-1;  Atlanta 
+; Chacarita Juniors                 ; 3-2;  Talleres (Remedios de Escalada)
+; Estudiantes de La Plata           ; 3-2;  Huracán (Buenos Aires)
+; Independiente (Avellaneda)        ; 0-2;  Ferro Carril Oeste (Buenos Aires)
+; Lanús                             ; 1-0;  Argentinos Juniors
+; Platense                          ; 5-2;  Quilmes
+; San Lorenzo de Almagro            ; 7-1;  Gimnasia y Esgrima La Plata
+; Tigre                             ; 2-1;  River Plate
+; Vélez Sarsfield                   ; 1-1;  Racing Club (Argentina)
+
+Round: 29 
+Date: 10/15/1933
+
+; Atlanta                           ; 0-2;  Independiente (Avellaneda)
+; Ferro Carril Oeste (Buenos Aires) ; 1-5;  San Lorenzo de Almagro
+; Gimnasia y Esgrima La Plata       ; 3-0;  Lanús
+; Huracán (Buenos Aires)            ; 1-1;  Vélez Sarsfield
+; Platense                          ; 1-1;  Chacarita Juniors
+; Quilmes                           ; 3-1;  Estudiantes de La Plata
+; Racing Club (Argentina)                       ; 7-0;  Tigre
+; River Plate                       ; 2-0;  Argentinos Juniors 
+; Talleres (Remedios de Escalada)   ; 0-3;  Boca Juniors 
+
+Round: 30-
+Date: 10/22/1933
+
+* Argentinos Juniors                 abd  Racing Club (Argentina)                       [abandoned at 1-0 in 33]
+; Chacarita Juniors                 ; 1-4;  Boca Juniors 
+; Estudiantes de La Plata           ; 5-1;  Platense 
+; Independiente (Avellaneda)        ; 3-2;  Talleres (Remedios de Escalada) 
+; Lanús                             ; 0-2;  Ferro Carril Oeste (Buenos Aires)  
+; River Plate                       ; 5-2;  Gimnasia y Esgrima La Plata 
+; San Lorenzo de Almagro            ; 5-2;  Atlanta 
+; Tigre                             ; 1-0;  Huracán (Buenos Aires) 
+; Vélez Sarsfield                   ; 5-0;  Quilmes 
+
+Date: 11/2/1933
+
+; Argentinos Juniors                ; 1-1;  Racing Club (Argentina)                      
+*  [57 minutes remaining]
+
+Round: 31 
+Date: 10/29/1933
+
+; Atlanta                           ; 2-1;  Lanús 
+; Boca Juniors                      ; 2-0;  Independiente (Avellaneda) 
+; Estudiantes de La Plata           ; 2-2;  Chacarita Juniors 
+; Ferro Carril Oeste (Buenos Aires) ; 3-2;  River Plate 
+; Huracán (Buenos Aires)            ; 2-0;  Argentinos Juniors 
+; Platense                          ; 2-2;  Vélez Sarsfield 
+; Quilmes                           ; 1-1;  Tigre 
+; Racing Club (Argentina)                       ; 4-1;  Gimnasia y Esgrima La Plata 
+; Talleres (Remedios de Escalada)   ; 1-3;  San Lorenzo de Almagro 
+
+Round: 32 
+Date: 11/5/1933
+
+; Argentinos Juniors                ; 2-1;  Quilmes 
+; Chacarita Juniors                 ; 2-1;  Independiente (Avellaneda) 
+; Gimnasia y Esgrima La Plata       ; 4-1;  Huracán (Buenos Aires) 
+; Lanús                             ; 4-1;  Talleres (Remedios de Escalada)  ; Boca Juniors
+; Racing Club (Argentina)                       ; 3-1;  Ferro Carril Oeste (Buenos Aires)  
+; River Plate                       ; 1-1;  Atlanta 
+; San Lorenzo de Almagro            ; 2-0;  Boca Juniors 
+; Tigre                             ; 4-1;  Platense 
+; Vélez Sarsfield                   ; 3-0;  Estudiantes de La Plata 
+
+Round: 33
+Date: 11/12/1933
+
+; Atlanta                           ; 1-2;  Racing Club (Argentina) 
+; Boca Juniors                      ; 3-1;  Lanús 
+; Estudiantes de La Plata           ; 4-0;  Tigre 
+; Huracán (Buenos Aires)            ; 2-4;  Ferro Carril Oeste (Buenos Aires)  
+; Independiente (Avellaneda)        ; 1-0;  San Lorenzo de Almagro 
+; Platense                          ; 4-1;  Argentinos Juniors 
+; Quilmes                           ; 2-2;  Gimnasia y Esgrima La Plata 
+; Talleres (Remedios de Escalada)   ; 0-3;  River Plate 
+; Vélez Sarsfield                   ; 1-2;  Chacarita Juniors 
+
+Round: 34
+Date: 11/19/1933
+
+; Argentinos Juniors                ; 2-1;  Estudiantes de La Plata
+; Chacarita Juniors                 ; 0-1;  San Lorenzo de Almagro
+; Ferro Carril Oeste (Buenos Aires) ; 1-0;  Quilmes 
+; Gimnasia y Esgrima La Plata       ; 1-0;  Platense 
+
+; Lanús                             ; 0-0;  Independiente (Avellaneda)
+; Racing Club (Argentina)                       ; 5-1;  Talleres (Remedios de Escalada)
+; River Plate                       ; 3-1;  Boca Juniors
+; Tigre                             ; 3-2;  Vélez Sarsfield
+
+11/18/1933; Huracán (Buenos Aires)            ; 5-0;  Atlanta
+                         
+*San Lorenzo de Almagro won the championship in this round with the following line-ups-
+
+11/19/1933; Chacarita Juniors; 0-1; San Lorenzo de Almagro; ; Adolfo Mendilaharzu; 8500
+; García 20
+Chacarita Juniors:      Eduardo Alterio; Víctor Miguel Valussi, Juan Carlos Iribarren; Ernesto Emilio Duchini, Carlos Richardi, Juan Cardelli; Irineo Velázquez, Antonio Ruiz Díaz, Héctor Rosello, Benjamín Coria, Ricardo Barraza.
+San Lorenzo de Almagro: Jaime Lema; Félix Pacheco, José Hipólito Fossa; Alberto Chividini, Mario Rosario Scavone, Cipriano Achinelli; Gabriel Magán, Genaro Canteli, Petronilo do Britos, Diego García, Arturo Arrieta.
+
+
+*About this document
+*Sources- [CIHF -], [Ram -], newspapers- La Prensa, El Mundo.
+*Prepared and maintained by Osvaldo José Gorgazzi for the Rec.Sport.Soccer Statistics Foundation
+*Author- Osvaldo José Gorgazzi (osvaldogorgazzi@yahoo.com.ar) 
+*Last updated: 28 Aug 2009
+*(C) Copyright Osvaldo José Gorgazzi and RSSSF 2000/09
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

@@ -1,0 +1,315 @@
+BlockSource: http://www.rsssf.com/tablesc/chile51.html
+Season: 1951
+Competition: Chilean Primera Division
+
+*Table:
+* 1.Audax Italiano       22 13  4  5  44-29  30  Championship Group
+* 2.Everton                 22 12  5  5  54-36  29  Championship Group
+* 3.Colo Colo               22 11  6  5  45-35  28  Championship Group
+* 4.Unión Española          22 11  5  6  53-44  27  Championship Group
+* 5.Santiago Morning        22 11  4  7  50-30  26  Championship Group
+* 6.Universidad de Chile    22  8  9  5  33-32  25  Championship Group
+* - - - - - - - - - - - - - - - - - - - - - - -
+* 7.Universidad Catolica  22  9  6  7  46-34  24  Relegation Group    
+* 8.Iberia                22  9  2 11  44-43  20  Relegation Group    
+* 9.Santiago Wanderers    22  6  6 10  35-39  18  Relegation Group    
+*10.Magallanes                22  5  5 12  37-57  15  Relegation Group    
+*11.Ferrobádminton            22  4  3 15  33-65  11  Relegation Group    
+*12.Green Cross                   22  4  3 15  30-60  11  Relegation Group    
+
+Round: 1
+; Santiago Morning       ; 3-0; Green Cross
+; Iberia                     ; 2-1; Everton  
+; Audax Italiano                 ; 2-1; Universidad Catolica
+; Ferrobádminton                     ; 1-1; Santiago Wanderers
+; Colo Colo                              ; 2-2; Universidad de Chile
+; Magallanes                                 ; 4-2; Unión Española
+
+Round: 2
+; Iberia                 ; 5-3; Green Cross
+; Magallanes                 ; 1-1; Colo Colo
+; Audax Italiano                 ; 2-1; Santiago Wanderers          
+; Santiago Morning               ; 4-2; Unión Española
+; Ferrobádminton                     ; 4-4; Universidad Catolica
+; Everton                                            ; 3-1; Universidad de Chile
+
+Round: 3
+; Audax Italiano         ; 4-1; Santiago Morning             
+; Universidad Catolica   ; 3-0; Iberia   
+; Santiago Wanderers     ; 7-2; Magallanes
+; Unión Española             ; 4-0; Universidad de Chile
+; Everton                                    ; 2-0; Green Cross
+; Colo Colo                                      ; 5-3; Ferrobádminton
+
+Round: 4
+; Magallanes             ; 3-1; Ferrobádminton      
+; Universidad de Chile   ; 2-2; Iberia
+; Colo Colo     ; 2-1; Universidad Catolica
+; Audax Italiano    ; 4-1; Green Cross
+; Santiago Morning  ; 5-0; Santiago Wanderers
+; Everton               ; 4-3; Unión Española
+
+Round: 5
+; Santiago Morning       ; 2-0; Ferrobádminton
+; Audax Italiano             ; 2-1; Iberia
+; Everton                                ; 4-0; Magallanes
+; Green Cross                                ; 6-4; Unión Española
+; Colo Colo                                      ; 2-0; Santiago Wanderers  
+; Universidad Catolica                           ; 3-1; Universidad de Chile
+
+Round: 6
+; Magallanes             ; 1-3; Green Cross
+; Universidad de Chile   ; 1-1; Audax Italiano
+; Colo Colo     ; 1-3; Santiago Morning
+; Universidad Catolica       ; 2-2; Unión Española
+; Ferrobádminton                 ; 2-4; Everton
+; Iberia                                 ; 1-0; Santiago Wanderers
+
+Round: 7
+; Iberia                 ; 2-1; Colo Colo
+; Green Cross                ; 1-2; Universidad de Chile             
+; Everton                                    ; 1-3; Santiago Morning
+; Audax Italiano                                 ; 2-1; Magallanes
+; Ferrobádminton                                     ; 1-3; Unión Española
+; Universidad Catolica                               ; 3-4; Santiago Wanderers      
+
+Round: 8
+; Universidad de Chile   ; 1-0; Santiago Wanderers
+; Green Cross   ; 2-6; Ferrobádminton
+; Universidad Catolica   ; 1-1; Magallanes
+; Santiago Morning       ; 0-0; Iberia
+; Audax Italiano             ; 1-1; Unión Española  
+; Colo Colo                      ; 1-2; Everton
+
+Round: 9
+; Magallanes             ; 4-1; Iberia               
+; Santiago Wanderers     ; 3-0; Everton
+; Audax Italiano             ; 3-3; Ferrobádminton
+; Santiago Morning           ; 0-1; Universidad de Chile
+; Green Cross                    ; 1-0; Universidad Catolica
+; Colo Colo                          ; 3-3; Unión Española
+
+Round: 10
+; Ferrobádminton         ; 3-2; Iberia
+; Colo Colo                  ; 2-0; Green Cross      
+; Everton                              ; 1-1; Audax Italiano
+; Unión Española                           ; 5-2; Santiago Wanderers
+; Magallanes                                   ; 1-1; Universidad de Chile  
+; Universidad Catolica                         ; 1-0; Santiago Morning
+
+Round: 11
+; Magallanes             ; 0-6; Santiago Morning
+; Ferrobádminton             ; 0-3; Universidad de Chile
+; Everton                                    ; 2-4; Universidad Catolica
+; Santiago Wanderers                         ; 2-2; Green Cross
+; Iberia                                         ; 1-3; Unión Española
+; Colo Colo                                          ; 3-1; Audax Italiano
+
+Round: 12
+; Green Cross            ; 4-4; Santiago Morning    
+; Everton                             ; 3-1; Iberia          
+; Universidad Catolica                ; 3-0; Audax Italiano  
+; Santiago Wanderers                  ; 0-1; Ferrobádminton
+; Universidad de Chile                ; 1-2; Colo Colo
+; Unión Española                      ; 4-2; Magallanes
+
+Round: 13
+; Green Cross            ; 0-3; Iberia
+; Colo Colo                  ; 2-1; Magallanes      
+; Santiago Wanderers         ; 2-1; Audax Italiano           
+; Unión Española                 ; 1-3; Santiago Morning     
+; Universidad Catolica           ; 5-2; Ferrobádminton
+; Universidad de Chile           ; 2-2; Everton
+
+Round: 14
+; Santiago Morning       ; 0-2; Audax Italiano
+; Iberia                     ; 2-4; Universidad Catolica
+; Magallanes                     ; 2-2; Santiago Wanderers  
+; Universidad de Chile           ; 1-4; Unión Española
+; Green Cross   ; 0-4; Everton
+; Ferrobádminton    ; 1-3; Colo Colo
+
+Round: 15
+; Ferrobádminton         ; 3-0; Magallanes
+; Iberia                         ; 2-3; Universidad de Chile
+; Universidad Catolica           ; 2-3; Colo Colo
+; Green Cross                    ; 1-2; Audax Italiano      
+; Santiago Wanderers             ; 3-1; Santiago Morning
+; Unión Española                     ; 2-2; Everton
+
+Round: 16
+; Ferrobádminton         ; 0-4; Santiago Morning    
+; Iberia                              ; 0-1; Audax Italiano          
+; Magallanes                              ; 2-3; Everton
+; Unión Española                              ; 3-2; Green Cross    
+; Santiago Wanderers                          ; 2-2; Colo Colo
+; Universidad de Chile                        ; 2-2; Universidad Catolica
+
+Round: 17
+; Green Cross            ; 0-6; Magallanes
+; Audax Italiano             ; 1-2; Universidad de Chile    
+; Santiago Morning           ; 0-1; Colo Colo       
+; Unión Española                 ; 2-1; Universidad Catolica
+; Everton                                        ; 6-1; Ferrobádminton
+; Santiago Wanderers                             ; 1-2; Iberia
+
+Round: 18
+; Colo Colo              ; 4-2; Iberia
+; Universidad de Chile   ; 2-0; Green Cross
+; Santiago Morning       ; 4-1; Everton     
+; Magallanes                 ; 1-4; Audax Italiano
+; Unión Española                 ; 1-0; Ferrobádminton
+; Santiago Wanderers             ; 1-2; Universidad Catolica
+
+Round: 19
+; Santiago Wanderers     ; 0-0; Universidad de Chile
+; Ferrobádminton             ; 1-3; Green Cross
+; Magallanes                     ; 2-1; Universidad Catolica
+; Iberia                                         ; 4-2; Santiago Morning    
+; Unión Española                                     ; 0-3; Audax Italiano
+; Everton                                                      ; 2-2; Colo Colo
+
+Round: 20
+; Iberia                 ; 5-0; Magallanes  
+; Everton                                ; 4-2; Santiago Wanderers           
+; Ferrobádminton                             ; 0-4; Audax Italiano
+; Universidad de Chile                       ; 1-1; Santiago Morning        
+; Universidad Catolica                       ; 2-0; Green Cross
+; Unión Española                                 ; 1-0; Colo Colo
+
+Round: 21
+; Iberia                 ; 4-0; Ferrobádminton
+; Green Cross                ; 1-1; Colo Colo       
+; Audax Italiano                 ; 0-3; Everton              
+; Santiago Wanderers             ; 0-0; Unión Española
+; Universidad de Chile           ; 1-1; Magallanes
+; Santiago Morning               ; 1-1; Universidad Catolica
+
+Round: 22
+; Santiago Morning       ; 3-2; Magallanes
+; Universidad de Chile   ; 3-0; Ferrobádminton
+; Universidad Catolica   ; 0-0; Everton     
+; Green Cross            ; 0-1; Santiago Wanderers
+; Unión Española             ; 3-2; Iberia
+; Audax Italiano                 ; 3-2; Colo Colo
+
+*Second Stage
+Group: Championship Group
+*Table:
+* 1.Unión Española        5  4  1  0  19-10   9 
+* 2.Audax Italiano         5  3  0  2  11-13   6
+* 3.Universidad de Chile    5  2  1  2   5- 6   5
+* 4.Colo Colo       5  2  0  3   7- 7   4
+* 5.Santiago Morning    5  2  0  3  11-12   4
+* 6.Everton              5  1  0  4   9-14   2
+
+Round: 1
+; Audax Italiano         ; 2-6; Unión Española
+; Universidad de Chile   ; 1-4; Everton
+; Santiago Morning       ; 2-1; Colo Colo
+
+Round: 2
+; Unión Española         ; 1-1; Universidad de Chile
+; Colo Colo                  ; 1-0; Everton
+; Audax Italiano                 ; 4-2; Santiago Morning
+
+Round: 3
+; Audax Italiano         ; 1-0; Universidad de Chile
+; Colo Colo                  ; 2-4; Unión Española
+; Everton                              ; 1-4; Santiago Morning
+
+Round: 4
+; Audax Italiano         ; 0-3; Colo Colo
+; Unión Española             ; 4-2; Everton
+; Universidad de Chile       ; 2-0; Santiago Morning
+
+Round: 5
+; Audax Italiano         ; 4-2; Everton
+; Universidad de Chile   ; 1-0; Colo Colo
+; Unión Española         ; 4-3; Santiago Morning
+
+*Table:
+* 1.Unión Española        5  4  1  0  19-10   9 
+* 2.Audax Italiano         5  3  0  2  11-13   6
+* 3.Universidad de Chile    5  2  1  2   5- 6   5
+* 4.Colo Colo       5  2  0  3   7- 7   4
+* 5.Santiago Morning    5  2  0  3  11-12   4
+* 6.Everton              5  1  0  4   9-14   2
+
+*Aggregate Final Table:
+* 1.UNIÓN ESPAÑOLA       27 15  6  6  72-54  36  Playoff
+* 2.Audax Italiano       27 16  4  7  55-42  36  Playoff
+* 3.Colo Colo               27 13  6  8  52-42  32  
+* 4.Everton                    27 13  5  9  63-50  31  (Viña del Mar) 
+* 5.Santiago Morning           27 13  4 10  61-42  30
+* 6.Universidad de Chile       27 10 10  7  38-38  30
+
+Round: Final 
+12/13/1951; Union Espanola; 1-0; Audax Italiano
+
+*Unión Española were the champions
+
+*Relegation Group
+*Table:
+* 1.Green Cross           5  4  0  1  13- 7   8
+* 2.Magallanes                5  3  1  1  11- 8   7
+* 3.Santiago Wanderers         5  2  2  1   7- 7   6
+* 4.Ferrobádminton              5  2  0  3  11-13   4
+* 5.Iberia                          5  1  1  3  12-14   3  
+* 6.Universidad Catolica             5  1  0  4  13-18   2
+
+Round: 1
+; Santiago Wanderers     ; 0-2; Green Cross
+; Iberia                     ; 4-5; Universidad Catolica
+; Magallanes                     ; 4-2; Ferrobádminton
+
+Round: 2
+; Iberia                 ; 2-2; Santiago Wanderers
+; Magallanes                 ; 3-2; Universidad Catolica
+; Ferrobádminton                 ; 2-1; Green Cross
+
+Round: 3
+; Magallanes             ; 2-1; Iberia
+; Ferrobádminton             ; 1-2; Santiago Wanderers
+; Green Cross                    ; 4-1; Universidad Catolica
+
+Round: 4
+; Santiago Wanderers     ; 0-0; Magallanes
+; Ferrobádminton             ; 4-3; Universidad Catolica
+; Green Cross                    ; 3-2; Iberia
+
+Round: 5
+; Iberia                 ; 3-2; Ferrobádminton
+; Green Cross                ; 3-2; Magallanes
+; Santiago Wanderers         ; 3-2; Universidad Catolica
+
+*Table:
+* 1.Green Cross           5  4  0  1  13- 7   8
+* 2.Magallanes                5  3  1  1  11- 8   7
+* 3.Santiago Wanderers         5  2  2  1   7- 7   6
+* 4.Ferrobádminton              5  2  0  3  11-13   4
+* 5.Iberia                          5  1  1  3  12-14   3  
+* 6.Universidad Catolica             5  1  0  4  13-18   2
+
+*Aggregate Final Table:
+* 7.Universidad Catolica 27 10  6 11  59-52  26
+* 8.Santiago Wanderers   27  8  8 11  42-46  24  (Valparaíso)
+* 9.Iberia               27 10  3 14  56-57  23   
+*10.Magallanes              27  8  6 13  48-65  22
+*11.Green Cross                 27  8  3 16  43-67  19
+*----------------------------------------------
+*12.Ferrobádminton       27  6  3 18  44-78  15  [*]
+
+*[*] Ferrobádminton were not relegated, apparently due to a rule 
+*    (the existence of which is unconfirmed) indicating that none of
+*    the teams that played in the first championship (1933, which
+*    applied to Ferrobádminton as merger of Ferroviarios and Badminton)
+*    could be relegated
+
+
+*About this document
+*Prepared and maintained by Eduardo Espina for the Rec.Sport.Soccer Statistics Foundation
+*Author: Eduardo Espina (ecem54 at chile.com)
+*Last updated: 31 Jul 2005
+*(C) Copyright Eduardo Espina and RSSSF 2005
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

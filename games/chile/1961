@@ -1,0 +1,312 @@
+BlockSource: http://www.rsssf.com/tablesc/chile61.html
+Season: 1961
+Competition: Chilean Primera Division
+
+* 1.UNIVERSIDAD CATÓLICA 26 15  8  3  69-35  38  Championship Playoff
+* 2.Universidad de Chile 26 13 12  1  55-28  38  Championship Playoff
+* 3.Colo Colo      26 13  9  4  80-47  35   
+* 4.Santiago Morning  26 12  9  5  52-34  33        
+* 5.Everton           26 11  9  6  45-40  31  (Viña del Mar) 
+* 6.Santiago Wanderers   26 11  5 10  46-49  27  (Valparaíso)   
+* 7.O'Higgins               26 11  4 11  41-40  26  (Rancagua)     
+* 8.Unión Española          26 10  6 10  51-55  26   
+* 9.Palestino                  26 11  3 12  47-60  25      
+*10.Ferrobádminton             26  7  8 11  38-52  22      
+*11.Audax Italiano             26  7  7 12  46-57  21  
+*12.Green Cross                    26  4  7 15  39-56  15  
+*13.San Luis                           26  5  5 16  36-58  15  (Quillota)  
+*14.Rangers                                26  2  8 16  31-65  12  (Talca)      
+
+*NB: no relegation
+*Promoted: Unión Calera (La Calera), Unión San Felipe (San Felipe),
+*          La Serena (La Serena) and Magallanes (Santiago)
+
+Round: 1
+
+; Santiago Morning       ; 2-0; Ferrobádminton
+; Universidad de Chile   ; 3-3; Palestino    
+; Green Cross   ; 4-1; San Luis
+; Universidad Catolica  ; 1-1; Audax Italiano
+; Colo Colo             ; 5-3; O'Higgins
+; Rangers                        ; 4-2; Santiago Wanderers
+; Unión Española                     ; 2-1; Everton
+
+Round: 2
+
+; Rangers                ; 0-2; Everton
+; Santiago Wanderers     ; 1-1; Colo Colo                   
+; Ferrobádminton             ; 0-2; O'Higgins                       
+; San Luis                       ; 0-1; Universidad de Chile
+; Santiago Morning               ; 3-1; Green Cross
+; Palestino                          ; 2-1; Audax Italiano
+; Universidad Catolica               ; 5-2; Unión Española
+
+Round: 3
+
+; Unión Española         ; 2-5; Palestino            
+; Universidad de Chile   ; 0-0; Santiago Morning     
+; Ferrobádminton         ; 0-1; Santiago Wanderers
+; O'Higgins                  ; 0-0; Green Cross
+; Audax Italiano                 ; 1-1; San Luis                    
+; Rangers                                ; 2-2; Colo Colo
+; Everton                                         ; 2-3; Universidad Catolica
+
+Round: 4
+
+; Colo Colo              ; 6-2; Everton     
+; Rangers                                ; 0-1; Ferrobádminton
+; Santiago Wanderers                     ; 1-0; Green Cross
+; Universidad de Chile                   ; 3-2; O'Higgins                   
+; San Luis      ; 1-3; Unión Española
+; Santiago Morning  ; 0-0; Audax Italiano
+; Palestino             ; 2-1; Universidad Catolica
+
+Round: 5
+
+; Everton                ; 1-0; Palestino
+; San Luis                   ; 0-3; Universidad Catolica
+; Universidad de Chile       ; 2-1; Santiago Wanderers
+; O'Higgins     ; 2-1; Audax Italiano
+; Rangers                 ; 1-0; Green Cross        
+; Unión Española              ; 1-3; Santiago Morning
+; Colo Colo                       ; 1-1; Ferrobádminton
+
+Round: 6
+
+; Colo Colo              ; 1-3; Green Cross
+; Ferrobádminton             ; 1-3; Everton                 
+; Universidad de Chile       ; 3-0; Rangers
+; Santiago Morning           ; 1-1; Universidad Catolica
+; Santiago Wanderers         ; 3-3; Audax Italiano
+; Unión Española                 ; 1-0; O'Higgins
+; Palestino                          ; 4-1; San Luis
+
+Round: 7
+
+; Colo Colo              ; 1-1; Universidad de Chile
+; Ferrobádminton                         ; 2-1; Green Cross          
+; San Luis                                   ; 1-1; Everton
+; Audax Italiano                                 ; 2-0; Rangers                     
+; Universidad Catolica                           ; 2-1; O'Higgins
+; Palestino                                      ; 2-1; Santiago Morning    
+; Unión Española                                     ; 2-1; Santiago Wanderers
+
+Round: 8
+
+; Green Cross            ; 2-2; Everton
+; Santiago Morning       ; 3-1; San Luis
+; O'Higgins                  ; 3-0; Palestino
+; Rangers                                ; 4-4; Unión Española
+; Santiago Wanderers                     ; 1-4; Universidad Catolica        
+; Colo Colo                                  ; 7-2; Audax Italiano
+; Ferrobádminton                                 ; 1-1; Universidad de Chile
+
+Round: 9
+
+; Palestino              ; 2-1; Santiago Wanderers           
+; Colo Colo                  ; 3-3; Unión Española                          
+; Universidad de Chile       ; 2-0; Green Cross
+; Everton                    ; 2-0; Santiago Morning
+; Universidad Catolica       ; 4-1; Rangers
+; O'Higgins                  ; 3-1; San Luis
+; Audax Italiano                 ; 1-1; Ferrobádminton
+
+Round: 10
+
+; Unión Española         ; 4-1; Ferrobádminton
+; Audax Italiano             ; 5-0; Green Cross      
+; Colo Colo                      ; 3-0; Universidad Catolica
+; O'Higgins                          ; 2-0; Santiago Morning                        
+; Santiago Wanderers                 ; 4-1; San Luis 
+; Rangers                                ; 1-1; Palestino
+; Universidad de Chile                   ; 1-1; Everton
+
+Round: 11
+
+; Everton                ; 0-0; O'Higgins
+; Santiago Morning       ; 1-1; Santiago Wanderers
+; San Luis               ; 3-2; Rangers
+; Palestino                  ; 5-7; Colo Colo
+; Universidad Catolica       ; 4-1; Ferrobádminton
+; Unión Española                 ; 2-1; Green Cross
+; Audax Italiano                     ; 1-6; Universidad de Chile
+
+Round: 12
+
+; Everton                ; 2-1; Audax Italiano                              
+; Universidad Catolica   ; 1-1; Green Cross                                          
+; Colo Colo              ; 3-0; San Luis                                             
+; Rangers                        ; 1-1; Santiago Morning
+; Palestino                          ; 1-1; Ferrobádminton
+; Universidad de Chile               ; 4-4; Unión Española
+; O'Higgins     ; 2-1; Santiago Wanderers
+
+Round: 13
+
+; Universidad de Chile   ; 0-0; Universidad Catolica
+; Everton                ; 1-3; Santiago Wanderers  
+; O'Higgins                  ; 0-0; Rangers                  
+; San Luis                       ; 2-3; Ferrobádminton       
+; Colo Colo                          ; 3-3; Santiago Morning
+; Palestino                              ; 2-1; Green Cross
+; Unión Española                             ; 3-2; Audax Italiano
+
+Round: 14
+
+; Ferrobádminton         ; 2-3; Santiago Morning
+; Palestino                  ; 2-4; Universidad de Chile
+; San Luis                       ; 1-0; Green Cross 
+; Audax Italiano                     ; 0-2; Universidad Catolica
+; O'Higgins                              ; 2-1; Colo Colo                   
+; Santiago Wanderers                     ; 2-0; Rangers
+; Everton                                    ; 1-0; Unión Española
+
+Round: 15
+
+; Everton                ; 3-2; Rangers
+; Colo Colo                  ; 2-3; Santiago Wanderers
+; O'Higgins                      ; 0-1; Ferrobádminton
+; Universidad de Chile           ; 1-0; San Luis    
+; Green Cross   ; 2-3; Santiago Morning
+; Audax Italiano    ; 4-2; Palestino
+; Unión Española        ; 2-3; Universidad Catolica
+
+Round: 16
+
+; Palestino              ; 2-0; Unión Española      
+; Santiago Morning       ; 0-0; Universidad de Chile                 
+; Santiago Wanderers     ; 3-1; Ferrobádminton
+; Green Cross                ; 4-3; O'Higgins       
+; San Luis                       ; 1-1; Audax Italiano
+; Colo Colo                          ; 1-1; Rangers
+; Universidad Catolica               ; 2-2; Everton
+
+Round: 17
+
+; Everton                ; 0-4; Colo Colo
+; Ferrobádminton             ; 2-1; Rangers 
+; Green Cross                    ; 0-2; Santiago Wanderers           
+; O'Higgins                          ; 0-1; Universidad de Chile
+; Unión Española                         ; 2-2; San Luis
+; Audax Italiano                             ; 2-0; Santiago Morning
+; Universidad Catolica                       ; 7-1; Palestino
+
+Round: 18
+
+; Palestino              ; 1-3; Everton
+; Universidad Catolica   ; 2-1; San Luis
+; Santiago Wanderers     ; 1-1; Universidad de Chile        
+; Audax Italiano             ; 1-2; O'Higgins
+; Green Cross                    ; 2-2; Rangers
+; Santiago Morning               ; 4-1; Unión Española
+; Ferrobádminton                     ; 2-2; Colo Colo
+
+Round: 19
+
+; Green Cross            ; 2-3; Colo Colo
+; Everton                         ; 1-3; Ferrobádminton
+; Rangers                                ; 2-6; Universidad de Chile
+; Universidad Catolica                   ; 2-2; Santiago Morning    
+; Audax Italiano                             ; 1-3; Santiago Wanderers
+; O'Higgins                                      ; 0-3; Unión Española
+; San Luis                                           ; 2-1; Palestino
+
+Round: 20
+
+; Universidad de Chile   ; 2-2; Colo Colo   
+; Green Cross   ; 4-4; Ferrobádminton                
+; Everton                                         ; 1-0; San Luis
+; Rangers                                                 ; 3-3; Audax Italiano     
+; O'Higgins                                                   ; 1-4; Universidad Catolica
+; Santiago Morning                                            ; 3-0; Palestino
+; Santiago Wanderers                                          ; 3-2; Unión Española
+
+Round: 21
+
+; Everton                ; 1-1; Green Cross
+; San Luis                   ; 2-4; Santiago Morning        
+; Palestino                      ; 3-1; O'Higgins                    
+; Unión Española                     ; 2-0; Rangers
+; Universidad Catolica               ; 4-1; Santiago Wanderers
+; Audax Italiano                         ; 4-3; Colo Colo
+; Universidad de Chile                   ; 6-2; Ferrobádminton
+
+Round: 22
+
+; Santiago Wanderers     ; 3-0; Palestino
+; Unión Española             ; 0-4; Colo Colo
+; Green Cross                    ; 1-3; Universidad de Chile        
+; Santiago Morning               ; 1-1; Everton
+; Rangers                            ; 0-4; Universidad Catolica
+; San Luis                               ; 2-3; O'Higgins
+; Ferrobádminton                             ; 2-0; Audax Italiano
+
+Round: 23
+
+; Ferrobádminton         ; 0-3; Unión Española
+; Green Cross                ; 1-3; Audax Italiano   
+; Universidad Catolica       ; 2-4; Colo Colo
+; Santiago Morning           ; 4-1; O'Higgins
+; San Luis                   ; 6-1; Santiago Wanderers
+; Palestino                      ; 2-0; Rangers
+; Everton                                ; 2-1; Universidad de Chile
+
+Round: 24
+
+; O'Higgins              ; 1-1; Everton
+; Santiago Wanderers     ; 0-3; Santiago Morning
+; Rangers                    ; 2-4; San Luis                
+; Colo Colo                      ; 3-2; Palestino
+; Ferrobádminton                     ; 3-3; Universidad Catolica
+; Green Cross                            ; 1-1; Unión Española                      
+; Universidad de Chile                   ; 2-1; Audax Italiano
+
+Round: 25
+
+; Audax Italiano         ; 2-7; Everton              
+; Green Cross                ; 2-5; Universidad Catolica    
+; San Luis                       ; 0-4; Colo Colo
+; Santiago Morning               ; 6-2; Rangers
+; Ferrobádminton                     ; 1-2; Palestino
+; Unión Española                         ; 1-1; Universidad de Chile
+; Santiago Wanderers                     ; 1-4; O'Higgins
+
+Round: 26
+
+; Universidad Catolica   ; 0-0; Universidad de Chile        
+; Santiago Wanderers     ; 2-2; Everton                     
+; Rangers                    ; 0-3; O'Higgins
+; Ferrobádminton                 ; 2-2; San Luis
+; Santiago Morning               ; 1-4; Colo Colo
+; Green Cross                        ; 5-2; Palestino
+; Audax Italiano                         ; 3-1; Unión Española
+
+* 1.UNIVERSIDAD CATÓLICA 26 15  8  3  69-35  38  Championship Playoff
+* 2.Universidad de Chile 26 13 12  1  55-28  38  Championship Playoff
+* 3.Colo Colo      26 13  9  4  80-47  35   
+* 4.Santiago Morning  26 12  9  5  52-34  33        
+* 5.Everton           26 11  9  6  45-40  31  (Viña del Mar) 
+* 6.Santiago Wanderers   26 11  5 10  46-49  27  (Valparaíso)   
+* 7.O'Higgins               26 11  4 11  41-40  26  (Rancagua)     
+* 8.Unión Española          26 10  6 10  51-55  26   
+* 9.Palestino                  26 11  3 12  47-60  25      
+*10.Ferrobádminton             26  7  8 11  38-52  22      
+*11.Audax Italiano             26  7  7 12  46-57  21  
+*12.Green Cross                    26  4  7 15  39-56  15  
+*13.San Luis                           26  5  5 16  36-58  15  (Quillota)  
+*14.Rangers                                26  2  8 16  31-65  12  (Talca)      
+
+*NB: no relegation
+*Promoted: Unión Calera (La Calera), Unión San Felipe (San Felipe),
+*          La Serena (La Serena) and Magallanes (Santiago)
+*
+*Championship Playoff
+*
+*Universidad Catolica    1-1 Universidad de Chile
+*Universidad de Chile    2-3 Universidad Catolica 
+
+*Prepared and maintained by Eduardo Espina for the Rec.Sport.Soccer Statistics Foundation
+*Author: Eduardo Espina (ecem54 at chile.com)
+*Last updated: 17 Nov 2005
+*(C) Copyright Eduardo Espina and RSSSF 2005
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.

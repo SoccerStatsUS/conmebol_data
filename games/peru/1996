@@ -1,0 +1,380 @@
+BlockSource: http://www.rsssf.com/tablesp/peru96.html
+Competition: Peruvian Primera División
+Season: 1996
+
+* 1.Sporting Cristal          30 22  3  5  71-26  69  Champions
+* 2.Alianza Lima              30 17  9  4  68-23  60 
+* 3.Universitario             30 16 10  4  39-20  58
+* 4.Sport Boys                30 13 14  3  49-26  53
+* 5.Atlético Torino           30 14  7  9  33-33  49
+* 6.Cienciano                 30 11  8 11  32-36  41 
+* 7.Deportivo Pesquero        30  9 10 11  27-33  37
+* 8.Unión Minas               30  9 10 11  35-42  37
+* 9.Deportivo Municipal       30 10  7 13  44-57  37  
+*10.La Loretana               30 11  4 15  39-59  37
+*11.Melgar FBC                30  9  9 12  36-35  36
+*12.Alianza Atlético Sullana  30 10  6 14  40-51  36
+*---------------------------------------------------
+*13.Aurich-Cañaña             30  9  6 15  30-37  33  Relegated
+*14.Ciclista Lima             30  6 11 13  36-51  29  Relegated
+*15.Guardia Republicana       30  7  8 15  30-45  29  Relegated
+*16.San Agustín               30  4  4 22  27-62  16  Relegated
+
+Round: 1
+; Pesquero        ; 0-2; Alianza Lima    
+; San Agustin     ; 2-1; Melgar            
+; Union Minas     ; 0-1; Sporting Cristal     
+; Aurich          ; 0-1; Universitario Lima
+; Sport Boys      ; 4-1; Atletico Torino
+; Cienciano       ; 2-0; Municipal Lima
+; Republicana     ; 1-0; Alianza Atletico
+; Ciclista        ; 4-1; La Loretana         
+
+Round: 2
+; Universitario   ; 2-1; Republicana 
+; Alianza Lima    ; 5-2; Aurich
+; Municipal       ; 2-2; Sport Boys 
+; Sporting Cristal; 6-0; Cienciano
+; Melgar          ; 1-1; Union Minas 
+; Alianza Atletico; 2-1; San Agustin 
+; La Loretana     ; 2-1; Pesquero 
+; Torino          ; 2-1; Ciclista
+
+Round: 3
+; Republicana     ; 0-5; Alianza Lima 
+; Ciclista        ; 2-1; Municipal 
+; Sport Boys      ; 3-1; Sporting Cristal 
+; San Agustin     ; 1-2; Universitario
+; Aurich          ; 0-1; La Loretana 
+; Pesquero        ; 2-1; Torino 
+; Cienciano       ; 1-1; Melgar 
+; Union Minas     ; 5-0; Alianza Atletico 
+
+Round: 4
+; Universitario   ; 2-0; Union Minas 
+; Alianza Lima    ; 6-0; San Agustin 
+; Municipal       ; 1-0; Pesquero
+; Sporting Cristal; 6-2; Ciclista
+; Melgar          ; 0-0; Sport Boys 
+; Alianza Atletico; 2-0; Cienciano 
+; La Loretana     ; 2-1; Republicana 
+; Torino          ; 1-0; Aurich
+
+Round: 5
+; Republicana     ; 1-4; Torino
+; Sport Boys      ; 2-0; Alianza Atletico
+; Union Minas     ; 1-2; Alianza Lima
+; Cienciano       ; 0-0; Universitario
+; Ciclista        ; 0-1; Melgar
+; Pesquero        ; 3-0; Sporting Cristal
+; San Agustin     ; 4-3; La Loretana
+; Aurich          ; 1-2; Municipal
+
+Round: 6
+; Universitario   ; 1-2; Sport Boys 
+; Alianza Lima    ; 3-1; Cienciano
+; Municipal       ; 3-1; Republicana
+; Sporting Cristal; 2-0; Aurich
+; Melgar          ; 0-0; Pesquero
+; Alianza Atletico; 3-1; Ciclista
+; La Loretana     ; 1-0; Union Minas
+; Torino          ; 2-0; San Agustin
+
+Round: 7
+; San Agustin     ; 1-2; Municipal
+; Republicana     ; 0-2; Sporting Cristal
+; Ciclista        ; 1-1; Universitario 
+; Sport Boys      ; 0-0; Alianza Lima 
+; Aurich          ; 1-2; Melgar
+; Pesquero        ; 2-1; Alianza Atletico
+; Cienciano       ; 1-1; La Loretana
+; Union Minas     ; 4-0; Torino
+
+Round: 8
+; Universitario   ; 1-0; Pesquero 
+; Alianza Lima    ; 2-0; Ciclista 
+; Municipal       ; 1-0; Union Minas 
+; Sporting Cristal; 3-1; San Agustin
+; Melgar          ; 3-1; Republicana 
+; Alianza Atletico; 1-3; Aurich 
+; La Loretana     ; 2-1; Sport Boys 
+; Torino          ; 1-0; Cienciano 
+
+Round: 9
+; San Agustin     ; 1-2; Aurich
+; Republicana     ; 0-1; Pesquero
+; Ciclista        ; 2-0; Cienciano
+; Sport Boys      ; 5-0; Union Minas
+; Melgar          ; 0-1; Universitario 
+; Alianza Atletico; 2-3; Alianza Lima
+; La Loretana     ; 1-2; Municipal
+; Torino          ; 0-2; Sporting Cristal
+
+Round: 10
+; Universitario   ; 0-0; Torino 
+; Alianza Lima    ; 1-1; Melgar 
+; Municipal       ; 2-2; Alianza Atletico 
+; Sporting Cristal; 2-0; La Loretana 
+; Union Minas     ; 0-0; Ciclista 
+; Aurich          ; 2-2; Sport Boys 
+; Pesquero        ; 1-0; San Agustin 
+; Cienciano       ; 2-2; Republicana 
+
+Round: 11
+; San Agustin     ; 2-0; Cienciano
+; Republicana     ; 2-2; Union Minas 
+; Ciclista        ; 1-1; Aurich 
+; Sport Boys      ; 3-1; Pesquero 
+; Melgar          ; 5-1; Municipal 
+; Alianza Atletico; 1-2; Sporting Cristal 
+; La Loretana     ; 1-1; Universitario 
+; Torino          ; 1-1; Alianza Lima 
+
+Round: 12
+; Universitario   ; 3-1; Alianza Atletico 
+; Alianza Lima    ; 5-0; La Loretana 
+; Municipal       ; 3-1; Torino 
+; Sporting Cristal; 3-0; Melgar 
+; Aurich          ; 0-0; Republicana 
+; Pesquero        ; 0-0; Ciclista 
+; Cienciano       ; 1-0; Sport Boys 
+; Union Minas     ; 3-1; San Agustin 
+
+Round: 13
+; San Agustin     ; 1-3; Republicana
+; Ciclista        ; 2-2; Sport Boys
+; Universitario   ; 1-1; Alianza Lima 
+; Municipal       ; 0-2; Sporting Cristal 
+; Melgar          ; 1-0; Alianza Atletico
+; La Loretana     ; 1-1; Torino
+; Aurich          ; 0-1; Pesquero
+; Cienciano       ; 2-1; Union Minas
+
+Round: 14
+; Republicana     ; 1-1; Ciclista 
+; Sport Boys      ; 1-1; San Agustin 
+; Alianza Lima    ; 2-2; Municipal 
+; Sporting Cristal; 1-2; Universitario 
+; Alianza Atletico; 2-1; La Loretana
+; Torino          ; 2-1; Melgar
+; Pesquero        ; 2-1; Cienciano
+; Union Minas     ; 1-0; Aurich
+
+Round: 15
+; San Agustin     ; 1-1; Ciclista 
+; Republicana     ; 0-1; Sport Boys 
+; Universitario   ; 2-1; Municipal 
+; Alianza Lima    ; 0-0; Sporting Cristal 
+; Aurich          ; 1-0; Cienciano
+; Pesquero        ; 1-1; Union Minas
+; Melgar          ; 4-0; La Loretana 
+; Alianza Atletico; 3-0; Torino
+
+Round: 16
+; Universitario   ; 1-0; Aurich
+; Municipal       ; 0-1; Cienciano
+; Sporting Cristal; 7-1; Union Minas
+; Alianza Lima    ; 2-2; Pesquero
+; Melgar          ; 2-0; San Agustin
+; La Loretana     ; 3-2; Ciclista
+; Torino          ; 1-0; Sport Boys
+; Alianza Atletico; 0-0; Republicana
+
+Round: 17
+; Republicana     ; 1-2; Universitario 
+; Cienciano       ; 3-1; Sporting Cristal
+; Aurich          ; 0-1; Alianza Lima
+; Sport Boys      ; 0-0; Municipal
+; Ciclista        ; 1-1; Torino
+; Union Minas     ; 2-1; Melgar
+; Pesquero        ; 1-0; La Loretana  
+; San Agustin     ; 0-1; Alianza Atletico
+
+Round: 18
+; Universitario   ; 3-0; San Agustin 
+; Alianza Lima    ; 1-0; Republicana 
+; Sporting Cristal; 0-0; Sport Boys 
+; Municipal       ; 2-2; Ciclista 
+; La Loretana     ; 1-2; Aurich 
+; Torino          ; 2-1; Pesquero 
+; Cienciano       ; 1-1; Melgar 
+; Alianza Atletico; 3-1; Union Minas 
+
+Round: 19
+; Union Minas     ; 1-1; Universitario
+; San Agustin     ; 0-1; Alianza Lima
+; Pesquero        ; 0-1; Municipal
+; Ciclista        ; 2-4; Sporting Cristal
+; Sport Boys      ; 3-2; Melgar
+; Cienciano       ; 1-1; Alianza Atletico
+; Republicana     ; 1-0; La Loretana
+; Aurich          ; 1-2; Torino
+
+Round: 20
+; La Loretana     ; 3-2; San Agustin
+; Torino          ; 2-0; Republicana
+; Melgar          ; 4-1; Ciclista
+; Alianza Atletico; 2-2; Sport Boys
+; Municipal       ; 2-3; Aurich
+; Sporting Cristal; 3-1; Pesquero
+; Universitario   ; 1-0; Cienciano
+; Alianza Lima    ; 3-0; Union Minas
+
+Round: 21
+; Universitario   ; 0-0; Sport Boys
+; Sporting Cristal; 1-2; Aurich
+; Cienciano       ; 2-1; Alianza Lima
+; Pesquero        ; 1-1; Melgar
+; Union Minas     ; 1-1; La Loretana
+; Ciclista        ; 2-1; Alianza Atletico
+; Republicana     ; 2-2; Municipal
+; San Agustin     ; 0-1; Torino
+
+Round: 22
+; Universitario   ; 0-1; Ciclista
+; Municipal       ; 2-1; San Agustin
+; Sporting Cristal; 1-0; Republicana
+; Alianza Lima    ; 2-2; Sport Boys
+; Melgar          ; 1-2; Aurich
+; Alianza Atletico; 1-1; Pesquero
+; La Loretana     ; 3-1; Cienciano
+; Torino          ; 2-0; Union Minas
+
+Round: 23
+; Sport Boys      ; 5-2; La Loretana 
+; Republicana     ; 1-0; Melgar
+; San Agustin     ; 0-3; Sporting Cristal
+; Pesquero        ; 0-3; Universitario
+; Ciclista        ; 0-1; Alianza Lima 
+; Union Minas     ; 3-2; Municipal
+; Aurich          ; 1-0; Alianza Atletico 
+; Cienciano       ; 3-0; Torino
+
+Round: 24
+; Aurich          ; 2-0; San Agustin 
+; Pesquero        ; 0-0; Republicana
+; Cienciano       ; 1-0; Ciclista    
+; Union Minas     ; 0-0; Sport Boys 
+; Universitario   ; 3-1; Melgar 
+; Alianza Lima    ; 6-0; Alianza Atletico
+; Municipal       ; 1-4; La Loretana  
+; Sporting Cristal; 2-0; Torino  
+
+Round: 25
+; Sport Boys      ; 2-1; Aurich 
+; Sporting Cristal; 2-0; Loretana 
+; Melgar          ; 1-0; Alianza Lima
+; Torino          ; 0-0; Universitario 
+; Alianza Atletico; 5-2; Municipal 
+; San Agustin     ; 1-2; Pesquero 
+; Ciclista        ; 1-0; Union Minas 
+; Republicana     ; 0-0; Cienciano 
+
+Round: 26
+; Universitario   ; 3-1; La Loretana
+; Cienciano       ; 3-0; San Agustin       
+*[also reported 1-0]
+; Union Minas     ; 2-0; Republicana  
+; Aurich          ; 1-1; Ciclista          
+*[also reported 0-0]
+; Pesquero        ; 1-1; Sport Boys  
+; Municipal       ; 3-0; Melgar  
+; Sporting Cristal; 4-1; Alianza Atletico
+; Alianza Lima    ; 1-0; Torino  
+
+Round: 27
+; San Agustin     ; 0-0; Union Minas
+; Melgar          ; 1-1; Sporting Cristal
+; La Loretana     ; 1-6; Alianza Lima
+; Alianza Atletico; 3-2; Universitario
+; Torino          ; 2-1; Municipal
+; Republicana     ; 1-0; Aurich
+; Ciclista        ; 1-1; Pesquero
+; Sport Boys      ; 2-0; Cienciano
+
+Round: 28
+; Republicana     ; 5-1; San Agustin  
+; Sport Boys      ; 1-0; Ciclista  
+; Alianza Lima    ; 0-0; Universitario  
+; Sporting Cristal; 5-2; Municipal
+; Alianza Atletico; 2-0; Melgar
+; Torino          ; 3-0; La Loretana 
+; Pesquero        ; 1-1; Aurich 
+; Union Minas     ; 2-2; Cienciano 
+
+Round: 29
+*Universitario    Awd Sporting Cristal [finished 1-1 but awarded 0-2 (after earlier decision not to give either team points because of brawl at end of match was overruled]
+; Ciclista        ; 3-5; Republicana       
+; San Agustin     ; 1-1; Sport Boys        
+; Municipal       ; 1-5; Alianza Lima      
+; La Loretana     ; 2-0; Alianza Atletico 
+; Melgar          ; 0-0; Torino
+; Cienciano       ; 2-0; Pesquero 
+; Aurich          ; 1-1; Union Minas 
+
+Round: 30 
+; Ciclista        ; 1-4; San Agustin 
+; Sport Boys      ; 2-0; Republicana 
+; Municipal       ; 0-0; Universitario  
+; Sporting Cristal; 2-1; Alianza Lima  
+; Cienciano       ; 1-0; Aurich  
+; Union Minas     ; 1-0; Pesquero   
+; La Loretana     ; 1-0; Melgar   
+; Torino          ; 0-0; Alianza Atletico
+
+* 1.Sporting Cristal          30 22  3  5  71-26  69  Champions
+* 2.Alianza Lima              30 17  9  4  68-23  60 
+* 3.Universitario             30 16 10  4  39-20  58
+* 4.Sport Boys                30 13 14  3  49-26  53
+* 5.Atlético Torino           30 14  7  9  33-33  49
+* 6.Cienciano                 30 11  8 11  32-36  41 
+* 7.Deportivo Pesquero        30  9 10 11  27-33  37
+* 8.Unión Minas               30  9 10 11  35-42  37
+* 9.Deportivo Municipal       30 10  7 13  44-57  37  
+*10.La Loretana               30 11  4 15  39-59  37
+*11.Melgar FBC                30  9  9 12  36-35  36
+*12.Alianza Atlético Sullana  30 10  6 14  40-51  36
+*---------------------------------------------------
+*13.Aurich-Cañaña             30  9  6 15  30-37  33  Relegated
+*14.Ciclista Lima             30  6 11 13  36-51  29  Relegated
+*15.Guardia Republicana       30  7  8 15  30-45  29  Relegated
+*16.San Agustín               30  4  4 22  27-62  16  Relegated
+*Promoted: José Gálvez (winners of Copa Peru) and Alcides Vigo
+*          (second division winners, see below).
+
+Round: Playoff for Liguilla
+
+*Union Minas       -  0-3 Universitario
+*Pesquero          -  1-1 Sport Boys
+*Cienciano         -  0-1 Torino
+
+*[1st leg scores unknown; Universitario, Pesquero and Cienciano qualified]
+
+*Liguilla Pre-Libertadores
+
+
+Round: 1
+; Alianza         ; 4-1; Cienciano
+; Pesquero        ; 2-3; Universitario
+
+Round: 2
+; Cienciano       ; 2-2; Pesquero 
+; Universitario   ; 0-0; Alianza
+
+Round: 3
+; Alianza         ; 4-1; Pesquero
+; Universitario   ; 5-0; Cienciano
+
+* 1.Alianza                    3   2  1  0   8- 2   8  (1 bonus point)
+* 2.Universitario              3   2  1  0   8- 2   7
+* 3.Pesquero                   3   0  1  2   5- 9   1  
+* 4.Cienciano                  3   0  1  2   3-11   1
+*Alianza win the Liguilla and join Cristal in the Copa Libertadores 1997.
+
+
+
+*Prepared and maintained by Eli Schmerler and José Luis Pierrend for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Eli Schmerler (eli@inictel.gob.pe) and José Luis Pierrend (josepie@hotmail.com) 
+*Last updated: 5 Aug 1999
+*(C) Copyright Eli Schmerler, José Luis Pierrend and RSSSF 1999
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.

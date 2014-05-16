@@ -1,0 +1,245 @@
+BlockSource: http://www.rsssf.com/tablesu/uru39.html
+Competition: Uruguayan Primera Division
+Season: 1939
+
+
+*  1. C Nacional dF                20 13  2  5  60-17  28 
+*   . CA Peñarol                   20 13  2  5  56-25  28 
+* --------------------------------------------------------
+*  3. Montevideo Wanderers FC      20  7  8  5  33-28  22 
+*  4. Liverpool FC                 20  8  3  9  29-31  19 
+*  5. CA River Plate               20  6  7  7  25-30  19 
+*  6. CA Defensor                  20  6  7  7  29-44  19 
+*  7. Racing Club Montevideo       20  6  7  7  28-45  19 
+*  8. Central FC                   20  6  6  8  23-42  18 
+*  9. Rampla Juniors FC            20  6  5  9  36-42  17 
+* 10. IA Sud América               20  5  6  9  36-37  16 
+* --------------------------------------------------------
+* 11. CA Bella Vista               20  5  5 10  27-41  15  Promotion/Relegation Playoff
+
+Round: Round 1
+; Bella Vista         ; 2-1; Peñarol
+; Rampla Juniors      ; 2-1; Nacional
+; Defensor            ; 2-2; Sud América
+; River Plate (Montevideo)         ; 2-0; Central
+; Liverpool           ; 0-0; Racing (Montevideo)
+* Montevideo Wanderers bye
+
+Round: Round 2
+; Racing (Montevideo)              ; 1-0; Nacional
+; Montevideo Wanderers; 4-1; Peñarol
+; River Plate (Montevideo)         ; 3-2; Bella Vista
+; Sud América         ; 4-3; Liverpool
+; Central             ; 2-1; Defensor
+* Rampla Juniors       bye
+
+Round: Round 3
+; Peñarol             ; 6-0; Central
+; Nacional            ; 0-0; River Plate (Montevideo)
+; Sud América         ; 4-1; Montevideo Wanderers
+; Bella Vista         ; 2-1; Rampla Juniors
+; Defensor            ; 4-2; Liverpool
+* Racing (Montevideo)               bye
+
+Round: Round 4
+; Nacional            ; 2-1; Sud América
+; Peñarol             ; 7-0; Defensor
+; Bella Vista         ; 1-1; Liverpool
+; Montevideo Wanderers; 4-2; Rampla Juniors
+; Central             ; 1-1; Racing (Montevideo)
+* River Plate (Montevideo)          bye
+
+Round: Round 5
+; Peñarol             ; 5-0; Rampla Juniors
+; Nacional            ; 2-0; Bella Vista
+; Montevideo Wanderers; 3-1; River Plate (Montevideo)
+; Central             ; 2-1; Sud América
+; Racing (Montevideo)              ; 4-1; Defensor
+* Liverpool            bye
+
+Round: Round 6
+; Nacional            ; 4-1; Liverpool
+; Peñarol             ; 5-0; Racing (Montevideo)
+; Sud América         ; 3-1; Rampla Juniors
+; Bella Vista         ; 2-0; Montevideo Wanderers
+; River Plate (Montevideo)         ; 0-0; Defensor
+* Central              bye
+
+Round: Round 7
+; River Plate (Montevideo)         ; 4-2; Peñarol
+; Nacional            ; 6-1; Central
+; Montevideo Wanderers; 3-1; Racing (Montevideo)
+; Defensor            ; 2-0; Bella Vista
+; Liverpool           ; 4-2; Rampla Juniors
+* Sud América          bye
+
+Round: Round 8
+; Nacional            ; 6-0; Defensor
+; Sud América         ; 1-1; Peñarol
+; Central             ; 1-1; Rampla Juniors
+; Montevideo Wanderers; 2-0; Liverpool
+; River Plate (Montevideo)         ; 1-0; Racing (Montevideo)
+* Bella Vista          bye
+
+Round: Round 9
+; Montevideo Wanderers; 1-1; Central
+; Sud América         ; 1-1; Bella Vista
+; Liverpool           ; 1-0; River Plate (Montevideo)
+; Peñarol             ; 2-1; Nacional
+; Rampla Juniors      ; 4-4; Racing (Montevideo)
+* Defensor             bye
+
+Round: Round 10
+; Peñarol             ; 3-1; Liverpool
+; Central             ; 1-1; Bella Vista
+; Sud América         ; 7-1; Racing (Montevideo)
+; Rampla Juniors      ; 1-1; River Plate (Montevideo)
+; Montevideo Wanderers; 1-1; Defensor
+* Nacional             bye
+
+Round: Round 11
+; Central             ; 1-0; Liverpool
+; Sud América         ; 1-1; River Plate (Montevideo)
+; Nacional            ; 2-0; Montevideo Wanderers
+; Rampla Juniors      ; 4-1; Defensor
+; Bella Vista         ; 2-0; Racing (Montevideo)
+* Peñarol              bye
+
+Round: Round 12
+; Peñarol             ; 3-1; Bella Vista
+; Nacional            ; 4-1; Rampla Juniors
+; Defensor            ; 2-1; Sud América
+; Central             ; 2-1; River Plate (Montevideo)
+; Racing (Montevideo)              ; 2-1; Liverpool
+* Montevideo Wanderers bye
+
+Round: Round 13
+; Nacional; L-W; Racing (Montevideo)
+Forfeit
+Notes: originally 6-1,; awarded to Racing (Montevideo) as Nacional fielded an ineligible player.
+; Montevideo Wanderers; 2-2; Peñarol
+; River Plate (Montevideo)         ; 1-1; Bella Vista
+; Liverpool           ; 1-0; Sud América
+; Central             ; 1-1; Defensor
+* Rampla Juniors       bye
+
+Round: Round 14
+; Central             ; 3-2; Peñarol
+; Nacional            ; 4-1; River Plate (Montevideo)
+; Sud América         ; 0-0; Montevideo Wanderers
+; Rampla Juniors      ; 5-1; Bella Vista
+; Liverpool           ; 4-1; Defensor
+* Racing (Montevideo)               bye
+
+Round: Round 15
+; Nacional            ; 2-2; Sud América
+; Peñarol             ; 3-1; Defensor
+; Liverpool           ; 1-0; Bella Vista
+; Montevideo Wanderers; 0-0; Rampla Juniors
+; Central             ; 2-2; Racing (Montevideo)
+* River Plate (Montevideo)          bye
+
+Round: Round 16
+; Peñarol             ; 2-0; Rampla Juniors
+; Nacional            ; 8-2; Bella Vista
+; Montevideo Wanderers; 2-2; River Plate (Montevideo)
+; Central             ; 4-1; Sud América
+; Racing (Montevideo)              ; 2-2; Defensor
+* Liverpool            bye
+
+Round: Round 17
+; Nacional            ; 4-0; Liverpool
+; Peñarol             ; 4-1; Racing (Montevideo)
+; Rampla Juniors      ; 4-0; Sud América
+; Montevideo Wanderers; 3-2; Bella Vista
+; River Plate (Montevideo)         ; 1-1; Defensor
+* Central              bye
+
+Round: Round 18
+; Peñarol             ; 2-0; River Plate (Montevideo)
+; Nacional            ; 5-0; Central
+; Montevideo Wanderers; 2-2; Racing (Montevideo)
+; Defensor            ; 2-1; Bella Vista
+; Liverpool           ; 2-0; Rampla Juniors
+* Sud América          bye
+
+Round: Round 19
+; Defensor            ; 2-1; Nacional
+; Peñarol             ; 3-2; Sud América
+; Rampla Juniors      ; 2-1; Central
+; Montevideo Wanderers; 1-1; Liverpool
+; River Plate (Montevideo)         ; 1-0; Racing (Montevideo)
+* Bella Vista          bye
+
+Round: Round 20
+; Montevideo Wanderers; 4-0; Central
+; Sud América         ; 4-1; Bella Vista
+; Liverpool           ; 4-0; River Plate (Montevideo)
+; Nacional            ; 1-0; Peñarol
+; Racing (Montevideo)              ; 1-0; Rampla Juniors
+* Defensor             bye
+
+Round: Round 21
+; Peñarol             ; 2-1; Liverpool
+; Bella Vista         ; 3-0; Central
+; Racing (Montevideo)              ; 3-1; Sud América
+; Rampla Juniors      ; 4-3; River Plate (Montevideo)
+; Defensor            ; 3-0; Montevideo Wanderers
+* Nacional             bye
+
+Round: Round 22
+; Liverpool           ; 1-0; Central
+; River Plate (Montevideo)         ; 2-0; Sud América
+; Nacional            ; 1-0; Montevideo Wanderers
+; Rampla Juniors      ; 2-2; Defensor
+; Bella Vista         ; 2-2; Racing (Montevideo)
+* Peñarol              bye
+
+* Final Table:
+* 
+*  1. C Nacional dF                20 13  2  5  60-17  28 
+*   . CA Peñarol                   20 13  2  5  56-25  28 
+* --------------------------------------------------------
+*  3. Montevideo Wanderers FC      20  7  8  5  33-28  22 
+*  4. Liverpool FC                 20  8  3  9  29-31  19 
+*  5. CA River Plate (Montevideo)               20  6  7  7  25-30  19 
+*  6. CA Defensor                  20  6  7  7  29-44  19 
+*  7. Racing (Montevideo) Club Montevideo       20  6  7  7  28-45  19 
+*  8. Central FC                   20  6  6  8  23-42  18 
+*  9. Rampla Juniors FC            20  6  5  9  36-42  17 
+* 10. IA Sud América               20  5  6  9  36-37  16 
+* --------------------------------------------------------
+* 11. CA Bella Vista               20  5  5 10  27-41  15  Promotion/Relegation Playoff
+
+Round: Championship Playoff [Apr 28, 1940, Estadio Centenario; attendance: 43,000]
+
+4/28/1940; Nacional; 3-2 (aet); Peñarol; Estadio Centenario; Aníbal Tejada, Nobel Valentini, Juan José Nilson; 43000
+Francisco Arispe 39, Luis Volpi 98, Atilio García 103; Adelaido Camaití 85, Adelaido Camiati 110
+Nacional: Aníbal Paz; Luis Fazio, Juan Ramón Cabrera; Luis Alberto Pérez Luz, Rodolfo Pini, Eugenio Galvalisi; Luis Volpi, Aníbal Ciocca, Atilio García, Francisco Arispe, Roberto Porta
+* Coach: Héctor Castro.
+Peñarol: Julio Barrios; Agustín Prado, Mário Barradas; Erebo Zunino, Francisco Palermo, Raúl Rodríguez; Nicolás Orlando, Pedro Lago, Sylvio Pirillo, Severino Varela, Adelaido Camaití. 
+* Coach: Athuel Velázquez]
+
+
+Round: Promotion/Relegation Playoff
+
+* First Leg
+; Progreso            ; 2-1; Bella Vista
+
+* Second Leg
+; Bella Vista         ; 2-0; Progreso
+
+* Playoff
+; Bella Vista         ; 3-0; Progreso
+
+* Bella Vista remained in First Division, Progreso remained in Intermedia.
+
+
+
+* About this document
+* Thanks to Humberto Arosteguiberry and Héctor Sicco
+* Prepared and maintained by Diego Antognazza and Martín Tabeira for the Rec.Sport.Soccer Statistics Foundation
+* Authors: Diego Antognazza (oguico@hotmail.com) and Martín Tabeira (martintab@hotmail.com) 
+* Last updated: 1 May 2004
+* (C) Copyright Diego Antognazza, Martín Tabeira and RSSSF 2004
+* You are free to copy this document in whole or part provided that proper acknowledgement is given to the authors. All rights reserved.
