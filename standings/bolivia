@@ -1,0 +1,547 @@
+Competition: Liga de Fútbol Profesional Boliviano
+BlockSource: http://www.rsssf.com/tablesb/bol2013.html#1clau
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Season: 2012-2013 Apertura
+
+
+ 1; The Strongest             ; 22;  13;  6;  3;  53; 31;  45;  Champions
+ 2; San José                  ; 22;  12;  5;  5;  51; 35;  41;
+ 3; Bolívar                   ; 22;  11;  4;  7;  46; 31;  37;
+ 4; Blooming                  ; 22;  11;  2;  9;  29; 30;  35;
+ 5; Real Potosí               ; 22;   9;  5;  8;  30; 27;  32;
+ 6; Oriente Petrolero         ; 22;   7; 10;  5;  28; 32;  31;
+ 7; Jorge Wilstermann         ; 22;   7;  7;  8;  34; 35;  28;
+ 8; Universitario (Sucre)     ; 22;   5; 10;  7;  31; 32;  25;
+ 9; Nacional (Potosí)         ; 22;   6;  7;  9;  26; 28;  25;
+10; Petrolero (Yacuiba)       ; 22;   6;  6; 10;  21; 30;  24;
+11; Aurora                    ; 22;   6;  4; 12;  31; 47;  22;
+12; La Paz FC                 ; 22;   4;  4; 14;  28; 50;  16;
+
+
+Season: 2012-2013 Clausura
+
+ 1; Bolívar                   ; 22;  16;  2;  4;  50; 30;  50;  Champions
+ 2; Oriente Petrolero         ; 22;  14;  5;  3;  43; 25;  47;
+ 3; San José                  ; 22;  12;  5;  5;  37; 21;  41;
+ 4; Universitario (Sucre)     ; 22;  10;  5;  7;  30; 24;  35;
+ 5; The Strongest             ; 22;   9;  7;  6;  40; 35;  34;
+ 6; Jorge Wilstermann         ; 22;   9;  6;  7;  43; 30;  33;
+ 7; Real Potosí               ; 22;   8;  7;  7;  31; 30;  31;
+ 8; Blooming                  ; 22;   6;  5; 11;  31; 40;  23;
+ 9; Nacional (Potosí)         ; 22;   5;  7; 10;  31; 35;  22;
+10; Aurora                    ; 22;   6;  4; 12;  28; 43;  22;
+11; Petrolero (Yacuiba)       ; 22;   5;  5; 12;  24; 40;  20;
+12; La Paz FC                 ; 22;   1;  4; 17;  15; 50;   7;
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol2012.html#1aper
+Season: 2011-2012 Adecuación
+
+ 1; Bolívar                   ; 22;  11;  7;  4;  32; 24;  40;  Champions
+ 2; Real Potosí               ; 22;  11;  5;  6;  32; 22;  38;
+ 3; Oriente Petrolero         ; 22;  11;  3;  8;  46; 25;  36;
+ 4; The Strongest             ; 22;  10;  5;  7;  33; 26;  35;
+ 5; Blooming                  ; 22;  11;  2;  9;  34; 28;  35;
+ 6; San José                  ; 22;  10;  4;  8;  29; 27;  34;
+ 7; Aurora                    ; 22;   9;  6;  7;  31; 25;  33;
+ 8; Universitario (Sucre)     ; 22;   9;  2; 11;  28; 31;  29;
+ 9; Guabirá                   ; 22;   9;  2; 11;  29; 43;  29;
+10; Nacional (Potosí)         ; 22;   8;  4; 10;  28; 30;  28;
+11; Real Mamoré               ; 22;   6;  2; 14;  27; 44;  20;
+12; La Paz FC                 ; 22;   5;  2; 15;  21; 45;  17;
+
+
+Season: 2011-2012 Apertura
+
+Group: A
+
+ 1; Bolívar                   ; 12;   5;  4;  3;  22; 12;  19;  Second Stage
+ 2; Universitario (Sucre)     ; 12;   5;  4;  3;  17; 14;  19;  Second Stage
+ 3; Guabirá                   ; 12;   6;  1;  5;  16; 23;  19;  Second Stage
+ 4; San José                  ; 12;   5;  3;  4;  10;  7;  18;  Second Stage
+
+ 5; Real Potosí               ; 12;   4;  5;  3;  20; 11;  17;
+ 6; Blooming                  ; 12;   2;  4;  6;  11; 22;  10;
+
+Group: B
+
+ 1; Aurora                    ; 12;   8;  0;  4;  23; 13;  24;  Second Stage
+ 2; Oriente Petrolero         ; 12;   7;  2;  3;  26; 18;  23;  Second Stage
+ 3; Nacional (Potosí)         ; 12;   4;  4;  4;  23; 15;  16;  Second Stage
+ 4; The Strongest             ; 12;   4;  3;  5;  34; 23;  15;  Second Stage
+
+ 5; La Paz FC                 ; 12;   4;  2;  6;  16; 29;  14;
+ 6; Real Mamoré               ; 12;   2;  0; 10;  10; 41;   6;
+
+
+Season: 2011-2012 Clausura
+
+ 1; The Strongest             ; 22;  11;  5;  6;  47; 28;  38;  Champions
+ 2; San José                  ; 22;  11;  5;  6;  43; 27;  38;
+ 3; Oriente Petrolero         ; 22;  11;  5;  6;  38; 30;  38;
+ 4; Universitario (Sucre)     ; 22;  11;  4;  7;  36; 21;  37;
+ 5; Blooming                  ; 22;  11;  4;  7;  28; 23;  37;
+ 6; Real Potosí               ; 22;  11;  2;  9;  36; 32;  35;
+ 7; Aurora                    ; 22;  10;  4;  8;  38; 30;  34;
+ 8; Nacional (Potosí)         ; 22;  10;  4;  8;  33; 36;  34;
+ 9; Bolívar                   ; 22;   6; 10;  6;  34; 27;  28;
+10; La Paz FC                 ; 22;   7;  3; 12;  29; 39;  24;
+11; Real Mamoré               ; 22;   5;  3; 14;  16; 47;  18;
+12; Guabirá                   ; 22;   1;  5; 16;  19; 57;   8;
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol2010.html
+Season: 2010 Apertura
+
+Group: A
+
+ 1; The Strongest             ; 12;  5;  4;  3; 21; 18; 19;  Winners Group
+ 2; San José                  ; 12;  5;  3;  4; 24; 19; 18;  Winners Group
+ 3; Aurora                    ; 12;  4;  5;  3; 18; 16; 17;  Winners Group
+
+ 4; Universitario (Sucre)     ; 12;  5;  1;  6; 21; 18; 16;  Losers Group
+ 5; Guabirá                   ; 12;  3;  3;  6; 15; 24; 12;  Losers Group
+ 6; Blooming                  ; 12;  3;  2;  7; 13; 20; 11;  Losers Group
+
+Group: B
+
+ 1; Bolívar                   ; 12;  9;  1;  2; 23; 11; 28;  Winners Group
+ 2; Oriente Petrolero         ; 12;  7;  1;  4; 21; 10; 22;  Winners Group
+ 3; Jorge Wilstermann         ; 12;  5;  3;  4; 17; 17; 18;  Winners Group
+
+ 4; Real Potosí               ; 12;  5;  1;  6; 11; 19; 16;  Losers Group
+ 5; La Paz FC                 ; 12;  4;  2;  6; 18; 20; 14;  Losers Group
+ 6; Real Mamoré               ; 12;  4;  0;  8; 15; 25; 12;  Losers Group
+
+
+Season: 2010 Clausura
+
+ 1; Oriente Petrolero         ; 22; 12;  4;  6; 38; 26; 40;  Champions
+ 2; Bolívar                   ; 22; 10;  6;  6; 37; 28; 36;
+ 3; Aurora                    ; 22; 10;  4;  8; 34; 30; 34;
+ 4; San José                  ; 22; 10;  4;  8; 39; 37; 34;
+ 5; Guabirá                   ; 22;  9;  5;  8; 22; 28; 32;
+ 6; Blooming                  ; 22;  9;  4;  9; 28; 26; 31;
+ 7; Real Potosí               ; 22;  8;  5;  9; 38; 35; 29;
+ 8; The Strongest             ; 22; 10;  2; 10; 37; 36; 29;  [-3]
+ 9; Real Mamoré               ; 22;  7;  7;  8; 21; 30; 28;
+10; La Paz FC                 ; 22;  7;  5; 10; 33; 36; 26;
+11; Jorge Wilstermann         ; 22;  5;  7; 10; 26; 32; 22;
+12; Universitario (Sucre)     ; 22;  5;  7; 10; 24; 33; 22;
+
+*NB: The Strongest 3 points deducted for fielding more than 3 foreigners
+*    in a match
+
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol09.html
+Season: 2009 Apertura
+
+ 1; Bolívar                   ; 22; 11;  7;  4; 36; 22; 40;  Champions
+ 2; Real Potosí               ; 22; 11;  6;  5; 45; 31; 39;
+ 3; San José                  ; 22; 11;  2;  9; 53; 35; 35;
+ 4; Oriente Petrolero         ; 22; 10;  5;  7; 33; 30; 35;
+ 5; Universitario (Sucre)     ; 22; 11;  3;  8; 38; 27; 33;  [-3]
+ 6; The Strongest             ; 22;  9;  5;  8; 36; 35; 32;
+ 7; La Paz FC                 ; 22;  9;  5;  8; 38; 39; 32;
+ 8; Nacional (Potosí)         ; 22;  7;  7;  8; 36; 40; 28;
+ 9; Blooming                  ; 22;  7;  6;  9; 24; 32; 27;
+10; Aurora                    ; 22;  7;  5; 10; 26; 33; 26;
+11; Jorge Wilstermann         ; 22;  3;  8; 11; 22; 38; 17;
+12; Real Mamoré               ; 22;  4;  5; 13; 25; 50; 17;
+
+*NB: Universitario 3 points deducted for violating regulations
+*      on minimal number of Bolivian nationals in round 19;
+*    Bolívar had 3 points deducted for fielding ineligible player
+*      in round 22 but this punishment was revoked on appeal
+
+
+Season: 2009 Clausura
+
+Group: A
+
+ 1; Bolívar                   ; 12;  7;  4;  1; 25; 13; 25;  Qualified
+ 2; Universitario (Sucre)     ; 12;  5;  3;  4; 11; 13; 18;  Qualified
+ 3; Blooming                  ; 12;  5;  3;  4; 16; 19; 18;  Qualified
+
+ 4; San José                  ; 12;  3;  6;  3; 24; 17; 15;
+ 5; Jorge Wilstermann         ; 12;  4;  3;  5; 14; 15; 15;
+ 6; Nacional (Potosí)         ; 12;  2;  2;  8; 10; 21;  8;
+
+Group: B
+
+ 1; Real Potosí               ; 12;  7;  1;  4; 23; 14; 22;  Qualified
+ 2; The Strongest             ; 12;  6;  3;  3; 19; 15; 21;  Qualified
+ 3; Oriente Petrolero         ; 12;  5;  4;  3; 12; 12; 19;  Qualified
+
+ 4; Real Mamoré               ; 12;  5;  1;  6; 16; 18; 16;
+ 5; Aurora                    ; 12;  3;  2;  7;  8; 14; 11;
+ 6; La Paz FC                 ; 12;  2;  4;  6; 18; 25; 10;
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol08.html
+Season: 2008 Apertura
+
+ 1; Universitario (Sucre)     ; 22; 12;  7;  3; 36; 17; 43;  Champions
+ 2; La Paz FC                 ; 22; 10;  7;  5; 44; 30; 37;
+ 3; San José                  ; 22; 11;  3;  8; 46; 45; 36;
+ 4; Oriente Petrolero         ; 22; 10;  3;  9; 41; 35; 33;
+ 5; Blooming                  ; 22;  9;  4;  9; 39; 41; 31;
+ 6; Bolívar                   ; 22;  7;  9;  6; 41; 26; 30;
+ 7; Aurora                    ; 22;  8;  6;  8; 33; 41; 30;
+ 8; The Strongest             ; 22;  8;  5;  9; 41; 36; 29;
+ 9; Real Mamoré               ; 22;  9;  1; 12; 27; 52; 28;
+10; Jorge Wilstermann         ; 22;  8;  3; 11; 41; 46; 27;
+11; Real Potosí               ; 22;  6;  7;  9; 41; 39; 25;
+12; Guabirá                   ; 22;  5;  3; 14; 26; 48; 18;
+
+
+Season: 2008 Clausura
+
+
+Group: 1 
+*("lower altitude group")
+
+ 1; Blooming                  ; 10;  6;  2;  2; 18;  9; 20;  Qualified
+ 2; Aurora                    ; 10;  6;  1;  3; 17; 10; 19;  Qualified
+
+ 3; Oriente Petrolero         ; 10;  4;  4;  2; 12;  8; 16;
+ 4; Real Mamoré               ; 10;  3;  3;  4; 10; 10; 12;
+ 5; Jorge Wilstermann         ; 10;  3;  3;  4; 10; 11; 12;
+ 6; Guabirá                   ; 10;  1;  1;  8;  8; 27;  4;
+
+Group: 2
+* ("higher altitude group")
+
+ 1; Real Potosí               ; 10;  5;  1;  4; 14;  9; 16;  Qualified
+ 2; La Paz FC                 ; 10;  4;  4;  2; 13; 12; 16;  Qualified
+
+ 3; Bolívar                   ; 10;  4;  3;  3; 18; 18; 15;
+ 4; Universitario (Sucre)     ; 10;  3;  4;  3; 11; 13; 13;
+ 5; The Strongest             ; 10;  2;  5;  3; 16; 21; 11;
+ 6; San José                  ; 10;  2;  3;  5; 15; 14;  9;
+
+*NB: top-2 of both groups qualify for semifinals (2 legs,
+*    away goal rule applicable, also in final)
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol07.html
+*Torneo Apertura 2007 (Torneo Alberto Lozada Cuéllar)
+Season: 2007 Apertura
+
+ 1; Real Potosí               ; 22; 12;  3;  7; 46; 25; 39;  Apertura Champions
+ 2; Bolívar                   ; 22; 10;  4;  8; 32; 37; 37;  [+3]
+ 3; La Paz FC                 ; 22; 10;  5;  7; 31; 23; 35;
+ 4; Jorge Wilstermann         ; 22; 10;  5;  7; 29; 23; 35;
+ 5; Oriente Petrolero         ; 22; 10;  7;  5; 33; 30; 34;  [-3]
+ 6; Blooming                  ; 22; 10;  1; 11; 32; 35; 31;
+ 7; The Strongest             ; 22;  8;  5;  9; 36; 40; 31;  [+2]
+ 8; Aurora                    ; 22;  8;  4; 10; 37; 34; 28;
+ 9; San José                  ; 22;  8;  4; 10; 36; 35; 27;  [-1]
+10; Destroyers                ; 22;  7;  5; 10; 28; 35; 26;
+11; Universitario (Sucre)     ; 22;  7;  4; 11; 32; 32; 25;
+12; Real Mamoré               ; 22;  7;  3; 12; 32; 55; 24;  [*]
+
+*NB: The Strongest awarded 3 points and San José 0 for their 2-2 draw
+*    in round 16;
+*    Bolívar awarded 3 points and Oriente 0 for Oriente's 3-0 win in
+*    round 22.
+*
+*[*] Municipal Real Mamoré changed name to Real Mamoré in January 2007
+
+
+Season: 2007 Clausura
+
+Group: A
+
+ 1; The Strongest             ; 12;  6;  3;  3; 23; 14; 21;  Qualified
+ 2; Blooming                  ; 12;  6;  3;  3; 14; 10; 21;  Qualified
+ 3; San José                  ; 12;  4;  5;  3; 18; 17; 17;  Qualified
+ 4; Universitario (Sucre)     ; 12;  4;  3;  5; 18; 18; 15;
+ 5; Aurora                    ; 12;  3;  5;  4; 13; 17; 14;
+ 6; Destroyers                ; 12;  3;  2;  7; 17; 26; 11;
+
+Group: B
+
+ 1; La Paz FC                 ; 12;  7;  2;  3; 12;  6; 23;  Qualified
+ 2; Jorge Wilstermann         ; 12;  5;  3;  4; 19; 17; 18;  Qualified
+ 3; Real Mamoré               ; 12;  5;  2;  5; 15; 13; 17;  Qualified
+ 4; Real Potosí               ; 12;  4;  4;  4; 17; 14; 16;
+ 5; Bolívar                   ; 12;  4;  2;  6; 16; 20; 14;
+ 6; Oriente Petrolero         ; 12;  4;  0;  8; 10; 20; 12;
+
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol06.html
+
+*NB: originally a Clausura 2006 as part of the 2005/06 season was
+*    planned for the first half of 2006 but eventually Bolivia
+*    decided to keep the calendar year season
+
+Season: 2006 Apertura
+*Stage: Apertura
+
+ 1; Bolívar                   ; 22; 14;  6;  2; 40; 17; 48;  Champions
+ 2; Real Potosí               ; 22; 13;  6;  3; 54; 25; 45;
+ 3; Universitario (Sucre)     ; 22; 12;  6;  4; 38; 30; 42;
+ 4; San José                  ; 22; 10;  8;  4; 34; 20; 38;
+ 5; Blooming                  ; 22; 10;  5;  7; 36; 31; 35;
+ 6; Oriente Petrolero         ; 22;  7;  8;  7; 30; 41; 29;
+ 7; Jorge Wilstermann         ; 22;  6;  8;  8; 38; 35; 26;
+ 8; The Strongest             ; 22;  7;  4; 11; 32; 36; 25;
+ 9; Unión Central             ; 22;  6;  3; 13; 28; 39; 21;
+10; Destroyers                ; 22;  6;  2; 14; 30; 50; 20;
+11; Aurora                    ; 22;  3;  8; 11; 22; 40; 17;
+12; La Paz FC                 ; 22;  3;  6; 13; 24; 42; 15;
+
+
+Season: 2006 Clausura
+*Stage: Clausura
+
+*Clasificación
+
+*Serie A
+ 1; Jorge Wilstermann         ; 12;  8;  3;  1; 24;  9; 27;  Qualified
+ 2; Real Potosí               ; 12;  5;  3;  4; 20; 20; 18;  Qualified
+ 3; Blooming                  ; 12;  4;  3;  5; 15; 18; 15;  Qualified
+ 4; Destroyers                ; 12;  4;  1;  7; 13; 19; 13;
+ 5; The Strongest             ; 12;  3;  4;  5; 10; 17; 13;
+ 6; La Paz FC                 ; 12;  3;  3;  6; 11; 15; 12;
+
+*Serie B
+ 1; Bolívar                   ; 12;  7;  2;  3; 21; 12; 23;  Qualified
+ 2; Oriente Petrolero         ; 12;  6;  4;  2; 23;  9; 22;  Qualified
+ 3; Universitario (Sucre)     ; 12;  6;  2;  4; 19; 15; 20;  Qualified
+ 4; San José                  ; 12;  3;  5;  4; 12; 14; 14;
+ 5; Aurora                    ; 12;  3;  3;  6; 11; 19; 12;
+ 6; Unión Central             ; 12;  2;  3;  7;  6; 18;  9;
+
+*Top-3 of both groups of Clasificación qualify for Hexagonal Final
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol05.html
+Competition: Liga de Fútbol Profesional Boliviano
+
+Season: 2005 Adecuacion
+
+*Torneo Adecuación 2005
+*
+*NB: transitional season played as double round robin Mar-Jul 2005;
+*    Bolivia intended to change to the 'European' rhythm from 2005/06.
+*
+*Final Table:
+*
+* 1.Bolívar                    22 13  5  4 55-20 44  Champions
+* 2.The Strongest              22 13  4  5 45-19 43  Libertadores 2006
+* 3.Oriente Petrolero          22 12  5  5 39-27 41  Libertadores 2006
+* 4.Aurora                     22 10  5  7 37-32 35
+* 5.Blooming                   22 11  2  9 27-37 35
+* 6.Jorge Wilstermann          22 10  4  8 34-24 34
+* 7.La Paz FC                  22 10  3  9 35-33 33
+* 8.San José                   22  8  6  8 48-36 30
+* 9.Real Potosí                22  7  6  9 31-42 27
+*10.Destroyers                 22  6  3 13 29-54 21
+*11.Unión Central              22  5  4 13 20-42 19
+*12.Univ. Iberoamericana       22  1  5 16 11-45  8
+
+
+
+Season: 2005 Apertura
+
+*NB: was supposed to be first half of 2005/06 season but eventually
+*    Bolivia decided to stick to the calendar year season
+*
+*Clasificación
+*
+*Final Tables:
+*
+*Serie A
+* 1.Blooming                   12  8  2  2 34-13 26  Qualified
+* 2.San José                   12  7  1  4 22-17 22  Qualified
+* 3.The Strongest              12  6  3  3 22-10 21  Qualified
+* 4.Jorge Wilstermann          12  5  2  5 21-13 17
+* 5.Destroyers                 12  5  1  6 26-26 16
+* 6.Univ. Iberoamericana       12  0  0 12  6-52  0
+* 
+*Serie B
+* 1.Bolívar                    12  9  3  0 32-13 30  Qualified
+* 2.La Paz FC                  12  5  4  3 17-15 19  Qualified
+* 3.Oriente Petrolero          12  5  3  4 15-17 18  Qualified
+* 4.Real Potosí                12  2  6  4 20-19 12
+* 5.Aurora                     12  2  4  6 11-15 10 
+* 6.Unión Central              12  3  1  8 14-30 10
+
+
+*Season: 2005 
+Stage: Hexagonal
+
+*Hexagonal Final
+*
+*Final Table:
+*
+* 1.Blooming                   10  6  1  3 20-20 19  Apertura winners
+* 2.Bolívar                    10  5  2  3 22-17 14  [-3]
+* 3.Oriente Petrolero          10  4  1  5 11-16 13
+* 4.La Paz FC                  10  3  3  4 17-14 12
+* 5.The Strongest              10  3  3  4 14-18 12
+* 6.San José                   10  2  4  4 12-11 10
+*NB: Bolívar 3 points deducted for failing to pay former coach Gustavo Huerta.
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol04.html
+Competition: Liga de Fútbol Profesional Boliviano
+Season: 2004 Apertura
+
+*Torneo Apertura 
+* 1.Bolívar                    22 17  2  3 51-21 53  Champions
+* 2.Aurora                     22 11  5  6 42-32 38
+* 3.Jorge Wilstermann          22 11  3  8 40-28 36
+* 4.Real Potosí                22 10  3  9 43-38 33
+* 5.San José                   22  9  5  8 35-36 32
+* 6.Oriente Petrolero          22  8  7  7 43-38 31
+* 7.La Paz FC                  22  9  4  9 33-38 31
+* 8.Unión Central              22  8  6  8 27-29 30
+* 9.Real Santa Cruz            22  7  5 10 28-40 26
+*10.The Strongest              22  7  3 12 31-31 24
+*11.Blooming                   22  5  4 13 28-52 19
+*12.Universidad Iberoamericana 22  5  3 14 23-41 18
+*NB: played as double round robin; winners qualify for Copa Libertadores 2005
+
+
+Season: 2004 Clausura
+
+*First Stage
+*
+*NB: played as double round robin; top-4 of both groups qualify
+*    for second stage
+*
+*Final Tables:
+*
+*Group A
+* 1.Bolívar                    10  4  6  0 11- 6 18
+* 2.San José                   10  5  2  3 19-10 17
+* 3.The Strongest              10  4  2  4 10-14 14
+* 4.Real Potosí                10  3  3  4 19-17 12
+* - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Universidad Iberoamericana 10  3  3  4 11-16 12
+* 6.La Paz FC                  10  1  4  5 12-19  7
+*
+*Group B
+* 1.Blooming                   10  5  3  2 19-14 18
+* 2.Unión Central              10  5  1  4 15-14 16
+* 3.Jorge Wilstermann          10  4  3  3 13-10 15
+* 4.Oriente Petrolero          10  3  4  3 13-11 13
+* - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Aurora                     10  3  3  4 10-16 12
+* 6.Real Santa Cruz            10  2  2  6 14-19  8
+
+
+
+
+
+*Second Stage
+*
+*Final Table:
+*
+* 1.Oriente Petrolero          14  9  0  5 31-18 27
+* 2.Real Potosí                14  7  3  4 32-27 24
+* 3.San José                   14  7  3  4 28-27 24
+* 4.Jorge Wilstermann          14  5  5  4 15-14 20
+* 5.The Strongest              14  9  0  5 27-14 19  [-8]
+* 6.Bolívar                    14  5  3  6 22-32 18
+* 7.Blooming                   14  4  1  9 22-28 13
+* 8.Unión Central              14  1  3 10 18-35  6
+*
+*NB: on March 4, 2005, The Strongest were deducted 8 points for fielding
+*    Argentinian 'keeper Marcelo Robledo, whose claims of Bolivian parentage
+*    were rejected; this was of course after the championship play-off between
+*    Oriente and The Strongest had been played.
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol01.html
+Competition: Liga de Fútbol Profesional Boliviano
+
+Season: 2001 
+Stage: Apertura
+
+*Torneo Apertura 
+* 1.Bolívar                 22 12  6  4 53-28 42  Playoff
+* 2.Oriente Petrolero       22 13  3  6 48-31 42  Playoff  
+* 3.Blooming                22  9  9  4 34-25 36 
+* 4.The Strongest           22 10  4  8 42-34 34
+* 5.Jorge Wilstermann       22  8  9  5 40-36 33
+* 6.Real Potosí             22  8  7  7 33-34 31
+* 7.Unión Central           22  9  3 10 27-34 30
+* 8.Independiente Petrolero 22  7  6  9 29-39 27
+* 9.Mariscal Braun          22  6  6 10 31-36 24
+*10.Guabirá                 22  6  5 11 25-35 23
+*11.Iberoamericana          22  5  5 12 37-47 20 
+*12.Real Santa Cruz         22  5  5 12 23-43 20
+
+
+
+
+Season: 2001 
+Stage: Clausura
+
+*First Stage
+*Tables:
+
+*Group 1
+* 1.Bolívar                 12  7  4  1 32-16 25  Qualified
+* 2.Jorge Wilstermann       12  5  3  4 19-19 18  Qualified
+* 3.Mariscal Braun          12  4  3  5 19-22 15  Qualified
+* 4.Real Santa Cruz         12  4  3  5 12-16 15
+*- - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Independiente Petrolero 12  3  5  4 16-24 14  Qualified
+* 6.Blooming                12  4  1  7 15-20 13
+
+*Group 2
+* 1.The Strongest           12  6  5  1 26-12 23  Qualified
+* 2.Real Potosí             12  6  2  4 28-22 20  Qualified
+* 3.Oriente Petrolero       12  4  4  4 22-16 16  Qualified
+* 4.Guabirá                 12  4  4  4 15-22 16  Qualified
+*- - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Iberoamericana          12  4  3  5 22-23 15
+* 6.Unión Central           12  1  3  8 17-31  6
+
+*Top-4 of each group to second stage,
+*played in 2 groups of 4, 2 of each qualifying for the final group
+*
+*Place of Real Santa Cruz (in relegation playoff) goes to Independiente.
+
+
+
+*Second Stage
+*
+*Group 1
+* 1.Oriente Petrolero        6  4  0  2 16- 9 12  Qualified
+* 2.Jorge Wilstermann        6  4  0  2 15- 9 12  Qualified
+*- - - - - - - - - - - - - - - - - - - - - - - -
+* 3.The Strongest            6  2  1  3  7-11  7
+* 4.Independiente Petrolero  6  1  1  4  6-15  4
+*
+*Group 2
+* 1.Bolívar                  6  4  0  2 15- 7 12  Qualified
+* 2.Real Potosí              6  3  1  2 12-11 10  Qualified
+*- - - - - - - - - - - - - - - - - - - - - - - -
+* 3.Mariscal Braun           6  3  0  3  9- 9  9
+* 4.Guabirá                  6  1  1  4  7-16  4
+
+*Top-2 of each group qualify for semifinals
+
+
+
+*Semifinals
+* 1.Oriente Petrolero        6  4  1  1 14- 9 13  Clausura Champions
+* 2.Real Potosí              6  2  2  2 13-15  8
+* 3.Bolívar                  6  1  3  2  8- 9  6
+* 4.Jorge Wilstermann        6  1  2  3  7- 9  5

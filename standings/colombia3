@@ -1,0 +1,851 @@
+Competition: Copa Mustang
+
+Season: 1996-1997
+
+*Colombia 1996/97
+
+*The season consists of the following stages:
+*
+*1) Copa Mustang I: 32 rounds; first round "clasicos regionales", 17th round
+*   their returns; in between two round robins of 15 rounds each.  Played from
+*   Sep 8, 1996 to Feb 23, 1997.  The winner of the Copa Mustang I gets 2
+*   bonus points, runners-up 1, third 0,5, fourth 0,25.  The winner is also
+*   assured of a place in the Copa Conmebol.
+*
+*2) Copa Mustang II: 14 rounds, from Feb 26, 1997 to Apr 20, 1997.  The clubs
+*   are divided into two groups (odd-place finishers of C.M. I and even-place
+*   finishers, respectively), which each play a double round-robin.  There are
+*   no bonus points to earn; the results of both C.M.'s are added to obtain
+*   the Reclasificación (46 rounds); the top-4 of this qualify for the Gran 
+*   Final.
+*
+*3) Cuadrangular Final: 6 rounds between the top-4 in the Reclasifición.  All
+*   clubs start with 0 points except for winner Reclasificación (1 bonus point).
+*
+*NB: afterwards, it was decided to have another stage, the Torneo Adecuación,
+*    at the end of the season, to return to the spring/fall rhythm.  The winner
+*    of the Torneo Adecuación (Bucaramanga) will play the winner of the
+*    originally planned season (América) for the 1996/97 championship.
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+
+Stage: 1
+*Copa Mustang I (First Stage)
+
+ 1; America Cali          ; 32; 21;  8;  3;  52; 22;  71;
+ 2; Atl. Nacional         ; 32; 16; 11;  5;  48; 22;  59;
+ 3; Dep. Cali             ; 32; 16;  9;  7;  52; 37;  57;
+ 4; Atl. Junior           ; 32; 13;  9; 10;  53; 40;  48;
+ 5; Dep. Indep. Medellín  ; 32; 12; 11;  9;  31; 31;  47;
+ 6; Dep. Tolima           ; 32; 12; 10; 10;  46; 43;  46;
+ 7; Indep. Santa Fe       ; 32; 11; 11; 10;  34; 31;  44;
+ 8; Once Caldas           ; 32; 11; 10; 11;  46; 33;  43;
+ 9; Envigado FC           ; 32; 10; 12; 10;  41; 37;  42;
+10; Atl. Bucaramanga      ; 32; 10; 12; 10;  37; 39;  42;
+11; Un. Magdalena         ; 32; 11;  7; 15;  35; 46;  40;
+12; Dep. Tuluá            ; 32;  7; 16;  9;  29; 34;  37;
+13; Millonarios           ; 32;  6; 10; 16;  30; 41;  28;
+14; Dep. Pereira          ; 32;  5; 13; 14;  39; 55;  28;
+15; Dep. Quindío          ; 32;  5; 13; 14;  34; 62;  28;
+16; Cúcuta Dep.           ; 32;  4; 10; 18;  27; 61;  22;
+
+
+*Table (Reclasificación): 
+Stage: Reclasificación
+
+
+ 1; America Cali          ; 46; 29; 10;  7;  70; 37;  99  ;   (2 BP) 
+ 2; Atl. Nacional         ; 46; 24; 14;  8;  73; 37;  87  ;   (1 BP)
+ 3; Dep. Cali             ; 46; 23; 13; 10;  77; 54;  82; ,5  (0,5 BP)
+ 4; Dep. Tolima           ; 46; 18; 16; 12;  61; 54;  70; 
+
+ 5; Dep. Indep. Medellín  ; 46; 18; 16; 12;  49; 44;  70;
+ 6; Un. Magdalena         ; 46; 20;  9; 17;  55; 61;  69;
+ 7; Atl. Junior           ; 46; 18; 11; 17;  65; 58;  65; ,25 (0,25 BP)
+ 8; Atl. Bucaramanga      ; 46; 17; 13; 16;  59; 59;  64; 
+ 9; Dep. Tuluá            ; 46; 15; 18; 13;  50; 49;  63;
+10; Once Caldas           ; 46; 15; 15; 16;  63; 48;  60 ;
+11; Indep. Santa Fe       ; 46; 14; 14; 18;  47; 52;  56 ;
+12; Envigado FC           ; 46; 13; 15; 18;  55; 55;  54;
+13; Dep. Quindío          ; 46; 11; 15; 20;  57; 85;  48 ;
+14; Dep. Pereira          ; 46;  8; 16; 22;  58; 82;  40;
+15; Millonarios           ; 46;  8; 13; 25;  45; 65;  37;
+16; Cúcuta Dep.           ; 46;  5; 16; 25;  36; 80;  31 ;
+
+
+Season: 1997
+Stage: Adecuación
+
+
+* shootout wins/losses a guess.
+
+Key: position; team; games; wins; shootout_wins; shootout_losses; losses; goals_for; goals_against; points; misc
+
+ 
+Group: A
+
+ 1; Dep. Quindío          ; 16;  9;  0; 4;  3;  24; 16;  31;   [1,00]
+ 2; Atl. Bucaramanga      ; 16;  7;  1; 4;  4;  22; 17;  27;   [0,75]
+ 3; Dep. Tolima           ; 16;  4;  6; 2;  4;  11; 13;  26;   [0,50]
+ 4; Atl. Junior           ; 16;  6;  2; 2;  6;  23; 22;  24;   [0,25]
+ 5; Once Caldas           ; 16;  2;  7; 4;  3;  18; 22;  24;
+ 6; America Cali          ; 16;  6;  1; 3;  6;  20; 20;  23;
+ 7; Indep. Santa Fe       ; 16;  5;  2; 4;  5;  19; 20;  23;
+ 8; Dep. Indep. Medellín  ; 16;  3;  0; 2; 11;  16; 27;  11;
+
+Group: B
+
+ 1; Dep. Cali             ; 16;  9;  3; 0;  4;  29; 19;  33;   [1,00]
+ 2; Millonarios           ; 16;  8;  4; 1;  2;  21; 11;  33;   [0,75]
+ 3; Un. Magdalena         ; 16;  8;  1; 2;  5;  26; 22;  28;   [0,50]
+ 4; Atl. Nacional         ; 16;  7;  0; 3;  6;  22; 21;  24;   [0,25]
+ 5; Envigado FC           ; 16;  4;  5; 2;  5;  13; 15;  24;
+ 6; Dep. Tuluá            ; 16;  4;  3; 4;  5;  15; 16;  22;
+ 7; Dep. Pereira          ; 16;  3;  2; 4;  7;  17; 20;  17;
+ 8; Dep. Unicosta         ; 16;  2;  4; 0; 10;  14; 29;  14;
+
+
+*Colombia 1998
+Season: 1998
+
+*Copa Mustang 
+
+
+*Championship Final
+*
+*First Leg [Dec 16, Estadio Pascual Guerrero, Cali, att: 35,000]
+*Cali        4-0 Caldas
+*  [Bonilla (3), Castillo]
+*
+*Second Leg [Dec 20, Estadio Palogrande, Manizales]
+*Caldas       -  Cali  
+*
+*Possible Playoff [Dec 22]
+
+
+Stage: 1
+
+*(consists of 36 rounds: 30 normal rounds plus 6 rounds in the "Cuadrangalarones")
+
+
+ 1; Once Caldas           ; 36; 21;  4; 6;  5;  66; 34 ; 77;  Qualified for Copa Libertadores
+ 2; Atl. Nacional         ; 36; 17;  7; 4;  8;  63; 35 ; 69;
+ 3; Indep. Santa Fé       ; 36; 17;  6; 5;  8;  48; 32 ; 68;
+ 4; Dep. Indep. Medellín  ; 36; 16;  4; 8;  8;  51; 29 ; 64;
+ 5; Dep. Cali             ; 36; 15;  6; 4; 11;  60; 49 ; 61;
+ 6; CD America Cali       ; 36; 11; 10; 5; 10;  54; 39 ; 58;
+ 7; Atl. Junior           ; 36; 11;  8; 6; 11;  51; 55 ; 55;
+ 8; Atl. Huila            ; 36; 13;  4; 7; 12;  54; 47 ; 54;
+ 9; Millonarios           ; 36; 11;  6; 8; 11;  42; 43 ; 53;
+10; Dep. Tolima           ; 36;  9; 11; 2; 14;  42; 51 ; 51;
+11; Dep. Quindío          ; 36; 11;  4; 8; 13;  43; 47 ; 49;
+12; Dep. Tuluá            ; 36; 10;  5; 7; 14;  42; 59 ; 47;
+13; Envigado FC           ; 36; 11;  4; 5; 16;  40; 50 ; 46;
+14; Atl. Bucaramanga      ; 36; 10;  4; 8; 14;  37; 54 ; 46; 
+15; Un. Magdalena         ; 36;  7;  6; 3; 20;  40; 72 ; 36;
+16; Dep. Unicosta         ; 36;  8;  1; 4; 23;  42; 79 ; 30;
+
+
+
+Stage: 2
+*Second Stage
+
+
+*(consists of 14 rounds in two groups; results to be added to overall table;
+* group A consists of teams who finished on "odd" places in the first stage,
+* group B of the "even" teams)
+
+Group: A
+
+ 1; Once Caldas           ; 14;  8;  4; 1;  1;  27; 11 ; 33;
+ 2; Dep. Cali             ; 14;  6;  2; 3;  3;  17; 12 ; 25;
+ 3; Dep. Quindío          ; 14;  6;  4; 1;  3;  25; 18 ; 27;
+ 4; Envigado FC           ; 14;  5;  3; 2;  4;  14; 14 ; 23;
+ 5; Millonarios           ; 14;  5;  2; 3;  4;  15; 16 ; 22;
+ 6; Un. Magdalena         ; 14;  4;  0; 3;  7;  18; 24 ; 15;
+ 7; Atl. Junior           ; 14;  1;  3; 2;  8;  20; 30 ; 11;
+ 8; Indep. Santa Fé       ; 14;  2;  1; 4;  7;   8; 19 ; 12;
+
+Group: B
+
+ 1; Atl. Nacional         ; 14;  8;  4; 1;  1;  30; 16 ; 33;
+ 2; Dep. Indep. Medellín  ; 14;  7;  3; 2;  2;  28; 16 ; 29;
+ 3; Dep. Tuluá            ; 14;  4;  3; 4;  3;  22; 20 ; 22;
+ 4; Atl. Bucaramanga      ; 14;  4;  3; 3;  4;  22; 21 ; 21;
+ 5; CD America Cali       ; 14;  5;  0; 4;  5;  17; 20 ; 19;
+ 6; Dep. Tolima           ; 14;  3;  4; 3;  4;  15; 19 ; 19;
+ 7; Atl. Huila            ; 14;  4;  2; 1;  7;  20; 21 ; 17;
+ 8; Dep. Unicosta         ; 14;  2;  0; 1; 11;  15; 36 ;  7;
+
+
+Season: 1999
+*Colombia 1999
+
+
+*Format:
+*
+*Apertura: consists of 6 rounds in Cuadrangulares, 15 rounds in a single
+*          round robin, and one round (22) with regional derbies.  The 
+*          winners qualify for the Copa Libertadores, runners-up for Copa
+*          Conmebol.
+*
+*Finalizacion: again 6 rounds of Cuadrangulares, 15 rounds in a single round
+*              robin, one more round of regional derbies, and then another
+*              set of Cuadrangulares according to the table; the winners
+*              of groups A and B play two matches to decide the remaining
+*              places in the Libertadores and Conmebol cups.
+*
+*The first team of the overall table (50 matches) are champions of the 
+*Copa Mustang (national title).
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Stage: Apertura
+
+ 1; CD America Cali       ; 22; 11;  7;  4; 42; 27; 40;
+ 2; Atl. Nacional         ; 22;  9;  9;  4; 25; 18; 36;   
+ 3; Once Caldas           ; 22;  9;  7;  6; 35; 19; 34;  
+ 4; Atl. Junior           ; 22;  9;  7;  6; 34; 34; 34;
+ 5; Dep. Tolima           ; 22;  7; 11;  4; 25; 20; 32;
+ 6; Dep. Tuluá            ; 22;  8;  7;  7; 31; 31; 31;  
+ 7; Dep. Cali             ; 22;  9;  4;  9; 37; 41; 31; 
+ 8; Dep. Indep. Medellín  ; 22;  6; 12;  4; 26; 20; 30;   
+ 9; Atl. Bucaramanga      ; 22;  5; 12;  5; 30; 24; 27;
+10; Indep. Santa Fe       ; 22;  6;  8;  8; 23; 26; 26;  
+11; Millonarios           ; 22;  5; 10;  7; 25; 34; 25;  
+12; Dep. Pasto            ; 22;  4; 13;  5; 32; 32; 25;
+13; Dep. Quindío          ; 22;  6;  6; 10; 32; 40; 24;
+14; Envigado FC           ; 22;  6;  4; 12; 21; 32; 22 ;  
+15; Un. Magdalena         ; 22;  4; 10;  8; 31; 38; 22;
+16; Atl. Huila            ; 22;  3; 11;  8; 18; 31; 20;
+
+
+Stage: Finalización
+
+ 1; Millonarios           ; 22; 10; 12;  0; 31; 14; 42;
+ 2; Dep. Tuluá            ; 22; 10;  8;  4; 29; 19; 38;
+ 3; Dep. Indep. Medellín  ; 22; 10;  5;  7; 32; 29; 35;
+ 4; Atl. Junior           ; 22; 10;  5;  7; 27; 24; 35;
+ 5; Dep. Cali             ; 22;  9;  7;  6; 30; 23; 34;
+ 6; Atl. Nacional         ; 22;  9;  7;  6; 31; 25; 34;
+ 7; Once Caldas           ; 22;  8; 10;  4; 37; 24; 34;
+ 8; Dep. Pasto            ; 22; 10;  2; 10; 33; 33; 32;
+
+ 9; Atl. Bucaramanga      ; 22;  9;  4;  9; 25; 25; 31;
+10; CD America Cali       ; 22;  7;  8;  7; 28; 26; 29;
+11; Dep. Tolima           ; 22;  8;  3; 11; 26; 27; 27;
+12; Envigado FC           ; 22;  8;  4; 10; 25; 33; 25;
+13; Indep. Santa Fe       ; 22;  5;  8;  9; 25; 30; 23;
+14; Un. Magdalena         ; 22;  5;  7; 10; 22; 31; 22;
+15; Dep. Quindío          ; 22;  4;  6; 12; 28; 45; 18;
+16; Atl. Huila            ; 22;  4;  4; 14; 22; 43; 16;
+
+Season: 2000
+*Torneo Mustang I
+Stage: I
+
+ 1; Deportivo Cali    ; 22; 11;  7;  4;  36; 22;  40;  Qualified for Copa Libertadores 2001
+ 2; América           ; 22; 11;  5;  6;  42; 22;  38;
+ 3; Deportes Tolima   ; 22; 11;  3;  8;  36; 29;  36;
+ 4; CD Millonarios    ; 22;  8;  9;  5;  32; 27;  33;
+ 5; Atlético Nacional ; 22;  9;  5;  8;  35; 29;  32;
+ 6; Atlético Júnior   ; 22;  9;  5;  8;  33; 27;  32;
+ 7; Corporación Tuluá ; 22;  9;  5;  8;  30; 31;  32;
+ 8; Envigado FC       ; 22;  8;  8;  6;  30; 25;  32;
+ 9; Independ Santa Fe ; 22;  8;  7;  7;  32; 30;  31;
+10; Real Cartagena    ; 22;  7;  6;  9;  21; 23;  27;
+11; Atlético Huila    ; 22;  6;  9;  7;  21; 27;  27;
+12; Once Caldas       ; 22;  6;  9;  7;  24; 31;  27;
+13; CD Indep Medellín ; 22;  6;  8;  8;  28; 34;  26;
+14; Deportivo Pasto   ; 22;  6;  4; 12;  27; 44;  22;
+15; Atl Bucaramanga   ; 22;  5;  6; 11;  16; 28;  21;
+16; Deportes Quindío  ; 22;  5;  6; 11;  24; 38;  21;
+
+
+*Torneo Mustang II 
+Stage: II
+
+ 1; América           ; 22; 14;  6;  2;  40; 20;  48;  Qualified for Copa Libertadores 2001
+ 2; Independ Santa Fe ; 22; 13;  4;  5;  33; 22;  43 ;
+ 3; Atlético Júnior   ; 22; 10;  8;  4;  37; 23;  38 ;
+ 4; CD Millonarios    ; 22;  9;  9;  4;  32; 23;  36;
+ 5; Deportes Tolima   ; 22; 10;  3;  9;  31; 25;  33 ;
+ 6; Once Caldas       ; 22;  9;  6;  7;  29; 19;  33;
+ 7; Atlético Nacional ; 22;  8;  4; 10;  31; 34;  28;
+ 8; Deportivo Pasto   ; 22;  7;  7;  8;  29; 28;  28;
+ 9; CD Indep Medellín ; 22;  7;  6;  9;  28; 30;  27;
+10; Atl Bucaramanga   ; 22;  7;  6;  9;  23; 30;  27 ;
+11; Atlético Huila    ; 22;  8;  2; 12;  29; 39;  26 ;
+12; Envigado FC       ; 22;  7;  5; 10;  31; 38;  26 ;
+13; Real Cartagena    ; 22;  6;  6; 10;  23; 28;  24 ;
+14; Deportes Quindío  ; 22;  6;  6; 10;  26; 38;  24;
+15; Deportivo Cali    ; 22;  5;  6; 11;  31; 42;  21;
+16; Corporación Tuluá ; 22;  3; 10;  9;  25; 39;  19;
+
+
+*Colombia 2001
+*
+*Friendly Matches  [Jan 21]
+*Pereira      2-3  América
+*  [Cardona 12, Ortero 79; González 27, Herrera 61, Vásquez 71]
+*Santa Fe     1-0  Millonarios
+*  [Díaz 44]
+*Envigado     0-2  Nacional
+*  [Mosquera 21, Salazar 72]
+*Cali         1-0  Tuluá
+*  [Bedoya 23]
+*
+*Torneo Mustang I  (Feb 11-Jul 1) 
+
+Stage: I
+
+ 1; Corporación Tuluá ; 22; 12;  6;  4;  30; 19;  42;  Copa Libertadores 2002
+ 2; Deportivo Cali    ; 22; 11;  5;  6;  31; 21;  38;
+ 3; Once Caldas       ; 22; 11;  5;  6;  35; 27;  38;
+ 4; Deportes Tolima   ; 22; 11;  3;  8;  34; 28;  36;
+ 5; CD Indep Medellín ; 22;  9;  7;  6;  40; 25;  34;
+ 6; Independ Santa Fe ; 22;  9;  7;  6;  28; 23;  34;
+ 7; América           ; 22; 10;  3;  9;  37; 39;  33;
+ 8; Atlético Júnior   ; 22;  8;  7;  7;  22; 23;  31;
+ 9; CD Millonarios    ; 22;  8;  4; 10;  29; 23;  28;
+10; Envigado FC       ; 22;  7;  7;  8;  26; 30;  28;
+11; Deportes Pereira  ; 22;  8;  3; 11;  26; 34;  27;
+12; Atlético Nacional ; 22;  7;  5; 10;  18; 28;  26;
+13; Real Cartagena    ; 22;  7;  4; 11;  23; 28;  25;
+14; Atlético Huila    ; 22;  6;  4; 12;  28; 40;  22;
+15; Atl Bucaramanga   ; 22;  4; 10;  8;  10; 18;  22;
+16; Deportivo Pasto   ; 22;  5;  6; 11;  23; 34;  21;
+
+
+*Torneo Mustang II  (Aug 5-Nov 11)
+Stage: II
+
+ 1; Once Caldas       ; 22; 12;  7;  3;  36; 16;  43;  Copa Libertadores 2002
+ 2; CD Millonarios    ; 22; 11;  4;  7;  37; 31;  37;
+ 3; Atlético Nacional ; 22; 10;  7;  5;  30; 18;  37;
+ 4; Deportivo Cali    ; 22; 10;  6;  6;  34; 25;  36;
+ 5; América           ; 22; 10;  5;  7;  31; 23;  35;
+ 6; Deportivo Pasto   ; 22;  9;  8;  5;  21; 27;  35;
+ 7; Envigado FC       ; 22;  9;  6;  7;  37; 36;  33;
+ 8; Deportes Tolima   ; 22;  8;  8;  6;  28; 24;  32;
+ 9; Independ Santa Fe ; 22;  9;  2; 11;  29; 29;  29;
+10; CD Indep Medellín ; 22;  8;  5;  9;  24; 23;  29;
+11; Deportes Pereira  ; 22;  7;  5; 10;  19; 31;  26;
+12; Atlético Júnior   ; 22;  6;  7;  9;  27; 29;  25;
+13; Corporación Tuluá ; 22;  5;  8;  9;  23; 28;  23;
+14; Real Cartagena    ; 22;  4;  9;  9;  20; 31;  21;
+15; Atlético Huila    ; 22;  5;  5; 12;  20; 36;  20;
+16; Atl Bucaramanga   ; 22;  4;  6; 12;  17; 26;  18;
+
+
+
+*Colombia 2002
+Season: 2002 Apertura
+
+ 1; Deportivo Cali    ; 22; 11;  6;  5;  44; 24;  39;
+ 2; Independ Santa Fe ; 22; 10;  8;  4;  26; 13;  38;
+ 3; Atlético Nacional ; 22; 10;  8;  4;  24; 18;  38;
+ 4; Envigado FC       ; 22; 10;  6;  6;  21; 18;  36;
+ 5; Deportivo Pasto   ; 22;  9;  7;  6;  29; 27;  34;
+ 6; Atl Bucaramanga   ; 22;  9;  6;  7;  24; 22;  33;
+ 7; Unión Magdalena   ; 22;  9;  6;  7;  27; 27;  33;
+ 8; América           ; 22;  8;  9;  5;  27; 22;  33;
+
+ 9; Once Caldas       ; 22;  9;  5;  8;  36; 29;  32;
+10; Deportes Pereira  ; 22;  8;  8;  6;  20; 16;  32;
+11; Deportes Quindío  ; 22;  7;  9;  6;  24; 30;  30;
+12; Atlético Junior   ; 22;  7;  5; 10;  19; 25;  26;
+13; CD Millonarios    ; 22;  5;  8;  9;  17; 21;  23;
+14; Atlético Huila    ; 22;  5;  7; 10;  21; 32;  22;
+15; Corporación Tuluá ; 22;  5;  6; 11;  16; 25;  21;
+16; CD Indep Medellín ; 22;  4;  9;  9;  26; 32;  21;
+17; Real Cartagena    ; 22;  4;  8; 10;  17; 25;  20;
+18; Deportes Tolima   ; 22;  3;  9; 10;  18; 30;  18;
+
+
+Season: 2002 Finalización
+
+ 1; Deportivo Cali    ; 22; 14;  5;  3;  38; 15;  47;
+ 2; Deportivo Pasto   ; 22; 11;  3;  8;  32; 33;  36;
+ 3; CD Indep Medellín ; 22;  9;  8;  5;  25; 16;  35;
+ 4; América           ; 22; 10;  4;  8;  26; 24;  34;
+ 5; Atl Bucaramanga   ; 22;  9;  6;  7;  34; 29;  33;
+ 6; Unión Magdalena   ; 22;  9;  6;  7;  25; 26;  33;
+ 7; Deportes Tolima   ; 22;  8;  9;  5;  30; 26;  33;
+ 8; Atlético Nacional ; 22;  8;  8;  6;  28; 21;  32;
+
+ 9; Independ Santa Fe ; 22;  8;  8;  6;  35; 30;  32;
+10; Once Caldas       ; 22;  7; 11;  4;  23; 17;  32;
+11; Deportes Quindío  ; 22;  8;  4; 10;  18; 23;  28;
+12; Corporación Tuluá ; 22;  8;  4; 10;  21; 27;  28;
+13; Deportes Pereira  ; 22;  7;  5; 10;  27; 34;  26;
+14; Real Cartagena    ; 22;  7;  4; 11;  20; 30;  25;
+15; Atlético Huila    ; 22;  6;  7;  9;  21; 29;  25;
+16; CD Millonarios    ; 22;  6;  5; 11;  25; 31;  23;
+17; Atlético Junior   ; 22;  4;  9;  9;  27; 33;  21;
+18; Envigado FC       ; 22;  3;  6; 13;  16; 27;  15;
+
+Season: 2003 Apertura
+
+ 1; Once Caldas                ; 18;  10;  5;  3;  26; 15;  35;
+ 2; CD Millonarios             ; 18;   8;  7;  3;  23; 14;  31;
+ 3; América                    ; 18;   8;  7;  3;  31; 23;  31;
+ 4; Centauros Villavicencio    ; 18;   7;  8;  3;  24; 21;  29;
+ 5; Deportivo Cali             ; 18;   8;  4;  6;  27; 22;  28;
+ 6; Atlético Junior            ; 18;   8;  4;  6;  19; 17;  28;
+ 7; Unión Magdalena            ; 18;   7;  5;  6;  22; 22;  26;
+ 8; Atlético Huila             ; 18;   6;  8;  4;  22; 22;  26;
+ 9; CD Independiente Medellín  ; 18;   7;  4;  7;  29; 23;  25;
+10; Deportes Pereira           ; 18;   7;  4;  7;  22; 26;  25;
+11; Atlético Bucaramanga       ; 18;   6;  7;  5;  21; 20;  25;
+12; Deportes Tolima            ; 18;   6;  4;  8;  24; 24;  22;
+13; Envigado FC                ; 18;   6;  4;  8;  20; 23;  22;
+14; Atlético Nacional          ; 18;   6;  2; 10;  17; 20;  20;
+15; Deportivo Pasto            ; 18;   4;  7;  7;  15; 18;  19;
+16; Independiente Santa Fe     ; 18;   5;  3; 10;  15; 23;  18;
+17; Corporación Tuluá          ; 18;   2;  9;  7;  15; 24;  15;
+18; Deportes Quindío           ; 18;   3;  4; 11;  13; 28;  13;
+
+*Torneo Finalizacion 2003
+Season: 2003 Finalizacion
+
+ 1; Deportivo Cali             ; 18;  10;  4;  4;  34; 18;  34;
+ 2; Atlético Nacional          ; 18;   9;  5;  4;  23; 14;  32 ;
+ 3; Unión Magdalena            ; 18;   9;  1;  8;  20; 18;  28;
+ 4; CD Independiente Medellín  ; 18;   8;  4;  6;  20; 15;  28;
+ 5; Deportivo Pasto            ; 18;   8;  4;  6;  20; 19;  28;
+ 6; Deportes Tolima            ; 18;   7;  6;  5;  22; 17;  27;
+ 7; CD Millonarios             ; 18;   8;  2;  8;  21; 21;  26;
+ 8; Atlético Junior            ; 18;   7;  4;  7;  24; 28;  25;
+ 9; Deportes Pereira           ; 18;   6;  7;  5;  20; 18;  25;
+10; Deportes Quindío           ; 18;   6;  7;  5;  21; 20;  25;
+11; América                    ; 18;   6;  7;  5;  23; 23;  25;
+12; Atlético Huila             ; 18;   6;  6;  6;  23; 25;  24;
+13; Independiente Santa Fe     ; 18;   5;  9;  4;  15; 13;  24;
+14; Once Caldas                ; 18;   4;  6;  8;  20; 26;  18;
+15; Envigado FC                ; 18;   3;  9;  6;  18; 21;  18;
+16; Atlético Bucaramanga       ; 18;   4;  5;  9;  24; 30;  17;
+17; Corporación Tuluá          ; 18;   4;  5;  9;  16; 26;  17;
+18; Centauros Villavicencio    ; 18;   4;  5;  9;  15; 27;  17;
+
+
+*Colombia 2004
+Season: 2004 Apertura
+
+ 1; América                    ; 18;  12;  1;  5;  30; 17;  37;
+ 2; Deportivo Cali             ; 18;  10;  4;  4;  23; 15;  34;
+ 3; Atlético Nacional          ; 18;  10;  3;  5;  30; 23;  33;
+ 4; Once Caldas                ; 18;   9;  4;  5;  23; 14;  31;
+ 5; Atlético Junior            ; 18;   8;  6;  4;  26; 16;  30;
+ 6; CD Independiente Medellín  ; 18;   8;  5;  5;  20; 19;  29;
+ 7; Deportivo Pasto            ; 18;   8;  3;  7;  18; 19;  27;
+ 8; Chicó FC                   ; 18;   7;  6;  5;  25; 24;  27;
+ 9; Deportes Pereira           ; 18;   7;  5;  6;  21; 18;  26;
+10; CD Millonarios             ; 18;   7;  5;  6;  23; 22;  26;
+11; Deportes Tolima            ; 18;   6;  8;  4;  20; 17;  26;
+12; Atlético Bucaramanga       ; 18;   5;  6;  7;  22; 25;  21;
+13; Independiente Santa Fe     ; 18;   4;  8;  6;  18; 22;  20;
+14; Corporación Tuluá          ; 18;   5;  4;  9;  27; 32;  19;
+15; Atlético Huila             ; 18;   4;  4; 10;  19; 29;  16;
+16; Deportes Quindío           ; 18;   3;  6;  9;  11; 23;  15;
+17; Envigado FC                ; 18;   2;  8;  8;  19; 26;  14;
+18; Unión Magdalena            ; 18;   2;  4; 12;  15; 29;  10;
+
+*Clausura 2004
+Season: 2004 Finalizacion
+
+ 1; América                    ; 18;  13;  3;  2;  32; 14;  42;
+ 2; Atlético Bucaramanga       ; 18;  10;  4;  4;  23; 16;  34;
+ 3; Deportes Tolima            ; 18;  10;  3;  5;  27; 20;  33;
+ 4; Deportivo Cali             ; 18;   9;  3;  6;  24; 17;  30;
+ 5; Atlético Nacional          ; 18;   9;  3;  6;  24; 18;  30;
+ 6; CD Independiente Medellín  ; 18;   8;  5;  5;  24; 13;  29;
+ 7; Once Caldas                ; 18;   8;  4;  6;  30; 19;  28;
+ 8; Atlético Junior            ; 18;   7;  7;  4;  26; 21;  28;
+ 9; Envigado FC                ; 18;   7;  5;  6;  26; 20;  26;
+10; Independiente Santa Fe     ; 18;   7;  4;  7;  25; 24;  25;
+11; Deportes Quindío           ; 18;   7;  4;  7;  21; 29;  25;
+12; Corporación Tuluá          ; 18;   6;  4;  8;  14; 19;  22;
+13; Atlético Huila             ; 18;   5;  3; 10;  21; 25;  18;
+14; Chicó FC                   ; 18;   4;  6;  8;  15; 24;  18;
+15; Unión Magdalena            ; 18;   5;  2; 11;  11; 27;  17;
+16; Deportivo Pasto            ; 18;   3;  8;  7;  10; 16;  17;
+17; CD Millonarios             ; 18;   3;  4; 11;  14; 29;  13;
+18; Deportes Pereira           ; 18;   3;  4; 11;   9; 25;  13;
+
+*Colombia 2005
+Season: 2005 Apertura
+
+ 1; Atlético Nacional          ; 18;  10;  6;  2;  36; 20;  36;  Qualified
+ 2; Independiente Santa Fe     ; 18;   7;  7;  4;  20; 16;  28;  Qualified
+ 3; CD Independiente Medellín  ; 18;   8;  3;  7;  22; 23;  27;  Qualified
+ 4; Envigado FC                ; 18;   7;  6;  5;  33; 24;  27;  Qualified
+ 5; Deportivo Cali             ; 18;   7;  6;  5;  24; 18;  27;  Qualified
+ 6; Atlético Huila             ; 18;   7;  6;  5;  16; 12;  27;  Qualified
+ 7; Deportes Tolima            ; 18;   6;  9;  3;  21; 14;  27;  Qualified
+ 8; Once Caldas                ; 18;   6;  8;  4;  21; 17;  26;  Qualified
+
+ 9; Deportivo Pasto            ; 18;   6;  8;  4;  22; 21;  26;
+10; Atlético Junior            ; 18;   7;  4;  7;  26; 23;  25;
+11; Real Cartagena             ; 18;   7;  3;  8;  18; 20;  24;
+12; América                    ; 18;   6;  6;  6;  24; 26;  24;
+13; Boyacá Chicó FC            ; 18;   6;  4;  8;  18; 19;  22;  [*]
+14; CD Millonarios             ; 18;   4;  9;  5;  25; 33;  21;
+15; Atlético Bucaramanga       ; 18;   5;  5;  8;  14; 18;  20;
+16; Unión Magdalena            ; 18;   4;  4; 10;  11; 22;  16;
+17; Deportes Quindío           ; 18;   4;  4; 10;  14; 32;  16;
+18; Deportes Pereira           ; 18;   2;  8;  8;  15; 22;  14;
+
+
+Season: 2005 Finalizacion
+
+ 1; Deportivo Cali             ; 18;   8;  6;  4;  30; 23;  30;  Qualified
+ 2; CD Independiente Medellín  ; 18;   9;  2;  7;  28; 23;  29;  Qualified
+ 3; América                    ; 18;   9;  2;  7;  24; 20;  29;  Qualified
+ 4; Deportes Pereira           ; 18;   9;  2;  7;  27; 26;  29;  Qualified
+ 5; Atlético Junior            ; 18;   9;  2;  7;  22; 27;  29;  Qualified
+ 6; Real Cartagena             ; 18;   8;  5;  5;  26; 19;  29;  Qualified
+ 7; Once Caldas                ; 18;   8;  5;  5;  25; 21;  29;  Qualified
+ 8; Independiente Santa Fe     ; 18;   8;  5;  5;  20; 17;  29;  Qualified
+
+ 9; Deportes Tolima            ; 18;   8;  3;  7;  24; 18;  27;
+10; Atlético Bucaramanga       ; 18;   7;  6;  5;  24; 16;  27;
+11; Atlético Nacional          ; 18;   6;  8;  4;  22; 16;  26;
+12; Deportivo Pasto            ; 18;   7;  4;  7;  20; 18;  25;
+13; Deportes Quindío           ; 18;   7;  4;  7;  18; 19;  25;
+14; CD Millonarios             ; 18;   7;  3;  8;  22; 21;  24;
+15; Envigado FC                ; 18;   5;  6;  7;  20; 22;  21;
+16; Atlético Huila             ; 18;   4;  4; 10;  18; 32;  16;
+17; Boyacá Chicó FC            ; 18;   3;  6;  9;  12; 24;  15;
+18; Unión Magdalena            ; 18;   0;  7; 11;  15; 35;   7;
+
+
+Season: 2006 Apertura
+
+ 1; Once Caldas                ; 18;  10;  7;  1;  31; 15;  37;  Qualified
+ 2; Cúcuta Deportivo           ; 18;  11;  4;  3;  29; 14;  37;  Qualified
+ 3; Deportes Tolima            ; 18;   9;  5;  4;  36; 19;  32;  Qualified
+ 4; Atlético Nacional          ; 18;   9;  3;  6;  27; 19;  30;  Qualified
+ 5; Deportes Pereira           ; 18;   7;  8;  3;  20; 15;  29;  Qualified
+ 6; CD Millonarios             ; 18;   7;  7;  4;  27; 23;  28;  Qualified
+ 7; Deportivo Cali             ; 18;   8;  4;  6;  20; 17;  28;  Qualified
+ 8; Deportivo Pasto            ; 18;   7;  6;  5;  28; 21;  27;  Qualified
+
+ 9; Deportes Quindío           ; 18;   8;  3;  7;  18; 17;  27;
+10; América                    ; 18;   8;  3;  7;  20; 25;  27;
+11; Envigado FC                ; 18;   5;  7;  6;  20; 22;  22;
+12; Atlético Bucaramanga       ; 18;   6;  3;  9;  17; 23;  21;
+13; Boyacá Chicó FC            ; 18;   4;  8;  6;  19; 22;  20;
+14; Independiente Santa Fe     ; 18;   5;  5;  8;  24; 32;  20;
+15; Atlético Huila             ; 18;   6;  2; 10;  17; 33;  20;
+16; Atlético Junior            ; 18;   4;  5;  9;  22; 29;  17;
+17; CD Independiente Medellín  ; 18;   3;  5; 10;  15; 28;  14;
+18; Real Cartagena             ; 18;   2;  1; 15;  14; 30;   7;
+
+
+Season: 2006 Finalizacion
+
+ 1; Boyacá Chicó FC            ; 17;  10;  2;  5;  22; 13;  32;  Qualified
+ 2; Deportes Tolima            ; 17;   9;  4;  4;  28; 18;  31;  Qualified
+ 3; Deportivo Pasto            ; 17;   9;  3;  5;  23; 13;  30;  Qualified
+ 4; CD Independiente Medellín  ; 17;   9;  2;  6;  26; 21;  29;  Qualified
+ 5; Atlético Huila             ; 17;   8;  4;  5;  23; 16;  28;
+ 6; Cúcuta Deportivo           ; 17;   8;  4;  5;  21; 18;  28;
+ 7; Atlético Nacional          ; 17;   8;  4;  5;  18; 15;  28;
+ 8; CD Millonarios             ; 17;   8;  3;  6;  21; 16;  27;
+
+ 9; Deportivo Cali             ; 17;   6;  7;  4;  22; 18;  25;
+10; Independiente Santa Fe     ; 17;   6;  6;  5;  33; 28;  24;
+11; Deportes Quindío           ; 17;   7;  3;  7;  23; 25;  24;
+12; Real Cartagena             ; 17;   6;  4;  7;  15; 17;  22;
+13; Deportes Pereira           ; 17;   5;  4;  8;  20; 22;  19;
+14; Once Caldas                ; 17;   5;  4;  8;  22; 28;  19;
+15; Atlético Junior            ; 17;   4;  5;  8;  17; 29;  17;
+16; Atlético Bucaramanga       ; 17;   4;  4;  9;  22; 31;  16;
+17; América                    ; 17;   3;  4; 10;  20; 31;  13;
+18; Envigado FC                ; 17;   3;  3; 11;  14; 31;  12;
+
+
+Season: 2007 Apertura
+
+ 1; Deportivo Cali             ; 18;   9;  7;  2;  33; 20;  34;  Qualified
+ 2; Cúcuta Deportivo           ; 18;  10;  3;  5;  28; 17;  33;  Qualified 
+ 3; Atlético Nacional          ; 18;   9;  5;  4;  32; 20;  32;  Qualified
+ 4; CD Millonarios             ; 18;   8;  6;  4;  26; 17;  30;  Qualified
+ 5; Boyacá Chicó FC            ; 18;   9;  3;  6;  20; 16;  30;  Qualified
+ 6; CD Independiente Medellín  ; 18;   8;  5;  5;  33; 31;  29;  Qualified
+ 7; Independiente Santa Fe     ; 18;   8;  5;  5;  23; 21;  29;  Qualified
+ 8; Atlético Huila             ; 18;   9;  1;  8;  24; 23;  28;  Qualified
+
+ 9; Atlético Bucaramanga       ; 18;   7;  6;  5;  23; 21;  27;
+10; Deportivo Pasto            ; 18;   6;  5;  7;  19; 21;  23;
+11; Atlético Junior            ; 18;   5;  8;  5;  22; 26;  23;
+12; Deportes Tolima            ; 18;   6;  2; 10;  26; 28;  20;
+13; América                    ; 18;   4;  7;  7;  24; 35;  19;
+14; Once Caldas                ; 18;   4;  6;  8;  18; 25;  18;
+15; Deportes Quindío           ; 18;   4;  6;  8;  14; 22;  18;
+16; Real Cartagena             ; 18;   3;  8;  7;  14; 22;  17;
+17; Deportes Pereira           ; 18;   3;  6;  9;  14; 21;  15;
+18; CD La Equidad (Bogotá)     ; 18;   2;  7;  9;  21; 28;  13;
+
+
+Season: 2007 Finalización
+
+ 1; Atlético Nacional          ; 18;  11;  5;  2;  28; 12;  38;  Qualified
+ 2; CD La Equidad (Bogotá)     ; 18;  10;  4;  4;  27; 18;  34;  Qualified
+ 3; América                    ; 18;  10;  4;  4;  24; 15;  34;  Qualified
+ 4; Deportes Tolima            ; 18;  10;  3;  5;  26; 17;  33;  Qualified
+ 5; Cúcuta Deportivo           ; 18;   9;  5;  4;  30; 19;  32;  Qualified
+ 6; Deportivo Pasto            ; 18;   8;  6;  4;  28; 16;  30;  Qualified
+ 7; Once Caldas                ; 18;   8;  5;  5;  29; 22;  29;  Qualified
+ 8; Boyacá Chicó FC            ; 18;   7;  6;  5;  20; 18;  27;  Qualified
+
+ 9; Deportes Quindío           ; 18;   8;  2;  8;  29; 27;  26;
+10; CD Independiente Medellín  ; 18;   8;  1;  9;  22; 25;  25;
+11; CD Millonarios             ; 18;   5;  5;  8;  18; 28;  20;
+12; Deportivo Cali             ; 18;   3;  9;  6;  18; 20;  18;
+13; Atlético Junior            ; 18;   5;  3; 10;  17; 28;  18;
+14; Atlético Bucaramanga       ; 18;   5;  2; 11;  20; 28;  17;
+15; Atlético Huila             ; 18;   3;  8;  7;  17; 27;  17;
+16; Deportes Pereira           ; 18;   3;  8;  7;  15; 25;  17;
+17; Real Cartagena             ; 18;   3;  5; 10;  16; 25;  14;
+18; Independiente Santa Fe     ; 18;   2;  7;  9;  16; 30;  13;
+
+
+Season: 2008 Apertura
+
+ 1; CD La Equidad (Bogotá)     ; 18;  10;  5;  3;  25; 13;  35;  Qualified
+ 2; Boyacá Chicó FC            ; 18;   9;  5;  4;  30; 19;  32;  Qualified
+ 3; Independiente Santa Fe     ; 18;   9;  4;  5;  25; 18;  31;  Qualified
+ 4; CD Independiente Medellín  ; 18;   8;  5;  5;  26; 14;  29;  Qualified
+ 5; Envigado FC                ; 18;   8;  4;  6;  20; 20;  28;  Qualified
+ 6; Deportivo Cali             ; 18;   7;  6;  5;  19; 21;  27;  Qualified
+ 7; América                    ; 18;   8;  2;  8;  34; 28;  26;  Qualified
+ 8; Deportes Quindío           ; 18;   6;  7;  5;  25; 22;  25;  Qualified
+
+ 9; Cúcuta Deportivo           ; 18;   7;  4;  7;  20; 17;  25;
+10; Atlético Bucaramanga       ; 18;   8;  1;  9;  20; 24;  25;
+11; CD Millonarios             ; 18;   6;  6;  6;  23; 23;  24;
+12; Atlético Junior            ; 18;   7;  3;  8;  21; 23;  24;
+13; Atlético Huila             ; 18;   5;  8;  5;  25; 25;  23;
+14; Atlético Nacional          ; 18;   7;  1; 10;  16; 19;  22;
+15; Once Caldas                ; 18;   5;  4;  9;  20; 28;  19;
+16; Deportivo Pasto            ; 18;   5;  4;  9;  15; 24;  19;
+17; Deportes Pereira           ; 18;   5;  4;  9;  21; 33;  19;
+18; Deportes Tolima            ; 18;   4;  3; 11;  21; 35;  15;
+
+
+Season: 2008 Finalizacion
+
+ 1; Deportes Tolima            ; 18;  10;  3;  5;  22; 16;  33;  Qualified
+ 2; Atlético Junior            ; 18;  10;  1;  7;  27; 19;  31;  Qualified
+ 3; Atlético Nacional          ; 18;   9;  3;  6;  20; 19;  30;  Qualified
+ 4; América                    ; 18;   8;  5;  5;  25; 17;  29;  Qualified
+ 5; CD Independiente Medellín  ; 18;   9;  2;  7;  24; 19;  29;  Qualified
+ 6; Deportes Pereira           ; 18;   8;  5;  5;  23; 20;  29;  Qualified
+ 7; CD La Equidad (Bogotá)     ; 18;   8;  5;  5;  18; 16;  29;  Qualified
+ 8; Deportivo Cali             ; 18;   9;  1;  8;  30; 21;  28;  Qualified
+
+ 9; CD Millonarios             ; 18;   8;  4;  6;  26; 18;  28;
+10; Once Caldas                ; 18;   7;  6;  5;  20; 20;  27;
+11; Independiente Santa Fe     ; 18;   7;  5;  6;  18; 15;  26;
+12; Envigado FC                ; 18;   5;  6;  7;  19; 19;  21;
+13; Deportes Quindío           ; 18;   5;  6;  7;  16; 22;  21;
+14; Boyacá Chicó FC            ; 18;   6;  2; 10;  17; 24;  20;
+15; Atlético Bucaramanga       ; 18;   4;  8;  6;  13; 23;  20;
+16; Deportivo Pasto            ; 18;   3;  7;  8;   9; 17;  16;
+17; Atlético Huila             ; 18;   3;  6;  9;  17; 26;  15;
+18; Cúcuta Deportivo           ; 18;   4;  3; 11;   9; 22;  15;
+
+
+Season: 2009 Apertura
+*Colombia 2009
+
+ 1; Deportes Tolima            ; 18;  10;  2;  6;  21; 16;  32;  Qualified
+ 2; Atlético Junior            ; 18;   9;  4;  5;  30; 18;  31;  Qualified
+ 3; Cúcuta Deportivo           ; 18;   9;  4;  5;  16; 14;  31;  Qualified
+ 4; Boyacá Chicó FC            ; 18;   8;  6;  4;  24; 22;  30;  Qualified
+ 5; Deportivo Cali             ; 18;   8;  5;  5;  23; 17;  29;  Qualified
+ 6; CD La Equidad (Bogotá)     ; 18;   8;  5;  5;  20; 18;  29;  Qualified
+ 7; Envigado FC                ; 18;   8;  5;  5;  22; 24;  29;  Qualified
+ 8; Once Caldas                ; 18;   7;  7;  4;  23; 14;  28;  Qualified
+
+ 9; Deportes Quindío           ; 18;   7;  4;  7;  23; 23;  25;
+10; Real Cartagena             ; 18;   7;  4;  7;  23; 24;  25;
+11; América                    ; 18;   7;  3;  8;  24; 21;  24;
+12; Deportes Pereira           ; 18;   7;  3;  8;  26; 25;  24;
+13; Atlético Huila             ; 18;   7;  3;  8;  21; 26;  24;
+14; Independiente Santa Fe     ; 18;   5;  6;  7;  20; 25;  21;
+15; CD Millonarios             ; 18;   3;  8;  7;  16; 20;  17;
+16; Deportivo Pasto            ; 18;   4;  5;  9;  12; 17;  17;
+17; Atlético Nacional          ; 18;   3;  7;  8;  16; 25;  16;
+18; CD Independiente Medellín  ; 18;   2;  5; 11;  18; 29;  11;
+
+
+Season: 2009 Finalización
+
+ 1; CD Independiente Medellín  ; 18;  12;  2;  4;  29; 18;  38;  Qualified
+ 2; Independiente Santa Fe     ; 18;   8;  6;  4;  31; 24;  30;  Qualified
+ 3; Atlético Huila             ; 18;   8;  6;  4;  27; 24;  30;  Qualified
+ 4; Deportes Pereira           ; 18;   7;  8;  3;  21;  9;  29;  Qualified
+ 5; Deportes Tolima            ; 18;   8;  5;  5;  25; 23;  29;  Qualified
+ 6; Atlético Junior            ; 18;   8;  3;  7;  35; 25;  27;  Qualified
+ 7; Atlético Nacional          ; 18;   6;  9;  3;  21; 19;  27;  Qualified
+ 8; Real Cartagena             ; 18;   7;  6;  5;  30; 30;  27;  Qualified
+
+ 9; CD Millonarios             ; 18;   6;  8;  4;  24; 20;  26;
+10; Deportivo Pasto            ; 18;   7;  5;  6;  24; 25;  26;
+11; Boyacá Chicó FC            ; 18;   6;  6;  6;  32; 31;  24;
+12; Deportivo Cali             ; 18;   6;  4;  8;  30; 32;  22;
+13; Deportes Quindío           ; 18;   6;  3;  9;  22; 31;  21;
+14; Cúcuta Deportivo           ; 18;   4;  6;  8;  16; 17;  18;
+15; CD La Equidad (Bogotá)     ; 18;   2; 11;  5;  17; 24;  17;
+16; Once Caldas                ; 18;   4;  5;  9;  23; 35;  17;
+17; América                    ; 18;   1; 10;  7;  20; 29;  13;
+18; Envigado FC                ; 18;   1;  7; 10;  32; 43;  10;
+
+
+Season: 2010 Apertura
+
+ 1; Deportes Tolima                     ; 18;  10;  4;  4;  36; 22;  34;  Qualified
+ 2; CD Independiente Medellín           ; 18;   9;  6;  3;  29; 17;  33;  Qualified
+ 3; Atlético Junior                     ; 18;   9;  5;  4;  28; 17;  32;  Qualified
+ 4; CD La Equidad (Bogotá)              ; 18;   9;  4;  5;  29; 25;  31;  Qualified
+
+ 5; Deportivo Cali                      ; 18;   9;  3;  6;  27; 20;  30;
+ 6; Independiente Santa Fe              ; 18;   9;  3;  6;  25; 23;  30;
+ 7; Boyacá Chicó FC                     ; 18;   8;  5;  5;  25; 24;  29;
+ 8; Atlético Nacional                   ; 18;   9;  1;  8;  28; 24;  28;
+ 9; Real Cartagena                      ; 18;   8;  4;  6;  24; 26;  28;
+10; Once Caldas                         ; 18;   7;  4;  7;  32; 28;  25;
+11; Atlético Huila                      ; 18;   6;  6;  6;  30; 26;  24;
+12; Envigado FC                         ; 18;   6;  5;  7;  23; 30;  23;
+13; Cúcuta Deportivo                    ; 18;   5;  5;  8;  14; 21;  20;
+14; CD Millonarios                      ; 18;   5;  4;  9;  22; 29;  19;
+15; Deportes Pereira                    ; 18;   4;  6;  8;  23; 27;  18;
+16; América                             ; 18;   4;  4; 10;  18; 28;  16;
+17; Corporación Tuluá                   ; 18;   4;  3; 11;  19; 32;  15;
+18; Deportes Quindío                    ; 18;   4;  2; 12;   9; 22;  14;
+
+
+Season: 2010 Finalizacion
+
+ 1; Deportes Tolima                     ; 18;  11;  3;  4;  35; 15;  36;  Qualified
+ 2; Once Caldas                         ; 18;  11;  3;  4;  34; 26;  36;  Qualified
+ 3; Independiente Santa Fe              ; 18;  10;  5;  3;  26; 13;  35;  Qualified
+ 4; Atlético Nacional                   ; 18;  10;  3;  5;  25; 23;  33;  Qualified
+ 5; Deportes Quindío                    ; 18;   9;  4;  5;  25; 20;  31;  Qualified
+ 6; Atlético Huila                      ; 18;   8;  6;  4;  28; 24;  30;  Qualified
+ 7; Cúcuta Deportivo                    ; 18;   8;  4;  6;  24; 18;  28;  Qualified
+ 8; CD La Equidad (Bogotá)              ; 18;   8;  4;  6;  23; 23;  28;  Qualified
+
+ 9; Deportivo Cali                      ; 18;   6;  8;  4;  31; 23;  26;
+10; América                             ; 18;   7;  4;  7;  25; 23;  25;
+11; CD Independiente Medellín           ; 18;   5;  9;  4;  22; 22;  24;
+12; CD Millonarios                      ; 18;   6;  4;  8;  25; 25;  22;
+13; Boyacá Chicó FC                     ; 18;   5;  6;  7;  16; 26;  21;
+14; Atlético Junior                     ; 18;   2; 10;  6;  21; 28;  16;
+15; Real Cartagena                      ; 18;   3;  6;  9;  17; 29;  15;
+16; Corporación Tuluá                   ; 18;   3;  4; 11;  14; 30;  13;
+17; Deportes Pereira                    ; 18;   0;  9;  9;  12; 22;   9;
+18; Envigado FC                         ; 18;   1;  6; 11;  19; 32;   9;
+
+
+*Primera División A 2011
+*Liga Postobón I (Apertura) 2011 | Liga Postobón II (Finalización) 2011
+
+Season: 2011 Apertura
+
+ 1; Once Caldas                         ; 18;  11;  3;  4;  32; 17;  36;  Qualified
+ 2; Deportes Tolima                     ; 18;  10;  4;  4;  35; 21;  34;  Qualified
+ 3; Atlético Nacional                   ; 18;  10;  3;  5;  33; 27;  33;  Qualified
+ 4; Envigado FC                         ; 18;   8;  8;  2;  30; 21;  32;  Qualified
+ 5; CD La Equidad (Bogotá)              ; 18;   8;  5;  5;  23; 14;  29;  Qualified
+ 6; CD Millonarios                      ; 18;   8;  4;  6;  31; 23;  28;  Qualified
+ 7; Deportivo Cali                      ; 18;   8;  3;  7;  21; 24;  27;  Qualified
+ 8; Cúcuta Deportivo                    ; 18;   6;  8;  4;  22; 19;  26;  Qualified
+
+ 9; Boyacá Chicó FC                     ; 18;   8;  1;  9;  25; 24;  25;
+10; Deportes Quindío                    ; 18;   7;  4;  7;  22; 29;  25;
+11; CD Itagüí-Ditaires                  ; 18;   6;  6;  6;  24; 23;  24;
+12; América                             ; 18;   7;  3;  8;  23; 25;  24;
+13; Real Cartagena                      ; 18;   6;  5;  7;  24; 25;  23;
+14; Independiente Santa Fe              ; 18;   5;  6;  7;  18; 22;  21;
+15; Atlético Junior                     ; 18;   5;  4;  9;  19; 28;  19;
+16; Atlético Huila                      ; 18;   4;  5;  9;  25; 36;  17;
+17; CD Independiente Medellín           ; 18;   4;  3; 11;  19; 30;  15;
+18; Deportes Pereira                    ; 18;   1;  5; 12;  16; 34;   8;
+
+*Season: Apertura 2011
+* wrong.
+
+ 1; Deportivo Pasto                     ; 18;  12;  3;  3;  32;  8;  39;  Qualified 
+ 2; Deportivo Rionegro                  ; 18;  10;  2;  6;  25; 20;  32;  Qualified 
+ 3; Pacifico FC (Buenaventura)          ; 18;   8;  5;  5;  24; 19;  29;  Qualified 
+ 4; Academía FC (Bogotá)                ; 18;   8;  5;  5;  18; 15;  29;  Qualified 
+ 5; Patriotas FC (Tunja)                ; 18;   8;  5;  5;  22; 20;  29;  Qualified 
+ 6; Valledupar FC                       ; 18;   8;  4;  6;  16; 14;  28;  Qualified 
+ 7; Uniautónoma FC (Sabanalarga)        ; 18;   8;  3;  7;  30; 22;  27;  Qualified 
+ 8; Corporación Tuluá                   ; 18;   8;  3;  7;  21; 18;  27;  Qualified 
+
+ 9; Atlético Bucaramanga                ; 18;   8;  3;  7;  20; 25;  27;
+10; Fortaleza FC (Soacha)               ; 18;   6;  8;  4;  20; 19;  26;
+11; Bogotá FC                           ; 18;   7;  3;  8;  20; 24;  24;
+12; Expreso Rojo (Fusagasugá)           ; 18;   5;  7;  6;  25; 24;  22;
+13; Depor FC Aguablanca (Cali)          ; 18;   5;  6;  7;  22; 28;  21;
+14; Real Santander CD (Floridablanca)   ; 18;   5;  5;  8;  25; 26;  20;
+15; Centauros Villavicencio (Popayán)   ; 18;   5;  3; 10;  21; 23;  18;
+16; Barranquilla FC                     ; 18;   4;  6;  8;  13; 19;  18;
+17; Unión Magdalena (Santa Marta)       ; 18;   4;  4; 10;  22; 36;  16;
+18; Alianza Petrolera (Barrancabermeja) ; 18;   3;  5; 10;  12; 28;  14;
+
+
+
+
+Season: 2012 Apertura
+
+ 1; Deportes Tolima                     ; 18;  10;  6;  2;  28; 16;  36;  Qualified
+ 2; Independiente Santa Fe              ; 18;   7;  8;  3;  29; 19;  29;  Qualified
+ 3; CD Itagüí-Ditaires                  ; 18;   8;  5;  5;  25; 18;  29;  Qualified
+ 4; Atlético Huila                      ; 18;   8;  5;  5;  23; 17;  29;  Qualified
+ 5; CD La Equidad (Bogotá)              ; 18;   7;  7;  4;  19; 16;  28;  Qualified
+ 6; Deportivo Pasto                     ; 18;   6;  9;  3;  24; 18;  27;  Qualified
+ 7; Boyacá Chicó FC                     ; 18;   7;  6;  5;  26; 22;  27;  Qualified
+ 8; Deportivo Cali                      ; 18;   7;  6;  5;  19; 18;  27;  Qualified
+
+ 9; Patriotas FC (Tunja)                ; 18;   7;  6;  5;  13; 17;  27;
+10; Atlético Junior                     ; 18;   7;  4;  7;  28; 24;  25;
+11; Envigado FC                         ; 18;   5;  8;  5;  23; 24;  23;
+12; Atlético Nacional                   ; 18;   6;  4;  8;  25; 20;  22;
+13; CD Millonarios                      ; 18;   4;  8;  6;  22; 23;  20;
+14; Real Cartagena                      ; 18;   4;  8;  6;  22; 31;  20;
+15; Deportes Quindío                    ; 18;   3;  9;  6;  20; 29;  18;
+16; CD Independiente Medellín           ; 18;   4;  5;  9;  17; 24;  17;
+17; Once Caldas                         ; 18;   2;  8;  8;  22; 26;  14;
+18; Cúcuta Deportivo                    ; 18;   3;  2; 13;  12; 35;  11;
+
+
+Season: 2012 Finalización
+
+ 1; Deportes Pereira                    ; 18;  13;  4;  1;  37; 14;  43;  Qualified 
+ 2; Alianza Petrolera (Barrancabermeja) ; 18;  10;  4;  4;  35; 18;  34;  Qualified 
+ 3; América                             ; 18;  10;  4;  4;  31; 18;  34;  Qualified 
+ 4; Deportivo Rionegro                  ; 18;   9;  4;  5;  25; 19;  31;  Qualified 
+ 5; Universitario de Popayán            ; 18;   9;  3;  6;  20; 21;  30;  Qualified 
+ 6; Corporación Tuluá                   ; 18;   8;  5;  5;  27; 25;  29;  Qualified 
+ 7; Uniautónoma FC (Sabanalarga)        ; 18;   6;  9;  3;  23; 20;  27;  Qualified 
+ 8; Atlético Bucaramanga                ; 18;   8;  3;  7;  22; 24;  27;  Qualified 
+
+ 9; Valledupar FC                       ; 18;   6;  7;  5;  15; 12;  25;
+10; Sucre FC (Sincelejo)                ; 18;   7;  4;  7;  19; 22;  25;
+11; Bogotá FC                           ; 18;   7;  2;  9;  22; 30;  23;
+11; Unión Magdalena (Santa Marta)       ; 18;   6;  3;  9;  19; 20;  21;
+13; Depor FC Aguablanca (Cali)          ; 18;   4;  7;  7;  22; 25;  19;
+14; Fortaleza FC (Soacha)               ; 18;   5;  4;  9;  14; 18;  19;
+15; Expreso Rojo (Fusagasugá)           ; 18;   4;  4; 10;  12; 18;  16;
+16; Real Santander CD (Floridablanca)   ; 18;   4;  4; 10;  22; 31;  16;
+17; Barranquilla FC                     ; 18;   4;  3; 11;  22; 37;  15;
+18; Llaneros FC (Villavicencio)         ; 18;   3;  4; 11;  11; 26;  13;
+

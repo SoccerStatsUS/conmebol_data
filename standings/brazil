@@ -1,0 +1,679 @@
+Competition:  Campeonato Brasileiro Série A
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+Season: 2013
+BlockSource: http://www.rsssfbrasil.com/tablesae/br2013.htm
+
+ 1; Cruzeiro     ; 35; 23;  6 ; 6 ; 74; 32 ; 75
+ 2; Grêmio       ; 35; 17;  9 ; 9 ; 40; 34 ; 60
+ 3; Goiás        ; 35; 16; 11 ; 8 ; 47; 36 ; 59
+ 4; Atlético/PR  ; 35; 16; 10 ; 9 ; 53; 45 ; 58
+ 5; Botafogo     ; 35; 16;  9 ;10 ; 50; 38 ; 57
+ 6; Vitória      ; 35; 15;  9 ;11 ; 52; 48 ; 54
+ 7; Atlético/MG  ; 35; 14; 10 ;11 ; 41; 33 ; 52
+ 8; São Paulo    ; 35; 14;  7 ;14 ; 38; 37 ; 49
+ 9; Corinthians  ; 35; 11; 16 ; 8 ; 27; 20 ; 49
+10; Santos       ; 35; 12; 12 ;11 ; 45; 37 ; 48
+11; Internacional; 35; 11; 12 ;12 ; 51; 52 ; 45
+12; Flamengo     ; 35; 11; 12 ;12 ; 39; 41 ; 45
+13; Portuguesa   ; 35; 11; 11 ;13 ; 48; 45 ; 44
+14; Criciúma     ; 35; 12;  6 ;17 ; 47; 59 ; 42
+15; Fluminense   ; 35; 11;  9 ;15 ; 39; 43 ; 42
+16; Bahia        ; 35; 10; 12 ;13 ; 33; 42 ; 42
+
+17; Coritiba     ; 35; 10; 11 ;14 ; 39; 44 ; 41
+18; Vasco da Gama; 35;  9; 11 ;15 ; 45; 55 ; 38
+19; Ponte Preta  ; 35;  9;  8 ;18 ; 36; 52 ; 35
+20; Náutico      ; 35;  4;  5 ;26 ; 20; 71 ; 17
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+Season: 2012
+BlockSource: http://en.wikipedia.org/wiki/2012_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;          Fluminense        ; 38     ; 22     ; 11     ; 5     ;  61  ;    33  ;    +28  ;   77
+2  ;          Atlético Mineiro  ; 38     ; 20     ; 12     ; 6     ;  64  ;    37  ;    +27  ;   72
+3  ;          Grêmio            ; 38     ; 20     ; 11     ; 7     ;  56  ;    33  ;    +23  ;   71    
+4  ;          São Paulo         ; 38     ; 20     ; 6      ; 12    ;  59  ;    37  ;    +22  ;   66
+5  ;          Vasco da Gama     ; 38     ; 16     ; 10     ; 12    ;  45  ;    44  ;    +1   ;   58  
+6  ;          Corinthians       ; 38     ; 15     ; 12     ; 11    ;  51  ;    39  ;    +12  ;   57  
+7  ;          Botafogo          ; 38     ; 15     ; 10     ; 13    ;  60  ;    50  ;    +10  ;   55
+8  ;          Santos            ; 38     ; 13     ; 14     ; 11    ;  50  ;    44  ;    +6   ;   53
+9  ;          Cruzeiro          ; 38     ; 15     ; 7      ; 16    ;  47  ;    51  ;    −4   ;   52
+10 ;          Internacional     ; 38     ; 13     ; 13     ; 12    ;  44  ;    40  ;    +4   ;   52
+11 ;          Flamengo          ; 38     ; 12     ; 14     ; 12    ;  38  ;    45  ;    −7   ;   50
+12 ;          Náutico           ; 38     ; 14     ; 7      ; 17    ;  44  ;    51  ;    −7   ;   49
+13 ;          Coritiba          ; 38     ; 14     ; 6      ; 18    ;  53  ;    60  ;    −7   ;   48
+14 ;          Ponte Preta       ; 38     ; 12     ; 12     ; 14    ;  37  ;    44  ;    −7   ;   48
+15 ;          Bahia             ; 38     ; 11     ; 14     ; 13    ;  37  ;    41  ;    −4   ;   47
+16 ;          Portuguesa        ; 38     ; 10     ; 15     ; 13    ;  39  ;    41  ;    −2   ;   45
+17 ;          Sport Recife      ; 38     ; 10     ; 11     ; 17    ;  39  ;    56  ;    −17  ;   41  
+18 ;          Palmeiras         ; 38     ; 9      ; 7      ; 22    ;  39  ;    54  ;    −15  ;   34  
+19 ;        Atlético Goianiense ; 38     ; 7      ; 9      ; 22    ;  37  ;    67  ;    −30  ;   30  
+20 ;        Figueirense         ; 38     ; 7      ; 9      ; 22    ;  39  ;    72  ;    −33  ;   30
+
+
+
+Season: 2011
+BlockSource: http://en.wikipedia.org/wiki/2011_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;     Corinthians            ; 38     ; 21     ; 8      ; 9     ;  53  ;    36  ;    +17  ;   71    
+2  ;     Vasco da Gama          ; 38     ; 19     ; 12     ; 7     ;  57  ;    40  ;    +17  ;   69    
+3  ;     Fluminense             ; 38     ; 20     ; 3      ; 15    ;  60  ;    51  ;    +9   ;   63    
+4  ;     Flamengo               ; 38     ; 15     ; 16     ; 7     ;  59  ;    47  ;    +12  ;   61    
+5  ;     Internacional          ; 38     ; 16     ; 12     ; 10    ;  57  ;    43  ;    +14  ;   60
+6  ;     São Paulo              ; 38     ; 16     ; 11     ; 11    ;  57  ;    46  ;    +11  ;   59    
+7  ;     Figueirense            ; 38     ; 15     ; 13     ; 10    ;  46  ;    45  ;    +1   ;   58
+8  ;     Coritiba               ; 38     ; 16     ; 9      ; 13    ;  57  ;    41  ;    +16  ;   57
+9  ;     Botafogo               ; 38     ; 16     ; 8      ; 14    ;  52  ;    49  ;    +3   ;   56
+10 ;     Santos                 ; 38     ; 15     ; 8      ; 15    ;  55  ;    55  ;    0    ;   53    
+11 ;     Palmeiras              ; 38     ; 11     ; 17     ; 10    ;  43  ;    39  ;    +4   ;   50    
+12 ;     Grêmio                 ; 38     ; 13     ; 9      ; 16    ;  50  ;    57  ;    −7   ;   48
+13 ;     Atlético Goianiense    ; 38     ; 12     ; 12     ; 14    ;  50  ;    45  ;    +5   ;   48
+14 ;     Bahia                  ; 38     ; 11     ; 13     ; 14    ;  43  ;    49  ;    −6   ;   46
+15 ;     Atlético Mineiro       ; 38     ; 13     ; 6      ; 19    ;  50  ;    60  ;    −10  ;   45
+16 ;     Cruzeiro               ; 38     ; 11     ; 10     ; 17    ;  48  ;    51  ;    −3   ;   43
+17 ;     Atlético Paranaense    ; 38     ; 10     ; 11     ; 17    ;  38  ;    55  ;    −17  ;   41  
+18 ;     Ceará                  ; 38     ; 10     ; 9      ; 19    ;  47  ;    64  ;    −17  ;   39
+19 ;     América Mineiro        ; 38     ; 8      ; 13     ; 17    ;  51  ;    69  ;    −18  ;   37
+20 ;     Avaí                   ; 38     ; 7      ; 10     ; 21    ;  45  ;    75  ;    −30  ;   31
+
+
+Season: 2010
+BlockSource: http://en.wikipedia.org/wiki/2010_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;          Fluminense              ;   38    ;  20    ;  11    ;  7    ;   62    ;  36    ;  +26    ; 71    
+2  ;          Cruzeiro                ;   38    ;  20    ;  9     ;  9    ;   53    ;  38    ;  +15    ; 69
+3  ;          Corinthians             ;   38    ;  19    ;  11    ;  8    ;   65    ;  41    ;  +24    ; 68    
+4  ;          Grêmio                  ;   38    ;  17    ;  12    ;  9    ;   68    ;  43    ;  +25    ; 63
+5  ;          Atlético Paranaense     ;   38    ;  17    ;  9     ;  12   ;   43    ;  45    ;  −2     ; 60   
+6  ;          Botafogo                ;   38    ;  14    ;  17    ;  7    ;   54    ;  42    ;  +12    ; 59
+7  ;          Internacional           ;   38    ;  16    ;  10    ;  12   ;   48    ;  41    ;  +7     ; 58   
+8  ;          Santos                  ;   38    ;  15    ;  11    ;  12   ;   63    ;  50    ;  +13    ; 56   
+9  ;          São Paulo               ;   38    ;  15    ;  10    ;  13   ;   54    ;  54    ;  0      ; 55   
+10 ;          Palmeiras               ;   38    ;  12    ;  14    ;  12   ;   42    ;  43    ;  −1     ; 50
+11 ;          Vasco da Gama           ;   38    ;  11    ;  16    ;  11   ;   43    ;  45    ;  −2     ; 49
+12 ;          Ceará                   ;   38    ;  10    ;  17    ;  11   ;   35    ;  44    ;  −9     ; 47
+13 ;          Atlético Mineiro        ;   38    ;  13    ;  6     ;  19   ;   52    ;  64    ;  −12    ; 45
+14 ;          Flamengo                ;   38    ;  9     ;  17    ;  12   ;   41    ;  44    ;  −3     ; 44
+15 ;          Avaí                    ;   38    ;  11    ;  10    ;  17   ;   49    ;  58    ;  −9     ; 43
+16 ;          Atlético Goianiense     ;   38    ;  11    ;  9     ;  18   ;   51    ;  57    ;  −6     ; 42
+17 ;          Vitória                 ;   38    ;  9     ;  15    ;  14   ;   42    ;  48    ;  −6     ; 42   
+18 ;          Guarani                 ;   38    ;  8     ;  13    ;  17   ;   33    ;  53    ;  −20    ; 37
+19 ;          Goiás                   ;   38    ;  8     ;  9     ;  21   ;   41    ;  68    ;  −27    ; 33
+20 ;          Grêmio Prudente         ;   38    ;  7     ;  10    ;  21   ;   39    ;  64    ;  −25    ; 283
+
+
+Season: 2009
+BlockSource: http://en.wikipedia.org/wiki/2009_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;          Flamengo          ;  38    ;  19    ;  10     ; 9      ; 58     ; 44     ; +14    ; 67   
+2  ;          Internacional     ;  38    ;  19    ;  8      ; 11     ; 65     ; 44     ; +21    ; 65
+3  ;          São Paulo         ;  38    ;  18    ;  11     ; 9      ; 57     ; 42     ; +15    ; 65
+4  ;          Cruzeiro          ;  38    ;  18    ;  8      ; 12     ; 58     ; 53     ; +5     ; 62   
+5  ;          Palmeiras         ;  38    ;  17    ;  11     ; 10     ; 58     ; 45     ; +13    ; 62   
+6  ;          Avaí              ;  38    ;  15    ;  12     ; 11     ; 61     ; 52     ; +9     ; 57
+7  ;          Atlético Mineiro  ;  38    ;  16    ;  8      ; 14     ; 55     ; 56     ; −1     ; 56
+8  ;          Grêmio            ;  38    ;  15    ;  10     ; 13     ; 67     ; 46     ; +21    ; 55
+9  ;          Goiás             ;  38    ;  15    ;  10     ; 13     ; 64     ; 65     ; −1     ; 55
+10 ;          Corinthians       ;  38    ;  14    ;  10     ; 14     ; 50     ; 54     ; −4     ; 52   
+11 ;          Barueri           ;  38    ;  12    ;  13     ; 13     ; 59     ; 52     ; +7     ; 49   
+12 ;          Santos            ;  38    ;  12    ;  13     ; 13     ; 58     ; 58     ; 0      ; 49
+13 ;          Vitória           ;  38    ;  13    ;  9      ; 16     ; 51     ; 57     ; −6     ; 48
+14 ;          Atlético Paranaense; 38    ;  13    ;  9      ; 16     ; 42     ; 49     ; −7     ; 48
+15 ;          Botafogo          ;  38    ;  11    ;  14     ; 13     ; 52     ; 58     ; −6     ; 47
+16 ;          Fluminense        ;  38    ;  11    ;  13     ; 14     ; 49     ; 56     ; −7     ; 46
+17 ;          Coritiba          ;  38    ;  12    ;  9      ; 17     ; 48     ; 60     ; −12    ; 45
+18 ;          Santo André       ;  38    ;  11    ;  8      ; 19     ; 46     ; 61     ; −15    ; 41
+19 ;          Náutico           ;  38    ;  10    ;  8      ; 20     ; 48     ; 71     ; −23    ; 38
+20 ;          Sport Recife      ;  38    ;  7     ;  10     ; 21     ; 48     ; 71     ; −23    ; 31
+
+Season: 2008
+
+Key: position; team; points; games; wins; ties; losses; goals_for; goals_against; goal_difference
+
+1  ;     São Paulo             ;  75    ;  38     ; 21     ; 12    ;  5     ;  66     ; 36     ; 30 
+2  ;     Grêmio                ;  72    ;  38     ; 21     ; 9     ;  8     ;  59     ; 35     ; 24
+3  ;     Cruzeiro              ;  67    ;  38     ; 21     ; 4     ;  13    ;  59     ; 44     ; 15
+4  ;     Palmeiras             ;  65    ;  38     ; 19     ; 8     ;  10    ;  55     ; 45     ; 10 
+5  ;     Flamengo              ;  64    ;  38     ; 18     ; 10    ;  10    ;  67     ; 48     ; 19 
+6  ;     Internacional         ;  54    ;  38     ; 15     ; 9     ;  14    ;  48     ; 47     ; 1
+7  ;     Botafogo              ;  53    ;  38     ; 15     ; 8     ;  15    ;  51     ; 43     ; 8
+8  ;     Goiás                 ;  53    ;  38     ; 14     ; 11    ;  13    ;  57     ; 47     ; 10
+9  ;     Coritiba              ;  53    ;  38     ; 14     ; 11    ;  13    ;  55     ; 48     ; 7
+10 ;     Vitória               ;  52    ;  38     ; 15     ; 7     ;  16    ;  48     ; 44     ; 4
+11 ;     Sport                 ;  52    ;  38     ; 13     ; 10    ;  14    ;  48     ; 45     ; 3  
+12 ;     Atlético Mineiro      ;  48    ;  38     ; 12     ; 12    ;  14    ;  50     ; 61     ; -11 
+13 ;     Atlético Paranaense   ;  45    ;  38     ; 12     ; 9     ;  17    ;  45     ; 54     ; -9
+14 ;     Fluminense            ;  45    ;  38     ; 11     ; 12    ;  15    ;  49     ; 48     ; 1
+15 ;     Santos                ;  45    ;  38     ; 11     ; 12    ;  15    ;  44     ; 53     ; -11
+16 ;     Náutico               ;  44    ;  38     ; 11     ; 11    ;  16    ;  44     ; 54     ; -10
+17 ;     Figueirense           ;  44    ;  38     ; 11     ; 11    ;  16    ;  49     ; 72     ; -23 
+18 ;   Vasco                   ;  40    ;  38     ; 11     ; 7     ;  20    ;  56     ; 72     ; -16
+19 ;   Portuguesa              ;  38    ;  38     ; 9      ; 11    ;  18    ;  48     ; 70     ; -22
+20 ;   Ipatinga                ;  35    ;  38     ; 9      ; 7     ;  21    ;  37     ; 66     ; -29
+
+
+Season: 2007
+BlockSource: http://en.wikipedia.org/wiki/2007_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;          São Paulo                ;  77    ;  38     ; 23    ;  8     ;  7     ;  55    ;  19    ;  36
+2  ;          Santos                   ;  62    ;  38     ; 19    ;  5     ;  14    ;  57    ;  47    ;  10
+3  ;          Flamengo                 ;  61    ;  38     ; 17    ;  10    ;  11    ;  55    ;  49    ;  6
+4  ;          Fluminense               ;  61    ;  38     ; 16    ;  13    ;  9     ;  57    ;  39    ;  18
+5  ;          Cruzeiro                 ;  60    ;  38     ; 18    ;  6     ;  14    ;  73    ;  59    ;  15
+6  ;          Grêmio                   ;  58    ;  38     ; 17    ;  7     ;  14    ;  44    ;  43    ;  1
+7  ;          Palmeiras                ;  58    ;  38     ; 16    ;  10    ;  12    ;  48    ;  47    ;  1
+8  ;          Atlético Mineiro         ;  55    ;  38     ; 15    ;  10    ;  13    ;  63    ;  51    ;  12
+9  ;          Botafogo                 ;  55    ;  38     ; 14    ;  13    ;  11    ;  62    ;  58    ;  4
+10 ;          Vasco da Gama            ;  54    ;  38     ; 15    ;  9     ;  14    ;  58    ;  47    ;  11
+11 ;          Internacional            ;  54    ;  38     ; 15    ;  9     ;  14    ;  49    ;  44    ;  5
+12 ;          Atlético Parananense     ;  54    ;  38     ; 14    ;  12    ;  12    ;  51    ;  50    ;  1
+13 ;          Figueirense              ;  53    ;  38     ; 14    ;  11    ;  13    ;  57    ;  56    ;  1
+14 ;          Sport                    ;  51    ;  38     ; 14    ;  9     ;  15    ;  54    ;  55    ;  -1
+15 ;          Náutico                  ;  49    ;  38     ; 14    ;  7     ;  17    ;  66    ;  63    ;  3
+16 ;          Goiás                    ;  45    ;  38     ; 13    ;  6     ;  19    ;  49    ;  62    ;  -13
+17 ;          Corinthians              ;  44    ;  38     ; 10    ;  14    ;  14    ;  40    ;  50    ;  -10
+18 ;          Paraná                   ;  41    ;  38     ; 12    ;  7     ;  20    ;  42    ;  64    ;  -22
+19 ;          Juventude                ;  41    ;  38     ; 11    ;  8     ;  19    ;  43    ;  65    ;  -22
+20 ;          América-RN               ;  17    ;  38     ; 4     ;  5     ;  29    ;  24    ;  80    ;  -56
+
+
+Season: 2006
+BlockSource: http://en.wikipedia.org/wiki/2006_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;          São Paulo        ;  78    ;  38    ;  22    ;  12    ;  4     ;  66    ;  32    ;  34
+2  ;          Internacional    ;  69    ;  38    ;  20    ;  9     ;  9     ;  52    ;  36    ;  16
+3  ;          Grêmio           ;  67    ;  38    ;  20    ;  7     ;  11    ;  64    ;  45    ;  19
+4  ;          Santos           ;  64    ;  38    ;  18    ;  10    ;  10    ;  57    ;  36    ;  21
+5  ;          Paraná           ;  60    ;  38    ;  18    ;  6     ;  14    ;  56    ;  49    ;  7
+6  ;          Vasco            ;  59    ;  38    ;  15    ;  14    ;  9     ;  57    ;  50    ;  7
+7  ;          Figueirense      ;  57    ;  38    ;  15    ;  12    ;  11    ;  52    ;  44    ;  8
+8  ;          Goiás            ;  55    ;  38    ;  15    ;  10    ;  13    ;  63    ;  49    ;  14
+9  ;          Corinthians      ;  53    ;  38    ;  15    ;  8     ;  15    ;  41    ;  46    ;  -5
+10 ;          Cruzeiro         ;  53    ;  38    ;  14    ;  11    ;  13    ;  52    ;  45    ;  7
+11 ;          Flamengo         ;  52    ;  38    ;  15    ;  7     ;  16    ;  44    ;  48    ;  -4
+12 ;          Botafogo         ;  51    ;  38    ;  13    ;  12    ;  13    ;  52    ;  50    ;  2
+13 ;          Atlético-PR      ;  48    ;  38    ;  13    ;  9     ;  16    ;  61    ;  62    ;  -1
+14 ;          Juventude        ;  47    ;  38    ;  13    ;  8     ;  17    ;  44    ;  54    ;  -10
+15 ;          Fluminense       ;  45    ;  38    ;  11    ;  12    ;  15    ;  48    ;  58    ;  -10
+16 ;          Palmeiras        ;  44    ;  38    ;  12    ;  8     ;  18    ;  58    ;  70    ;  -12
+17 ;          Ponte Preta      ;  39    ;  38    ;  10    ;  7     ;  19    ;  45    ;  65    ;  -20
+18 ;          Fortaleza        ;  38    ;  38    ;  9     ;  13    ;  16    ;  39    ;  62    ;  -23
+19 ;          São Caetano      ;  36    ;  38    ;  9     ;  11    ;  18    ;  37    ;  53    ;  -16
+20 ;          Santa Cruz       ;  28    ;  38    ;  7     ;  7     ;  24    ;  41    ;  75    ;  -34
+
+
+Season: 2005
+BlockSource: http://en.wikipedia.org/wiki/2005_Campeonato_Brasileiro_S%C3%A9rie_A
+
+
+1  ;          Corinthians              ;  81    ;  42    ;  24    ;  9     ;  9     ;  87    ;  59     ; 28
+2  ;          Internacional            ;  78    ;  42    ;  23    ;  9     ;  10    ;  72    ;  49     ; 23
+3  ;          Goiás                    ;  74    ;  42    ;  22    ;  8     ;  12    ;  68    ;  51     ; 17
+4  ;          Palmeiras                ;  70    ;  42    ;  20    ;  10    ;  12    ;  81    ;  65     ; 16
+5  ;          Fluminense               ;  68    ;  42    ;  19    ;  11    ;  12    ;  79    ;  70     ; 9
+6  ;          Atlético Paranaense      ;  61    ;  42    ;  18    ;  7     ;  17    ;  76    ;  67     ; 9
+7  ;          Paraná                   ;  61    ;  42    ;  17    ;  10    ;  15    ;  59    ;  51     ; 8
+8  ;          Cruzeiro                 ;  60    ;  42    ;  17    ;  9     ;  16    ;  73    ;  72     ; 1
+9  ;          Botafogo                 ;  59    ;  42    ;  17    ;  8     ;  17    ;  57    ;  56     ; 1
+10 ;          Santos                   ;  59    ;  42    ;  16    ;  11    ;  15    ;  68    ;  71     ; -3
+11 ;          São Paulo                ;  58    ;  42    ;  16    ;  10    ;  16    ;  77    ;  67     ; 10
+12 ;          Vasco da Gama            ;  56    ;  42    ;  15    ;  11    ;  16    ;  74    ;  84     ; -10
+13 ;          Fortaleza                ;  55    ;  42    ;  16    ;  7     ;  19    ;  58    ;  64     ; -6
+14 ;          Juventude                ;  55    ;  42    ;  15    ;  10    ;  17    ;  66    ;  72     ; -6
+15 ;          Flamengo                 ;  55    ;  42    ;  14    ;  13    ;  15    ;  56    ;  60     ; -4
+16 ;          Figueirense              ;  53    ;  42    ;  14    ;  11    ;  17    ;  65    ;  72     ; -7
+17 ;          São Caetano              ;  52    ;  42    ;  14    ;  10    ;  18    ;  54    ;  60     ; -6
+18 ;          Ponte Preta              ;  51    ;  42    ;  15    ;  6     ;  21    ;  63    ;  80     ; -17
+19 ;          Coritiba                 ;  49    ;  42    ;  13    ;  10    ;  19    ;  51    ;  60     ; -9
+20 ;          Atlético Mineiro         ;  47    ;  42    ;  13    ;  8     ;  21    ;  54    ;  59     ; -5
+21 ;          Paysandu                 ;  41    ;  42    ;  12    ;  5     ;  25    ;  63    ;  92     ; -29
+22 ;          Brasiliense              ;  41    ;  42    ;  10    ;  11    ;  21    ;  47    ;  67     ; -20
+
+
+BlockSource: http://en.wikipedia.org/wiki/2004_Campeonato_Brasileiro_S%C3%A9rie_A
+Season: 2004
+
+1  ;     Santos                 ; 89     ; 46     ; 27     ; 8      ; 11     ; 103    ; 58     ; 45
+2  ;     Atlético Paranaense    ; 86     ; 46     ; 25     ; 11     ; 10     ; 93     ; 56     ; 37
+3  ;     São Paulo              ; 82     ; 46     ; 24     ; 10     ; 12     ; 78     ; 43     ; 35
+4  ;     Palmeiras              ; 79     ; 46     ; 22     ; 13     ; 11     ; 72     ; 47     ; 25
+5  ;     Corinthians            ; 74     ; 46     ; 20     ; 14     ; 12     ; 54     ; 54     ; 0
+6  ;     Goiás                  ; 72     ; 46     ; 21     ; 9      ; 16     ; 81     ; 68     ; 13
+7  ;     Juventude              ; 70     ; 46     ; 20     ; 10     ; 16     ; 60     ; 66     ; -6
+8  ;     Internacional          ; 67     ; 46     ; 20     ; 7      ; 19     ; 66     ; 59     ; 7
+9  ;     Fluminense             ; 67     ; 46     ; 18     ; 13     ; 15     ; 65     ; 68     ; -3
+10 ;     Ponte Preta            ; 64     ; 46     ; 19     ; 7      ; 20     ; 43     ; 73     ; -30
+11 ;     Figueirense            ; 63     ; 46     ; 17     ; 12     ; 17     ; 57     ; 59     ; -2
+12 ;     Coritiba               ; 62     ; 46     ; 15     ; 17     ; 14     ; 53     ; 48     ; 5
+13 ;     Cruzeiro               ; 56     ; 46     ; 16     ; 8      ; 22     ; 69     ; 81     ; -12
+14 ;     Paysandu               ; 56     ; 46     ; 14     ; 14     ; 18     ; 56     ; 76     ; -20
+15 ;     Paraná                 ; 54     ; 46     ; 15     ; 9      ; 22     ; 52     ; 73     ; -21
+16 ;     Vasco                  ; 54     ; 46     ; 14     ; 12     ; 20     ; 64     ; 68     ; -4
+17 ;     Flamengo               ; 54     ; 46     ; 13     ; 15     ; 18     ; 51     ; 53     ; -2
+18 ;     São Caetano            ; 53     ; 46     ; 23     ; 8      ; 15     ; 65     ; 49     ; 16
+19 ;     Atlético Mineiro       ; 53     ; 46     ; 12     ; 17     ; 17     ; 60     ; 66     ; -6
+20 ;     Botafogo               ; 51     ; 46     ; 11     ; 18     ; 17     ; 62     ; 71     ; -9
+21 ;     Criciúma               ; 50     ; 46     ; 13     ; 11     ; 22     ; 61     ; 78     ; -17
+22 ;     Guarani                ; 49     ; 46     ; 11     ; 16     ; 19     ; 43     ; 55     ; -12
+23 ;     Vitória                ; 48     ; 46     ; 13     ; 9      ; 24     ; 68     ; 87     ; -19
+24 ;     Grêmio                 ; 39     ; 46     ; 9      ; 12     ; 25     ; 60     ; 80     ; -20
+
+Season: 2003
+BlockSource: http://en.wikipedia.org/wiki/2003_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;          Cruzeiro          ; 100    ; 46     ; 31     ; 7      ; 8      ; 102    ; 47     ; 55
+2  ;          Santos            ; 87     ; 46     ; 25     ; 12     ; 9      ; 93     ; 60     ; 33
+3  ;          São Paulo         ; 78     ; 46     ; 22     ; 12     ; 12     ; 81     ; 67     ; 14
+4  ;          São Caetano       ; 74     ; 46     ; 19     ; 14     ; 13     ; 53     ; 37     ; 16
+5  ;          Coritiba          ; 73     ; 46     ; 21     ; 10     ; 15     ; 67     ; 58     ; 9
+6  ;          Internacional     ; 72     ; 46     ; 20     ; 10     ; 16     ; 59     ; 57     ; 2
+7  ;          Atlético-MG       ; 72     ; 46     ; 19     ; 15     ; 12     ; 76     ; 62     ; 14
+8  ;          Flamengo          ; 66     ; 46     ; 18     ; 12     ; 16     ; 66     ; 73     ; -7
+9  ;          Goiás             ; 65     ; 46     ; 18     ; 11     ; 17     ; 78     ; 63     ; 15
+10 ;          Paraná            ; 65     ; 46     ; 18     ; 11     ; 17     ; 85     ; 75     ; -10
+11 ;          Figueirense       ; 65     ; 46     ; 17     ; 14     ; 15     ; 62     ; 54     ; 8
+12 ;          Atlético-PR       ; 61     ; 46     ; 17     ; 10     ; 19     ; 67     ; 72     ; -5
+13 ;          Guarani           ; 61     ; 46     ; 17     ; 10     ; 19     ; 64     ; 72     ; -8
+14 ;          Criciúma          ; 60     ; 46     ; 17     ; 9      ; 20     ; 57     ; 69     ; -12
+15 ;          Corinthians       ; 57     ; 46     ; 15     ; 12     ; 19     ; 61     ; 63     ; -2
+16 ;          Vitória           ; 56     ; 46     ; 15     ; 11     ; 20     ; 50     ; 64     ; -14
+17 ;          Vasco             ; 54     ; 46     ; 13     ; 15     ; 18     ; 57     ; 69     ; -12
+18 ;          Juventude         ; 53     ; 46     ; 12     ; 14     ; 20     ; 55     ; 70     ; -15
+19 ;          Fluminense        ; 52     ; 46     ; 13     ; 11     ; 22     ; 52     ; 77     ; -25
+20 ;          Grêmio            ; 50     ; 46     ; 13     ; 11     ; 22     ; 54     ; 68     ; -14
+21 ;          Ponte Preta       ; 50     ; 46     ; 11     ; 18     ; 17     ; 63     ; 73     ; -10
+22 ;          Paysandu          ; 49     ; 46     ; 15     ; 12     ; 19     ; 74     ; 77     ; -3
+23 ;          Fortaleza         ; 49     ; 46     ; 12     ; 13     ; 21     ; 58     ; 74     ; -16
+24 ;          Bahia             ; 49     ; 46     ; 12     ; 10     ; 24     ; 59     ; 92     ; -33
+*[1]
+
+
+
+BlockSource: http://en.wikipedia.org/wiki/2002_Campeonato_Brasileiro_S%C3%A9rie_A
+Season: 2002
+
+1  ;          São Paulo         ; 52     ; 25     ; 16     ; 4      ; 5      ; 57     ; 35     ; 22    
+2  ;          São Caetano       ; 47     ; 25     ; 14     ; 5      ; 6      ; 42     ; 28     ; 14    
+3  ;          Corinthians       ; 43     ; 25     ; 12     ; 7      ; 6      ; 37     ; 35     ; 2     
+4  ;          Juventude         ; 41     ; 25     ; 12     ; 5      ; 8      ; 34     ; 30     ; 4     
+5  ;          Grêmio            ; 41     ; 25     ; 11     ; 8      ; 6      ; 39     ; 29     ; 10    
+6  ;          Atlético-MG       ; 40     ; 25     ; 12     ; 4      ; 9      ; 49     ; 43     ; 6     
+7  ;          Fluminense        ; 40     ; 25     ; 12     ; 4      ; 9      ; 43     ; 46     ; -3    
+8  ;          Santos            ; 39     ; 25     ; 11     ; 6      ; 8      ; 46     ; 36     ; 10    
+9  ;          Cruzeiro          ; 39     ; 25     ; 11     ; 6      ; 8      ; 40     ; 39     ; 1     
+10 ;          Vitória           ; 37     ; 25     ; 11     ; 4      ; 10     ; 46     ; 42     ; 4     
+11 ;          Coritiba          ; 36     ; 25     ; 11     ; 3      ; 11     ; 34     ; 34     ; 0     
+12 ;          Goiás             ; 36     ; 25     ; 10     ; 6      ; 9      ; 42     ; 39     ; 3     
+13 ;          Ponte Preta       ; 34     ; 25     ; 10     ; 4      ; 11     ; 35     ; 34     ; 1     
+14 ;          Atlético-PR       ; 34     ; 25     ; 9      ; 7      ; 9      ; 39     ; 33     ; 6     
+15 ;          Vasco             ; 33     ; 25     ; 10     ; 3      ; 12     ; 37     ; 38     ; -1    
+16 ;          Guarani           ; 33     ; 25     ; 9      ; 6      ; 10     ; 32     ; 35     ; -3    
+17 ;          Figueirense       ; 31     ; 25     ; 9      ; 4      ; 12     ; 34     ; 43     ; -9    
+18 ;          Flamengo          ; 30     ; 25     ; 8      ; 6      ; 11     ; 38     ; 39     ; -1    
+19 ;          Bahia             ; 30     ; 25     ; 8      ; 6      ; 11     ; 35     ; 38     ; -3    
+20 ;          Paysandu          ; 29     ; 25     ; 9      ; 2      ; 14     ; 35     ; 46     ; -11   
+21 ;          Internacional     ; 29     ; 25     ; 7      ; 8      ; 10     ; 36     ; 37     ; -1    
+22 ;          Paraná            ; 28     ; 25     ; 8      ; 4      ; 13     ; 37     ; 42     ; -5    
+23 ;          Portuguesa        ; 27     ; 25     ; 7      ; 6      ; 12     ; 26     ; 40     ; -14   
+24 ;          Palmeiras         ; 27     ; 25     ; 6      ; 9      ; 10     ; 37     ; 46     ; -9    
+25 ;          Gama              ; 25     ; 25     ; 7      ; 4      ; 14     ; 30     ; 39     ; -9    
+26 ;          Botafogo          ; 25     ; 25     ; 6      ; 7      ; 12     ; 24     ; 39     ; -15   
+
+
+
+Season: 2001
+BlockSource: http://en.wikipedia.org/wiki/2001_Campeonato_Brasileiro_S%C3%A9rie_A        
+
+
+1        ;    São Caetano                                                            ;     59    ; 27     ; 18     ; 5      ; 4   ; 48; 25; 23
+2        ;    Atlético-PR                                                            ;     51    ; 27     ; 15     ; 6      ; 6   ; 40; 18; 22
+3        ;    Fluminense                                                             ;     51    ; 27     ; 14     ; 9      ; 4   ; 44; 29; 15
+4        ;    Atlético-MG                                                            ;     49    ; 27     ; 15     ; 4      ; 8   ; 50; 34; 16
+5        ;    Grêmio                                                                 ;     47    ; 27     ; 14     ; 5      ; 8   ; 39; 29; 10
+6        ;    Ponte Preta                                                            ;     47    ; 27     ; 13     ; 8      ; 6   ; 53; 48; 5
+7        ;    São Paulo                                                              ;     46    ; 27     ; 13     ; 7      ; 7   ; 48; 34; 14
+8        ;    Bahia                                                                  ;     45    ; 27     ; 13     ; 6      ; 8   ; 43; 38; 5
+9        ;    Internacional                                                          ;     40    ; 27     ; 12     ; 4      ; 11  ; 38; 40; -2
+10       ;    Goiás                                                                  ;     39    ; 27     ; 12     ; 3      ; 12  ; 38; 32; 6
+11       ;    Vasco                                                                  ;     39    ; 27     ; 10     ; 9      ; 8   ; 57; 36; 21
+12       ;    Palmeiras                                                              ;     38    ; 27     ; 12     ; 2      ; 13  ; 39; 48; -9
+13       ;    Portuguesa                                                             ;     37    ; 27     ; 11     ; 4      ; 12  ; 31; 33; -2
+14       ;    Paraná                                                                 ;     36    ; 27     ; 11     ; 3      ; 13  ; 35; 37; -2
+15       ;    Santos                                                                 ;     36    ; 27     ; 9      ; 9      ; 9   ; 37; 32; 5
+16       ;    Vitória                                                                ;     36    ; 27     ; 9      ; 9      ; 9   ; 33; 37; -4
+17       ;    Coritiba                                                               ;     35    ; 27     ; 9      ; 8      ; 10  ; 31; 32; -1
+18       ;    Corinthians                                                            ;     34    ; 27     ; 9      ; 7      ; 11  ; 46; 45; 1
+19       ;    Guarani                                                                ;     33    ; 27     ; 9      ; 6      ; 12  ; 29; 45; -16
+20       ;    Gama                                                                   ;     33    ; 27     ; 8      ; 9      ; 10  ; 40; 34; 6
+21       ;    Cruzeiro                                                               ;     32    ; 27     ; 9      ; 5      ; 13  ; 36; 43; -7
+22       ;    Juventude                                                              ;     30    ; 27     ; 6      ; 12     ; 9   ; 29; 37; -8
+23       ;    Botafogo-RJ                                                            ;     29    ; 27     ; 8      ; 5      ; 14  ; 41; 51; -10
+24       ;    Flamengo                                                               ;     29    ; 27     ; 8      ; 5      ; 14  ; 25; 38; -13
+25       ;    Santa Cruz                                                             ;     27    ; 27     ; 7      ; 6      ; 14  ; 31; 50; -19
+26       ;    Botafogo-SP                                                            ;     25    ; 27     ; 6      ; 7      ; 14  ; 23; 41; -18
+27       ;    América-MG                                                             ;     25    ; 27     ; 6      ; 7      ; 14  ; 32; 46; -14
+28       ;    Sport                                                                  ;     19    ; 27     ; 5      ; 4      ; 18  ; 24; 46; -22
+
+
+Season: 2000
+BlockSource: http://en.wikipedia.org/wiki/Copa_Jo%C3%A3o_Havelange
+
+
+Season: 1999
+BlockSource: http://en.wikipedia.org/wiki/1999_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1  ;          Corinthians               ; 59;      29;      18;      5;       6;       61;      38;      23
+2  ;          Atlético Mineiro          ; 49;      29;      15;      4;       10;      56;      40;      16
+3  ;          Vitória                   ; 42;      27;      12;      6;       9;       41;      47;      -6
+4  ;          São Paulo                 ; 40;      26;      13;      1;       12;      45;      35;      10
+5  ;          Cruzeiro                  ; 42;      23;      12;      6;       5;       50;      39;      11
+6  ;          Ponte Preta               ; 38;      24;      11;      5;       8;       29;      23;      6
+7  ;          Vasco da Gama             ; 38;      24;      10;      8;       6;       40;      31;      9
+8  ;          Guarani                   ; 35;      24;      10;      5;       9;       32;      25;      7
+9  ;          Atlético Paranaense       ; 31;      21;      9 ;      4;       8;       36;      31;      5
+10 ;          Palmeiras                 ; 31;      21;      8 ;      7;       6;       36;      23;      13
+11 ;          Santos                    ; 30;      21;      8 ;      6;       7;       25;      26;      -1
+12 ;          Flamengo                  ; 29;      21;      9 ;      2;       10;      30;      33;      -3
+13 ;          Coritiba                  ; 29;      21;      7 ;      8;       6;       31;      29;      2
+14 ;          Botafogo                  ; 26;      21;      8 ;      2;       11;      23;      37;      -14
+15 ;          Gama                      ; 26;      21;      7 ;      5;       9;       24;      29;      -5
+16 ;          Internacional             ; 24;      21;      7 ;      3;       11;      18;      26;      -8
+17 ;          Paraná                    ; 24;      21;      6 ;      6;       9;       23;      29;      -6
+18 ;          Grêmio                    ; 22;      21;      6 ;      4;       11;      24;      43;      -19
+19 ;          Juventude                 ; 22;      21;      5 ;      7;       9;       18;      32;      -14
+20 ;          Botafogo-SP               ; 21;      21;      5 ;      6;       10;      27;      38;      -11
+21 ;          Portuguesa                ; 18;      21;      4 ;      6;       11;      27;      31;      -4
+22 ;          Sport                     ; 17;      21;      3 ;      8;       10;      14;      25;      -11
+
+
+Season: 1998
+BlockSource: http://en.wikipedia.org/wiki/1998_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1         ;   Corinthians              ;  61    ;  32    ;  18    ;  7     ;  7    ;   57    ;  38    ;  19
+2         ;   Cruzeiro                 ;  51    ;  32    ;  14    ;  9     ;  9    ;   56    ;  41    ;  15
+3         ;   Santos                   ;  51    ;  29    ;  14    ;  9     ;  6    ;   55    ;  37    ;  18
+4         ;   Portuguesa               ;  48    ;  29    ;  13    ;  9     ;  7    ;   52    ;  42    ;  10
+5         ;   Palmeiras                ;  48    ;  26    ;  15    ;  3     ;  8    ;   51    ;  38    ;  13
+6         ;   Coritiba                 ;  44    ;  26    ;  11    ;  11    ;  4    ;   35    ;  31    ;  4
+7         ;   Sport                    ;  43    ;  26    ;  13    ;  4     ;  9    ;   38    ;  28    ;  10
+8         ;   Grêmio                   ;  39    ;  26    ;  11    ;  6     ;  9    ;   34    ;  32    ;  2
+9         ;   Atlético Mineiro         ;  36    ;  23    ;  9     ;  9     ;  5    ;   38    ;  33    ;  5
+10        ;   Vasco da Gama            ;  34    ;  23    ;  9     ;  7     ;  7    ;   34    ;  24    ;  10
+11        ;   Flamengo                 ;  33    ;  23    ;  9     ;  6     ;  8    ;   37    ;  34    ;  3
+12        ;   Internacional            ;  32    ;  23    ;  9     ;  5     ;  9    ;   25    ;  25    ;  0
+13        ;   Vitória                  ;  30    ;  23    ;  9     ;  3     ;  11   ;   31    ;  38    ;  -7
+14        ;   Botafogo                 ;  29    ;  23    ;  7     ;  8     ;  8    ;   35    ;  37    ;  -2
+15        ;   São Paulo                ;  27    ;  23    ;  8     ;  3     ;  12   ;   34    ;  35    ;  -1
+16        ;   Atlético Paranaense      ;  27    ;  23    ;  7     ;  6     ;  10   ;   32    ;  32    ;  0
+17        ;   Ponte Preta              ;  26    ;  23    ;  7     ;  5     ;  11   ;   25    ;  34    ;  -9
+18        ;   Juventude                ;  26    ;  23    ;  6     ;  8     ;  9    ;   24    ;  32    ;  -8
+19        ;   Guarani                  ;  25    ;  23    ;  6     ;  7     ;  10   ;   34    ;  39    ;  -5
+20        ;   Paraná                   ;  24    ;  23    ;  7     ;  3     ;  13   ;   25    ;  41    ;  -16
+21        ;   América Mineiro          ;  23    ;  23    ;  6     ;  5     ;  12   ;   26    ;  39    ;  -13
+22        ;   Goiás                    ;  22    ;  23    ;  5     ;  7     ;  11   ;   29    ;  37    ;  -8
+23        ;   Bragantino               ;  21    ;  23    ;  5     ;  6     ;  12   ;   20    ;  37    ;  -17
+24        ;   América de Natal         ;  15    ;  23    ;  3     ;  6     ;  14   ;   24    ;  47    ;  -23
+
+
+Season: 1997
+BlockSource: http://en.wikipedia.org/wiki/1997_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1           ; Vasco da Gama       ; 70     ; 33     ; 21     ; 7      ; 5      ; 69     ; 37     ; +32
+2           ; Palmeiras           ; 58     ; 33     ; 15     ; 13     ; 5      ; 57     ; 28     ; +29
+3           ; Internacional       ; 57     ; 31     ; 17     ; 6      ; 8      ; 60     ; 31     ; +29
+4           ; Atlético Mineiro    ; 53     ; 31     ; 16     ; 5      ; 10     ; 48     ; 42     ; +6
+5           ; Flamengo            ; 50     ; 31     ; 14     ; 8      ; 9      ; 37     ; 32     ; +5
+6           ; Portuguesa          ; 49     ; 31     ; 13     ; 10     ; 8      ; 50     ; 36     ; +14
+7           ; Santos              ; 48     ; 31     ; 14     ; 6      ; 11     ; 48     ; 43     ; +5
+8           ; Juventude           ; 44     ; 31     ; 11     ; 11     ; 9      ; 30     ; 31     ; -1
+9           ; Vitória             ; 36     ; 25     ; 9      ; 9      ; 7      ; 44     ; 40     ; +4
+10          ; Botafogo            ; 34     ; 25     ; 8      ; 10     ; 7      ; 32     ; 32     ; 0
+11          ; Sport               ; 33     ; 25     ; 9      ; 6      ; 10     ; 34     ; 32     ; +2
+12          ; São Paulo           ; 33     ; 25     ; 8      ; 9      ; 8      ; 41     ; 32     ; +9
+13          ; Paraná              ; 32     ; 25     ; 8      ; 8      ; 9      ; 30     ; 30     ; 0
+14          ; Grêmio              ; 31     ; 25     ; 7      ; 10     ; 8      ; 34     ; 47     ; -13
+15          ; Coritiba            ; 30     ; 25     ; 7      ; 9      ; 9      ; 31     ; 32     ; -1
+16          ; América de Natal    ; 30     ; 25     ; 7      ; 9      ; 9      ; 31     ; 40     ; -9
+17          ; Corinthians         ; 29     ; 25     ; 8      ; 5      ; 12     ; 23     ; 27     ; -4
+18          ; Atlético Paranaense ; 28     ; 25     ; 9      ; 6      ; 10     ; 37     ; 41     ; -4
+19          ; Goiás               ; 28     ; 25     ; 8      ; 4      ; 13     ; 30     ; 40     ; -10
+20          ; Cruzeiro            ; 28     ; 25     ; 6      ; 10     ; 9      ; 30     ; 35     ; -5
+21          ; Guarani             ; 28     ; 25     ; 6      ; 10     ; 9      ; 36     ; 43     ; -7
+22          ; Bragantino          ; 26     ; 25     ; 7      ; 5      ; 13     ; 27     ; 46     ; -19
+23          ; Bahia               ; 26     ; 25     ; 6      ; 8      ; 11     ; 39     ; 49     ; -10
+24          ; Criciúma            ; 25     ; 25     ; 6      ; 7      ; 12     ; 27     ; 35     ; -8
+25          ; Fluminense          ; 22     ; 25     ; 4      ; 10     ; 11     ; 26     ; 41     ; -15
+26          ; União São João      ; 15     ; 25     ; 2      ; 9      ; 14     ; 18     ; 47     ; -29
+
+Season: 1996
+BlockSource: http://en.wikipedia.org/wiki/1996_Campeonato_Brasileiro_S%C3%A9rie_A
+
+1         ;   Cruzeiro               ;    44   ;   23   ;   13    ;  5    ;   5  ;     31  ;    17  ;    14
+2         ;   Guarani                ;    43   ;   23   ;   13    ;  4    ;   6  ;     23  ;    14  ;    9
+3         ;   Palmeiras              ;    43   ;   23   ;   12    ;  7    ;   4  ;     42  ;    20  ;    12
+4         ;   Atlético Paranaense    ;    39   ;   23   ;   12    ;  3    ;   8  ;     41  ;    28  ;    13
+5         ;   Atlético Mineiro       ;    39   ;   23   ;   12    ;  3    ;   8  ;     39  ;    32  ;    7
+6         ;   Grêmio                 ;    38   ;   23   ;   11    ;  5    ;   7  ;     42  ;    27  ;    15
+7         ;   Goiás                  ;    37   ;   23   ;   11    ;  4    ;   8  ;     37  ;    27  ;    10
+8         ;   Portuguesa             ;    36   ;   23   ;   11    ;  3    ;   9  ;     32  ;    29  ;    3
+9         ;   Internacional          ;    35   ;   23   ;   10    ;  5    ;   8  ;     31  ;    27  ;    4
+10        ;   Sport                  ;    35   ;   23   ;   10    ;  5    ;   8  ;     32  ;    31  ;    1
+11        ;   São Paulo              ;    35   ;   23   ;   9     ;  8    ;   6  ;     39  ;    32  ;    7
+12        ;   Corinthians            ;    32   ;   23   ;   7     ;  11   ;   5  ;     20  ;    19  ;    1
+13        ;   Flamengo               ;    30   ;   23   ;   9     ;  3    ;   11 ;     24  ;    31  ;    -7
+14        ;   Coritiba               ;    29   ;   23   ;   9     ;  3    ;   11 ;     25  ;    30  ;    -5
+15        ;   Vitória                ;    29   ;   23   ;   8     ;  5    ;   10 ;     32  ;    39  ;    -7
+16        ;   Paraná                 ;    28   ;   23   ;   8     ;  4    ;   11 ;     26  ;    30  ;    -4
+17        ;   Botafogo               ;    28   ;   23   ;   7     ;  7    ;   9  ;     33  ;    35  ;    -2
+18        ;   Vasco da Gama          ;    27   ;   23   ;   8     ;  3    ;   12 ;     37  ;    43  ;    -6
+19        ;   Juventude              ;    27   ;   23   ;   8     ;  3    ;   12 ;     31  ;    37  ;    -6
+20        ;   Santos                 ;    27   ;   23   ;   7     ;  6    ;   10 ;     26  ;    31  ;    -5
+21        ;   Criciúma               ;    23   ;   23   ;   6     ;  5    ;   12 ;     31  ;    39  ;    -8
+22        ;   Bahia                  ;    23   ;   23   ;   5     ;  8    ;   10 ;     25  ;    35  ;    -10
+23        ;   Fluminense             ;    22   ;   23   ;   6     ;  4    ;   13 ;     26  ;    50  ;    -24
+24        ;   Bragantino             ;    19   ;   23   ;   5     ;  4    ;   14 ;     26  ;    48  ;    -22
+
+
+Season: 1995
+BlockSource: http://en.wikipedia.org/wiki/1995_Campeonato_Brasileiro_S%C3%A9rie_A
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+
+1        ;    Botafogo         ;  27     ; 14     ; 9     ;  4   ;    46    ;  25   ;   +21   ;  51 
+2        ;    Santos           ;  27     ; 15     ; 5     ;  7   ;    52    ;  40   ;   +12   ;  50      
+3        ;    Cruzeiro         ;  25     ; 12     ; 5     ;  8   ;    41    ;  27   ;   +14   ;  41      
+4        ;    Fluminense       ;  25     ; 9      ; 10    ;  6   ;    25    ;  22   ;   +3    ;  37   
+5        ;    Palmeiras        ;  23     ; 14     ; 3     ;  6   ;    37    ;  19   ;   +18   ;  45
+6        ;    Bragantino       ;  23     ; 11     ; 7     ;  5   ;    35    ;  26   ;   +9    ;  40
+7        ;    Atlético Mineiro ;  23     ; 10     ; 7     ;  6   ;    32    ;  27   ;   +5    ;  37
+8        ;    Goiás            ;  23     ; 10     ; 5     ;  8   ;    32    ;  23   ;   +9    ;  35
+9        ;    Internacional    ;  23     ; 9      ; 8     ;  6   ;    29    ;  22   ;   +7    ;  35
+10       ;    Portuguesa       ;  23     ; 9      ; 8     ;  6   ;    28    ;  28   ;   0     ;  35
+11       ;    Juventude        ;  23     ; 8      ; 11    ;  4   ;    25    ;  21   ;   +4    ;  35
+12       ;    São Paulo        ;  23     ; 9      ; 6     ;  8   ;    26    ;  23   ;   +3    ;  33   
+13       ;    Paraná           ;  23     ; 8      ; 9     ;  6   ;    30    ;  24   ;   +6    ;  33
+14       ;    Corinthians      ;  23     ; 9      ; 4     ;  10  ;    32    ;  33   ;   -1    ;  31   
+15       ;    Grêmio           ;  23     ; 9      ; 4     ;  10  ;    26    ;  32   ;   -6    ;  31
+16       ;    Criciúma         ;  23     ; 6      ; 9     ;  8   ;    20    ;  20   ;   0     ;  27
+17       ;    Bahia            ;  23     ; 7      ; 5     ;  11  ;    22    ;  40   ;   -18   ;  26
+18       ;    Guarani          ;  23     ; 7      ; 4     ;  12  ;    27    ;  37   ;   -10   ;  25
+19       ;    Sport            ;  23     ; 7      ; 4     ;  12  ;    25    ;  29   ;   -4    ;  25
+20       ;    Vasco da Gama    ;  23     ; 7      ; 3     ;  13  ;    32    ;  39   ;   -7    ;  24   
+21       ;    Flamengo         ;  23     ; 5      ; 9     ;  9   ;    23    ;  32   ;   -9    ;  24      
+22       ;    Vitória          ;  23     ; 5      ; 7     ;  11  ;    24    ;  34   ;   -10   ;  22
+23       ;    Paysandu         ;  23     ; 3      ; 9     ;  11  ;    25    ;  42   ;   -17   ;  18
+24       ;    União São João   ;  23     ; 2      ; 3     ;  18  ;    18    ;  47   ;   -29   ;  9
+
+
+Season: 1994
+BlockSource: http://en.wikipedia.org/wiki/1994_Campeonato_Brasileiro_S%C3%A9rie_A
+
+
+
+1         ;   Palmeiras       ;   31   ;   20  ;    6    ;   5   ;    58   ;   30   ;   +28  ;   46
+2         ;   Corinthians     ;   31   ;   11  ;    9    ;   10  ;    43   ;   44   ;   -1   ;   33
+3         ;   Guarani         ;   29   ;   17  ;    6    ;   6   ;    45   ;   26   ;   +19  ;   40
+4         ;   Atlético Mineiro;   28   ;   11  ;    8    ;   9   ;    36   ;   28   ;   +8   ;   30
+5         ;   Botafogo        ;   27   ;   13  ;    6    ;   8   ;    38   ;   32   ;   +6   ;   32
+6         ;   São Paulo       ;   27   ;   12  ;    8    ;   7   ;    42   ;   35   ;   +7   ;   32
+7         ;   Bahia           ;   27   ;   9   ;    11   ;   7   ;    32   ;   31   ;   +1   ;   29
+8         ;   Bragantino      ;   26   ;   8   ;    9    ;   9   ;    29   ;   29   ;   0    ;   25
+9         ;   Santos          ;   25   ;   13  ;    5    ;   7   ;    36   ;   22   ;   +14  ;   31
+10        ;   Portuguesa      ;   25   ;   9   ;    8    ;   8   ;    26   ;   20   ;   +6   ;   26
+11        ;   Grêmio          ;   25   ;   9   ;    6    ;   10  ;    27   ;   30   ;   -3   ;   24
+12        ;   Vasco da Gama   ;   25   ;   8   ;    8    ;   9   ;    23   ;   25   ;   -2   ;   24
+13        ;   Sport           ;   25   ;   8   ;    8    ;   9   ;    31   ;   34   ;   -3   ;   24
+14        ;   Flamengo        ;   25   ;   7   ;    9    ;   9   ;    24   ;   27   ;   -3   ;   23
+15        ;   Fluminense      ;   25   ;   8   ;    6    ;   11  ;    35   ;   40   ;   -5   ;   22
+16        ;   Paysandu        ;   25   ;   8   ;    6    ;   11  ;    22   ;   32   ;   -10  ;   22
+17        ;   Internacional   ;   25   ;   7   ;    8    ;   10  ;    27   ;   28   ;   -1   ;   22
+18        ;   Paraná          ;   25   ;   6   ;    9    ;   10  ;    29   ;   35   ;   -6   ;   21
+19        ;   Vitória         ;   24   ;   7   ;    8    ;   9   ;    25   ;   28   ;   -3   ;   22
+20        ;   Criciúma        ;   24   ;   7   ;    9    ;   8   ;    34   ;   34   ;   0    ;   23
+21        ;   União São João  ;   24   ;   7   ;    7    ;   10  ;    26   ;   32   ;   -6   ;   21
+22        ;   Cruzeiro        ;   24   ;   6   ;    4    ;   14  ;    22   ;   35   ;   -13  ;   16
+23        ;   Remo            ;   24   ;   6   ;    5    ;   13  ;    18   ;   34   ;   -16  ;   17    
+24        ;   Náutico         ;   24   ;   5   ;    5    ;   14  ;    16   ;   33   ;   -17  ;   15
+
+Season: 1993
+BlockSource: http://en.wikipedia.org/wiki/1993_Campeonato_Brasileiro_S%C3%A9rie_A
+
+Key: position; team; points; games; wins; ties; losses; goals_for; goals_against; goal_difference 
+
+1        ;    Palmeiras          ; 36     ; 22     ; 16     ; 4      ; 2      ; 40     ; 17     ; 23
+2        ;    Vitória            ; 30     ; 24     ; 11     ; 8      ; 5      ; 39     ; 27     ; 12
+3        ;    Corinthians        ; 31     ; 20     ; 12     ; 7      ; 1      ; 38     ; 18     ; 20
+4        ;    São Paulo          ; 26     ; 20     ; 9      ; 8      ; 3      ; 27     ; 17     ; 10
+5        ;    Santos             ; 25     ; 20     ; 9      ; 7      ; 4      ; 35     ; 26     ; 9
+6        ;    Guarani            ; 22     ; 20     ; 8      ; 6      ; 6      ; 33     ; 25     ; 8
+7        ;    Remo               ; 21     ; 22     ; 9      ; 3      ; 10     ; 37     ; 35     ; 2
+8        ;    Flamengo           ; 20     ; 20     ; 6      ; 8      ; 6      ; 23     ; 24     ; -1
+9        ;    Portuguesa         ; 19     ; 16     ; 8      ; 3      ; 5      ; 27     ; 21     ; 6
+10       ;    Paraná             ; 19     ; 16     ; 6      ; 7      ; 3      ; 18     ; 12     ; 6
+11       ;    Grêmio             ; 15     ; 14     ; 6      ; 3      ; 5      ; 20     ; 17     ; 3
+12       ;    Cruzeiro           ; 14     ; 14     ; 6      ; 2      ; 6      ; 22     ; 15     ; 7
+13       ;    Internacional      ; 14     ; 14     ; 5      ; 4      ; 5      ; 17     ; 20     ; -3
+14       ;    Bragantino         ; 13     ; 14     ; 2      ; 9      ; 3      ; 18     ; 16     ; 2
+15       ;    Vasco da Gama      ; 13     ; 14     ; 5      ; 3      ; 6      ; 19     ; 20     ; -1
+16       ;    Sport              ; 11     ; 14     ; 4      ; 3      ; 7      ; 10     ; 21     ; -11
+17       ;    Fluminense         ; 8      ; 14     ; 3      ; 2      ; 9      ; 18     ; 26     ; -8
+18       ;    Bahia              ; 8      ; 14     ; 2      ; 4      ; 8      ; 10     ; 29     ; -19
+19       ;    Botafogo           ; 6      ; 14     ; 2      ; 2      ; 10     ; 7      ; 21     ; -14
+20       ;    Atlético Mineiro   ; 4      ; 14     ; 1      ; 2      ; 11     ; 7      ; 21     ; -14
+21       ;    Paysandu           ; 17     ; 14     ; 6      ; 5      ; 3      ; 15     ; 13     ; 2
+22       ;    União São João     ; 16     ; 14     ; 6      ; 4      ; 4      ; 21     ; 11     ; 10
+23       ;    Criciúma           ; 15     ; 14     ; 6      ; 3      ; 5      ; 18     ; 20     ; -2
+24       ;    América Mineiro    ; 14     ; 14     ; 4      ; 6      ; 4      ; 18     ; 18     ; 0
+25       ;    Náutico            ; 14     ; 14     ; 5      ; 4      ; 5      ; 14     ; 18     ; -4
+26       ;    Ceará              ; 13     ; 14     ; 6      ; 1      ; 7      ; 16     ; 19     ; -3
+27       ;    Coritiba           ; 13     ; 14     ; 3      ; 7      ; 4      ; 10     ; 15     ; -5
+28       ;    Santa Cruz         ; 12     ; 14     ; 5      ; 2      ; 7      ; 20     ; 17     ; 3
+29       ;    Atlético Paranaense; 12     ; 14     ; 3      ; 6      ; 5      ; 14     ; 16     ; -2
+30       ;    Goiás              ; 10     ; 14     ; 2      ; 6      ; 6      ; 12     ; 22     ; -10
+31       ;    Fortaleza          ; 9      ; 14     ; 2      ; 5      ; 7      ; 11     ; 23     ; -12
+32       ;    Desportiva Capixaba; 8      ; 14     ; 1      ; 6      ; 7      ; 9      ; 23     ; -14
+
+
+Season: 1992
+BlockSource: http://en.wikipedia.org/wiki/1992_Campeonato_Brasileiro_S%C3%A9rie_A
+
+
+*Round: First stage
+
+*Standings
+*Time    P       G       W       D       L       GF      GA      GD      
+
+1      ; Vasco          ; 26     ; 19     ; 10     ; 6      ; 3      ; 31     ; 14     ; 17      
+2      ; Botafogo       ; 24     ; 19     ; 11     ; 2      ; 6      ; 37     ; 23     ; 14        
+3      ; Bragantino     ; 24     ; 19     ; 9      ; 6      ; 4      ; 16     ; 13     ; 3         
+4      ; Flamengo       ; 22     ; 19     ; 8      ; 6      ; 5      ; 32     ; 24     ; 8         
+5      ; Corinthians    ; 22     ; 19     ; 8      ; 6      ; 5      ; 24     ; 22     ; 2         
+6      ; São Paulo      ; 21     ; 19     ; 8      ; 5      ; 6      ; 22     ; 16     ; 6         
+7      ; Cruzeiro       ; 21     ; 19     ; 7      ; 7      ; 5      ; 10     ; 14     ; 6         
+8      ; Santos         ; 21     ; 19     ; 7      ; 7      ; 5      ; 23     ; 18     ; 5         
+9      ; Guarani        ; 20     ; 19     ; 8      ; 4      ; 7      ; 15     ; 19     ; -4        
+10     ; Internacional  ; 20     ; 19     ; 7      ; 6      ; 6      ; 19     ; 20     ; -1        
+11     ; Palmeiras      ; 19     ; 19     ; 8      ; 3      ; 8      ; 23     ; 17     ; 6         
+12     ; Sport          ; 19     ; 19     ; 4      ; 11     ; 4      ; 15     ; 15     ; 0         
+13     ; Atlético-MG    ; 18     ; 19     ; 6      ; 6      ; 7      ; 15     ; 18     ; -3        
+14     ; Fluminense     ; 18     ; 19     ; 5      ; 8      ; 6      ; 21     ; 19     ; 2         
+15     ; Atlético-PR    ; 16     ; 19     ; 5      ; 6      ; 8      ; 19     ; 32     ; -13       
+16     ; Portuguesa     ; 15     ; 19     ; 4      ; 7      ; 8      ; 21     ; 26     ; -5        
+17     ; Goiás          ; 15     ; 19     ; 4      ; 7      ; 8      ; 23     ; 34     ; -13       
+18     ; Bahia          ; 14     ; 19     ; 4      ; 6      ; 9      ; 20     ; 24     ; -4        
+19     ; Náutico        ; 13     ; 19     ; 3      ; 7      ; 9      ; 17     ; 29     ; -12       
+20     ; Paysandu       ; 12     ; 19     ; 5      ; 2      ; 12     ; 19     ; 35     ; -16       
+
+Round: Second Stage
+
+*Group 1
+*Team  P G       W       D       L       GF      GA      GD      
+*1     Flamengo  7       6       3       1       2       7       5       2       Finalist
+*2     Vasco     6       6       1       4       1       10      9       1
+*3     São Paulo 6       6       2       2       2       6       7       -1
+*4     Santos    5       6       1       3       2       7       9       -2
+*Group 2
+*Team  P G       W       D       L       GF      GA      GD      
+*1     Botafogo  9       6       4       1       1       7       4       3       Finalist
+*2     Bragantino        8       6       3       2       1       6       4       2
+*3     Corinthians       5       6       2       1       3       8       7       1
+*4     Cruzeiro          2       6       1       0       5       5       11      -6
+
+
+Season: 1991
+
+Key: position; team; points; games; wins; ties; losses; goals_for; goals_against; goal_difference
+
+1     ;  São Paulo             ;  26    ;  19   ;   11   ;   4     ;  4  ;     26  ;    14   ;   12      
+2     ;  Bragantino            ;  26    ;  19   ;   9    ;   8     ;  2  ;     27  ;    14   ;   13      
+3     ;  Fluminense            ;  24    ;  19   ;   10   ;   4     ;  5  ;     28  ;    19   ;   9       
+4     ;  Atlético Mineiro      ;  24    ;  19   ;   8    ;   8     ;  3  ;     28  ;    19   ;   9   
+5     ;  Corinthians           ;  24    ;  19   ;   8    ;   8     ;  3  ;     23  ;    17   ;   6
+6     ;  Palmeiras             ;  22    ;  19   ;   7    ;   8     ;  4  ;     20  ;    19   ;   1
+7     ;  Internacional         ;  20    ;  19   ;   5    ;   10    ;  4  ;     19  ;    16   ;   3
+8     ;  Santos                ;  19    ;  19   ;   7    ;   5     ;  7  ;     23  ;    20   ;   3
+9     ;  Flamengo              ;  19    ;  19   ;   7    ;   5     ;  7  ;     20  ;    24   ;   -4
+10    ;  Portuguesa            ;  19    ;  19   ;   5    ;   9     ;  5  ;     14  ;    15   ;   -1
+11    ;  Vasco da Gama         ;  19    ;  19   ;   4    ;   11    ;  4  ;     22  ;    26   ;   -4
+12    ;  Botafogo              ;  18    ;  19   ;   6    ;   6     ;  7  ;     19  ;    21   ;   -2
+13    ;  Bahia                 ;  18    ;  19   ;   5    ;   8     ;  6  ;     16  ;    18   ;   -2
+14    ;  Náutico               ;  17    ;  19   ;   7    ;   3     ;  9  ;     19  ;    25   ;   -6
+15    ;  Goiás                 ;  17    ;  19   ;   6    ;   5     ;  8  ;     27  ;    24   ;   3
+16    ;  Cruzeiro              ;  16    ;  19   ;   5    ;   6     ;  8  ;     23  ;    28   ;   -5
+17    ;  Atlético Paranaense   ;  15    ;  19   ;   5    ;   5     ;  9  ;     27  ;    28   ;   -1
+18    ;  Sport                 ;  13    ;  19   ;   4    ;   5     ;  10 ;     15  ;    30   ;   -15
+19    ;  Grêmio                ;  12    ;  19   ;   3    ;   6     ;  10 ;     15  ;    24   ;   -9      
+20    ;  Vitória               ;  12    ;  19   ;   3    ;   6     ;  10 ;     17  ;    27   ;   -10     
+
+
+Season: 1990
+BlockSource: http://en.wikipedia.org/wiki/1990_Campeonato_Brasileiro_S%C3%A9rie_A
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_difference; points
+
+1          ;  Grêmio            ; 19     ; 9      ; 7      ; 3      ; 25     ; 13     ; +12    ; 25      
+2          ;  Atlético Mineiro  ; 19     ; 7      ; 9      ; 3      ; 19     ; 16     ; +3     ; 23
+3          ;  São Paulo         ; 19     ; 8      ; 6      ; 5      ; 20     ; 14     ; +6     ; 22
+4          ;  Corinthians       ; 19     ; 8      ; 6      ; 5      ; 17     ; 18     ; −1     ; 22
+5          ;  Bahia             ; 19     ; 7      ; 8      ; 4      ; 20     ; 12     ; +8     ; 22
+6          ;  Bragantino        ; 19     ; 7      ; 8      ; 4      ; 19     ; 16     ; +3     ; 22
+7          ;  Santos            ; 19     ; 7      ; 8      ; 4      ; 19     ; 13     ; +6     ; 22
+8          ;  Palmeiras         ; 19     ; 8      ; 5      ; 6      ; 21     ; 18     ; +3     ; 21
+9          ;  Cruzeiro          ; 19     ; 8      ; 5      ; 6      ; 21     ; 18     ; +3     ; 21
+10         ;  Goiás             ; 19     ; 7      ; 7      ; 5      ; 22     ; 19     ; +3     ; 21
+11         ;  Flamengo          ; 19     ; 7      ; 6      ; 6      ; 24     ; 18     ; +6     ; 20
+12         ;  Botafogo          ; 19     ; 7      ; 4      ; 8      ; 17     ; 18     ; −1     ; 18
+13         ;  Náutico           ; 19     ; 4      ; 10     ; 5      ; 13     ; 18     ; −5     ; 18
+14         ;  Vasco da Gama     ; 19     ; 3      ; 12     ; 4      ; 15     ; 15     ; 0      ; 18
+15         ;  Fluminense        ; 19     ; 5      ; 5      ; 9      ; 19     ; 24     ; −5     ; 15
+16         ;  Internacional     ; 19     ; 4      ; 7      ; 8      ; 19     ; 23     ; −4     ; 15
+17         ;  Vitória           ; 19     ; 4      ; 7      ; 8      ; 15     ; 22     ; −7     ; 15
+18         ;  Portuguesa        ; 19     ; 3      ; 9      ; 7      ; 18     ; 22     ; −4     ; 15
+19         ;  São José          ; 19     ; 3      ; 9      ; 7      ; 10     ; 20     ; −10    ; 15
+20         ;  Inter de Limeira  ; 19     ; 4      ; 2      ; 13     ; 9      ; 25     ; −16    ; 10
+
+

@@ -1,0 +1,621 @@
+BlockSource: http://www.rsssf.com/tablesp/peru2013.html
+Season: 2012-2013
+
+Competition: Peruvian Primera División
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Stage: 1
+*First Stage
+
+ 1; Real Garcilaso (Cusco)                  ; 30;  17;  7;  6;  41; 20;  57;  [-1] [To Liguilla A]  [To Copa Libertadores 2014]
+ 2; Universitario (Lima)                    ; 30;  15;  8;  7;  41; 24;  53;       [To Liguilla B]
+ 3; Sporting Cristal (Lima)                 ; 30;  14;  7;  9;  51; 33;  49;       [To Liguilla A]
+ 4; Universidad Técnica de Cajamarca        ; 30;  13;  8;  9;  33; 28;  47;       [To Liguilla B]
+ 5; Universidad César Vallejo (Trujillo)    ; 30;  12; 10;  8;  35; 32;  46;       [To Liguilla A]
+ 6; León de Huánuco                         ; 30;  11; 12;  7;  38; 27;  45;       [To Liguilla B]
+ 7; Alianza Lima (Lima)                     ; 30;  13;  6; 11;  34; 33;  45;       [To Liguilla A]
+ 8; Inti Gas Deportes (Ayacucho)            ; 30;  11; 10;  9;  41; 38;  43;       [To Liguilla B]
+ 9; Sport Huancayo                          ; 30;  11;  9; 10;  40; 41;  42;       [To Liguilla A]
+10; Cienciano (Cusco)                       ; 30;  10;  9; 11;  30; 39;  39;       [To Liguilla B]
+11; FBC Melgar (Arequipa)                   ; 30;   8; 12; 10;  32; 33;  36;       [To Liguilla A]
+12; Juan Aurich (Chiclayo)                  ; 30;   8;  9; 13;  37; 37;  33;       [To Liguilla B]
+13; Pacífico FC (Lima)                      ; 30;   7; 12; 11;  22; 33;  33;       [To Liguilla A]
+14; Universidad San Martín de Porres (Lima) ; 30;   8;  6; 16;  26; 44;  30;       [To Liguilla B]
+15; Unión Comercio (Moyobamba)              ; 30;   6;  8; 16;  24; 40;  26;       [To Liguilla A]
+16; José Gálvez FBC (Chimbote)              ; 30;   6;  7; 17;  39; 65;  25;       [To Liguilla B]
+
+*NB: Real Garcilaso was deducted 1 point obtained in round 5 against Leon de Huanuco
+*    for enrolling five foreigners in the list of 18 players; in addition, they were
+*    awarded 3 additional goals against.
+*
+*Real Garcilaso won the first stage and qualify for the Copa Libertadores 2014 as Peru 3.
+
+
+
+*Second Stage (Liguillas)
+*Liguilla A | Liguilla B 
+
+*NB: group A consists of clubs finishing on odd places in regular stage;
+*    group B of clubs finishing on even places;
+*    both groups to play a double round robin; clubs keep records of first stage;
+*    both group winners play off for the championship;
+*    two teams to be relegated (those with worst record overall, not
+*    necessarily bottom teams from both groups)
+
+Stage: Liguilla 
+Group: A
+
+ 1; Real Garcilaso (Cusco)                  ; 44;  22; 12; 10;  63; 39;  77;  [-1] [To Final and Copa Libertadores 2014]
+
+ 2; Sporting Cristal (Lima)                 ; 44;  22;  9; 13;  76; 45;  75;       [To Copa Libertadores 2014]
+ 3; Alianza Lima (Lima)                     ; 44;  19; 12; 13;  57; 46;  70;  [+1] [To Copa Sudamericana 2014]
+ 4; Universidad César Vallejo (Trujillo)    ; 44;  18; 15; 11;  56; 46;  69;       [To Copa Sudamericana 2014]
+ 5; Sport Huancayo                          ; 44;  14; 14; 16;  55; 62;  56;
+ 6; FBC Melgar (Arequipa)                   ; 44;  10; 20; 14;  45; 49;  50;
+
+ 7; Unión Comercio (Moyobamba)              ; 44;  11; 11; 22;  39; 59;  44;       [Relegation Playoff]
+ 8; Pacífico FC (Lima)                      ; 44;  10; 14; 20;  31; 62;  44;       [Relegation Playoff]
+
+*NB: Real Garcilaso was deducted 1 point obtained in round 5 against Leon de Huanuco
+*    for enrolling five foreigners in the list of 18 players; in addition, they were
+*    awarded 3 additional goals against.
+*    Alianza Lima 1 bonus point for finishing second in reserve league.
+
+Stage: Liguilla 
+Group: B
+
+ 1; Universitario (Lima)                    ; 44;  21; 13; 10;  61; 39;  76;  [To Final and Copa Libertadores 2014]
+
+ 2; Universidad Técnica de Cajamarca        ; 44;  19; 11; 14;  52; 49;  68;  [To Copa Sudamericana 2014]
+ 3; Inti Gas Deportes (Ayacucho)            ; 44;  17; 12; 15;  63; 65;  63;  [To Copa Sudamericana 2014]
+ 4; Juan Aurich (Chiclayo)                  ; 44;  17; 11; 16;  66; 50;  62;
+ 5; Cienciano (Cusco)                       ; 44;  15; 14; 15;  46; 56;  59; 
+ 6; León de Huánuco                         ; 44;  14; 14; 16;  49; 48;  56;
+ 7; Universidad San Martín de Porres (Lima) ; 44;  12; 11; 21;  46; 60;  49; [+2]
+
+ 8; José Gálvez FBC (Chimbote)              ; 44;  10;  9; 25;  55; 88;  39;  [Relegated]
+
+*NB: Universidad San Martín 2 bonus points for winning the reserve league.
+
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru2012.html
+Season: 2012
+
+Stage: 1
+*First Stage 
+
+ 1; Sporting Cristal (Lima)                 ; 30; 17;  7;  6;  62; 30;  58;  [To Copa Libertadores 2013]
+ 2; Real Garcilaso (Cusco)                  ; 30; 16;  9;  5;  38; 21;  57;
+ 3; Universidad César Vallejo (Trujillo)    ; 30; 16;  7;  7;  44; 27;  55;
+ 4; Inti Gas Deportes (Ayacucho)            ; 30; 13;  6; 11;  32; 29;  45;
+ 5; Juan Aurich (Chiclayo)                  ; 30; 13;  6; 11;  37; 39;  45;
+ 6; José Gálvez FBC (Chimbote)              ; 30; 12;  9;  9;  30; 34;  45; 
+ 7; Universitario (Lima)                    ; 30; 11; 10;  9;  40; 37;  42; [-1]
+ 8; FBC Melgar (Arequipa)                   ; 30; 11;  8; 11;  35; 34;  41;
+ 9; León de Huánuco                         ; 30; 10; 10; 10;  42; 32;  40;
+10; Sport Huancayo                          ; 30; 11;  7; 12;  34; 37;  40;
+11; Universidad San Martín de Porres (Lima) ; 30; 10;  8; 12;  33; 38;  38; 
+12; Unión Comercio (Moyobamba)              ; 30; 11;  5; 14;  37; 43;  38;
+13; Alianza Lima (Lima)                     ; 30;  9; 11; 10;  31; 36;  34; [-4]
+14; Cienciano (Cusco)                       ; 30; 10;  4; 16;  37; 46;  34;
+15; Sport Boys (Callao)                     ; 30;  5; 11; 14;  25; 40;  26;
+16; Cobresol FBC (Moquegua)                 ; 30;  3;  6; 21;  22; 56;  11; [-4]
+
+*Sporting Cristal won the first stage, Classifies the Copa Libertadores 2013 as Peru 3.
+*
+*[Mar 30] Alianza Lima lost a two (4) points due to accumulated debt two months (January and February)
+*         with your squad of players.
+*[Mar 30] Cobresol FBC lost two (2) points for failure to cancel a fee of the unionization of players.
+*[Jul 30] Cobresol FBC lost two (2) points for not file the payroll of may.
+*
+*SAFAP: Sindicato de la Asociación de Futbolistas Agremiados del Perú
+
+
+
+
+Stage: Liguilla 
+Group: A
+
+ 1; Sporting Cristal (Lima)                 ; 44; 25; 11;  8;  93; 44;  86;      To Final and Copa Libertadores 2013
+ 2; Sport Huancayo                          ; 44; 18;  9; 17;  52; 51;  63;      To Copa Sudamericana 2013
+ 3; Inti Gas Deportes (Ayacucho)            ; 44; 17; 11; 16;  43; 45;  62;      To Copa Sudamericana 2013
+ 4; Universidad San Martín de Porres (Lima) ; 44; 16; 12; 16;  49; 52;  61; [+1]
+ 5; José Gálvez FBC (Chimbote)              ; 44; 17; 10; 17;  48; 54;  61;
+ 6; Cienciano (Cusco)                       ; 44; 16;  9; 19;  58; 59;  57;
+ 7; Universitario (Lima)                    ; 44; 15; 13; 16;  52; 58;  57; [-1]
+ 8; Cobresol FBC (Moquegua)                 ; 44;  6;  8; 30;  33; 82;  22; [-4] Relagated
+
+*[Mar 20] Universitario lost one (1) point for a debt of 2007 with Carlos Trejos, assistant coach at the time. 
+*[Mar 30] Cobresol FBC lost two (2) points for failure to cancel a fee of the unionization of players.
+*[Jul 30] Cobresol FBC lost two (2) points for not file the payroll of may.
+*[Sep 19] Univ. San Martin de Porres 1 bonus point for finishing second in reserve league.
+
+
+Stage: Liguilla 
+Group: B
+
+ 1; Real Garcilaso (Cusco)                  ; 44; 24; 10; 10;  63; 35;  82;      To Final and Copa Libertadores 2013
+ 2; Universidad César Vallejo (Trujillo)    ; 44; 21; 11; 12;  57; 44;  74;      To Copa Libertadores 2013
+ 3; Juan Aurich (Chiclayo)                  ; 44; 20;  9; 15;  56; 54;  71; [+2] To Copa Sudamericana 2013
+ 4; FBC Melgar (Arequipa)                   ; 44; 18; 12; 14;  56; 44;  66;      To Copa Sudamericana 2013
+ 5; Unión Comercio (Moyobamba)              ; 44; 16;  9; 19;  51; 61;  57;
+ 6; León de Huánuco                         ; 44; 13; 15; 16;  54; 47;  54;
+ 7; Alianza Lima (Lima)                     ; 44; 14; 15; 15;  50; 51;  53; [-4]
+ 8; Sport Boys (Callao)                     ; 44;  6; 16; 22;  36; 70;  32; [-2] Relegated
+
+*[Mar 30] Alianza Lima lost a two (4) points due to accumulated debt two months (January and February)
+*         with your squad of players.
+*[Aug 31] Sport Boys lost a two (2) points for not file the payroll of may.
+*[Sep 19] Juan Aurich 2 bonus points for finishing first in reserve league.
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru2011.html
+Season: 2011
+
+
+
+ 1; Juan Aurich (Chiclayo)                  ; 30; 15; 11;  4;  46; 21;  57;* [to Copa Libertadores 2012, Final]
+ 2; Alianza Lima (Lima)                     ; 30; 16;  7;  7;  44; 25;  57;**[to Copa Libertadores 2012, Final]
+ 3; Sport Huancayo                          ; 30; 15;  5; 10;  49; 33;  50;  [to Copa Libertadores 2012]
+ 4; Universidad San Martín de Porres (Lima) ; 30; 13;  8;  9;  43; 24;  47;  [to Copa Sudamericana 2012]
+ 5; León de Huánuco                         ; 30; 14;  4; 12;  37; 30;  46;  [to Copa Sudamericana 2012]
+ 6; Union Comercio (Moyobamba)              ; 30; 13;  6; 11;  48; 42;  45;  [to Copa Sudamericana 2012]
+ 7; Inti Gas Deportes (Ayacucho)            ; 30; 12;  8; 10;  42; 41;  44;  [to Copa Sudamericana 2012]
+ 8; Cienciano (Cusco)                       ; 30; 12;  4; 14;  42; 46;  40;
+ 9; Cobresol FBC (Moquegua)                 ; 30;  9; 12;  9;  31; 40;  39;
+10; Sporting Cristal (Lima)                 ; 30; 10;  8; 12;  30; 34;  38;
+11; Sport Boys (Callao)                     ; 30; 10;  6; 14;  26; 49;  36;
+12; FBC Melgar (Arequipa)                   ; 30;  9;  7; 14;  37; 44;  34;
+13; Universidad César Vallejo (Trujillo)    ; 30;  9;  7; 14;  32; 42;  34;
+14; Universitario (Lima)                    ; 30;  8; 10; 12;  25; 35;  34;
+15; Colegio Nacional de Iquitos             ; 30;  9;  6; 15;  35; 44;  33;
+16; Alianza Atlético (Sullana)              ; 30; 10;  3; 17;  24; 41;  33;
+
+**Alianza Lima 2 bonus points for winning reserve league; 
+ *Juan Aurich 1 bonus point for finishing second in reserve league
+
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru2010.html
+
+
+Stage: 1
+*First Stage
+
+ 1; Universidad San Martín de Porres (Lima) ; 30; 19;  5;  6;  61; 30;  62;
+ 2; León de Huánuco                         ; 30; 17;  5;  8;  55; 31;  56;
+ 3; Alianza Lima (Lima)                     ; 30; 17;  5;  8;  50; 31;  56;
+ 4; Universidad César Vallejo (Trujillo)    ; 30; 16;  5;  9;  48; 30;  53;
+ 5; Universitario (Lima)                    ; 30; 16;  5;  9;  43; 22;  51;  [-2]
+ 6; Juan Aurich (Chiclayo)                  ; 30; 13;  9;  8;  42; 31;  48;
+ 7; Sporting Cristal (Lima)                 ; 30; 12;  8; 10;  43; 42;  44;  
+ 8; Sport Huancayo                          ; 30; 11;  5; 14;  44; 48;  38;
+ 9; Inti Gas Deportes (Ica)                 ; 30; 12;  2; 16;  36; 43;  38;
+10; FBC Melgar (Arequipa)                   ; 30;  9;  9; 12;  38; 49;  36;
+11; Colegio Nacional de Iquitos             ; 30; 10;  7; 13;  39; 51;  33;  [-4]
+12; Cienciano (Cuzco)                       ; 30;  9;  6; 15;  35; 50;  31;  [-2]
+13; Total Chalaco (Callao)                  ; 30;  8;  8; 14;  31; 43;  30;  [-2]
+14; Sport Boys (Callao)                     ; 30;  8;  6; 16;  34; 55;  30;
+15; José Gálvez (Chimbote)                  ; 30;  6; 10; 14;  19; 39;  28;
+16; Alianza Atlético (Sullana)              ; 30;  5;  9; 16;  24; 47;  24;
+
+*NB: Cienciano, Total Chalaco and Universitario 2 points deducted for
+*    financial reasons;
+*    Colegio Nacional de Iquitos 4 points deducted for financial reasons;
+
+
+Stage: Liguilla
+
+Group: A
+
+ 1; Universidad San Martín de Porres (Lima) ; 44; 28;  7;  9;  87; 39;  92;  [+1]  Final
+
+ 2; Alianza Lima (Lima)                     ; 44; 22; 12; 10;  70; 48;  78;
+ 3; Universitario (Lima)                    ; 44; 21; 11; 12;  55; 31;  72;  [-2]
+ 4; Sporting Cristal (Lima)                 ; 44; 18; 10; 16;  58; 54;  64;
+ 5; Inti Gas Deportes (Ica)                 ; 44; 17;  5; 22;  63; 69;  56;
+ 6; Colegio Nacional de Iquitos             ; 44; 16;  8; 20;  58; 71;  56;
+ 7; José Gálvez (Chimbote)                  ; 44; 10; 13; 21;  31; 67;  43;
+ 8; Total Chalaco (Callao)                  ; 44; 10; 12; 22;  41; 63;  40;  [-2]
+
+*NB: San Martín 1 bonus point for finishing second in reserve league;
+*    Total Chalaco and Universitario 2 points deducted for financial
+*    reasons;
+*    Colegio Nacional de Iquitos had their 4-point deduction revoked
+
+Group: B
+
+ 1; León de Huánuco                         ; 44; 24;  9; 11;  77; 44;  81;  Final
+
+ 2; Universidad César Vallejo (Trujillo)    ; 44; 19; 11; 14;  64; 48;  70;  [+2]
+ 3; Juan Aurich (Chiclayo)                  ; 44; 19; 11; 14;  62; 48;  68;
+ 4; Sport Huancayo                          ; 44; 17;  8; 19;  64; 60;  59;
+ 5; Sport Boys (Callao)                     ; 44; 15;  8; 21;  54; 78;  53;
+ 6; FBC Melgar (Arequipa)                   ; 44; 13; 11; 20;  53; 72;  50;
+ 7; Cienciano (Cuzco)                       ; 44; 13; 10; 21;  50; 69;  47;  [-2]
+ 8; Alianza Atlético (Sullana)              ; 44; 10; 14; 20;  45; 71;  44;
+
+*NB: César Vallejo 2 bonus points for winning reserve league;
+*    Cienciano 2 points deducted for financial reasons
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru09.html
+Season: 2009
+
+
+Stage: 1
+*First Stage
+
+ 1; Juan Aurich (Chiclayo)                  ; 30; 15; 10;  5;  46; 31;  55;
+ 2; Universitario (Lima)                    ; 30; 15;  9;  6;  37; 22;  54;
+ 3; Alianza Lima (Lima)                     ; 30; 15;  6;  9;  38; 31;  51;
+ 4; Sport Huancayo                          ; 30; 14;  6; 10;  46; 32;  48;
+ 5; Universidad César Vallejo (Trujillo)    ; 30; 13;  9;  8;  41; 33;  48;
+ 6; Universidad San Martín de Porres (Lima) ; 30; 12; 12;  6;  46; 32;  47;  [-1]
+ 7; Sporting Cristal (Lima)                 ; 30; 12;  6; 12;  53; 36;  42;
+ 8; Cienciano (Cuzco)                       ; 30; 10; 12;  8;  41; 38;  42;
+ 9; Inti Gas Deportes (Ica)                 ; 30; 11;  8; 11;  36; 31;  41;
+10; FBC Melgar (Arequipa)                   ; 30; 11;  8; 11;  36; 41;  41;
+11; José Gálvez (Chimbote)                  ; 30; 11;  6; 13;  28; 37;  39;
+12; Total Chalaco                           ; 30;  9; 10; 11;  41; 40;  37;  [*]
+13; Colegio Nacional de Iquitos             ; 30;  9;  4; 17;  24; 39;  31;
+14; Alianza Atlético (Sullana)              ; 30;  7;  9; 14;  28; 42;  30;
+15; Sport Áncash (Huaraz)                   ; 30;  7;  6; 17;  27; 50;  27;
+16; Coronel Bolognesi (Tacna)               ; 30;  3; 11; 16;  25; 58;  20;
+
+*[*] promoted club Total Clean (Arequipa) changed name to Total Chalaco
+*
+*NB: San Martín 1 point deducted for including 4 foreigners in their
+*    18-men roster against César Vallejo in round 1
+
+
+
+Stage: Liguilla
+*Second Stage (Liguilla)
+
+*NB: group A consists of clubs finishing on odd places in regular 
+*    stage; group B of clubs finishing on even places;
+*    both groups to play a double round robin; clubs keep records
+*    of first stage; both group winners play off for the championship;
+*    two teams to be relegated (those with worst record overall, not
+*    necessarily bottom teams from both groups)
+
+Group: A
+
+
+ 1; Alianza Lima (Lima)                     ; 44; 22; 10; 12;  59; 46;  76;  Qualified
+
+ 2; Juan Aurich (Chiclayo)                  ; 44; 20; 14; 10;  61; 44;  74;
+ 4; Universidad César Vallejo (Trujillo)    ; 44; 17; 16; 11;  60; 51;  67;
+ 5; Inti Gas Deportes (Ica)                 ; 44; 18; 10; 16;  58; 51;  64;
+ 3; Sporting Cristal (Lima)                 ; 44; 16;  9; 19;  71; 55;  57;
+ 6; José Gálvez (Chimbote)                  ; 44; 15;  7; 22;  43; 59;  52;
+ 7; Colegio Nacional de Iquitos             ; 44; 14;  8; 22;  39; 59;  50;
+
+ 8; Sport Áncash (Huaraz)                   ; 44; 13;  9; 22;  40; 61;  48;  Relegated
+
+
+Group: B
+
+ 1; Universitario (Lima)                    ; 44; 23; 12;  9;  59; 32;  81;  Qualified
+
+ 2; Sport Huancayo                          ; 44; 21;  7; 16;  64; 57;  70;
+ 3; Universidad San Martín de Porres (Lima) ; 44; 18; 16; 10;  65; 46;  69;  [-1]
+ 4; FBC Melgar (Arequipa)                   ; 44; 15; 13; 16;  59; 62;  58;
+ 5; Cienciano (Cuzco)                       ; 44; 14; 16; 14;  58; 63;  58;
+ 6; Total Chalaco                           ; 44; 12; 15; 17;  62; 64;  51;
+ 7; Alianza Atlético (Sullana)              ; 44; 12; 13; 19;  44; 58;  49;
+
+ 8; Coronel Bolognesi (Tacna)               ; 44;  7; 15; 22;  42; 76;  36;  Relegated
+
+*NB: San Martín 1 point deducted for including 4 foreigners in their
+*    18-men roster against César Vallejo in round 1
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru08.html
+Season: 2008
+
+*NB: Apertura and Clausura champions play off for championship,
+*    provided they finish in the top-7 of both tournaments
+
+Stage: Apertura
+
+ 1; Universitario (Lima)                    ; 26; 16;  7;  3;  40; 21;  55;  Apertura winners
+ 2; Sporting Cristal (Lima)                 ; 26; 15;  4;  7;  46; 32;  49;
+ 3; Universidad San Martín de Porres (Lima) ; 26; 11; 10;  5;  40; 20;  43;
+ 4; Cienciano (Cuzco)                       ; 26; 12;  5;  9;  37; 28;  41;
+ 5; Coronel Bolognesi (Tacna)               ; 26; 10;  8;  8;  33; 28;  38;
+ 6; Alianza Atlético (Sullana)              ; 26; 10;  4; 12;  28; 28;  34;
+ 7; Universidad César Vallejo (Trujillo)    ; 26;  9;  7; 10;  26; 32;  34;
+ 8; Juan Aurich (Chiclayo)                  ; 26;  9;  6; 11;  27; 30;  33;
+ 9; José Gálvez (Chimbote)                  ; 26;  7;  9; 10;  26; 32;  30;
+10; FBC Melgar (Arequipa)                   ; 26;  7;  9; 10;  18; 25;  30;
+11; Alianza Lima (Lima)                     ; 26;  7;  8; 11;  27; 32;  29;
+12; Sport Áncash (Huaraz)                   ; 26;  9;  2; 15;  25; 36;  29;
+13; Sport Boys (Callao)                     ; 26;  7;  8; 11;  23; 42;  27;  [-2]
+14; Atlético Minero (Matucana)              ; 26;  6;  7; 13;  26; 36;  25;
+
+*NB: Sport Boys 2 points deducted for failure to pay players
+
+Stage: Clausura
+
+ 1; Universidad San Martín de Porres (Lima) ; 26; 15;  6;  5;  41; 20;  51;  Clausura winners
+ 2; Sporting Cristal (Lima)                 ; 26; 14;  3;  9;  36; 25;  45;
+ 3; Sport Áncash (Huaraz)                   ; 26; 12;  7;  7;  39; 29;  43;
+ 4; FBC Melgar (Arequipa)                   ; 26; 11;  7;  8;  35; 34;  40;
+ 5; Cienciano (Cuzco)                       ; 26; 11;  6;  9;  34; 30;  39;
+ 6; Alianza Atlético (Sullana)              ; 26; 10;  8;  8;  35; 26;  38;
+ 7; Universidad César Vallejo (Trujillo)    ; 26; 11;  5; 10;  35; 32;  38;
+ 8; Atlético Minero (Matucana)              ; 26;  9; 10;  7;  32; 26;  37;
+ 9; José Gálvez (Chimbote)                  ; 26; 10;  7;  9;  42; 38;  37;
+10; Universitario (Lima)                    ; 26;  8; 10;  8;  31; 32;  34;
+11; Alianza Lima (Lima)                     ; 26; 11;  1; 14;  35; 39;  34;
+12; Juan Aurich (Chiclayo)                  ; 26;  8;  5; 13;  25; 34;  29;
+13; Coronel Bolognesi (Tacna)               ; 26;  7;  5; 14;  34; 51;  26;
+14; Sport Boys (Callao)                     ; 26;  1;  8; 17;  17; 55;  11;
+
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru07.html
+Season: 2007
+
+*Primera División
+*
+*NB: Apertura and Clausura champions play off for championship,
+*    provided they finish in the top-6 of both tournaments
+
+Stage: Apertura
+
+ 1; Universidad San Martín de Porres (Lima) ; 22; 13;  5;  4;  44; 22;  44;  Apertura winners
+ 2; Cienciano (Cuzco)                       ; 22; 10;  7;  5;  32; 22;  37;
+ 3; Sport Áncash (Huaraz)                   ; 22;  9;  7;  6;  30; 22;  34;
+ 4; Sport Boys (Callao)                     ; 22;  9;  7;  6;  33; 29;  34;
+ 5; Universitario (Lima)                    ; 22;  9;  5;  8;  31; 31;  32;
+ 6; Alianza Lima (Lima)                     ; 22;  9;  8;  5;  31; 23;  31;  [-4]
+ 7; FBC Melgar (Arequipa)                   ; 22;  8;  5;  9;  32; 38;  29;
+ 8; Alianza Atlético (Sullana)              ; 22;  6; 10;  6;  23; 23;  28;
+ 9; Deportivo Municipal (Lima)              ; 22;  6;  6; 10;  25; 30;  24;
+10; Sporting Cristal (Lima)                 ; 22;  5;  7; 10;  25; 35;  22;
+11; Total Clean (Arequipa)                  ; 22;  6;  2; 14;  28; 45;  20;
+12; Coronel Bolognesi (Tacna)               ; 22;  4;  7; 11;  22; 36;  19;
+
+*NB: Alianza 4 points deducted for failure to pay debts to players
+
+
+Stage: Clausura
+
+ 1; Coronel Bolognesi (Tacna)               ; 22; 10;  6;  6;  28; 15;  36;  Clausura Winners
+ 2; Universitario (Lima)                    ; 22;  9;  8;  5;  27; 22;  35;
+ 3; Cienciano (Cuzco)                       ; 22; 10;  4;  8;  35; 28;  34;
+ 4; Alianza Lima (Lima)                     ; 22;  9;  7;  6;  29; 25;  34;
+ 5; Sport Áncash (Huaraz)                   ; 22;  9;  6;  7;  26; 27;  33;
+ 6; Sporting Cristal (Lima)                 ; 22;  7;  9;  6;  21; 23;  30;
+ 7; Universidad San Martín de Porres (Lima) ; 22;  7;  6;  9;  25; 24;  27;
+ 8; FBC Melgar (Arequipa)                   ; 22;  5; 11;  6;  18; 17;  26;
+ 9; Alianza Atlético (Sullana)              ; 22;  6;  8;  8;  17; 22;  26;
+10; Total Clean (Arequipa)                  ; 22;  7;  4; 11;  22; 27;  25;
+11; Deportivo Municipal (Lima)              ; 22;  6;  6; 10;  24; 38;  24;
+12; Sport Boys (Callao)                     ; 22;  4; 11;  7;  25; 29;  23;
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru06.html
+Season: 2006
+
+*Primera División
+*
+*NB: Apertura and Clausura champions play off for championship,
+*      provided they finish in the top-6 of both tournaments
+
+Stage: Apertura
+
+ 1; Alianza Lima (Lima)                     ; 22; 13;  7;  2;  33; 13;  46;  Apertura Winners
+ 2; Sporting Cristal (Lima)                 ; 22; 13;  6;  3;  37; 17;  45;
+ 3; Coronel Bolognesi (Tacna)               ; 22;  9;  7;  6;  32; 24;  34;
+ 4; Cienciano (Cuzco)                       ; 22;  9;  6;  7;  26; 17;  33;
+ 5; Universidad San Martín de Porres (Lima) ; 22;  9;  6;  7;  30; 30;  33;
+ 6; Universitario (Lima)                    ; 22;  8;  7;  7;  30; 22;  31;
+ 7; Alianza Atlético (Sullana)              ; 22;  8;  5;  9;  26; 35;  29;
+ 8; Sport Áncash (Huaraz)                   ; 22;  6;  7;  9;  24; 31;  25;
+ 9; Unión Huaral (Huaral)                   ; 22;  6;  6; 10;  20; 30;  24;
+10; José Gálvez (Chimbote)                  ; 22;  6;  4; 12;  20; 30;  22;
+11; FBC Melgar (Arequipa)                   ; 22;  5;  7; 10;  20; 32;  22;
+12; Sport Boys (Callao)                     ; 22;  3;  6; 13;  17; 34;  15;
+
+Stage: Clausura
+
+ 1; Universitario (Lima)                    ; 22; 12;  5;  5;  34; 24;  41;
+ 2; Cienciano (Cuzco)                       ; 22; 13;  2;  7;  40; 31;  41;
+ 3; Coronel Bolognesi (Tacna)               ; 22; 12;  3;  7;  32; 20;  39;
+ 4; Alianza Lima (Lima)                     ; 22; 11;  5;  6;  27; 17;  38;
+ 5; Universidad San Martín de Porres (Lima) ; 22; 10;  4;  8;  24; 21;  34;
+ 6; Sporting Cristal (Lima)                 ; 22;  9;  4;  9;  24; 15;  31;
+ 7; FBC Melgar (Arequipa)                   ; 22;  8;  7;  7;  23; 22;  31;
+ 8; Sport Boys (Callao)                     ; 22;  9;  4;  9;  26; 28;  31;
+ 9; José Gálvez (Chimbote)                  ; 22;  6;  6; 10;  24; 29;  24;
+10; Sport Áncash (Huaraz)                   ; 22;  6;  5; 11;  26; 39;  23;
+11; Alianza Atlético (Sullana)              ; 22;  5;  6; 11;  29; 40;  21;
+12; Unión Huaral (Huaral)                   ; 22;  4;  3; 15;  15; 38;  15;
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru05.html
+Season: 2005
+
+*Primera División
+*
+*NB: Apertura and Clausura champions play off for championship,
+*      provided they finish in the top-6 of both tournaments;
+*    third spot in Copa Libertadores 2006 to best team in aggregate
+*      table (other than Apertura and Clausura champions);
+*    relegation decided by points average over 2003, 2004 and 2005
+*      (two clubs to be relegated)
+
+Stage: Apertura
+
+ 1; Cienciano (Cuzco)                       ; 24; 16;  3;  5;  37; 21;  51;  Apertura Champions
+ 2; Universitario (Lima)                    ; 24; 13;  9;  2;  40; 20;  48;
+ 3; Alianza Lima (Lima)                     ; 24;  9; 11;  4;  43; 25;  38;
+ 4; Sporting Cristal (Lima)                 ; 24;  9;  9;  6;  34; 28;  36;
+ 5; Coronel Bolognesi (Tacna)               ; 24;  8; 11;  5;  25; 20;  35;
+ 6; Sport Áncash (Huaraz)                   ; 24; 10;  4; 10;  28; 33;  34;
+ 7; Universidad San Martín de Porres (Lima) ; 24;  8;  7;  9;  28; 26;  31;
+ 8; Sport Boys (Callao)                     ; 24;  8;  7;  9;  31; 34;  31;
+ 9; FBC Melgar (Arequipa)                   ; 24;  7;  6; 11;  32; 42;  27;
+10; Atlético Universidad Nacional (Arequipa); 24;  5;  8; 11;  26; 40;  23;
+11; Universidad César Vallejo (Trujillo)    ; 24;  4; 10; 10;  27; 36;  22;
+12; Unión Huaral (Huaral)                   ; 24;  4;  9; 11;  24; 32;  21;
+13; Alianza Atlético (Sullana)              ; 24;  3; 10; 11;  29; 47;  19;
+
+
+
+Stage: Clausura
+
+ 1; Sporting Cristal (Lima)                 ; 24; 15;  7;  2;  37; 13;  52;  Clausura Champions
+ 2; Universidad San Martín de Porres (Lima) ; 24; 14;  6;  4;  40; 20;  48;
+ 3; Coronel Bolognesi (Tacna)               ; 24; 14;  2;  8;  38; 32;  44;
+ 4; Universitario (Lima)                    ; 24; 11;  7;  6;  31; 20;  40;
+ 5; Cienciano (Cuzco)                       ; 24;  9;  6;  9;  33; 30;  33;
+ 6; Sport Áncash (Huaraz)                   ; 24;  9;  5; 10;  27; 32;  32;
+ 7; FBC Melgar (Arequipa)                   ; 24;  9;  5; 10;  26; 37;  32;
+ 8; Atlético Universidad Nacional (Arequipa); 24;  9;  4; 11;  35; 39;  31;
+ 9; Alianza Atlético (Sullana)              ; 24;  9;  3; 12;  29; 39;  30;
+10; Sport Boys (Callao)                     ; 24;  7;  7; 10;  23; 30;  28;
+11; Alianza Lima (Lima)                     ; 24;  7;  5; 12;  26; 23;  26;
+12; Universidad César Vallejo (Trujillo)    ; 24;  5;  7; 12;  31; 39;  22;
+13; Unión Huaral (Huaral)                   ; 24;  4;  4; 16;  16; 38;  16;
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru04.html
+Season: 2004
+
+*Primera División
+
+Stage: Apertura
+
+ 1; Alianza Lima                    ; 26; 19;  4;  3;  48; 16;  61;  Apertura winners
+ 2; Cienciano                       ; 26; 18;  3;  5;  53; 28;  57;
+ 3; Alianza Atlético                ; 26; 15;  5;  6;  46; 29;  50;
+ 4; Sporting Cristal                ; 26; 13;  6;  7;  50; 24;  45;
+ 5; Universitario                   ; 26; 11;  8;  7;  31; 25;  41;
+ 6; Unión Huaral                    ; 26; 10;  7;  9;  32; 29;  37;
+ 7; Universidad César Vallejo       ; 26;  9;  8;  9;  24; 33;  35;
+ 8; Coronel Bolognesi               ; 26;  9;  3; 14;  40; 44;  30;
+ 9; Melgar                          ; 26;  8;  6; 12;  31; 41;  30;
+10; Grau Estudiantes de Medicina    ; 26;  7;  9; 10;  21; 37;  30;  [*2]
+11; Deportivo Wanka                 ; 26;  7;  7; 12;  28; 43;  28;
+12; Sport Boys                      ; 26;  6;  7; 13;  28; 40;  25;
+13; Atlético Universidad Nacional   ; 26;  5;  9; 12;  28; 42;  24;
+14; Universidad San Martín de Porres; 26;  2;  4; 20;  21; 50;  10;  [*1]
+
+*[*1] Universidad San Martín de Porres bought (the franchise of)
+*     newly promoted Sport Coopsol
+*[*2] Estudiantes de Medicina from Ica are broke and in fact
+*     Atlético Grau from Piura are playing in their place - in
+*     the stadium and uniforms of Grau but under Estudiantes' name
+
+
+Stage: Clausura
+
+
+ 1; Sporting Cristal                ; 26; 16;  2;  8;  55; 37;  50;  Clausura winners
+ 2; Universidad San Martín de Porres; 26; 14;  5;  7;  40; 26;  47;
+ 3; Cienciano                       ; 26; 11; 11;  4;  41; 26;  44;
+ 4; Universitario                   ; 26; 11; 10;  5;  34; 28;  43;
+ 5; Alianza Atlético                ; 26; 12;  6;  8;  41; 34;  42;
+ 6; Alianza Lima                    ; 26; 10;  8;  8;  31; 23;  38;
+ 7; Unión Huaral                    ; 26; 10;  8;  8;  35; 30;  38;
+ 8; Sport Boys                      ; 26; 10;  7;  9;  38; 40;  37;
+ 9; Atlético Universidad Nacional   ; 26;  8;  9;  9;  37; 38;  33;
+10; Melgar                          ; 26;  9;  5; 12;  47; 41;  32;
+11; Coronel Bolognesi               ; 26;  8;  6; 12;  45; 42;  30;
+12; Universidad César Vallejo       ; 26;  7;  7; 12;  24; 39;  28;
+13; Deportivo Wanka                 ; 26;  7;  4; 15;  27; 62;  25;
+14; Grau Estudiantes de Medicina    ; 26;  3;  4; 19;  19; 48;  13;
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru03.html
+Season: 2003
+
+Stage: Apertura
+
+ 1; Sporting Cristal       ; 22; 15;  4;  3;  50; 20;  49;  Apertura winners
+ 2; Alianza Lima           ; 22; 14;  4;  4;  40; 20;  46;
+ 3; Coronel Bolognesi      ; 22;  9;  8;  5;  30; 32;  35;
+ 4; Cienciano              ; 22; 10;  4;  8;  31; 22;  34;
+ 5; Sport Boys             ; 22;  8;  7;  7;  34; 28;  31;
+ 6; Alianza Atlético       ; 22;  7;  8;  7;  29; 28;  29;
+ 7; Unión Huaral           ; 22;  8;  5;  9;  28; 40;  29;
+ 8; Universitario          ; 22;  7;  7;  8;  32; 35;  28;
+ 9; Melgar                 ; 22;  5;  7; 10;  20; 30;  22;
+10; Estudiantes de Medicina; 22;  6;  3; 13;  23; 35;  21;
+11; Deportivo Wanka        ; 22;  4;  7; 11;  22; 31;  19;
+12; Atlético Universidad   ; 22;  4;  6; 12;  25; 43;  18;
+
+
+Stage: Clausura
+
+*Table (matches rounds 16 and 17 not included):
+
+ 1; Alianza Lima           ; 15; 10;  4;  1;  29; 9;  34;  [n/p, 7-1]
+ 2; Alianza Atlético       ; 15;  8;  5;  2;  25;13;  29;  [0-1, 5-3]
+ 3; Sporting Cristal       ; 15;  7;  6;  2;  29;18;  27;  [n/p, 4-0]
+ 4; Sport Boys             ; 15;  8;  3;  4;  27;17;  27;  [1-0, n/p]
+ 5; Coronel Bolognesi      ; 15;  8;  1;  6;  24;18;  25;  [1-2, n/p]
+ 6; Melgar                 ; 15;  7;  1;  7;  26;22;  22;  [3-1, 0-0]
+ 7; Unión Huaral           ; 15;  6;  3;  6;  12;17;  21;  [2-1, 0-0]
+ 8; Cienciano              ; 14;  4;  3;  7;  17;20;  15;  [n/p, 1-0]
+ 9; Atlético Universidad   ; 14;  4;  3;  7;  10;18;  15;  [n/p, 3-5]
+10; Universitario          ; 15;  3;  4;  8;  12;21;  13;  [1-2, 0-4]
+11; Deportivo Wanka        ; 15;  3;  4;  8;  11;24;  13;  [2-1, 0-1]
+12; Estudiantes de Medicina; 15;  1;  3; 11;  10;35;   6;  [1-3, 1-7]
+
+*NB: not included results between square brackets
+
+
+BlockSource: http://www.rsssf.com/tablesp/peru02.html
+Season: 2002
+
+Stage: Apertura
+
+ 1; Alianza Lima           ; 22; 14;  5;  3;  43; 23;  47;  Apertura Playoff
+ 2; Universitario          ; 22; 15;  2;  5;  30; 17;  47;  Apertura Playoff
+ 3; Sporting Cristal       ; 22; 11;  5;  6;  43; 32;  38;
+ 4; Cienciano              ; 22;  9;  7;  6;  33; 31;  34;
+ 5; Alianza Atlético       ; 22; 10;  3;  9;  37; 26;  33;
+ 6; Juan Aurich            ; 22;  7;  7;  8;  29; 25;  28; 
+ 7; Melgar                 ; 22;  6;  9;  7;  36; 43;  27;
+ 8; Sport Boys             ; 22;  7;  4; 11;  29; 37;  25;
+ 9; Coopsol Trujillo       ; 22;  6;  6; 10;  28; 32;  24;
+10; Coronel Bolognesi      ; 22;  6;  5; 11;  27; 39;  23;  [*]
+11; Estudiantes de Medicina; 22;  4;  7; 11;  25; 38;  19;
+12; Deportivo Wanka        ; 22;  5;  4; 13;  23; 40;  19;
+
+*NB: Deportivo Bolito (winners Copa Perú 2001 and promoted) yielded their top level 
+*    place to Coronel Bolognesi (Bolito were founded 1998 as youth squad for Bolognesi,
+*    but in 2001 the president, Elena Martorell, decided to field a strong team,
+*    eliminated Bolognesi in the Tacna league, won the Copa Perú, but yielded their
+*    first level place to Bolognesi as they will draw higher attendances; Bolognesi's
+*    president is Fernando Martorell, Elena's brother
+
+
+
+Stage: Clausura
+
+ 1; Sporting Cristal       ; 22; 13;  7;  2;  46; 18;  46;  Clausura Winners
+ 2; Alianza Lima           ; 22; 13;  6;  3;  40; 18;  42;  [-3]
+ 3; Alianza Atlético       ; 22; 11;  6;  5;  34; 26;  36;  [-3]
+ 4; Cienciano              ; 22; 11;  3;  8;  50; 44;  36;
+ 5; Estudiantes de Medicina; 22;  9;  5;  8;  36; 29;  32;
+ 6; Sport Boys             ; 22;  7;  8;  7;  28; 24;  29;
+ 7; Deportivo Wanka        ; 22;  7;  8;  7;  30; 35;  29;
+ 8; Coronel Bolognesi      ; 22;  8;  4; 10;  24; 29;  28;
+ 9; Melgar                 ; 22;  6;  7;  9;  25; 33;  25;
+10; Juan Aurich            ; 22;  5;  5; 12;  20; 35;  20;
+11; Universitario          ; 22;  4;  7; 11;  27; 36;  19;
+12; Coopsol Trujillo       ; 22;  3;  4; 15;  18; 51;  13;
+
+*NB: both Alianza Lima and Alianza Atlético had 3 points deducted for
+*    failing to carry out doping tests in round 22 of the Apertura

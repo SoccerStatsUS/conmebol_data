@@ -1,0 +1,853 @@
+Competition: Argentine Primera División
+BlockSource: http://www.rsssf.com/tablesa/arghist-pro1930s.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+Season: 1931
+
+ 1; Boca Juniors                    ; 34;  22;   6;   6;  85; 49;   50
+ 2; San Lorenzo de Almagro          ; 34;  19;   7;   8;  81; 52;   45
+ 3; Estudiantes de La Plata         ; 34;  20;   4;  10; 103; 51;   44
+ 4; River Plate                     ; 34;  19;   6;   9;  63; 39;   44
+ 5; Racing Club                     ; 34;  19;   5;  10;  81; 51;   43
+ 6; Independiente                   ; 34;  18;   7;   9;  69; 60;   43
+ 7; Chacarita Juniors               ; 34;  18;   6;  10;  63; 58;   42
+ 8; Huracán (BUE)                   ; 34;  13;   7;  14;  58; 49;   33
+ 9; Vélez Sarsfield                 ; 34;  13;   7;  14;  63; 68;   33
+10; Ferro Carril Oeste (BUE)        ; 34;  12;   8;  14;  60; 74;   32
+11; Argentinos Juniors              ; 34;  12;   7;  15;  49; 61;   31
+12; Gimnasia y Esgrima La Plata     ; 34;   9;  12;  13;  42; 64;   30
+13; Platense                        ; 34;  13;   3;  18;  52; 52;   29
+14; Quilmes                         ; 34;  12;   5;  17;  53; 62;   29
+15; Talleres (RdE)                  ; 34;  11;   2;  21;  48; 68;   24
+16; Tigre                           ; 34;   8;   7;  19;  47; 70;   23
+17; Lanús                           ; 34;  10;   2;  22;  43; 82;   22
+18; Atlanta                         ; 34;   4;   7;  23;  33; 83;   15
+
+*Notes: 
+*. Boca Juniors 1:1 River Plate abandoned and awarded wp:lp.
+*. Lanús 1:1 Platense abandoned and awarded wp:lp.
+*. Tigre wp:lp Platense, walkover.
+*. Racing Club 1:1 Estudiantes de La Plata abandoned and awarded lp:wp.
+
+*Champion: Boca Juniors.
+*No relegated teams.
+
+
+Season: 1932
+
+ 1; River Plate                     ; 34;  22;   6;   6;  81; 43;   50
+ 2; Independiente                   ; 34;  22;   6;   6;  69; 40;   50
+ 3; Racing Club                     ; 34;  20;   9;   5;  58; 26;   49
+ 4; Boca Juniors                    ; 34;  20;   6;   8;  77; 43;   46
+ 5; San Lorenzo de Almagro          ; 34;  17;  11;   6;  83; 44;   45
+ 6; Estudiantes de La Plata         ; 34;  16;   8;  10;  80; 62;   40
+ 7; Gimnasia y Esgrima La Plata     ; 34;  15;   7;  12;  78; 59;   37
+ 8; Vélez Sarsfield                 ; 34;  15;   7;  12;  47; 52;   37
+ 9; Huracán (BUE)                   ; 34;  14;   7;  13;  58; 58;   35
+10; Platense                        ; 34;  13;   9;  12;  55; 63;   35
+11; Ferro Carril Oeste (BUE)        ; 34;  13;   7;  14;  64; 59;   33
+12; Quilmes                         ; 34;  13;   6;  15;  50; 67;   32
+13; Chacarita Juniors               ; 34;  12;   7;  15;  74; 73;   31
+14; Argentinos Juniors              ; 34;   6;  11;  17;  40; 65;   23
+15; Lanús                           ; 34;   6;   6;  22;  37; 73;   18
+16; Talleres (RdE)                  ; 34;   5;   7;  22;  44; 74;   17
+17; Tigre                           ; 34;   5;   7;  22;  49; 94;   17
+18; Atlanta                         ; 34;   6;   5;  23;  31; 80;   17
+
+*Notes:
+*. Boca Juniors 2:1 Atlanta abandoned and awarded wp:lp.
+*. Huracán (BUE) 0:0 Boca Juniors abandoned and awarded lp:wp.
+*. Huracán (BUE) 0:1 Racing Club abandoned and awarded lp:wp.
+*. Lanús 0:0 Independiente (Avellaneda) abandoned and awarded lp:wp.
+*. Platense 2:2 Gimnasia y Esgrima La Plata abandonend and awarded wp:lp.
+*. Vélez Sarsfield 1:2 Boca Juniors abandonded and awarded wp:lp.
+
+
+
+Season: 1933
+
+
+ 1; San Lorenzo de Almagro          ; 34;  22;   6;   6;  81; 48;   50
+ 2; Boca Juniors                    ; 34;  22;   5;   7;  86; 47;   49
+ 3; Racing Club                     ; 34;  21;   6;   7;  76; 33;   48
+ 4; River Plate                     ; 34;  20;   6;   8;  71; 36;   46
+ 5; Gimnasia y Esgrima La Plata     ; 34;  21;   4;   9;  90; 55;   46
+ 6; Independiente                   ; 34;  18;   5;  11;  54; 39;   41
+ 7; Vélez Sarsfield                 ; 34;  15;   8;  11;  60; 43;   38
+ 8; Chacarita Juniors               ; 34;  14;   7;  13;  55; 61;   35
+ 9; Platense                        ; 34;  11;   9;  14;  61; 74;   31
+10; Estudiantes de La Plata         ; 34;  12;   6;  16;  60; 65;   30
+11; Ferro Carril Oeste (BUE)        ; 34;   9;  10;  15;  43; 56;   28
+12; Huracán (BUE)                   ; 34;  10;   7;  17;  49; 60;   27
+13; Quilmes                         ; 34;   8;  10;  16;  41; 61;   26
+14; Argentinos Juniors              ; 34;   8;   9;  17;  45; 71;   25
+15; Lanús                           ; 34;   7;  10;  17;  52; 76;   24
+16; Talleres (RdE)                  ; 34;   7;   9;  18;  61; 84;   23
+17; Atlanta                         ; 34;   9;   5;  20;  46; 70;   23
+18; Tigre                           ; 34;   9;   4;  21;  44; 96;   22
+
+*Champion: San Lorenzo de Almagro.
+*Relegated: 
+*. Tigre and Quilmes (LAF decision).
+*. Talleres (RdE) and Lanús were merged in Unión Talleres-Lanús.
+*. Atlanta and Argentinos Juniors were merged in Atlanta-Argentinos Juniors.
+
+
+
+Season: 1934
+
+
+
+*Note:
+*. On November 3, 1934 the Asociación Argentina de Football and the Liga 
+*  Argentina de Football were merged in the Asociación del Football Argentino.
+
+ 1; Boca Juniors                    ; 39;  23;   9;   7; 101; 62;   55
+ 2; Independiente                   ; 39;  23;   8;   8;  73; 41;   54
+ 3; San Lorenzo de Almagro          ; 39;  22;   7;  10;  84; 63;   51
+ 4; River Plate                     ; 39;  23;   4;  12;  91; 44;   50
+ 5; Estudiantes de La Plata         ; 39;  17;  10;  12;  69; 56;   44
+ 6; Racing Club                     ; 39;  18;   7;  14;  82; 62;   43
+ 7; Platense                        ; 39;  16;  11;  12;  70; 74;   43
+ 8; Vélez Sarsfield                 ; 39;  16;   9;  14;  80; 70;   41
+ 9; Gimnasia y Esgrima La Plata     ; 39;  14;  10;  15;  82; 85;   38
+10; Huracán (BUE)                   ; 39;  14;   9;  16;  59; 67;   37
+11; Chacarita Juniors               ; 39;  13;   8;  18;  61; 73;   34
+12; Unión Talleres-Lanús            ; 39;   8;  11;  20;  50; 81;   27
+13; Ferro Carril Oeste (BUE)        ; 39;   6;   8;  25;  51;100;   20
+14; Argentinos Juniors              ; 39;   2;   5;  32;  38;113;    9
+
+*Notes:
+*. Gimnasia y Esgrima La Plata 0:1 Estudiantes de La Plata abandoned and awarded wp:lp.
+*. Racing Club 1:2 Chacarita Juniors abandonded and awarded lp:wp.
+*Champion: Boca Juniors.
+*
+*Notes:
+*. Unión Talleres-Lanús was dissolved at the end of this championship.
+*. Atlanta-Argentinos Juniors was dissolved after round 25, and
+*  Argentinos Juniors played in their place.   
+
+
+
+Season: 1935
+
+
+ 1; Boca Juniors                    ; 34;  27;   4;   3;  98; 31;   58
+ 2; Independiente                   ; 34;  24;   7;   3; 101; 38;   55
+ 3; San Lorenzo de Almagro          ; 34;  23;   3;   8;  92; 45;   49
+ 4; Vélez Sarsfield                 ; 34;  19;   8;   7;  77; 46;   46
+ 5; River Plate                     ; 34;  19;   6;   9;  71; 47;   44
+ 6; Huracán (BUE)                   ; 34;  16;   7;  11;  59; 38;   39
+ 7; Estudiantes de La Plata         ; 34;  14;   9;  11;  78; 52;   37
+ 8; Ferro Carril Oeste (BUE)        ; 34;  15;   6;  13;  60; 66;   36
+ 9; Racing Club                     ; 34;  13;   5;  16;  55; 58;   31
+10; Talleres (RdE)                  ; 34;  11;   8;  15;  60; 70;   30
+11; Lanús                           ; 34;  13;   4;  17;  56; 79;   30
+12; Platense                        ; 34;  11;   7;  16;  49; 61;   29
+13; Gimnasia y Esgrima La Plata     ; 34;  12;   5;  17;  52; 75;   29
+14; Chacarita Juniors               ; 34;  10;   6;  18;  49; 57;   26
+15; Atlanta                         ; 34;   9;   7;  18;  48; 89;   25
+16; Argentinos Juniors              ; 34;   7;   6;  21;  42; 89;   20
+17; Quilmes                         ; 34;   5;   6;  23;  23; 82;   16
+18; Tigre                           ; 34;   3;   6;  25;  38; 85;   12
+
+*Champion: Boca Juniors.
+*No relegated teams.
+
+Season: 1936
+
+
+ 1; River Plate                     ; 17;  13;   2;   2;  49; 19;   28
+ 2; San Lorenzo de Almagro          ; 17;  11;   2;   4;  41; 24;   24
+ 3; Racing Club                     ; 17;  10;   3;   4;  43; 27;   23
+ 4; Independiente                   ; 17;  10;   1;   6;  32; 29;   21
+ 5; Boca Juniors                    ; 17;   9;   2;   6;  39; 19;   20
+ 6; Atlanta                         ; 17;   8;   3;   6;  39; 30;   19
+ 7; Platense                        ; 17;   6;   7;   4;  26; 29;   19
+ 8; Huracán (BUE)                   ; 17;   7;   4;   6;  32; 22;   18
+ 9; Argentinos Juniors              ; 17;   7;   4;   6;  26; 32;   18
+10; Ferro Carril Oeste (BUE)        ; 17;   7;   3;   7;  30; 36;   17
+11; Estudiantes de La Plata         ; 17;   6;   4;   7;  32; 32;   16
+12; Chacarita Juniors               ; 17;   6;   4;   7;  36; 42;   16
+13; Vélez Sarsfield                 ; 17;   7;   1;   9;  45; 35;   15
+14; Gimnasia y Esgrima La Plata     ; 17;   6;   2;   9;  31; 48;   14
+15; Lanús                           ; 17;   5;   2;  10;  27; 43;   12
+16; Quilmes                         ; 17;   4;   3;  10;  24; 39;   11
+17; Tigre                           ; 17;   2;   4;  11;  21; 43;    8
+18; Talleres (RdE)                  ; 17;   1;   5;  11;  19; 43;    7
+
+*Note:
+*The tournament before is the league championship 1936 but some statisticians take
+*the following three cups as part of the same championship:
+*Copa de Honor Municipalidad de Buenos Aires
+
+*[Traditional knockout cup but played in round robin format during this season].
+*Copa Campeonato
+
+*[The traditional trophy for the champion of the league].
+*Copa de Oro
+
+*[A kind of supercup between the champions of two cups above].
+*Anyway AFA mentioned the three champions and describe the three tournaments separately.
+
+
+Season: 1937
+
+ 1; River Plate                     ; 34;  27;   4;   3; 106; 43;   58
+ 2; Independiente                   ; 34;  25;   2;   7; 106; 54;   52
+ 3; Boca Juniors                    ; 34;  20;   5;   9; 101; 57;   45
+ 4; Racing Club                     ; 34;  16;   8;  10;  87; 65;   40
+ 5; Vélez Sarsfield                 ; 34;  18;   4;  12;  63; 58;   40
+ 6; San Lorenzo de Almagro          ; 34;  15;   9;  10;  70; 62;   39
+ 7; Huracán (BUE)                   ; 34;  17;   4;  13;  82; 62;   38
+ 8; Gimnasia y Esgrima La Plata     ; 34;  16;   5;  13;  68; 60;   37
+ 9; Ferro Carril Oeste (BUE)        ; 34;  15;   5;  14;  78; 79;   35
+10; Estudiantes de La Plata         ; 34;  13;   8;  13;  63; 64;   34
+11; Atlanta                         ; 34;  12;   7;  15;  61; 66;   31
+12; Platense                        ; 34;  12;   7;  15;  61; 67;   31
+13; Lanús                           ; 34;  13;   5;  16;  68; 79;   31
+14; Chacarita Juniors               ; 34;  10;   9;  15;  63; 76;   29
+15; Talleres (RdE)                  ; 34;  10;   6;  18;  60; 88;   26
+16; Tigre                           ; 34;  11;   3;  20;  62; 84;   25
+17; Argentinos Juniors              ; 34;   4;   3;  27;  44;111;   11
+18; Quilmes                         ; 34;   3;   4;  27;  42;110;   10
+
+
+
+Season: 1938
+
+ 1; Independiente                   ; 32;  25;   3;   4; 115; 37;   53
+ 2; River Plate                     ; 32;  23;   5;   4; 105; 49;   51
+ 3; San Lorenzo de Almagro          ; 32;  18;   7;   7;  87; 67;   43
+ 4; Racing Club                     ; 32;  16;   7;   9; 102; 63;   39
+ 5; Boca Juniors                    ; 32;  13;   9;  10;  66; 53;   35
+ 6; Gimnasia y Esgrima La Plata     ; 32;  15;   5;  12;  83; 69;   35
+ 7; Estudiantes de La Plata         ; 32;  16;   3;  13;  70; 77;   35
+ 8; Huracán (BUE)                   ; 32;  14;   3;  15;  85; 89;   31
+ 9; Atlanta                         ; 32;  12;   4;  16;  61; 70;   28
+10; Vélez Sarsfield                 ; 32;  11;   5;  16;  78; 85;   27
+11; Platense                        ; 32;  10;   6;  16;  84;100;   26
+12; Ferro Carril Oeste (BUE)        ; 32;   9;   8;  15;  68; 89;   26
+13; Tigre                           ; 32;  11;   4;  17;  71;102;   26
+14; Lanús                           ; 32;   8;   9;  15;  75; 95;   25
+15; Chacarita Juniors               ; 32;  10;   5;  17;  66; 92;   25
+16; Almagro                         ; 32;   8;   5;  19;  63; 94;   21
+17; Talleres (RdE)                  ; 32;   6;   6;  20;  55;103;   18
+
+
+Season: 1939
+
+ 1; Independiente                   ; 34;  27;   2;   5; 103; 37;   56
+ 2; River Plate                     ; 34;  23;   4;   7; 100; 43;   50
+ 3; Huracán (BUE)                   ; 34;  23;   4;   7;  97; 56;   50
+ 4; Newell's Old Boys               ; 34;  17;   9;   8;  77; 44;   43
+ 5; San Lorenzo de Almagro          ; 34;  19;   4;  11;  85; 55;   42
+ 6; Boca Juniors                    ; 34;  17;   6;  11;  63; 40;   40
+ 7; Racing Club                     ; 34;  16;   6;  12;  75; 54;   38
+ 8; Chacarita Juniors               ; 34;  14;   6;  14;  61; 54;   34
+ 9; Estudiantes de La Plata         ; 34;  14;   6;  14;  71; 65;   34
+10; Vélez Sarsfield                 ; 34;  14;   6;  14;  56; 66;   34
+11; Rosario Central                 ; 34;  14;   5;  15;  59; 68;   33
+12; Lanús                           ; 34;  14;   2;  18;  91; 85;   30
+13; Tigre                           ; 34;  13;   4;  17;  56; 79;   30
+14; Platense                        ; 34;  11;   7;  16;  65; 72;   29
+15; Gimnasia y Esgrima La Plata     ; 34;  10;   8;  16;  50; 82;   28
+16; Atlanta                         ; 34;   8;   6;  20;  56; 93;   22
+17; Ferro Carril Oeste (BUE)        ; 34;   4;   7;  23;  52;111;   15
+18; Argentino de Quilmes            ; 34;   0;   4;  30;  35;148;    4
+
+*Note:
+*. Boca Juniors 1:0 Ferro Carril Oeste (BUE) abandoned and awarded wp:lp.
+
+
+Season: 1940
+
+ 1; Boca Juniors                    ; 34;  24;   7;   3;  85; 36;   55
+ 2; Independiente                   ; 34;  20;   7;   7;  89; 49;   47
+ 3; River Plate                     ; 34;  17;   8;   9;  92; 54;   42
+ 4; Huracán (BUE)                   ; 34;  19;   4;  11;  79; 62;   42
+ 5; Racing Club                     ; 34;  18;   5;  11;  84; 67;   41
+ 6; Estudiantes de La Plata         ; 34;  18;   3;  13;  80; 72;   39
+ 7; Gimnasia y Esgrima La Plata     ; 34;  17;   4;  13;  76; 86;   38
+ 8; Newell's Old Boys               ; 34;  14;   9;  11;  69; 61;   37
+ 9; San Lorenzo de Almagro          ; 34;  11;   8;  15;  62; 65;   30
+10; Banfield                        ; 34;  11;   7;  16;  67; 60;   29
+11; Tigre                           ; 34;  13;   3;  18;  75; 86;   29
+12; Platense                        ; 34;  12;   5;  17;  51; 68;   29
+13; Rosario Central                 ; 34;  11;   5;  18;  59; 75;   27
+14; Ferro Carril Oeste (BUE)        ; 34;  10;   7;  17;  58; 75;   27
+15; Lanús                           ; 34;  12;   3;  19;  73; 97;   27
+16; Atlanta                         ; 34;  11;   4;  19;  57; 87;   26
+17; Vélez Sarsfield                 ; 34;  11;   3;  20;  49; 83;   25
+18; Chacarita Juniors               ; 34;   8;   6;  20;  38; 60;   22
+
+*Notes:
+*. Ferro Carril Oeste (BUE) was suspended 1 match and could not play against
+*  Vélez Sarsfield. They lost this match lp:wp.
+*. Banfield was suspended 5 matches and could not play against Newell's Old Boys,
+*  Vélez Sarsfield, Huracán (BUE), Boca Juniors and Lanús, then, they lost all
+*  these matches lp:wp.
+*. Chacarita Juniors was supended 6 matches and could not play against Boca
+*  Juniors, Lanús, Atlanta, Independiente (Avellaneda), Gimnasia y Esgrima La
+*  Plata and Rosario Central, then, they lost all these matches lp:wp.
+
+
+Season: 1941
+BlockSource: http://www.rsssf.com/tablesa/arghist-pro1940s.html
+
+ 1; River Plate                     ; 30;  19;   6;   5;  75; 35;   44
+ 2; San Lorenzo de Almagro          ; 30;  17;   6;   7;  67; 46;   40
+ 3; Newell's Old Boys               ; 30;  17;   4;   9;  78; 50;   38
+ 4; Boca Juniors                    ; 30;  16;   4;  10;  61; 52;   36
+ 5; Independiente (A)               ; 30;  15;   4;  11;  67; 53;   34
+ 5; Huracán (BA)                    ; 30;  14;   6;  10;  57; 48;   34
+ 7; Racing Club                     ; 30;  15;   3;  12;  64; 54;   33
+ 8; Estudiantes LP                  ; 30;  13;   6;  11;  77; 64;   32
+ 9; Ferro Carril Oeste (BA)         ; 30;  13;   4;  13;  44; 54;   30
+10; Tigre                           ; 30;   9;   9;  12;  47; 54;   27
+11; Atlanta                         ; 30;   8;  10;  12;  59; 73;   26
+12; Gimnasia y Esgrima LP           ; 30;   8;   4;  18;  50; 73;   20
+13; Platense (VL)                   ; 30;   6;   7;  17;  49; 68;   19
+14; Lanús                           ; 30;   6;   6;  18;  59; 95;   18
+15; Banfield                        ; 30;  15;   3;  12;  67; 68;   17
+16; Rosario Central                 ; 30;   6;   4;  20;  42; 76;   16
+
+*Note:
+*. Banfield: Deducted 16 points.
+
+
+Season: 1942
+  
+ 1; River Plate                     ; 30;  20;   6;   4;  79; 37;   46
+ 2; San Lorenzo de Almagro          ; 30;  16;   8;   6;  70; 50;   40
+ 3; Huracán (BA)                    ; 30;  14;   9;   7;  62; 49;   37
+ 4; Newell's Old Boys               ; 30;  15;   6;   9;  70; 43;   36
+ 5; Boca Juniors                    ; 30;  14;   7;   9;  65; 41;   35
+ 6; Estudiantes LP                  ; 30;  13;   7;  10;  61; 59;   33
+ 7; Banfield                        ; 30;  11;   7;  12;  58; 62;   29
+ 8; Racing Club                     ; 30;   9;  10;  11;  56; 58;   28
+ 8; Independiente (A)               ; 30;  10;   8;  12;  45; 57;   28
+10; Ferro Carril Oeste (BA)         ; 30;   9;   9;  12;  45; 52;   27
+11; Platense (VL)                   ; 30;   9;   8;  13;  51; 55;   26
+12; Chacarita Juniors               ; 30;   7;  11;  12;  40; 59;   25
+13; Gimnasia y Esgrima LP           ; 30;   7;  10;  13;  45; 65;   24
+13; Lanús                           ; 30;   8;   8;  14;  37; 58;   24
+15; Atlanta                         ; 30;  10;   3;  17;  65; 67;   23
+16; Tigre                           ; 30;   6;   7;  17;  46; 83;   19
+
+
+Season: 1943
+
+ 1; Boca Juniors                    ; 30;  18;   9;   3;  79; 42;   45
+ 2; River Plate                     ; 30;  19;   6;   5;  74; 38;   44
+ 3; San Lorenzo de Almagro          ; 30;  14;   7;   9;  72; 53;   35
+ 4; Huracán (BA)                    ; 30;  13;   5;  12;  52; 51;   31
+ 5; Estudiantes LP                  ; 30;  12;   7;  11;  53; 53;   31
+ 6; Independiente (A)               ; 30;  12;   6;  12;  61; 50;   30
+ 6; Platense (VL)                   ; 30;  12;   6;  12;  52; 52;   30
+ 6; Racing Club                     ; 30;  11;   8;  11;  54; 58;   30
+ 9; Rosario Central                 ; 30;  11;   7;  12;  53; 54;   29
+10; Lanús                           ; 30;  10;   8;  12;  59; 58;   28
+11; Atlanta                         ; 30;  10;   7;  13;  57; 70;   27
+12; Newell's Old Boys               ; 30;   8;  10;  12;  44; 54;   26
+12; Chacarita Juniors               ; 30;   8;  10;  12;  42; 59;   26
+14; Banfield                        ; 30;   9;   7;  14;  50; 68;   25
+15; Ferro Carril Oeste (BA)         ; 30;   8;   7;  15;  41; 60;   23
+16; Gimnasia y Esgrima LP           ; 30;   7;   6;  17;  54; 77;   20
+
+
+Season: 1944
+
+ 1; Boca Juniors                    ; 30;  19;   8;   3;  82; 41;   46
+ 2; River Plate                     ; 30;  17;  10;   3;  68; 43;   44
+ 3; Estudiantes LP                  ; 30;  16;   7;   7;  66; 43;   39
+ 4; San Lorenzo de Almagro          ; 30;  12;  10;   8;  61; 49;   34
+ 5; Independiente (A)               ; 30;  11;  11;   8;  55; 45;   33
+ 6; Racing Club                     ; 30;  13;   6;  11;  56; 55;   32
+ 7; Huracán (BA)                    ; 30;  13;   5;  12;  80; 72;   31
+ 7; Atlanta                         ; 30;  11;   9;  10;  63; 58;   31
+ 9; Newell's Old Boys               ; 30;  10;   7;  13;  63; 62;   27
+ 9; Vélez Sarsfield                 ; 30;  10;   7;  13;  45; 49;   27
+ 9; Rosario Central                 ; 30;   9;   9;  12;  50; 56;   27
+12; Platense (VL)                   ; 30;   9;   6;  15;  62; 72;   24
+13; Ferro Carril Oeste (BA)         ; 30;   7;   9;  14;  44; 67;   23
+14; Lanús                           ; 30;   7;   8;  15;  38; 65;   22
+15; Chacarita Juniors               ; 30;   6;   9;  15;  43; 69;   21
+16; Banfield                        ; 30;   4;  11;  15;  47; 77;   19
+
+
+Season: 1945
+
+ 1; River Plate                     ; 30;  20;   6;   4;  66; 34;   46
+ 2; Boca Juniors                    ; 30;  18;   6;   6;  71; 43;   42
+ 3; Independiente (A)               ; 30;  17;   7;   6;  68; 51;   41
+ 4; San Lorenzo de Almagro          ; 30;  15;   8;   7;  67; 45;   38
+ 5; Huracán (BA)                    ; 30;  17;   2;  11;  76; 61;   36
+ 6; Estudiantes LP                  ; 30;  14;   4;  12;  63; 58;   32
+ 7; Platense (VL)                   ; 30;  12;   6;  12;  50; 57;   30
+ 8; Newell's Old Boys               ; 30;  12;   4;  14;  52; 56;   28
+ 9; Vélez Sarsfield                 ; 30;  11;   4;  15;  69; 73;   26
+10; Racing Club                     ; 30;  10;   5;  15;  59; 63;   25
+11; Atlanta                         ; 30;   6;  12;  12;  56; 64;   24
+11; Rosario Central                 ; 30;  10;   4;  16;  58; 70;   24
+13; Lanús                           ; 30;   8;   7;  15;  46; 59;   23
+13; Ferro Carril Oeste (BA)         ; 30;   9;   5;  16;  51; 73;   23
+15; Chacarita Juniors               ; 30;   6;  10;  14;  46; 65;   22
+16; Gimnasia y Esgrima LP           ; 30;   7;   6;  17;  50; 76;   20
+
+*Note:
+*. Chacarita Juniors: new field in San Martín. 
+
+
+Season: 1946
+ 
+ 1; San Lorenzo de Almagro          ; 30;  20;   6;   4;  90; 37;   46
+ 2; Boca Juniors                    ; 30;  19;   4;   7;  68; 38;   42
+ 3; River Plate                     ; 30;  17;   7;   6;  59; 34;   41
+ 4; Racing Club                     ; 30;  18;   3;   9;  69; 48;   39
+ 5; Estudiantes LP                  ; 30;  16;   2;  12;  61; 51;   34
+ 5; Independiente (A)               ; 30;  13;   8;   9;  56; 53;   34
+ 7; Rosario Central                 ; 30;  13;   3;  14;  69; 72;   29
+ 8; Platense (VL)                   ; 30;  10;   8;  12;  48; 47;   28
+ 8; Huracán (BA)                    ; 30;  12;   4;  14;  57; 68;   28
+10; Newell's Old Boys               ; 30;  10;   7;  13;  51; 44;   27
+11; Vélez Sarsfield                 ; 30;  11;   4;  15;  52; 62;   26
+11; Lanús                           ; 30;   8;  10;  12;  55; 70;   26
+13; Chacarita Juniors               ; 30;  11;   2;  17;  52; 62;   24
+14; Tigre                           ; 30;   8;   5;  17;  55; 81;   21
+15; Atlanta                         ; 30;   7;   6;  17;  51; 82;   20
+16; Ferro Carril Oeste (BA)         ; 30;   6;   3;  21;  29; 73;   15
+ 
+
+Season: 1947
+ 
+ 1; River Plate                     ; 30;  22;   4;   4;  90; 37;   48
+ 2; Boca Juniors                    ; 30;  17;   8;   5;  70; 43;   42
+ 3; Independiente (A)               ; 30;  17;   7;   6;  66; 42;   41
+ 4; Estudiantes LP                  ; 30;  15;   7;   8;  64; 35;   37
+ 4; San Lorenzo de Almagro          ; 30;  13;  11;   6;  71; 43;   37
+ 6; Racing Club                     ; 30;  15;   6;   9;  63; 45;   36
+ 7; Chacarita Juniors               ; 30;  14;   4;  12;  66; 52;   32
+ 8; Vélez Sarsfield                 ; 30;  11;   7;  12;  51; 44;   29
+ 9; Platense (VL)                   ; 30;   9;   8;  13;  38; 54;   26
+10; Rosario Central                 ; 30;   9;   7;  14;  55; 68;   25
+11; Huracán (BA)                    ; 30;  10;   4;  16;  59; 73;   24
+11; Newell's Old Boys               ; 30;   7;  10;  13;  45; 63;   24
+13; Lanús                           ; 30;   7;   7;  16;  46; 70;   21
+14; Tigre                           ; 30;   6;   8;  16;  48; 80;   20
+14; Banfield                        ; 30;   7;   6;  17;  40; 80;   20
+16; Atlanta                         ; 30;   4;  10;  16;  31; 74;   18
+
+
+Season: 1948
+
+ 1; Independiente (A)               ; 30;  17;   7;   6;  65; 42;   41
+ 2; River Plate                     ; 30;  12;  13;   5;  59; 48;   37
+ 3; Estudiantes LP                  ; 30;  16;   4;  10;  63; 45;   36
+ 4; Racing Club                     ; 30;  15;   6;   9;  68; 45;   32
+ 4; Newell's Old Boys               ; 30;  12;   8;  10;  54; 37;   32
+ 4; San Lorenzo de Almagro          ; 30;  12;   8;  10;  55; 54;   32
+ 4; Vélez Sarsfield                 ; 30;  11;  10;   9;  44; 44;   32
+ 8; Boca Juniors                    ; 30;  10;  10;  10;  52; 47;   30
+ 8; Platense (VL)                   ; 30;  11;   8;  11;  57; 65;   30
+10; Huracán (BA)                    ; 30;  11;   7;  12;  45; 49;   29
+11; Chacarita Juniors               ; 30;   9;  10;  11;  45; 48;   28
+12; Rosario Central                 ; 30;  12;   3;  15;  74; 73;   27
+13; Banfield                        ; 30;   9;   6;  15;  54; 67;   24
+14; Tigre                           ; 30;   8;   7;  15;  56; 81;   23
+14; Lanús                           ; 30;   5;  13;  12;  38; 57;   23
+16; Gimnasia y Esgrima LP           ; 30;   6;   8;  16;  51; 78;   20
+
+*Note:
+*. Racing Club did not play against Banfield and San Lorenzo de Almagro.
+*  Then, it lost both matches 1-0 and 4 points were deducted.
+
+
+Season: 1949
+
+ 1; Racing Club                     ; 34;  21;   7;   6;  87; 47;   49
+ 2; River Plate                     ; 34;  18;   7;   9;  71; 36;   43
+ 2; Platense (VL)                   ; 34;  16;  11;   7;  68; 48;   43
+ 4; San Lorenzo de Almagro          ; 34;  17;   8;   9;  72; 62;   42
+ 5; Newell's Old Boys               ; 34;  15;  11;   8;  61; 50;   41
+ 6; Estudiantes LP                  ; 34;  13;  12;   9;  53; 54;   38
+ 7; Vélez Sarsfield                 ; 34;  15;   5;  14;  49; 52;   35
+ 8; Chacarita Juniors               ; 34;  14;   5;  15;  57; 61;   33
+ 8; Independiente (A)               ; 34;  12;   9;  13;  65; 72;   33
+10; Banfield                        ; 34;  11;  10;  13;  70; 77;   32
+11; Gimnasia y Esgrima LP           ; 34;  11;   8;  15;  54; 58;   30
+12; Rosario Central                 ; 34;  12;   5;  17;  62; 67;   29
+12; Ferro Carril Oeste (BA)         ; 34;  10;   9;  15;  47; 59;   29
+12; Atlanta                         ; 34;  14;   1;  19;  48; 64;   29
+15; Boca Juniors                    ; 34;  10;   7;  17;  52; 58;   27
+15; Tigre                           ; 34;   9;   9;  16;  52; 68;   27
+17; Huracán (BA)                    ; 34;   9;   8;  17;  47; 57;   26
+17; Lanús                           ; 34;   9;   8;  17;  59; 84;   26
+ 
+
+
+Season: 1950
+   
+ 1; Racing Club                     ; 34;  23;   1;  10;  86; 48;   47
+ 2; Boca Juniors                    ; 34;  15;   9;  10;  59; 46;   39
+ 2; Independiente (A)               ; 34;  18;   3;  13;  69; 55;   39
+ 4; River Plate                     ; 34;  15;   8;  11;  68; 57;   38
+ 5; San Lorenzo de Almagro          ; 34;  15;   7;  12;  77; 60;   37
+ 6; Estudiantes LP                  ; 34;  14;   8;  12;  57; 61;   36
+ 7; Banfield                        ; 34;  12;  11;  11;  60; 51;   35
+ 8; Chacarita Juniors               ; 34;  13;   8;  13;  54; 54;   34
+ 8; Platense (VL)                   ; 34;  11;  12;  11;  66; 74;   34
+10; Vélez Sarsfield                 ; 34;  14;   5;  15;  47; 58;   33
+11; Newell's Old Boys               ; 34;  13;   6;  15;  58; 53;   32
+11; Gimnasia y Esgrima LP           ; 34;  11;  10;  13;  59; 56;   32
+11; Ferro Carril Oeste (BA)         ; 34;  10;  12;  12;  53; 60;   32
+14; Atlanta                         ; 34;  12;   7;  15;  58; 73;   31
+15; Quilmes                         ; 34;  11;   8;  15;  57; 65;   30
+16; Huracán (BA)                    ; 34;  12;   5;  17;  54; 65;   29
+16; Tigre                           ; 34;  10;   9;  15;  51; 79;   29
+18; Rosario Central                 ; 34;   9;   7;  18;  52; 70;   25
+
+
+Season: 1951
+BlockSource: http://www.rsssf.com/tablesa/arghist-pro1950s.html
+    
+ 1; Banfield                        ; 32;  17;  10;   5;  63; 33;   44
+ 1; Racing Club                     ; 32;  16;  12;   4;  60; 37;   44
+ 3; River Plate                     ; 32;  16;  11;   5;  69; 42;   43
+ 4; Independiente (A)               ; 32;  16;   7;   9;  74; 51;   39
+ 5; Lanús                           ; 32;  14;   9;   9;  62; 49;   37
+ 6; Boca Juniors                    ; 32;  11;  13;   8;  46; 38;   35
+ 6; San Lorenzo de Almagro          ; 32;  13;   9;  10;  46; 41;   35
+ 8; Chacarita Juniors               ; 32;  12;   9;  11;  58; 55;   33
+ 8; Vélez Sarsfield                 ; 32;  10;  13;   9;  57; 58;   33
+10; Estudiantes LP                  ; 32;  11;   7;  14;  65; 55;   29
+11; Newell's Old Boys               ; 32;  10;   8;  14;  40; 58;   28
+12; Ferro Carril Oeste (BA)         ; 32;   8;  11;  13;  50; 55;   27
+13; Platense (VL)                   ; 32;   9;   7;  16;  51; 64;   25
+14; Huracán (BA)                    ; 32;   6;  12;  14;  44; 59;   24
+14; Atlanta                         ; 32;   8;   8;  16;  46; 79;   24
+16; Quilmes                         ; 32;   7;   9;  16;  52; 79;   23
+17; Gimnasia y Esgrima LP           ; 32;   4;  13;  15;  41; 71;   21
+
+
+Season: 1952
+
+ 1; River Plate                     ; 30;  17;   6;   7;  65; 48;   40
+ 2; Racing Club                     ; 30;  13;  13;   4;  50; 33;   39
+ 3; Independiente (A)               ; 30;  13;   9;   8;  72; 58;   35
+ 3; Huracán (BA)                    ; 30;  14;   7;   9;  59; 49;   35
+ 5; Banfield                        ; 30;  13;   7;  10;  54; 44;   33
+ 6; Vélez Sarsfield                 ; 30;  10;  12;   8;  54; 44;   32
+ 6; Lanús                           ; 30;  12;   8;  10;  54; 50;   32
+ 6; San Lorenzo de Almagro          ; 30;  13;   6;  11;  45; 47;   32
+ 9; Platense (VL)                   ; 30;  12;   7;  11;  67; 61;   31
+10; Boca Juniors                    ; 30;  11;   8;  11;  50; 39;   30
+11; Chacarita Juniors               ; 30;  12;   5;  13;  48; 48;   29
+12; Estudiantes LP                  ; 30;  10;   8;  12;  58; 54;   28
+13; Rosario Central                 ; 30;  10;   7;  13;  48; 62;   27
+14; Ferro Carril Oeste (BA)         ; 30;   9;   6;  15;  38; 57;   24
+15; Newell's Old Boys               ; 30;   6;  11;  13;  34; 55;   23
+16; Atlanta                         ; 30;   2;   6;  22;  52; 99;   10
+
+
+Season: 1953
+
+ 1; River Plate                     ; 30;  18;   7;   5;  60; 36;   43
+ 2; Vélez Sarsfield                 ; 30;  13;  13;   4;  53; 35;   39
+ 2; Racing Club                     ; 30;  16;   7;   7;  53; 40;   39
+ 4; Independiente (A)               ; 30;  14;   7;   9;  52; 47;   35
+ 5; San Lorenzo de Almagro          ; 30;  15;   4;  11;  55; 36;   34
+ 6; Gimnasia y Esgrima LP           ; 30;  13;   6;  11;  55; 43;   32
+ 7; Boca Juniors                    ; 30;  11;   6;  13;  41; 37;   28
+ 7; Chacarita Juniors               ; 30;   9;  10;  11;  35; 38;   28
+ 7; Rosario Central                 ; 30;  10;   8;  12;  43; 51;   28
+10; Lanús                           ; 30;  11;   5;  14;  44; 45;   27
+10; Platense (VL)                   ; 30;   8;  11;  11;  48; 61;   27
+12; Huracán (BA)                    ; 30;   9;   8;  13;  43; 52;   26
+13; Banfield                        ; 30;   8;   9;  13;  40; 48;   25
+13; Ferro Carril Oeste (BA)         ; 30;   9;   7;  14;  40; 56;   25
+15; Newell's Old Boys               ; 30;   8;   6;  16;  34; 50;   22
+15; Estudiantes LP                  ; 30;   9;   4;  17;  35; 56;   22
+
+
+Season: 1954
+
+ 1; Boca Juniors                    ; 30;  21;   3;   6;  60; 26;   45
+ 2; Independiente (A)               ; 30;  15;  11;   4;  61; 29;   41
+ 3; River Plate                     ; 30;  16;   6;   8;  56; 37;   38
+ 4; Platense (VL)                   ; 30;  10;  13;   7;  54; 50;   33
+ 4; Lanús                           ; 30;  11;  11;   8;  45; 51;   33
+ 6; Ferro Carril Oeste (BA)         ; 30;   8;  16;   6;  42; 41;   32
+ 7; San Lorenzo de Almagro          ; 30;  12;   7;  11;  58; 48;   31
+ 8; Chacarita Juniors               ; 30;  10;   9;  11;  37; 40;   29
+ 9; Vélez Sarsfield                 ; 30;  10;   8;  12;  50; 47;   28
+10; Racing Club                     ; 30;  10;   7;  13;  42; 54;   27
+11; Newell's Old Boys               ; 30;   9;   8;  13;  49; 55;   26
+11; Rosario Central                 ; 30;   9;   8;  13;  45; 52;   26
+11; Tigre                           ; 30;  11;   4;  15;  42; 50;   26
+14; Gimnasia y Esgrima LP           ; 30;   8;   8;  14;  48; 71;   24
+15; Huracán (BA)                    ; 30;   5;  13;  12;  46; 59;   23
+16; Banfield                        ; 30;   6;   6;  18;  33; 58;   18
+
+
+Season: 1955
+
+ 1; River Plate                     ; 30;  18;   9;   3;  53; 35;   45
+ 2; Racing Club                     ; 30;  14;  10;   6;  50; 32;   38
+ 3; Boca Juniors                    ; 30;  14;   9;   7;  51; 36;   37
+ 4; Independiente (A)               ; 30;  14;   8;   8;  48; 31;   36
+ 5; Lanús                           ; 30;  13;   8;   9;  49; 41;   34
+ 6; Tigre                           ; 30;  12;   6;  12;  47; 54;   30
+ 7; Ferro Carril Oeste (BA)         ; 30;  10;   9;  11;  39; 43;   29
+ 8; San Lorenzo de Almagro          ; 30;   8;  12;  10;  41; 43;   28
+ 9; Huracán (BA)                    ; 30;  10;   7;  13;  52; 44;   27
+ 9; Gimnasia y Esgrima LP           ; 30;  10;   7;  13;  48; 46;   27
+ 9; Vélez Sarsfield                 ; 30;  11;   5;  14;  39; 55;   27
+12; Chacarita Juniors               ; 30;   9;   8;  13;  46; 49;   26
+13; Newell's Old Boys               ; 30;   8;   9;  13;  42; 55;   25
+14; Estudiantes LP                  ; 30;   9;   7;  14;  39; 52;   25
+15; Rosario Central                 ; 30;   9;   6;  15;  46; 57;   24
+16; Platense (VL)                   ; 30;   6;  10;  14;  35; 52;   22
+
+
+Season: 1956
+
+ 1; River Plate                     ; 30;  17;   9;   4;  61; 32;   43
+ 2; Lanús                           ; 30;  15;  11;   4;  59; 37;   41
+ 3; Boca Juniors                    ; 30;  16;   8;   6;  56; 39;   40
+ 4; Racing Club                     ; 30;  14;  11;   5;  53; 32;   39
+ 5; Vélez Sarsfield                 ; 30;  13;  11;   6;  48; 44;   37
+ 6; Rosario Central                 ; 30;  11;   8;  11;  49; 46;   30
+ 6; Independiente (A)               ; 30;  12;   6;  12;  44; 42;   30
+ 8; San Lorenzo de Almagro          ; 30;  11;   7;  12;  41; 45;   29
+ 9; Ferro Carril Oeste (BA)         ; 30;  10;   7;  13;  44; 49;   27
+10; Newell's Old Boys               ; 30;   9;   8;  13;  44; 48;   26
+10; Gimnasia y Esgrima LP           ; 30;   7;  12;  11;  50; 59;   26
+12; Estudiantes LP                  ; 30;   7;   9;  14;  38; 46;   23
+12; Huracán (BA)                    ; 30;   7;   9;  14;  45; 59;   23
+14; Argentinos Juniors              ; 30;   7;   8;  15;  45; 60;   22
+14; Tigre                           ; 30;   7;   8;  15;  44; 61;   22
+14; Chacarita Juniors               ; 30;   7;   8;  15;  32; 54;   22
+
+*Note:
+*. 16th. place was defined with the points obtained between Argentinos Juniors,
+*  Tigre and Chacarita Juniors and the 5 first teams of the table.
+
+
+Season: 1957
+
+ 1; River Plate                     ; 30;  19;   8;   3;  75; 34;   46
+ 2; San Lorenzo de Almagro          ; 30;  15;   8;   7;  66; 42;   38
+ 3; Racing Club                     ; 30;  15;   6;   9;  59; 41;   36
+ 4; Boca Juniors                    ; 30;  13;   8;   9;  45; 34;   34
+ 4; Vélez Sarsfield                 ; 30;  12;  10;   8;  42; 43;   34
+ 6; Huracán (BA)                    ; 30;  14;   5;  11;  46; 39;   33
+ 6; Estudiantes LP                  ; 30;  12;   9;   9;  46; 50;   33
+ 8; Independiente (A)               ; 30;  11;   9;  10;  35; 31;   31
+ 8; Newell's Old Boys               ; 30;  11;   9;  10;  38; 39;   31
+10; Argentinos Juniors              ; 30;   9;  10;  11;  49; 57;   28
+11; Rosario Central                 ; 30;  10;   7;  13;  40; 37;   27
+12; Atlanta                         ; 30;   7;  10;  13;  37; 53;   24
+13; Tigre                           ; 30;   8;   7;  15;  37; 49;   23
+13; Gimnasia y Esgrima LP           ; 30;   8;   7;  15;  37; 62;   23
+15; Lanús                           ; 30;   7;   8;  15;  44; 57;   22
+16; Ferro Carril Oeste (BA)         ; 30;   6;   5;  19;  33; 61;   17
+
+
+Season: 1958
+
+ 1; Racing Club                     ; 30;  16;   9;   5;  69; 38;   41
+ 2; Boca Juniors                    ; 30;  14;  10;   6;  70; 48;   38
+ 2; San Lorenzo de Almagro          ; 30;  16;   6;   8;  66; 47;   38
+ 4; Atlanta                         ; 30;  14;   8;   8;  47; 33;   36
+ 5; River Plate                     ; 30;  14;   9;   7;  62; 45;   35
+ 6; Rosario Central                 ; 30;  13;   9;   8;  50; 43;   35
+ 7; Vélez Sarsfield                 ; 30;  13;   8;   9;  50; 47;   34
+ 8; Independiente (A)               ; 30;  11;  11;   8;  58; 47;   33
+ 9; Estudiantes LP                  ; 30;  13;   5;  12;  60; 56;   31
+10; Huracán (BA)                    ; 30;  12;   3;  15;  46; 51;   27
+10; Central Córdoba (R)             ; 30;  12;   3;  15;  57; 65;   27
+12; Argentinos Juniors              ; 30;   8;   9;  13;  58; 68;   25
+12; Lanús                           ; 30;   8;   9;  13;  58; 70;   25
+14; Gimnasia y Esgrima LP           ; 30;   7;  10;  13;  55; 68;   24
+15; Newell's Old Boys               ; 30;   4;   9;  17;  29; 56;   17
+16; Tigre                           ; 30;   4;   4;  22;  29; 82;   12
+
+*Notes:
+*. Huracán (BA)-River Plate, Huracán won by walk over (no goals).
+*. River Plate, 2 points deducted.
+*. Second place playoffs:
+*  San Lorenzo de Almagro 4-3 Boca Juniors
+*            Boca Juniors 3-1 San Lorenzo de Almagro  
+*  Boca Juniors won by goal average (1.20 vs 0.83).
+
+
+Season: 1959
+
+ 1; San Lorenzo de Almagro          ; 30;  21;   3;   6;  75; 42;   45
+ 2; Racing Club                     ; 30;  17;   4;   9;  80; 48;   38
+ 3; Independiente (A)               ; 30;  11;  11;   8;  44; 37;   33
+ 3; Ferro Carril Oeste (BA)         ; 30;  10;  13;   7;  47; 41;   33
+ 5; River Plate                     ; 30;  14;   4;  12;  49; 45;   32
+ 5; Atlanta                         ; 30;   9;  14;   7;  34; 35;   32
+ 5; Newell's Old Boys               ; 30;  12;   8;  10;  35; 36;   32
+ 8; Boca Juniors                    ; 30;  12;   6;  12;  51; 44;   30
+ 8; Huracán (BA)                    ; 30;   9;  12;   9;  46; 57;   30
+10; Estudiantes LP                  ; 30;  10;   8;  12;  52; 62;   28
+11; Lanús                           ; 30;  10;   7;  13;  54; 59;   27
+12; Vélez Sarsfield                 ; 30;   6;  14;  10;  43; 46;   26
+13; Argentinos Juniors              ; 30;   7;  11;  12;  46; 45;   25
+13; Gimnasia y Esgrima LP           ; 30;   9;   7;  14;  49; 62;   25
+15; Rosario Central                 ; 30;   8;   7;  15;  38; 50;   23
+16; Central Córdoba (R)             ; 30;   7;   7;  16;  32; 66;   21
+ 
+*Note:
+*. Newell's Old Boys 1-1 Huracán (BA), suspended at 66'.
+*  Then, Newells Old Boys lost the points; however both goals were counted.   
+
+
+Season: 1960
+  
+ 1; Independiente (A)               ; 30;  17;   7;   6;  49; 33;   41
+ 2; River Plate                     ; 30;  16;   7;   7;  46; 29;   39
+ 2; Argentinos Juniors              ; 30;  15;   9;   6;  68; 48;   39
+ 4; Racing Club                     ; 30;  14;   9;   7;  72; 43;   37
+ 4; Boca Juniors                    ; 30;  13;  11;   6;  58; 36;   37
+ 6; San Lorenzo de Almagro          ; 30;  14;   8;   8;  71; 45;   36
+ 7; Vélez Sarsfield                 ; 30;  12;   9;   9;  48; 46;   33
+ 8; Rosario Central                 ; 30;  10;   9;  11;  55; 71;   29
+ 9; Huracán (BA)                    ; 30;  10;   8;  12;  48; 45;   28
+ 9; Chacarita Juniors               ; 30;   9;  10;  11;  50; 53;   28
+11; Atlanta                         ; 30;   8;  11;  11;  49; 56;   27
+12; Gimnasia y Esgrima LP           ; 30;   9;   7;  14;  50; 60;   25
+13; Estudiantes LP                  ; 30;   9;   5;  16;  44; 69;   23
+14; Lanús                           ; 30;   5;  11;  14;  38; 54;   21
+15; Ferro Carril Oeste (BA)         ; 30;   5;   9;  16;  28; 58;   19
+16; Newell's Old Boys               ; 30;   6;   6;  18;  38; 66;   18
+
+
+BlockSource: http://www.rsssf.com/tablesa/arghist-pro1960s.html
+Season: 1961
+
+ 1; Racing Club                     ; 30;  19;   9;   2;  68; 39;   47
+ 2; San Lorenzo de Almagro          ; 30;  16;   8;   6;  56; 35;   40
+ 3; River Plate                     ; 30;  15;   8;   7;  53; 30;   38
+ 4; Atlanta                         ; 30;  13;  11;   6;  49; 34;   37
+ 5; Boca Juniors                    ; 30;  14;   7;   9;  57; 33;   35
+ 6; Independiente (A)               ; 30;  12;   9;   9;  46; 40;   33
+ 7; Vélez Sarsfield                 ; 30;  10;  11;   9;  43; 38;   31
+ 7; Chacarita Juniors               ; 30;  12;   7;  11;  49; 53;   31
+ 9; Gimnasia y Esgrima LP           ; 30;  12;   4;  14;  56; 53;   28
+10; Huracán (BA)                    ; 30;   7;  11;  12;  43; 51;   25
+11; Argentinos Juniors              ; 30;  10;   4;  16;  42; 56;   24
+11; Lanús                           ; 30;   7;  10;  13;  36; 59;   24
+13; Rosario Central                 ; 30;   7;   9;  14;  54; 69;   23
+14; Estudiantes LP                  ; 30;   4;  14;  12;  29; 47;   22
+15; Ferro Carril Oeste (BA)         ; 30;   8;   5;  17;  38; 55;   21
+15; Los Andes (LdZ)                 ; 30;  10;   1;  19;  38; 65;   21
+
+  
+
+Season: 1962
+
+ 1; Boca Juniors                    ; 28;  18;   7;   3;  45; 18;   43
+ 2; River Plate                     ; 28;  18;   5;   5;  61; 28;   41
+ 3; Gimnasia y Esgrima LP           ; 28;  16;   6;   6;  47; 28;   38
+ 4; Independiente (A)               ; 28;  12;  11;   5;  41; 27;   35
+ 5; Chacarita Juniors               ; 28;  12;   6;  10;  51; 44;   30
+ 5; Rosario Central                 ; 28;  10;  10;   8;  38; 31;   30
+ 7; Atlanta                         ; 28;  11;   6;  11;  34; 28;   28
+ 7; Huracán (BA)                    ; 28;  10;   8;  10;  36; 35;   28
+ 9; Racing Club                     ; 28;   8;  10;  10;  39; 41;   26
+10; Argentinos Juniors              ; 28;   8;   7;  13;  46; 53;   23
+11; San Lorenzo de Almagro          ; 28;   7;   8;  13;  39; 51;   22
+11; Ferro Carril Oeste (BA)         ; 28;   6;  10;  12;  34; 52;   22
+13; Vélez Sarsfield                 ; 28;   5;  11;  12;  35; 55;   21
+14; Estudiantes LP                  ; 28;   5;  10;  13;  34; 53;   20
+15; Quilmes                         ; 28;   3;   7;  18;  26; 62;   13
+
+
+Season: 1963
+
+ 1; Independiente (A)               ; 26;  14;   9;   3;  53; 25;   37
+ 2; River Plate                     ; 26;  13;   9;   4;  48; 23;   35
+ 3; Racing Club                     ; 26;  11;   8;   7;  43; 32;   30
+ 3; Boca Juniors                    ; 26;  12;   6;   8;  30; 29;   30
+ 5; Atlanta                         ; 26;  12;   4;  10;  35; 37;   28
+ 6; Huracán (BA)                    ; 26;   8;  11;   7;  36; 31;   27
+ 7; Banfield                        ; 26;   7;  11;   8;  36; 27;   25
+ 8; San Lorenzo de Almagro          ; 26;   9;   7;  10;  37; 46;   25
+ 9; Estudiantes LP                  ; 26;   9;   6;  11;  37; 43;   24
+10; Rosario Central                 ; 26;   6;  10;  10;  34; 43;   22
+10; Argentinos Juniors              ; 26;   5;  12;   9;  28; 43;   22
+12; Gimnasia y Esgrima LP           ; 26;   7;   7;  12;  33; 41;   21
+13; Vélez Sarsfield                 ; 26;   5;  10;  11;  32; 44;   20
+14; Chacarita Juniors               ; 26;   4;  10;  12;  25; 43;   18
+ 
+
+Season: 1964
+
+ 1; Boca Juniors                    ; 30;  17;  10;   3;  35; 15;   44
+ 2; Independiente (A)               ; 30;  15;   8;   7;  44; 26;   38
+ 3; River Plate                     ; 30;  13;  11;   6;  42; 30;   37
+ 4; San Lorenzo de Almagro          ; 30;  12;  12;   6;  46; 31;   36
+ 5; Atlanta                         ; 30;  12;  11;   7;  46; 42;   35
+ 6; Racing Club                     ; 30;  12;   8;  10;  45; 37;   32
+ 6; Banfield                        ; 30;  11;  10;   9;  34; 32;   32
+ 8; Vélez Sarsfield                 ; 30;  12;   7;  11;  43; 36;   31
+ 9; Huracán (BA)                    ; 30;  10;   9;  11;  38; 36;   29
+ 9; Ferro Carril Oeste (BA)         ; 30;   9;  11;  10;  33; 33;   29
+11; Rosario Central                 ; 30;   7;  14;   9;  37; 38;   28
+12; Chacarita Juniors               ; 30;   9;   9;  12;  32; 48;   27
+13; Gimnasia y Esgrima LP           ; 30;   6;  13;  11;  27; 36;   25
+14; Estudiantes LP                  ; 30;   6;  12;  12;  36; 47;   24
+15; Argentinos Juniors              ; 30;   4;   9;  17;  26; 45;   17
+16; Newell's Old Boys               ; 30;   1;  14;  15;  19; 51;   16
+
+
+Season: 1965
+
+ 1; Boca Juniors                    ; 34;  19;  12;   3;  55; 30;   50
+ 2; River Plate                     ; 34;  22;   5;   7;  55; 24;   49
+ 3; Vélez Sarsfield                 ; 34;  14;  12;   8;  48; 32;   40
+ 4; Ferro Carril Oeste (BA)         ; 34;  11;  15;   8;  41; 33;   37
+ 5; Estudiantes LP                  ; 34;  13;  10;  11;  41; 39;   36
+ 5; Racing Club                     ; 34;  10;  16;   8;  39; 35;   36
+ 7; Platense (VL)                   ; 34;  12;  11;  11;  37; 30;   35
+ 8; San Lorenzo de Almagro          ; 34;  12;  10;  12;  41; 35;   34
+ 8; Banfield                        ; 34;  11;  12;  11;  34; 32;   34
+10; Rosario Central                 ; 34;   9;  14;  11;  37; 39;   32
+10; Newell's Old Boys               ; 34;   9;  14;  11;  29; 40;   32
+12; Huracán (BA)                    ; 34;  11;   9;  14;  45; 54;   31
+12; Independiente (A)               ; 34;   8;  15;  11;  30; 31;   31
+14; Atlanta                         ; 34;   9;  11;  14;  33; 42;   29
+14; Lanús                           ; 34;   9;  11;  14;  31; 43;   29
+16; Argentinos Juniors              ; 34;  10;   8;  16;  41; 51;   28
+17; Gimnasia y Esgrima LP           ; 34;   9;   7;  18;  31; 57;   25
+18; Chacarita Juniors               ; 34;   5;  14;  15;  32; 53;   24
+
+
+Season: 1966
+
+ 1; Racing Club                     ; 38;  24;  13;   1;  70; 24;   61
+ 2; River Plate                     ; 38;  22;  12;   4;  66; 26;   56
+ 3; Boca Juniors                    ; 38;  17;  14;   7;  51; 32;   48
+ 4; San Lorenzo de Almagro          ; 38;  17;  12;   9;  48; 34;   46
+ 4; Vélez Sarsfield                 ; 38;  15;  16;   7;  49; 38;   46
+ 6; Independiente (A)               ; 38;  14;  16;   8;  54; 34;   44
+ 7; Estudiantes LP                  ; 38;  12;  17;   9;  44; 37;   41
+ 8; Gimnasia y Esgrima LP           ; 38;  13;  13;  12;  49; 41;   39
+ 8; Argentinos Juniors              ; 38;  14;  11;  13;  40; 44;   39
+10; Atlanta                         ; 38;  10;  18;  10;  45; 39;   38
+10; Newell's Old Boys               ; 38;  14;  10;  14;  45; 51;   38
+12; Rosario Central                 ; 38;  10;  17;  11;  31; 30;   37
+12; Banfield                        ; 38;  13;  11;  14;  45; 48;   37
+14; Lanús                           ; 38;   9;  13;  16;  43; 55;   31
+15; Huracán (BA)                    ; 38;  10;   9;  19;  41; 62;   29
+16; Colón                           ; 38;   8;  11;  19;  30; 53;   27
+16; Platense (VL)                   ; 38;   6;  15;  17;  25; 51;   27
+16; Ferro Carril Oeste (BA)         ; 38;   9;   9;  20;  37; 64;   27
+19; Quilmes                         ; 38;   8;  10;  20;  39; 59;   26
+20; Chacarita Juniors               ; 38;   5;  13;  20;  36; 66;   23
+

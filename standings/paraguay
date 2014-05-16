@@ -1,0 +1,71 @@
+BlockSource: http://www.rsssf.com/tablesp/para2010.html
+Competition: Paraguayan Primera División
+Season: 2010 Apertura
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+
+
+ 1; Guaraní               ; 22; 15;  4;  3;  43; 20;  49;  Champions
+ 2; Cerro Porteño         ; 22; 14;  3;  5;  37; 23;  45;
+ 3; Olimpia               ; 22; 11;  6;  5;  32; 18;  39;
+ 4; Libertad              ; 22; 11;  5;  6;  33; 15;  38;
+ 5; Rubio Ñú              ; 22; 10;  8;  4;  36; 25;  38;
+ 6; Nacional              ; 22; 10;  5;  7;  31; 22;  35;
+ 7; Sportivo Luqueño      ; 22;  5; 10;  7;  26; 30;  25;
+ 8; Sol de América        ; 22;  7;  4; 11;  27; 39;  25;
+ 9; Sportivo Trinidense   ; 22;  4;  7; 11;  19; 34;  19;
+10; 3 de Febrero          ; 22;  5;  4; 13;  17; 32;  19;
+11; Sport Colombia        ; 22;  4;  5; 13;  21; 40;  17;
+12; Tacuary               ; 22;  3;  5; 14;  20; 44;  14;
+
+Season: 2010 Clausura
+
+
+ 1; Libertad              ; 22; 16;  1;  5;  46; 15;  49;  Champions
+ 2; Cerro Porteño         ; 22; 13;  7;  2;  37; 18;  46;
+ 3; Nacional              ; 22; 12;  6;  4;  29; 18;  42;
+ 4; Guaraní               ; 22; 10;  6;  6;  29; 22;  36;
+ 5; Olimpia               ; 22;  7; 11;  4;  31; 23;  32;
+ 6; Rubio Ñú              ; 22;  7;  7;  8;  25; 32;  28;
+ 7; Sport Colombia        ; 22;  5;  9;  8;  23; 30;  24;
+ 8; Tacuary               ; 22;  6;  5; 11;  20; 29;  23;
+ 9; Sol de América        ; 22;  5;  5; 12;  20; 28;  20;
+10; 3 de Febrero          ; 22;  4;  7; 11;  19; 34;  19;
+11; Sportivo Trinidense   ; 22;  3;  9; 10;  25; 46;  18;
+12; Sportivo Luqueño      ; 22;  2; 11;  9;  21; 30;  17;
+
+
+
+BlockSource: http://www.rsssf.com/tablesp/para2011.html
+Competition: Paraguayan Primera División
+Season: 2011 Apertura
+
+ 1; Nacional              ; 22;  14;  5;  3;  34; 18;  47;  Champions
+ 2; Olimpia               ; 22;  12;  6;  4;  44; 22;  42;
+ 3; Libertad              ; 22;  11;  6;  5;  28; 18;  39;
+ 4; Guaraní               ; 22;   9;  7;  6;  23; 19;  34;
+ 5; Rubio Ñú              ; 22;   8;  7;  7;  35; 34;  31;
+ 6; Tacuary               ; 22;   6; 12;  4;  17; 14;  30;
+ 7; Cerro Porteño         ; 22;   5;  9;  8;  23; 29;  24;
+ 8; 3 de Febrero          ; 22;   5;  8;  9;  23; 31;  23;
+ 9; Independiente (CG)    ; 22;   4; 10;  8;  26; 29;  22;
+10; Sol de América        ; 22;   5;  6; 11;  21; 33;  21;
+11; Sportivo Luqueño      ; 22;   4;  8; 10;  24; 36;  20;
+12; General Caballero (ZC); 22;   4;  6; 12;  21; 36;  18;
+
+
+Season: 2011 Clausura
+
+ 1; Olimpia               ; 22;  14;  4;  4;  38; 22;  46;  Champions
+ 2; Cerro Porteño         ; 22;  12;  7;  3;  41; 22;  43;
+ 3; Libertad              ; 22;  11;  7;  4;  36; 19;  40;
+ 4; Nacional              ; 22;  11;  3;  8;  34; 27;  36;
+ 5; Tacuary               ; 22;   7;  9;  6;  31; 28;  30;
+ 6; Independiente (CG)    ; 22;   7;  9;  6;  29; 26;  30;
+ 7; Sol de América        ; 22;   7;  7;  8;  27; 30;  28;
+ 8; Rubio Ñú              ; 22;   7;  6;  9;  25; 29;  27;
+ 9; Guaraní               ; 22;   6;  6; 10;  32; 37;  24;
+10; General Caballero (ZC); 22;   7;  2; 13;  29; 49;  23;
+11; 3 de Febrero          ; 22;   4;  6; 12;  29; 41;  18;
+12; Sportivo Luqueño      ; 22;   3;  6; 13;  18; 39;  15;

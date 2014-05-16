@@ -1,0 +1,705 @@
+Competition: Chilean Primera División
+BlockSource: http://www.rsssf.com/tablesc/chile97.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+Season: 1997 Apertura
+
+ 1; Universidad Católica  ; 15; 11;  4;  0;  36; 13;  37;
+ 2; Colo Colo             ; 15; 11;  4;  0;  27; 12;  37;
+ 3; Universidad de Chile  ; 15;  8;  6;  1;  31; 14;  30;
+ 4; Deportes Temuco       ; 15;  7;  1;  7;  26; 18;  22;
+ 5; Cobreloa              ; 15;  6;  4;  5;  26; 22;  22;
+ 6; Deportes Concepción   ; 15;  6;  4;  5;  21; 26;  22;
+ 7; Huachipato            ; 15;  5;  5;  5;  20; 17;  20;
+ 8; Coquimbo Unido        ; 15;  6;  2;  7;  28; 26;  20;
+ 9; Santiago Wanderers    ; 15;  4;  8;  3;  24; 24;  20;
+10; Deportes La Serena    ; 15;  5;  3;  7;  23; 25;  18;
+11; Provincial Osorno     ; 15;  3;  8;  4;  16; 18;  17;
+12; Palestino             ; 15;  4;  4;  7;  12; 24;  16;
+13; Audax Italiano        ; 15;  3;  6;  6;  21; 24;  15;  
+14; Unión Española        ; 15;  4;  1; 10;  15; 35;  13;
+15; Deportes Puerto Montt ; 15;  2;  4;  9;  18; 29;  10;
+16; Antofagasta           ; 15;  2;  2; 11;  14; 31;   8;
+
+
+Season: 1997 Clausura
+ 
+ 1; Colo Colo             ; 15; 11;  2;  2;  33; 19;  35;
+
+ 2; Universidad Católica  ; 15;  9;  3;  3;  25; 15;  30;
+ 3; Audax Italiano        ; 15;  9;  2;  4;  31; 16;  29;
+ 4; Universidad de Chile  ; 15;  7;  5;  3;  36; 17;  26;
+ 5; Cobreloa              ; 15;  7;  4;  4;  28; 17;  25;
+ 6; Deportes Puerto Montt ; 15;  6;  4;  5;  21; 20;  22;
+ 7; Provincial Osorno     ; 15;  5;  6;  4;  19; 15;  21;
+ 8; Coquimbo Unido        ; 15;  5;  6;  4;  15; 13;  21;
+ 9; Deportes La Serena    ; 15;  5;  4;  6;  21; 20;  19;
+10; Palestino             ; 15;  5;  2;  8;  13; 21;  17;
+11; Antofagasta           ; 15;  5;  2;  8;  15; 27;  17;
+12; Huachipato            ; 15;  4;  4;  7;  13; 22;  16;
+13; Unión Española        ; 15;  4;  3;  8;  22; 27;  15;
+14; Deportes Temuco       ; 15;  4;  3;  8;  18; 31;  15;
+15; Santiago Wanderers    ; 15;  2;  5;  8;  13; 26;  11;
+16; Deportes Concepción   ; 15;  2;  5;  8;  15; 32;  11;
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile98.html
+Season: 1998
+
+ 
+ 1; Colo Colo             ; 30; 19;  7;  4;  54; 19;  64;  Champions
+ 2; Universidad de Chile  ; 30; 18;  9;  3;  62; 37;  63;
+ 3; Universidad Católica  ; 30; 14; 11;  5;  57; 34;  53;
+ 4; Cobreloa              ; 30; 16;  3; 11;  50; 36;  51;
+ 5; Deportes Concepción   ; 30; 12;  9;  9;  39; 36;  45; 
+ 6; Huachipato            ; 30; 11;  7; 12;  39; 38;  40;
+ 7; Deportes Puerto Montt ; 30; 10;  9; 11;  43; 46;  39;
+ 8; Deportes Iquique      ; 30; 12;  3; 15;  35; 52;  39;
+ 9; Deportes La Serena    ; 30; 10;  7; 13;  39; 47;  37;
+10; Palestino             ; 30;  9;  9; 12;  50; 50;  36;
+11; Rangers               ; 30;  9;  7; 14;  45; 49;  34;
+12; Audax Italiano        ; 30;  9;  7; 14;  37; 43;  34;
+
+13; Coquimbo Unido        ; 30;  8;  9; 13;  36; 41;  33;  Relegation Playoff
+14; Provincial Osorno     ; 30;  8;  7; 15;  41; 52;  31;  Relegation Playoff
+
+15; Santiago Wanderers    ; 30;  6; 12; 12;  40; 56;  30;  Relegated
+16; Deportes Temuco       ; 30;  6; 10; 14;  28; 59;  13;  [*]  Relegated
+
+*[*] Temuco had 15 points deducting for failing to play the match on Nov 28,
+*    due to a strike of their players.
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile99.html
+Season: 1999
+
+        
+ 1; Universidad de Chile  ; 30; 23;  6;  1;  66; 27;  75;
+ 2; Universidad Católica  ; 30; 19;  7;  4;  67; 31;  64;
+ 3; Cobreloa              ; 30; 16;  8;  6;  62; 29;  56;
+ 4; Colo Colo             ; 30; 13; 10;  7;  45; 37;  49;
+ 5; Audax Italiano        ; 30; 11;  8; 11;  42; 37;  41;
+ 6; Huachipato            ; 30; 11;  8; 11;  46; 47;  41;
+ 7; Palestino             ; 30; 11;  6; 13;  48; 53;  39;
+ 8; Santiago Morning      ; 30; 10;  8; 12;  41; 41;  38;
+
+ 9; Deportes Puerto Montt ; 30; 10;  8; 12;  52; 55;  38;
+10; O'Higgins             ; 30; 11;  5; 14;  47; 59;  38;
+11; Deportes Concepción   ; 30;  9;  8; 13;  38; 41;  35;
+12; Cobresal              ; 30;  9;  8; 13;  39; 45;  35;
+13; Deportes Iquique      ; 30;  8;  8; 14;  37; 47;  32;
+14; Coquimbo Unido        ; 30;  6; 10; 14;  44; 70;  28;
+15; Rangers               ; 30;  6;  6; 18;  26; 52;  24;
+16; Deportes La Serena    ; 30;  4; 12; 14;  30; 59;  24;
+
+
+*Championship Playoff
+*[teams take 1/4 of the points and all goals in the initial stage as bonus]
+
+*Final Table:
+
+* 1.Universidad de Chile   14  8  4  2  90-43  47  [19]  Champions
+* 2.Universidad Católica   14  8  4  2 102-50  44  [16]
+* 3.Cobreloa               14  8  2  4  94-49  40  [14]
+* - - - - - - - - - - - - - - - - - - - - - - - -
+* 4.Colo Colo              14  5  3  6  62-57  30  [12]
+* 5.Santiago Morning       14  3  6  5  65-66  25  [10]
+* 6.Palestino              14  4  3  7  73-88  25  [10]
+* 7.Audax Italiano         14  3  4  7  59-60  23  [10]
+* 8.Huachipato             14  2  4  8  62-79  20  [10]
+
+*[top-3 qualify for Copa Libertadores 2000]
+
+
+
+Season: 2000
+BlockSource: http://www.rsssf.com/tablesc/chile00.html
+
+
+ 1; Universidad de Chile ; 30; 18;  7;  5; 62; 27; 61;  Champions
+ 2; Cobreloa             ; 30; 15;  7;  8; 53; 36; 52;  Copa Libertadores
+ 3; Colo Colo            ; 30; 13; 10;  7; 58; 44; 49;
+ 4; Unión Española       ; 30; 13;  9;  8; 43; 38; 48; 
+ 5; Deportes Concepción  ; 30; 12;  9;  9; 30; 30; 45;  Liguilla
+ 6; Universidad Católica ; 30; 11; 11;  8; 51; 42; 44;  Liguilla
+ 7; Audax Italiano       ; 30; 11;  7; 12; 38; 34; 40;  Liguilla
+ 8; Palestino            ; 30; 11;  7; 12; 45; 44; 40;
+ 9; Santiago Wanderers   ; 30; 10; 10; 10; 47; 48; 40;
+10; Santiago Morning     ; 30; 10;  8; 12; 45; 54; 38;  Liguilla
+11; Coquimbo Unido       ; 30;  9; 10; 11; 36; 47; 37;
+12; O'Higgins            ; 30; 10;  6; 14; 43; 52; 36;
+13; Huachipato           ; 30;  9;  7; 14; 44; 48; 34;
+14; Puerto Montt         ; 30;  9;  7; 14; 42; 54; 34;
+
+15; Everton              ; 30;  8;  9; 13; 41; 53; 33;  Relegated 
+16; Provincial Osorno    ; 30;  5;  8; 17; 37; 64; 23;  Relegated
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile01.html
+Season: 2001
+
+ 1; Santiago Wanderers   ; 30; 20;  6;  4; 65; 32; 66;  [*3]  Champions
+ 2; Universidad Católica ; 30; 18;  6;  6; 60; 29; 60;  [*2]  Copa Libertadores
+ 3; Universidad de Chile ; 30; 17;  6;  7; 53; 33; 57;  [*1]  Liguilla
+ 4; Colo Colo            ; 30; 16;  8;  6; 63; 37; 56;
+ 5; Cobreloa             ; 30; 13;  9;  8; 39; 28; 48;  [*2]  Liguilla
+ 6; Palestino            ; 30; 14;  6; 10; 44; 43; 48;  [*1]  Liguilla
+ 7; Huachipato           ; 30; 12; 10;  8; 58; 42; 46;  [*3]  Liguilla
+ 8; Unión San Felipe     ; 30; 10; 10; 10; 45; 39; 40;
+ 9; Unión Española       ; 30; 10;  7; 13; 46; 63; 37;
+10; Coquimbo Unido       ; 30;  9;  8; 13; 29; 39; 35;
+11; Audax Italiano       ; 30; 10;  2; 18; 27; 40; 32;
+12; Deportes Concepción  ; 30;  8;  8; 14; 35; 51; 32;
+13; Rangers              ; 30;  6; 12; 12; 38; 46; 30;
+14; Santiago Morning     ; 30;  7;  7; 16; 47; 67; 28;
+
+15; O'Higgins            ; 30;  7;  4; 19; 39; 64; 25;  Relegated
+16; Puerto Montt         ; 30;  4;  9; 17; 31; 66; 21;  Relegated 
+ 
+*[*1] winners first period ('tramo') (rounds 1-10) entitling to participation 
+*     in the Liguilla Pre-Libertadores; as U. de Chile automatically qualified
+*     for the Liguilla as third-placed team in the final table, their place
+*     went to Palestino, third in the first period behind U. de Chile and
+*     S. Wanderers
+*[*2] winners second period ('tramo') (rounds 11-20) entitling to participation 
+*     in the Liguilla Pre-Libertadores; as U. Católica qualified for the Copa
+*     Libertadores as league runners-up, their place went to Cobreloa, runners-up
+*     in the second period
+*[*3] winners third period ('tramo') (rounds 21-30) entitling to participation 
+*     in the Liguilla Pre-Libertadores; as S. Wanderers qualified for the Copa
+*     Libertadores as champions, their place went to Huachipato, third in the 
+*     third period behind S. Wanderers and U. Católica
+*
+*NB: Palestino may have qualified for the Liguilla thanks to their third place 
+*    in the first period behind U. de Chile and S. Wanderers?!
+        
+
+BlockSource: http://www.rsssf.com/tablesc/chile02.html
+
+*NB: league system changed to 'Mexican-style'.
+
+Season: 2002 Apertura
+
+Stage: Group
+
+Group: A 
+ 1; Santiago Wanderers        ; 15;  7;  4;  4; 24; 20; 25;  Qualified
+ 2; Huachipato                ; 15;  4;  4;  7; 24; 31; 16;  Qualified
+ 3; Santiago Morning          ; 15;  4;  3;  8; 23; 25; 15;  Qualified
+ 4; Cobresal                  ; 15;  3;  3;  9; 19; 36; 12;
+
+Group: B 
+ 1; Universidad Católica      ; 15;  8;  5;  2; 40; 22; 29;  Qualified
+ 2; Palestino                 ; 15;  6;  8;  1; 29; 21; 26;  Qualified
+ 3; Deportes Temuco           ; 15;  6;  5;  4; 33; 27; 23;  Qualified
+ 4; Audax Italiano            ; 15;  6;  3;  6; 18; 21; 21;
+
+Group: C 
+ 1; Universidad de Chile      ; 15;  7;  4;  4; 28; 23; 25;  Qualified
+ 2; Rangers                   ; 15;  6;  6;  3; 21; 15; 24;  Qualified
+ 3; Cobreloa                  ; 15;  5;  4;  6; 28; 27; 19;  Qualified
+ 4; Deportes Concepción       ; 15;  4;  2;  9; 18; 28; 14;
+
+Group: D 
+ 1; Colo Colo                 ; 15;  9;  3;  3; 29; 16; 30;  Qualified
+ 2; Unión San Felipe          ; 15;  5;  3;  7; 21; 24; 18;  Qualified
+ 3; Coquimbo Unido            ; 15;  5;  3;  7; 17; 26; 18;  Qualified
+ 4; Unión Española            ; 15;  4;  2;  9; 17; 27; 14;
+
+
+Season: 2002 Clausura
+
+Group: A
+ 1; Colo Colo                 ; 15;  6;  5;  4; 21; 15; 23;  Qualified
+ 2; Huachipato                ; 15;  5;  5;  5; 22; 18; 20;  Qualified
+ 3; Deportes Concepción       ; 15;  3;  5;  7; 20; 26; 14;  Qualified
+ 4; Deportes Temuco           ; 15;  1;  5;  9; 13; 32;  8;
+
+Group: B
+ 1; Cobreloa                  ; 15; 10;  4;  1; 33; 10; 34;  Qualified
+ 2; Cobresal                  ; 15;  7;  6;  2; 23; 20; 27;  Qualified
+ 3; Universidad Católica      ; 15;  7;  5;  3; 28; 20; 26;  Qualified
+ 4; Audax Italiano            ; 15;  4;  6;  5; 19; 22; 18;
+
+Group: C
+ 1; Coquimbo Unido            ; 15;  3;  8;  4; 10; 12; 17;  Qualified
+ 2; Palestino                 ; 15;  2;  6;  7; 14; 23; 12;  Qualified
+ 3; Rangers                   ; 15;  2;  5;  8; 13; 28; 11;  Qualified
+ 4; Santiago Morning          ; 15;  2;  4;  9; 11; 26; 10;
+
+Group: D
+ 1; Universidad de Chile      ; 15;  8;  6;  1; 24; 12; 30;  Qualified
+ 2; Santiago Wanderers        ; 15;  7;  4;  4; 23; 18; 25;  Qualified
+ 3; Unión Española            ; 15;  7;  3;  5; 24; 17; 24;  Qualified
+ 4; Unión San Felipe          ; 15;  6;  3;  6; 21; 20; 21;
+
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile03.html
+Season: 2003 Apertura
+
+Group: 1
+ 1; Cobreloa                 ; 15;  10;  1;  4;  26; 16;  31;  Qualified
+ 2; Huachipato               ; 15;   6;  3;  6;  22; 22;  21;  Qualified
+ 3; Unión Española           ; 15;   5;  3;  7;  24; 32;  18;  Qualified
+ 4; Palestino                ; 15;   5;  2;  8;  18; 28;  17;
+
+Group: 2
+ 1; Puerto Montt             ; 15;   7;  4;  4;  26; 22;  25;  Qualified
+ 2; Universidad de Chile     ; 15;   4;  8;  3;  30; 24;  20;  Qualified
+ 3; Unión San Felipe         ; 15;   3;  4;  8;  13; 26;  13;  Repechaje
+ 4; Coquimbo Unido           ; 15;   2;  2; 11;  12; 30;   8;
+
+Group: 3
+ 1; Audax Italiano           ; 15;   8;  2;  5;  37; 30;  26;  Qualified
+ 2; Cobresal                 ; 15;   6;  3;  6;  27; 19;  21;  Qualified
+ 3; Rangers                  ; 15;   3; 11;  1;  28; 26;  20;  Qualified
+ 4; Santiago Wanderers       ; 15;   5;  4;  6;  24; 23;  19;  Repechaje
+        
+Group: 4
+ 1; Universidad de Concepción; 15;   7;  3;  5;  29; 21;  24;  Qualified
+ 2; Universidad Católica     ; 15;   6;  6;  3;  27; 20;  24;  Qualified
+ 3; Colo Colo                ; 15;   6;  5;  4;  28; 23;  23;  Qualified
+ 4; Deportes Temuco          ; 15;   5;  3;  7;  24; 33;  18;
+
+
+Season: 2003 Clausura
+
+Group: A
+ 1; Universidad de Chile     ; 15;   7;  2;  6;  28; 21;  23;  Qualified
+ 2; Cobreloa                 ; 15;   6;  4;  5;  30; 24;  22;  Qualified
+ 3; Huachipato               ; 15;   6;  2;  7;  30; 33;  20;  Qualified
+ 4; Deportes Temuco          ; 15;   3;  1; 11;  18; 38;  10;
+
+Group: B
+ 1; Colo Colo                ; 15;   9;  5;  1;  39; 19;  32;  Qualified
+ 2; Santiago Wanderers       ; 15;   7;  6;  2;  27; 22;  27;  Qualified
+ 3; Palestino                ; 15;   8;  2;  5;  35; 28;  26;  Qualified
+ 4; Audax Italiano           ; 15;   5;  2;  8;  15; 22;  17;  Repechaje
+
+Group: C
+ 1; Unión Española           ; 15;   9;  4;  2;  36; 22;  31;  Qualified
+ 2; Universidad Católica     ; 15;   6;  2;  7;  22; 24;  20;  Qualified
+ 3; Puerto Montt             ; 15;   5;  0; 10;  23; 34;  15;  Repechaje
+ 4; Coquimbo Unido           ; 15;   2;  3; 10;  15; 27;   9;
+
+Group: D
+ 1; Universidad de Concepción; 15;   9;  5;  1;  35; 15;  32;  Qualified
+ 2; Cobresal                 ; 15;   6;  4;  5;  29; 26;  22;  Qualified
+ 3; Rangers                  ; 15;   6;  1;  8;  20; 36;  19;  Qualified
+ 4; Unión San Felipe         ; 15;   3;  3;  9;  22; 33;   9;  [-3]
+
+*NB: Unión San Felipe 3 points deducted for not paying players in
+*    time in September
+
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile04.html
+
+Season: 2004 Apertura
+
+Group: 1 
+ 1; Colo Colo                ; 17;  10;  3;  4;  29; 25;  33;  Qualified
+ 2; Audax Italiano           ; 17;   5;  6;  6;  31; 28;  21;  Qualified
+ 3; Unión San Felipe         ; 17;   4;  5;  8;  15; 27;  17;  Playoff
+ 4; Cobresal                 ; 17;   1;  3; 13;  19; 40;   6;
+
+Group: 2 
+ 1; Universidad de Concepción; 17;   9;  5;  3;  37; 17;  32;  Qualified
+ 2; Deportes Temuco          ; 17;   7;  3;  7;  24; 34;  24;  Qualified
+ 3; Rangers                  ; 17;   5;  3;  9;  21; 33;  18;  Playoff
+ 4; Deportes La Serena       ; 17;   5;  3;  9;  32; 46;  18;
+ 5; Palestino                ; 17;   4;  2; 11;  34; 42;  14;
+
+Group: 3 
+ 1; Cobreloa                 ; 17;  11;  4;  2;  39; 19;  37;  Qualified
+ 2; Coquimbo Unido           ; 17;   9;  2;  6;  39; 37;  29;  Qualified
+ 3; Unión Española           ; 17;   7;  5;  5;  35; 32;  26;  Qualified
+ 4; Everton                  ; 17;   6;  3;  8;  22; 25;  21;  Playoff
+ 5; Universidad Católica     ; 17;   6;  1; 10;  29; 29;  19;
+
+Group: 4 
+ 1; Santiago Wanderers       ; 17;  11;  3;  3;  37; 15;  36;  Qualified
+ 2; Universidad de Chile     ; 17;   9;  3;  5;  32; 21;  30;  Qualified
+ 3; Huachipato               ; 17;   8;  3;  6;  35; 31;  27;  Qualified
+ 4; Puerto Montt             ; 17;   5;  5;  7;  27; 36;  20;  Playoff
+
+
+Season: 2004 Clausura
+
+Group: 1 
+ 1; Audax Italiano           ; 17;   7;  5;  5;  33; 24;  26;  Qualified
+ 2; Cobreloa                 ; 17;   6;  7;  4;  37; 26;  25;  Qualified
+ 3; Unión Española           ; 17;   6;  5;  6;  24; 20;  23;  Qualified
+ 4; Deportes La Serena       ; 17;   4;  4;  9;  23; 38;  16;
+
+Group: 2 
+ 1; Coquimbo Unido           ; 17;   4;  6;  7;  21; 26;  18;  Qualified
+ 2; Unión San Felipe         ; 17;   5;  6;  6;  18; 25;  18;  [-3]  Qualified
+ 3; Puerto Montt             ; 17;   5;  5;  7;  16; 20;  17;  [-3]  Playoff
+ 4; Santiago Wanderers       ; 17;   4;  2; 11;  24; 36;  14;
+
+Group: 3 
+ 1; Colo Colo                ; 17;   9;  5;  3;  28; 18;  32;  Qualified
+ 2; Universidad de Chile     ; 17;   9;  6;  2;  27; 14;  30;  [-3]  Qualified
+ 3; Deportes Temuco          ; 17;   4;  9;  4;  34; 36;  21;  Qualified
+ 4; Palestino                ; 17;   6;  3;  8;  23; 28;  21;
+ 5; Rangers                  ; 17;   3;  6;  8;  19; 33;  15;
+
+Group: 4 
+ 1; Universidad Católica     ; 17;   9;  5;  3;  32; 19;  32;  Qualified
+ 2; Cobresal                 ; 17;   8;  4;  5;  32; 26;  28;  Qualified
+ 3; Universidad de Concepción; 17;   8;  4;  5;  22; 16;  28;  Qualified
+ 4; Everton                  ; 17;   6;  4;  7;  20; 26;  22;  Playoff
+ 5; Huachipato               ; 17;   6;  2;  9;  24; 26;  20;
+
+*NB: Puerto Montt and Unión San Felipe have 3 points deducted for not 
+*    paying players in time in August;
+*    Universidad de Chile have 3 points deducted for not paying players
+*    in time in September.
+
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile05.html
+
+Season: 2005 Apertura
+
+Group: A
+ 1; Colo Colo                ; 19;   9;  5;  5;  34; 24;  32;  Qualified
+ 2; Huachipato               ; 19;  10;  1;  8;  31; 28;  31;  Qualified
+ 3; Unión San Felipe         ; 19;   5;  3; 11;  16; 26;  18;
+ 4; Deportes Melipilla       ; 19;   4;  5; 10;  14; 30;  17;
+ 5; Audax Italiano           ; 19;   3;  7;  9;  22; 32;  16;
+
+Group: B
+ 1; Cobreloa                 ; 19;  10;  3;  6;  35; 29;  33;  Qualified
+ 2; Coquimbo Unido           ; 19;   9;  2;  8;  27; 29;  29;  Playoff
+ 3; Deportes La Serena       ; 19;   7;  5;  7;  28; 35;  26;
+ 4; Santiago Wanderers       ; 19;   7;  2; 10;  28; 30;  23;
+ 5; Puerto Montt             ; 19;   5;  3; 11;  30; 36;  18;
+
+Group: C
+ 1; Unión Española           ; 19;   7;  5;  7;  32; 31;  26;  Qualified
+ 2; Deportes Concepción      ; 19;   6;  7;  6;  20; 21;  25;  Playoff
+ 3; Universidad de Concepción; 19;   6;  4;  9;  23; 31;  22;
+ 4; Palestino                ; 19;   6;  3; 10;  21; 28;  21;
+ 5; Deportes Temuco          ; 19;   3;  8;  8;  24; 31;  17;
+
+Group: D
+ 1; Universidad Católica     ; 19;  14;  2;  3;  39; 13;  44;  Qualified
+ 2; Universidad de Chile     ; 19;  12;  3;  4;  36; 19;  39;  Qualified
+ 3; Cobresal                 ; 19;   9;  5;  5;  32; 25;  32;  Playoff
+ 4; Everton                  ; 19;   8;  6;  5;  32; 27;  30;  Playoff
+ 5; Rangers                  ; 19;   7;  7;  5;  24; 23;  28;
+
+
+Season: 2005 Clausura
+
+Group: A
+ 1; Universidad Católica     ; 19;  15;  4;  0;  33;  3;  49;  Qualified
+ 2; Huachipato               ; 19;  10;  4;  5;  31; 20;  34;  Qualified
+ 3; Deportes Concepción      ; 19;   9;  6;  4;  28; 24;  33;  Playoff
+ 4; Unión San Felipe         ; 19;   6;  5;  8;  24; 33;  23;
+ 5; Puerto Montt             ; 19;   5;  3; 11;  17; 31;  18;
+
+Group: B
+ 1; Universidad de Chile     ; 19;  11;  5;  3;  34; 24;  38;  Qualified
+ 2; Deportes La Serena       ; 19;   6;  6;  7;  24; 24;  24;  Qualified
+ 3; Everton                  ; 19;   5;  8;  6;  23; 22;  23;
+ 4; Santiago Wanderers       ; 19;   6;  5;  8;  17; 23;  23;
+ 5; Deportes Temuco          ; 19;   6;  1; 12;  17; 39;  19;
+
+Group: C
+ 1; Cobresal                 ; 19;   8;  4;  7;  30; 24;  28;  Qualified
+ 2; Cobreloa                 ; 19;   6;  5;  8;  23; 21;  23;  Playoff
+ 3; Palestino                ; 19;   4;  8;  7;  24; 28;  20;
+ 4; Audax Italiano           ; 19;   4;  6;  9;  24; 32;  18;
+  ; Rangers                  ; 19;   4;  6;  9;  24; 32;  18;
+
+Group: D
+ 1; Colo Colo                ; 19;  13;  5;  1;  47; 17;  44;  Qualified
+ 2; Universidad de Concepción; 19;   8;  3;  8;  27; 28;  27;  Qualified
+ 3; Unión Española           ; 19;   6;  6;  7;  30; 34;  24;
+ 4; Deportes Melipilla       ; 19;   6;  2; 11;  17; 23;  20;
+ 5; Coquimbo Unido           ; 19;   3;  6; 10;  18; 30;  15;
+
+*NB: Universidad Católica qualified for Copa Libertadores 2006 as best
+*    team of regular stage of Clausura
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile06.html
+
+Season: 2006 Apertura
+
+*Regular Season
+*
+*NB: Deportes Concepción withdrew because of financial problems and
+*    will not play in 2006; they will enter the second level in 2007.
+
+Group: A
+ 1; Universidad de Concepción ; 18;   9;  6;  3;  31; 23;  33;  Qualified
+ 2; Audax Italiano            ; 18;   9;  5;  4;  32; 22;  32;  Qualified
+ 3; Universidad Católica      ; 18;   9;  5;  4;  27; 20;  32;  Repechaje
+ 4; Cobresal                  ; 18;   6;  4;  8;  26; 32;  22;
+ 5; Santiago Wanderers        ; 18;   5;  2; 11;  16; 30;  17;
+  
+Group: B
+ 1; Universidad de Chile      ; 18;  10;  5;  3;  27; 20;  35;  Qualified
+ 2; Deportes La Serena        ; 18;   5;  7;  6;  32; 31;  22;  Repechaje
+ 3; Everton                   ; 18;   5;  6;  7;  20; 27;  21;
+ 4; Coquimbo Unido            ; 18;   3;  8;  7;  16; 26;  17;
+ 5; Santiago Morning          ; 18;   2;  6; 10;  15; 31;  12;
+ 
+Group: C
+ 1; Colo Colo                 ; 18;  13;  1;  4;  54; 22;  40;  Qualified
+ 2; Cobreloa                  ; 18;   9;  3;  6;  32; 24;  30;  Qualified
+ 3; Unión Española            ; 18;   8;  4;  6;  24; 21;  28;
+ 4; Antofagasta               ; 18;   5;  6;  7;  26; 31;  21;
+ 5; Puerto Montt              ; 18;   4;  5;  9;  33; 32;  17;
+ 
+Group: D
+ 1; Huachipato                ; 18;  11;  3;  4;  32; 19;  36;  Qualified
+ 2; O'Higgins                 ; 18;   5;  6;  7;  20; 25;  21;  Repechaje
+ 3; Palestino                 ; 18;   4;  4; 10;  22; 35;  16;
+ 4; Rangers                   ; 18;   4;  4; 10;  26; 40;  16;
+* -.Deportes Concepción         withdrew
+
+
+
+
+Season: 2006 Clausura
+
+*Regular Season
+* 
+*NB: Deportes Concepción withdrew because of financial problems and
+*    will not play in 2006; they will enter the second level in 2007.
+ 
+Group: 1
+ 1; Cobreloa                  ; 18;  11;  4;  3;  40; 24;  37;  Qualified
+ 2; Colo Colo                 ; 18;   8;  5;  5;  37; 31;  29;  Qualified
+ 3; Santiago Wanderers        ; 18;   8;  4;  6;  22; 21;  28;  Repechaje
+ 4; Palestino                 ; 18;   5;  5;  8;  16; 25;  20;
+ 5; Cobresal                  ; 18;   5;  3; 10;  20; 28;  18;
+ 
+Group: 2
+ 1; O'Higgins                 ; 18;  10;  5;  3;  31; 20;  35;  Qualified
+ 2; Coquimbo Unido            ; 18;   8;  5;  5;  23; 22;  29;  Qualified
+ 3; Rangers                   ; 18;   6;  6;  6;  22; 24;  24;
+ 4; Huachipato                ; 18;   6;  2; 10;  29; 32;  20;
+ 5; Unión Española            ; 18;   3;  5; 10;  20; 34;  14;
+ 
+Group: 3
+ 1; Puerto Montt              ; 18;  10;  3;  5;  26; 21;  33;  Qualified
+ 2; Audax Italiano            ; 18;   9;  2;  7;  32; 24;  29;  Qualified
+ 3; Universidad de Concepción ; 18;   7;  4;  7;  34; 30;  25;
+ 4; Deportes La Serena        ; 18;   4;  6;  8;  32; 39;  18;
+ 5; Santiago Morning          ; 18;   4;  5;  9;  22; 32;  17;
+ 
+Group: 4
+ 1; Universidad Católica      ; 18;   9;  4;  5;  24; 18;  31;  Qualified
+ 2; Universidad de Chile      ; 18;   7;  2;  9;  24; 25;  23;  Repechaje
+ 3; Antofagasta               ; 18;   5;  6;  7;  25; 25;  21;
+ 4; Everton                   ; 18;   5;  6;  7;  23; 27;  21;
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile07.html
+ 
+*NB: Apertura 2007 will be 20 rounds without playoffs;
+*    Clausura 2007 will be 20 rounds with playoffs.
+ 
+Season: 2007 Apertura
+
+*NB: Deportes Concepción were readmitted following a legal battle
+
+
+ 1; Colo Colo                 ; 20;  14;  5;  1;  47; 16;  47;  Apertura Champions
+ 2; Universidad Católica      ; 20;  14;  4;  2;  36; 14;  46;
+ 3; Audax Italiano            ; 20;  13;  5;  2;  39; 20;  44;
+ 4; Huachipato                ; 20;  12;  4;  4;  35; 21;  40;
+ 5; Cobreloa                  ; 20;  10;  5;  5;  44; 23;  35;
+ 6; Cobresal                  ; 20;   9;  5;  6;  31; 21;  32;
+ 7; Ñublense                  ; 20;   8;  8;  4;  31; 31;  32;
+ 8; Unión Española            ; 20;   8;  4;  8;  29; 25;  28;
+ 9; Deportes Melipilla        ; 20;   8;  4;  8;  35; 34;  28;
+10; O'Higgins                 ; 20;   8;  3;  9;  30; 38;  27;
+11; Deportes La Serena        ; 20;   7;  5;  8;  31; 30;  26;
+12; Everton                   ; 20;   6;  8;  6;  24; 27;  26;
+13; Universidad de Chile      ; 20;   6;  7;  7;  20; 21;  25;
+14; Palestino                 ; 20;   5;  8;  7;  27; 30;  23;
+15; Deportes Concepción       ; 20;   6;  5;  9;  20; 34;  23;
+16; Antofagasta               ; 20;   5;  7;  8;  24; 34;  22;
+17; Universidad de Concepción ; 20;   4;  5; 11;  25; 33;  17;
+18; Puerto Montt              ; 20;   4;  2; 14;  19; 40;  14;
+19; Coquimbo Unido            ; 20;   4;  2; 14;  18; 40;  14;
+20; Santiago Wanderers        ; 20;   4;  4; 12;  24; 33;  13;  [-3]
+21; Lota Schwager             ; 20;   2;  6; 12;  28; 52;  12;
+
+*NB: Santiago Wanderers have 3 points deducted for not paying
+*    players in time in November 2006.
+
+
+Season: 2007 Clausura
+
+Group: 1  
+ 1; Colo Colo                 ; 20;  11;  6;  3;  40; 21;  39;  Qualified
+ 2; Cobresal                  ; 20;   8;  8;  4;  31; 23;  32;  Qualified
+ 3; Palestino                 ; 20;   7;  5;  8;  27; 23;  26;
+ 4; Deportes La Serena        ; 20;   6;  4; 10;  25; 33;  22;
+ 5; Santiago Wanderers        ; 20;   4;  5; 11;  15; 43;  17;
+ 
+Group: 2  
+ 1; Universidad de Concepción ; 20;   9;  8;  3;  30; 19;  35;  Qualified
+ 2; Universidad Católica      ; 20;  10;  4;  6;  33; 21;  34;  Qualified
+ 3; Deportes Melipilla        ; 20;   7;  6;  7;  32; 34;  27;
+ 4; Deportes Concepción       ; 20;   7;  4;  9;  32; 41;  25;
+ 5; Unión Española            ; 20;   4;  5; 11;  26; 36;  17;
+ 
+Group: 3  
+ 1; Audax Italiano            ; 20;  14;  5;  1;  47; 20;  47;  Qualified
+ 2; Universidad de Chile      ; 20;  13;  6;  1;  42; 21;  45;  Qualified
+ 3; Cobreloa                  ; 20;   8;  7;  5;  35; 29;  31;  Repechaje
+ 4; Puerto Montt              ; 20;   5;  6;  9;  18; 22;  21;
+ 5; Everton                   ; 20;   3;  4; 13;  20; 36;  13;
+ 
+Group: 4  
+ 1; O'Higgins                 ; 20;   9;  7;  4;  28; 23;  34;  Qualified
+ 2; Ñublense                  ; 20;   7;  5;  8;  32; 38;  26;  Repechaje
+ 3; Antofagasta               ; 20;   6;  7;  7;  22; 21;  25;
+ 4; Huachipato                ; 20;   7;  4;  9;  30; 36;  25;
+ 5; Lota Schwager             ; 20;   4;  7;  9;  22; 28;  19;
+ 6; Coquimbo Unido            ; 20;   4;  1; 15;  18; 37;  13;
+
+*NB: Audax Italiano qualified for Copa Libertadores 2008 as "Chile 3",
+*    as best team of regular stage of Clausura
+
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile08.html
+
+Season: 2008 Apertura
+ 
+*NB: Apertura 2008 and Clausura 2008 will be 19 rounds with playoffs.
+ 
+Group: 1
+ 1; Audax Italiano            ; 19;  11;  1;  7;  35; 25;  34;  Qualified
+ 2; Everton                   ; 19;  10;  2;  7;  34; 30;  32;  Qualified
+ 3; Cobresal                  ; 19;   9;  4;  6;  35; 26;  31;  Repechaje
+ 4; Huachipato                ; 19;   7;  6;  6;  29; 29;  27;
+ 5; Unión Española            ; 19;   7;  3;  9;  20; 27;  24;
+ 
+Group: 2
+ 1; O'Higgins                 ; 19;  10;  6;  3;  30; 17;  36;  Qualified
+ 2; Universidad de Chile      ; 19;   9;  3;  7;  28; 23;  30;  Qualified
+ 3; Santiago Morning          ; 19;   9;  3;  7;  35; 42;  30;
+ 4; Deportes La Serena        ; 19;   7;  5;  7;  29; 29;  26;
+ 5; Palestino                 ; 19;   7;  3;  9;  28; 27;  24;
+ 
+Group: 3
+ 1; Colo Colo                 ; 19;   7;  6;  6;  35; 29;  27;  Qualified
+ 2; Cobreloa                  ; 19;   6;  5;  8;  25; 29;  23;  Repechaje
+ 3; Antofagasta               ; 19;   4;  5; 10;  16; 29;  17;
+ 4; Provincial Osorno         ; 19;   5;  1; 13;  19; 38;  16;
+ 5; Deportes Melipilla        ; 19;   3;  1; 15;  22; 40;  10;
+ 
+Group: 4
+ 1; Ñublense                  ; 19;  12;  5;  2;  28; 14;  41;  Qualified
+ 2; Universidad Católica      ; 19;  11;  3;  5;  37; 19;  36;  Qualified
+ 3; Rangers                   ; 19;   6;  6;  7;  23; 25;  24;
+ 4; Universidad de Concepción ; 19;   6;  3; 10;  27; 33;  21;
+ 5; Deportes Concepción       ; 19;   7;  3;  9;  33; 37;  18;  [-6]
+ 
+*NB: Deportes Concepción 6 points deducted for using ineligible
+*    player in round 2
+
+
+Season: 2008 Clausura
+
+Group: 1
+ 1; Universidad de Chile      ; 18;  12;  2;  4;  39; 21;  38;  Qualified
+ 2; Colo Colo                 ; 18;  10;  3;  5;  32; 19;  33;  Qualified
+ 3; Unión Española            ; 18;   7;  4;  7;  28; 32;  25;
+ 4; Ñublense                  ; 18;   3;  7;  7;  21; 29;  17;
+* -.Deportes Concepción         withdrew
+
+Group: 2
+ 1; Rangers                   ; 18;   9;  3;  6;  25; 25;  30;  Qualified
+ 2; Universidad Católica      ; 18;   9;  2;  7;  37; 33;  29;  Qualified
+ 3; Everton                   ; 18;   9;  1;  8;  28; 25;  28;  Repechaje
+ 4; Deportes La Serena        ; 18;   7;  6;  5;  37; 34;  27;
+ 5; Provincial Osorno         ; 18;   3;  1; 14;  19; 39;  10;
+ 
+Group: 3
+ 1; Palestino                 ; 18;  10;  3;  5;  29; 22;  33;  Qualified
+ 2; O'Higgins                 ; 18;   8;  4;  6;  39; 35;  28;  Qualified
+ 3; Santiago Morning          ; 18;   7;  5;  6;  30; 32;  26;
+ 4; Universidad de Concepción ; 18;   5;  6;  7;  32; 32;  21;
+ 5; Deportes Melipilla        ; 18;   3;  2; 13;  19; 38;  11;
+ 
+Group: 4
+ 1; Huachipato                ; 18;   8;  3;  7;  33; 25;  27;  Qualified
+ 2; Cobreloa                  ; 18;   8;  3;  7;  34; 32;  27;  Repechaje
+ 3; Audax Italiano            ; 18;   6;  6;  6;  25; 25;  24;
+ 4; Antofagasta               ; 18;   7;  2;  9;  20; 27;  23;
+ 5; Cobresal                  ; 18;   5;  6;  7;  24; 26;  21;
+
+*NB: Universidad de Chile qualified for Copa Libertadores 2009 as "Chile 3", as best team of regular stage of Clausura
+
+
+BlockSource: http://www.rsssf.com/tablesc/chile09.html
+
+*NB: Apertura 2009 and Clausura 2009 will be 17 rounds with playoffs 
+*    and without groups.
+
+Season: 2009 Apertura
+  
+ 1; Unión Española (Santiago)        ; 17;  12;  2;  3;  38; 17;  38;  Qualified
+ 2; Universidad de Chile (Santiago)  ; 17;   9;  4;  4;  33; 21;  31;  Qualified
+ 3; Everton (Viña del Mar)           ; 17;   7;  7;  3;  24; 17;  28;  Qualified
+ 4; Santiago Morning (Santiago)      ; 17;   8;  3;  6;  41; 29;  27;  Qualified
+ 5; Universidad Católica (Santiago)  ; 17;   8;  3;  6;  26; 18;  27;  Qualified
+ 6; Municipal Iquique                ; 17;   7;  5;  5;  27; 23;  26;  Qualified
+ 7; Audax Italiano (Santiago)        ; 17;   7;  4;  6;  25; 20;  25;  Qualified
+ 8; O'Higgins (Rancagua)             ; 17;   7;  4;  6;  25; 26;  25;  Qualified
+
+ 9; Huachipato (Talcahuano)          ; 17;   7;  4;  6;  26; 29;  25;
+10; Cobreloa (Calama)                ; 17;   7;  3;  7;  24; 25;  24;
+11; Universidad de Concepción        ; 17;   6;  5;  6;  24; 25;  23;
+12; Ñublense (Chillán)               ; 17;   5;  5;  7;  18; 26;  20;
+13; Colo Colo (Santiago)             ; 17;   5;  4;  8;  28; 28;  19;
+14; Provincial Curicó Unido          ; 17;   5;  4;  8;  24; 28;  19;
+15; Cobresal (El Salvador)           ; 17;   4;  7;  6;  23; 34;  19;
+16; Palestino (Santiago)             ; 17;   5;  2; 10;  18; 37;  17;
+17; Rangers (Talca)                  ; 17;   3;  5;  9;  20; 28;  14;
+18; Deportes La Serena               ; 17;   3;  5;  9;  19; 32;  14;
+ 
+*NB: top-8 qualify for playoffs
+
+
+Season: 2009 Clausura
+
+ 1; Universidad Católica (Santiago)  ; 17;  11;  5;  1;  43; 13;  38;  Qualified
+ 2; Deportes La Serena               ; 17;  11;  0;  6;  31; 19;  33;  Qualified
+ 3; Audax Italiano (Santiago)        ; 17;   9;  5;  3;  26; 22;  32;  Qualified
+ 4; Colo Colo (Santiago)             ; 17;   8;  4;  5;  28; 19;  28;  Qualified
+ 5; Universidad de Concepción        ; 17;   8;  3;  6;  23; 22;  27;  Qualified
+ 6; Santiago Morning (Santiago)      ; 17;   8;  2;  7;  22; 25;  26;  Qualified
+ 7; Unión Española (Santiago)        ; 17;   7;  4;  6;  30; 30;  25;  Qualified
+ 8; Everton (Viña del Mar)           ; 17;   7;  4;  6;  19; 20;  25;  Qualified
+
+ 9; Universidad de Chile (Santiago)  ; 17;   5;  6;  6;  23; 24;  21;
+10; Rangers (Talca)                  ; 17;   7;  3;  7;  26; 29;  21;  [-3]
+11; Cobresal (El Salvador)           ; 17;   5;  5;  7;  18; 17;  20;
+12; Palestino (Santiago)             ; 17;   5;  5;  7;  16; 20;  20;
+13; Cobreloa (Calama)                ; 17;   6;  1; 10;  23; 22;  19;
+14; O'Higgins (Rancagua)             ; 17;   4;  7;  6;  17; 23;  19;
+15; Ñublense (Chillán)               ; 17;   5;  4;  8;  15; 21;  19;
+16; Huachipato (Talcahuano)          ; 17;   5;  2; 10;  20; 29;  17;
+17; Provincial Curicó Unido          ; 17;   4;  8;  5;  15; 25;  17;  [-3]
+18; Municipal Iquique                ; 17;   1;  6; 10;  21; 36;   9;
+
+*NB: Provincial Curicó Unido and Rangers 3 points deducted for using 
+*    ineligible player
+*
+*NB: Universidad Católica qualified for Copa Libertadores 2010 as  
+*    "Chile 3", as best team of regular stage of Clausura.

@@ -1,0 +1,1714 @@
+Competition: Uruguayan Primera División
+BlockSource: http://www.rsssf.com/tablesu/uruhist.html
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points
+
+
+*Season: 1994 
+* 1; Peñarol                   ; 24 ; 19 ; 0 ; 5 ; 62 ; 18 ; 38 
+* 2; Nacional                  ; 24 ; 13 ; 6 ; 5 ; 44 ; 25 ; 32 
+* 3; Defensor Sporting         ; 24 ; 11 ; 8 ; 5 ; 29 ; 18 ; 30 
+* 4; Cerro                     ; 24 ; 10 ; 9 ; 5 ; 31 ; 24 ; 29 
+* 5; Wanderers                 ; 24 ; 11 ; 6 ; 7 ; 36 ; 32 ; 28 
+* 6; Basáñez                   ; 24 ;  8 ; 8 ; 8 ; 23 ; 31 ; 24 
+* 7; CA River Plate            ; 24 ;  9 ; 4 ;11 ; 26 ; 26 ; 22 
+* 8; Liverpool                 ; 24 ;  8 ; 5 ;11 ; 24 ; 27 ; 21 
+* 9; Central Español           ; 24 ;  7 ; 6 ;11 ; 23 ; 36 ; 20 
+*10; Rampla Juniors            ; 24 ;  4 ;11 ; 9 ; 15 ; 28 ; 19 
+*11; Danubio                   ; 24 ;  5 ; 8 ;11 ; 19 ; 33 ; 18 
+*12; Progreso                  ; 24 ;  7 ; 3 ;14 ; 24 ; 38 ; 17 
+*13; Bella Vista               ; 24 ;  3 ; 8 ;13 ; 24 ; 44 ; 14 
+
+
+Season: 1994 
+Stage: Apertura
+
+ 1; Defensor Sporting         ; 12 ;  7 ; 3 ; 2 ; 17 ; 11 ; 17 
+ 2; Peñarol                   ; 12 ;  9 ; 0 ; 3 ; 29 ;  9 ; 16 
+ 3; Basáñez                   ; 12 ;  6 ; 4 ; 2 ; 14 ; 12 ; 16 
+ 4; Cerro                     ; 12 ;  6 ; 3 ; 3 ; 16 ; 11 ; 15 
+ 5; Wanderers                 ; 12 ;  6 ; 2 ; 4 ; 17 ; 18 ; 14 
+ 6; Nacional                  ; 12 ;  6 ; 3 ; 3 ; 25 ; 14 ; 13 
+ 7; CA River Plate            ; 12 ;  5 ; 2 ; 5 ; 17 ; 17 ; 12 
+ 8; Progreso                  ; 12 ;  4 ; 2 ; 6 ; 17 ; 17 ; 10 
+ 9; Liverpool                 ; 12 ;  3 ; 3 ; 6 ; 11 ; 16 ;  9 
+10; Rampla Juniors            ; 12 ;  2 ; 5 ; 5 ; 10 ; 17 ;  9 
+11; Danubio                   ; 12 ;  2 ; 5 ; 5 ;  8 ; 15 ;  9 
+12; Central Español           ; 12 ;  2 ; 3 ; 7 ;  8 ; 20 ;  7 
+13; Bella Vista               ; 12 ;  0 ; 5 ; 7 ; 13 ; 25 ;  5 
+
+
+Season: 1994 
+Stage: Clausura
+
+ 1; Peñarol                   ; 12 ; 10 ; 0 ; 2 ; 33 ;  9 ; 18 
+ 2; Nacional                  ; 12 ;  7 ; 3 ; 2 ; 19 ; 11 ; 15 
+ 3; Cerro                     ; 12 ;  4 ; 6 ; 2 ; 15 ; 13 ; 14 
+ 4; Wanderers                 ; 12 ;  5 ; 4 ; 3 ; 19 ; 14 ; 14 
+ 5; Defensor Sporting         ; 12 ;  4 ; 5 ; 3 ; 12 ;  7 ; 13 
+ 6; Central Español           ; 12 ;  5 ; 3 ; 4 ; 15 ; 16 ; 13 
+ 7; Liverpool                 ; 12 ;  5 ; 2 ; 5 ; 13 ; 11 ; 12 
+ 8; CA River Plate            ; 12 ;  4 ; 2 ; 6 ;  9 ;  9 ; 10 
+ 9; Rampla Juniors            ; 12 ;  2 ; 6 ; 4 ;  5 ; 11 ; 10 
+10; Danubio                   ; 12 ;  3 ; 3 ; 6 ; 11 ; 18 ;  9 
+11; Bella Vista               ; 12 ;  3 ; 3 ; 6 ; 11 ; 19 ;  9 
+12; Basáñez                   ; 12 ;  2 ; 4 ; 6 ;  9 ; 19 ;  8 
+13; Progreso                  ; 12 ;  3 ; 1 ; 8 ;  7 ; 21 ;  7 
+
+  
+*Season: 1995 
+*(From this tournament three points are awarded for each victory) 
+* 1; Peñarol                   ; 24 ; 16 ; 6 ; 2 ; 49 ; 18 ; 54 
+* 2; Nacional                  ; 24 ; 16 ; 5 ; 3 ; 53 ; 29 ; 53 
+* 3; Liverpool                 ; 24 ; 10 ; 9 ; 5 ; 34 ; 20 ; 39 
+* 4; Defensor Sporting         ; 24 ;  9 ; 8 ; 7 ; 28 ; 26 ; 35 
+* 5; CA River Plate            ; 24 ;  7 ;11 ; 6 ; 28 ; 18 ; 32 
+* 6; Wanderers                 ; 24 ;  9 ; 4 ;11 ; 24 ; 32 ; 31 
+* 7; Central Español           ; 24 ;  6 ;11 ; 7 ; 31 ; 31 ; 29 
+* 8; Danubio                   ; 24 ;  5 ;12 ; 7 ; 25 ; 37 ; 27 
+* 9; Rampla Juniors            ; 24 ;  7 ; 6 ;11 ; 26 ; 50 ; 27 
+*10; Cerro                     ; 24 ;  6 ; 8 ;10 ; 33 ; 34 ; 26 
+*11; Sud América               ; 24 ;  4 ;12 ; 8 ; 19 ; 24 ; 24 
+*12; Progreso                  ; 24 ;  3 ; 9 ;12 ; 23 ; 35 ; 18 
+*13; Basáñez                   ; 24 ;  3 ; 9 ;12 ; 25 ; 44 ; 18 
+
+
+Season: 1995 
+Stage: Apertura
+
+ 1; Peñarol                   ; 12 ;  8 ; 3 ; 1 ; 29 ;  9 ; 25 
+ 2; Liverpool                 ; 12 ;  8 ; 1 ; 3 ; 23 ;  9 ; 25 
+ 3; Nacional                  ; 12 ;  8 ; 2 ; 2 ; 24 ; 16 ; 24 
+ 4; Defensor Sporting         ; 12 ;  6 ; 3 ; 3 ; 18 ; 15 ; 21 
+ 5; Central Español           ; 12 ;  5 ; 4 ; 3 ; 18 ; 15 ; 19 
+ 6; Wanderers                 ; 12 ;  5 ; 3 ; 4 ; 13 ; 12 ; 18 
+ 7; Cerro                     ; 12 ;  4 ; 4 ; 4 ; 19 ; 14 ; 16 
+ 8; Sud América               ; 12 ;  3 ; 6 ; 3 ; 11 ; 10 ; 15 
+ 9; CA River Plate            ; 12 ;  3 ; 5 ; 4 ; 13 ; 10 ; 14 
+10; Danubio                   ; 12 ;  2 ; 4 ; 6 ;  9 ; 24 ; 10 
+11; Progreso                  ; 12 ;  1 ; 5 ; 6 ; 10 ; 17 ;  8 
+12; Rampla Juniors            ; 12 ;  1 ; 3 ; 8 ; 11 ; 32 ;  6 
+13; Basáñez                   ; 12 ;  0 ; 5 ; 7 ;  9 ; 24 ;  5 
+
+*Playoff: Peñarol-Liverpool 2-0 
+
+*Apertura Champions: Peñarol 
+*(Peñarol and Nacional lost two points in Torneo Apertura for incidents) 
+*
+*207 goals = 2.653 goals/match.
+
+Season: 1995 
+Stage: Clausura
+
+ 1; Nacional                 ; 12 ;  8 ; 3 ; 1 ; 29 ; 13 ; 27 
+ 2; Peñarol                  ; 12 ;  8 ; 3 ; 1 ; 20 ;  9 ; 27 
+ 3; Rampla Juniors           ; 12 ;  6 ; 3 ; 3 ; 15 ; 18 ; 21 
+ 4; CA River Plate           ; 12 ;  4 ; 6 ; 2 ; 15 ;  8 ; 18 
+ 5; Danubio                  ; 12 ;  3 ; 8 ; 1 ; 16 ; 13 ; 17 
+ 6; Defensor Sporting        ; 12 ;  3 ; 5 ; 4 ; 10 ; 11 ; 14 
+ 7; Liverpool                ; 12 ;  2 ; 8 ; 2 ; 11 ; 11 ; 14 
+ 8; Basáñez                  ; 12 ;  3 ; 4 ; 5 ; 16 ; 20 ; 13 
+ 9; Wanderers                ; 12 ;  4 ; 1 ; 7 ; 11 ; 20 ; 13 
+10; Progreso                 ; 12 ;  2 ; 4 ; 6 ; 13 ; 18 ; 10 
+11; Cerro                    ; 12 ;  2 ; 4 ; 6 ; 14 ; 20 ; 10 
+12; Central Español          ; 12 ;  1 ; 7 ; 4 ; 13 ; 16 ; 10 
+13; Sud América              ; 12 ;  1 ; 6 ; 5 ;  8 ; 14 ;  9 
+
+*Playoff: Nacional-Peñarol 2-2 (5-4 pen) 
+*Clausura Champions: Nacional 
+*191 goals = 2.448 goals/match. 
+
+*1996:
+* 1. Nacional                   22  14  4  4  48-23  46
+* 2. Defensor Sporting          22  10  9  3  30-17  39
+* 3. Peñarol                    22  11  5  6  43-28  38
+* 4. Danubio                    22  10  6  6  29-26  36
+* 5. Huracán Buceo              22   9  9  4  21-17  36
+* 6. Rampla Juniors             22   7 11  4  18-15  32
+* 7. Wanderers                  22   6  6 10  15-31  24
+* 8. CA River Plate             22   5  9  8  25-26  24
+* 9. Liverpool                  22   4 10  8  17-27  22
+*10. Cerro                      22   5 10  7  24-31  20
+*11. Central Español            22   4  8 10  16-24  20
+*12. Sud América                22   1  5 16   5-26   8
+
+*Playoff: Peñarol-Nacional 1-0 and 1-1 
+*(Cerro had 5 points deducted for incidents)
+*Promotion/Relegation Playoff: Cerro-Progreso 1-1 and 2-0
+
+*Champions: Peñarol 
+*C.Libertadores: Nacional and Peñarol 
+*Promoted: Rentistas and Racing Club
+*Relegated: Central Español and Sud América
+*291 goals = 2.204 goals/match. 
+
+Season: 1996 
+Stage: Apertura
+
+ 1;  Peñarol                   ; 11 ;  7 ; 2 ; 2 ; 21 ; 11 ; 23
+ 2;  Defensor Sporting         ; 11 ;  6 ; 4 ; 1 ; 17 ;  8 ; 22
+ 3;  Nacional                  ; 11 ;  6 ; 3 ; 2 ; 25 ; 11 ; 21
+ 4;  Danubio                   ; 11 ;  5 ; 4 ; 2 ; 12 ;  9 ; 19
+ 5;  Huracán Buceo             ; 11 ;  5 ; 3 ; 3 ; 13 ; 11 ; 18
+ 6;  Rampla Juniors            ; 11 ;  3 ; 5 ; 3 ;  9 ;  9 ; 14
+ 7;  Cerro                     ; 11 ;  3 ; 4 ; 4 ; 13 ; 15 ; 13
+ 8;  CA River Plate            ; 11 ;  2 ; 5 ; 4 ; 11 ; 13 ; 11
+ 9;  Wanderers                 ; 11 ;  3 ; 2 ; 6 ;  7 ; 17 ; 11
+10;  Liverpool                 ; 11 ;  2 ; 4 ; 5 ;  8 ; 13 ; 10
+11;  Sud América               ; 11 ;  1 ; 5 ; 5 ;  5 ; 17 ;  8
+12;  Central Español           ; 11 ;  1 ; 3 ; 7 ;  8 ; 15 ;  6
+
+*Apertura Champions: Peñarol 
+*149 goals = 2.257 goals/match. 
+
+Season: 1996 
+Stage: Clausura
+
+ 1;  Nacional                  ; 11 ;  8 ; 1 ; 2 ; 23 ; 12 ; 25
+ 2;  Rampla Juniors            ; 11 ;  4 ; 6 ; 1 ;  9 ;  6 ; 18
+ 3;  Huracán Buceo             ; 11 ;  4 ; 6 ; 1 ;  8 ;  6 ; 18
+ 4;  Defensor Sporting         ; 11 ;  4 ; 5 ; 2 ; 13 ;  9 ; 17
+ 5;  Danubio                   ; 11 ;  5 ; 2 ; 4 ; 17 ; 17 ; 17
+ 6;  Peñarol                   ; 11 ;  4 ; 3 ; 4 ; 22 ; 17 ; 15
+ 7;  Central Español           ; 11 ;  3 ; 5 ; 3 ;  8 ;  9 ; 14
+ 8;  CA River Plate            ; 11 ;  3 ; 4 ; 4 ; 14 ; 13 ; 13
+ 9;  Wanderers                 ; 11 ;  3 ; 4 ; 4 ;  8 ; 14 ; 13
+10;  Cerro                     ; 11 ;  2 ; 6 ; 3 ; 11 ; 16 ; 12
+11;  Liverpool                 ; 11 ;  2 ; 6 ; 3 ;  9 ; 14 ; 12
+12;  Sud América               ; 11 ;  0 ; 0 ;11 ;  0 ;  9 ;  0
+
+*Clausura Champions: Nacional
+*(Sud América withdrew after 3 rounds, all subsequent matches are awarded to their opponents)
+*142 goals = 2.448 goals/match.
+
+*Season: 1997
+* 1. Peñarol                    22  13  5  4  51-24  44
+* 2. Defensor Sporting          22  13  5  4  36-20  44
+* 3. CA River Plate             22  12  5  5  36-25  41
+* 4. Nacional                   22  12  4  6  46-29  40
+* 5. Liverpool                  22   9 10  3  30-26  37
+* 6. Huracán Buceo              22   8  4 10  27-32  28
+* 7. Wanderers                  22   6  7  9  21-26  23
+* 8. Rampla Juniors             22   6  5 11  22-32  23
+* 9. Cerro                      22   5  7 10  24-28  22
+*10. Rentistas                  22   6  4 12  14-37  22
+*11. Racing                     22   4  7 11  22-37  19
+*12. Danubio                    22   4  5 13  23-36  17
+
+*Semifinal: Peñarol-Nacional 3-2
+*Playoff: Peñarol-Defensor Sporting 1-0 and 3-0
+*Promotion/Relegation Playoff: Rentistas-Progreso 2-2 and 3-1
+
+*Champions: Peñarol 
+*C.Libertadores: Peñarol and Nacional
+*Promoted: Bella Vista and Villa Española
+*Relegated: Cerro and Racing
+*352 goals = 2.667 goals/match. 
+
+Season: 1997 
+Stage: Apertura
+
+ 1;  Nacional                  ; 11 ;  8 ; 1 ; 2 ; 26 ; 11 ; 25
+ 2;  CA River Plate            ; 11 ;  6 ; 4 ; 1 ; 24 ; 14 ; 22
+ 3;  Peñarol                   ; 11 ;  6 ; 3 ; 2 ; 22 ; 11 ; 21
+ 4;  Defensor Sporting         ; 11 ;  6 ; 2 ; 3 ; 20 ; 11 ; 20
+ 5;  Liverpool                 ; 11 ;  5 ; 4 ; 2 ; 15 ; 13 ; 19
+ 6;  Rampla Juniors            ; 11 ;  4 ; 2 ; 5 ; 12 ; 18 ; 14
+ 7;  Wanderers                 ; 11 ;  3 ; 4 ; 4 ; 12 ; 13 ; 13
+ 8;  Huracán Buceo             ; 11 ;  4 ; 1 ; 6 ; 15 ; 19 ; 13
+ 9;  Danubio                   ; 11 ;  4 ; 1 ; 6 ; 10 ; 14 ; 13
+10;  Rentistas                 ; 11 ;  2 ; 2 ; 7 ;  4 ; 19 ;  8
+11;  Cerro                     ; 11 ;  1 ; 4 ; 6 ;  8 ; 15 ;  7
+12;  Racing                    ; 11 ;  1 ; 4 ; 6 ;  8 ; 18 ;  7
+
+*Apertura Champions: Nacional 
+*176 goals = 2.667 goals/match. 
+
+Season: 1997 
+Stage: Clausura
+
+ 1;  Defensor Sporting         ; 11 ;  7 ; 3 ; 1 ; 16 ;  9 ; 24
+ 2;  Peñarol                   ; 11 ;  7 ; 2 ; 2 ; 29 ; 13 ; 23
+ 3;  CA River Plate            ; 11 ;  6 ; 1 ; 4 ; 12 ; 11 ; 19
+ 4;  Liverpool                 ; 11 ;  4 ; 6 ; 1 ; 15 ; 13 ; 18
+ 5;  Cerro                     ; 11 ;  4 ; 3 ; 4 ; 16 ; 13 ; 15
+ 6;  Nacional                  ; 11 ;  4 ; 3 ; 4 ; 20 ; 18 ; 15
+ 7;  Huracán Buceo             ; 11 ;  4 ; 3 ; 4 ; 12 ; 13 ; 15
+ 8;  Rentistas                 ; 11 ;  4 ; 2 ; 5 ; 10 ; 18 ; 14
+ 9;  Wanderers                 ; 11 ;  3 ; 3 ; 5 ;  9 ; 13 ; 12
+10;  Racing                    ; 11 ;  3 ; 3 ; 5 ; 14 ; 19 ; 12
+11;  Rampla Juniors            ; 11 ;  2 ; 3 ; 6 ; 10 ; 14 ;  9
+12;  Danubio                   ; 11 ;  0 ; 4 ; 7 ; 13 ; 22 ;  4
+
+*Clausura Champions: Defensor Sporting
+*Overall Table Champions: Peñarol
+*176 goals = 2.667 goals/match. 
+
+*1998:
+* 1. Nacional                   22  16  2  4  51-22  50
+* 2. Peñarol                    22  12  1  9  40-34  37
+* 3. Bella Vista                22   8 11  3  24-17  35
+* 4. Rentistas                  22   8 10  4  19-15  34
+* 5. CA River Plate             22   9  6  7  43-31  33
+* 6. Danubio                    22   8  6  8  23-25  30
+* 7. Defensor Sporting          22   6 11  5  26-26  29
+* 8. Rampla Juniors             22   6  6 10  20-31  24
+* 9. Villa Española             22   5  7 10  22-29  22
+*10. Huracán Buceo              22   5  7 10  25-35  22
+*11. Liverpool                  22   4  9  9  13-24  21
+*12. Wanderers                  22   3  8 11  22-39  17
+
+*Promotion/Relegation Playoff: Rampla Juniors-Deportivo Maldonado 3-2, 1-3 and 1-1 (6-5 pen)
+*Champions: Nacional 
+*C.Libertadores: Nacional and Bella Vista
+*Promoted: Cerro and Frontera Rivera
+
+*No relegation.
+*Deportivo Maldonado, Paysandú Bella Vista and Tacuarembó FC were given a license to
+*play in First Level.
+*328 goals = 2.484 goals/match. 
+
+Season: 1998 
+Stage: Apertura
+
+ 1;  Nacional                  ; 11 ;  9 ; 0 ; 2 ; 32 ; 14 ; 27
+ 2;  Bella Vista               ; 11 ;  5 ; 5 ; 1 ; 10 ;  7 ; 20
+ 3;  Peñarol                   ; 11 ;  6 ; 0 ; 5 ; 15 ; 14 ; 18
+ 4;  Defensor Sporting         ; 11 ;  4 ; 4 ; 3 ; 14 ; 12 ; 16
+ 5;  CA River Plate            ; 11 ;  4 ; 2 ; 5 ; 22 ; 20 ; 14
+ 6;  Wanderers                 ; 11 ;  3 ; 5 ; 3 ; 14 ; 15 ; 14
+ 7;  Rampla Juniors            ; 11 ;  3 ; 4 ; 4 ; 10 ; 13 ; 13
+ 8;  Rentistas                 ; 11 ;  2 ; 6 ; 3 ; 10 ; 12 ; 12
+ 9;  Villa Española            ; 11 ;  3 ; 3 ; 5 ;  9 ; 11 ; 12
+10;  Huracán Buceo             ; 11 ;  2 ; 5 ; 4 ; 15 ; 19 ; 11
+11;  Danubio                   ; 11 ;  3 ; 2 ; 6 ; 11 ; 18 ; 11
+12;  Liverpool                 ; 11 ;  2 ; 4 ; 5 ;  7 ; 14 ; 10
+
+*Apertura Champions: Nacional 
+*169 goals = 2.560 goals/match. 
+
+Season: 1998 
+Stage: Clausura
+
+ 1;  Nacional                  ; 11 ;  7 ; 2 ; 2 ; 19 ;  8 ; 23
+ 2;  Rentistas                 ; 11 ;  6 ; 4 ; 1 ;  9 ;  3 ; 22
+ 3;  CA River Plate            ; 11 ;  5 ; 4 ; 2 ; 21 ; 11 ; 19
+ 4;  Peñarol                   ; 11 ;  6 ; 1 ; 4 ; 25 ; 20 ; 19
+ 5;  Danubio                   ; 11 ;  5 ; 4 ; 2 ; 12 ;  7 ; 19
+ 6;  Bella Vista               ; 11 ;  3 ; 6 ; 2 ; 14 ; 10 ; 15
+ 7;  Defensor Sporting         ; 11 ;  2 ; 7 ; 2 ; 12 ; 14 ; 13
+ 8;  Liverpool                 ; 11 ;  2 ; 5 ; 4 ;  6 ; 10 ; 11
+ 9;  Huracán Buceo             ; 11 ;  3 ; 2 ; 6 ; 10 ; 16 ; 11
+10;  Rampla Juniors            ; 11 ;  3 ; 2 ; 6 ; 10 ; 18 ; 11
+11;  Villa Española            ; 11 ;  2 ; 4 ; 5 ; 13 ; 18 ; 10
+12;  Wanderers                 ; 11 ;  0 ; 3 ; 8 ;  8 ; 24 ;  3
+
+*Clausura Champions: Nacional
+*159 goals = 2.409 goals/match. 
+
+*1999:
+
+* 1. Peñarol                    28  19  6  3  71-25  63
+* 2. Nacional                   28  20  3  5  65-27  63
+* 3. Defensor Sporting          28  17  7  4  60-30  58
+* 4. Danubio                    28  16  6  6  64-40  54
+* 5. Bella Vista                28  12  9  7  46-38  45
+* 6. Huracán Buceo              28  11  8  9  34-44  41
+* 7. Cerro                      28  11  4 13  37-47  37
+* 8. CA River Plate             28   9  9 10  36-42  36
+* 9. Frontera Rivera            28   8  6 14  39-42  30
+*10. Deportivo Maldonado        28   7  9 12  39-54  30
+*11. Liverpool                  28   5 13 10  23-34  28
+*12. Paysandú Bella Vista       28   6 10 12  25-47  28
+*13. Rampla Juniors             28   8  2 18  28-56  26
+*14. Rentistas                  28   4  9 15  23-41  21
+*15. Tacuarembó FC              28   4  5 19  20-43  17
+
+*Playoff: Peñarol-Nacional 1-1, 1-1 and 2-1
+*Promotion/Relegation Playoff: Rampla Juniors-Racing 1-1, 3-3 and 0-0 (2-3 pen)
+*Champions: Peñarol
+*C.Libertadores: Peñarol, Nacional and Bella Vista
+*Promoted: Juventud, Villa Española and Racing
+*Relegated: Rampla Juniors
+*Rocha FC was given a license to play in First Level.
+*610 goals = 2.904 goals/match. 
+
+Season: 1999 
+Stage: Apertura
+
+ 1;  Nacional                  ; 14 ; 11 ; 1 ; 2 ; 35 ; 10 ; 34
+ 2;  Defensor Sporting         ; 14 ; 10 ; 3 ; 1 ; 40 ; 16 ; 33
+ 3;  Danubio                   ; 14 ;  8 ; 2 ; 4 ; 39 ; 24 ; 26
+ 4;  Bella Vista               ; 14 ;  7 ; 5 ; 2 ; 25 ; 15 ; 26
+ 5;  Peñarol                   ; 14 ;  7 ; 4 ; 3 ; 24 ; 13 ; 25
+ 6;  Cerro                     ; 14 ;  7 ; 0 ; 7 ; 24 ; 30 ; 21
+ 7;  Rentistas                 ; 14 ;  4 ; 5 ; 5 ; 15 ; 14 ; 17
+ 8;  Huracán Buceo             ; 14 ;  4 ; 5 ; 5 ; 17 ; 27 ; 17
+ 9;  Deportivo Maldonado       ; 14 ;  4 ; 4 ; 6 ; 22 ; 25 ; 16
+10;  CA River Plate            ; 14 ;  4 ; 4 ; 6 ; 14 ; 21 ; 16
+11;  Frontera Rivera           ; 14 ;  3 ; 4 ; 7 ; 16 ; 20 ; 13
+12;  Tacuarembó FC             ; 14 ;  4 ; 1 ; 9 ; 12 ; 23 ; 13
+13;  Paysandú Bella Vista      ; 14 ;  3 ; 4 ; 7 ;  9 ; 21 ; 13
+14;  Rampla Juniors            ; 14 ;  3 ; 2 ; 9 ;  9 ; 25 ; 11
+15;  Liverpool                 ; 14 ;  0 ; 8 ; 6 ;  5 ; 22 ;  8
+
+*Apertura Champions: Nacional 
+*306 goals = 2.914 goals/match. 
+
+Season: 1999 
+Stage: Clausura
+
+ 1;  Peñarol                   ; 14 ; 12 ; 2 ; 0 ; 47 ; 12 ; 38
+ 2;  Nacional                  ; 14 ;  9 ; 2 ; 3 ; 30 ; 17 ; 29
+ 3;  Danubio                   ; 14 ;  8 ; 4 ; 2 ; 25 ; 16 ; 28
+ 4;  Defensor Sporting         ; 14 ;  7 ; 4 ; 3 ; 20 ; 14 ; 25
+ 5;  Huracán Buceo             ; 14 ;  7 ; 3 ; 4 ; 17 ; 17 ; 24
+ 6;  Liverpool                 ; 14 ;  5 ; 5 ; 4 ; 18 ; 12 ; 20
+ 7;  CA River Plate            ; 14 ;  5 ; 5 ; 4 ; 22 ; 21 ; 20
+ 8;  Bella Vista               ; 14 ;  5 ; 4 ; 5 ; 21 ; 23 ; 19
+ 9;  Frontera Rivera           ; 14 ;  5 ; 2 ; 7 ; 23 ; 22 ; 17
+10;  Cerro                     ; 14 ;  4 ; 4 ; 6 ; 13 ; 17 ; 16
+11;  Paysandú Bella Vista      ; 14 ;  3 ; 6 ; 5 ; 16 ; 26 ; 15
+12;  Rampla Juniors            ; 14 ;  5 ; 0 ; 9 ; 19 ; 31 ; 15
+13;  Deportivo Maldonado       ; 14 ;  3 ; 5 ; 6 ; 17 ; 29 ; 14
+14;  Tacuarembó FC             ; 14 ;  0 ; 4 ;10 ;  8 ; 20 ;  4
+15;  Rentistas                 ; 14 ;  0 ; 4 ;10 ;  8 ; 27 ;  4
+
+*Clausura Champions: Peñarol
+*304 goals = 2.895 goals/match. 
+
+*2000:
+
+* 1. Nacional                   33  25  6  2  70-25  81
+* 2. Peñarol                    33  24  6  3  74-37  78
+* 3. Defensor Sporting          33  23  7  3  84-35  76
+* 4. Danubio                    33  18 10  5  81-37  64
+* 5. Cerro                      33  13  9 11  62-54  48
+* 6. Tacuarembó FC              33  12 12  9  44-40  48
+* 7. Rentistas                  33  12  9 12  46-47  45
+* 8. Bella Vista                33  11  9 13  56-61  42
+* 9. CA River Plate             33  10 10 13  55-61  40
+*10. Racing                     33  10  8 15  46-57  38
+*11. Deportivo Maldonado        33  10  6 17  42-60  36
+*12. Juventud                   33   8 10 15  35-48  34
+*13. Paysandú Bella Vista       33   8  8 17  40-54  32
+*14. Rocha FC                   33   8  8 17  50-77  32
+*15. Liverpool                  33   7 10 16  31-55  31
+*16. Frontera Rivera            33   8  5 20  46-76  29
+*17. Huracán Buceo              33   6  8 19  37-59  26
+*18. Villa Española             17   3  5  9  24-40  14
+
+*Playoff: Nacional-Peñarol 1-0 and 1-1
+*Promotion/Relegation Playoff: Frontera Rivera-Fénix 0-0 and 0-1
+*Champions: Nacional
+*C.Libertadores: Nacional, Defensor Sporting and Peñarol
+*Promoted: Fénix, Juventud and Wanderers
+*Relegated: Frontera Rivera, Liverpool and Villa Española
+*923 goals = 3.193 goals/match. 
+
+Season: 2000 
+Stage: Apertura
+
+ 1;  Nacional                  ; 17 ; 14 ; 2 ; 1 ; 42 ; 14 ; 44
+ 2;  Danubio                   ; 17 ; 11 ; 3 ; 3 ; 45 ; 22 ; 36
+ 3;  Defensor Sporting         ; 17 ; 11 ; 3 ; 3 ; 40 ; 22 ; 36
+ 4;  Peñarol                   ; 17 ; 11 ; 3 ; 3 ; 39 ; 26 ; 36
+ 5;  Cerro                     ; 17 ;  8 ; 4 ; 5 ; 39 ; 30 ; 28
+ 6;  Rentistas                 ; 17 ;  8 ; 4 ; 5 ; 31 ; 24 ; 28
+ 7;  Bella Vista               ; 17 ;  6 ; 5 ; 6 ; 29 ; 27 ; 23
+ 8;  Tacuarembó FC             ; 17 ;  5 ; 8 ; 4 ; 21 ; 23 ; 23
+ 9;  Deportivo Maldonado       ; 17 ;  7 ; 1 ; 9 ; 25 ; 32 ; 22
+10;  CA River Plate            ; 17 ;  4 ; 6 ; 7 ; 30 ; 32 ; 18
+11;  Racing                    ; 17 ;  5 ; 3 ; 9 ; 25 ; 33 ; 18
+12;  Juventud                  ; 17 ;  4 ; 6 ; 7 ; 17 ; 25 ; 18
+13;  Rocha FC                  ; 17 ;  4 ; 6 ; 7 ; 30 ; 41 ; 18
+14;  Liverpool                 ; 17 ;  5 ; 3 ; 9 ; 19 ; 30 ; 18
+15;  Paysandú Bella Vista      ; 17 ;  5 ; 2 ;10 ; 22 ; 30 ; 17
+16;  Frontera Rivera           ; 17 ;  4 ; 3 ;10 ; 25 ; 39 ; 15
+17;  Villa Española            ; 17 ;  3 ; 5 ; 9 ; 24 ; 40 ; 14
+18;  Huracán Buceo             ; 17 ;  3 ; 3 ;11 ; 20 ; 33 ; 12
+
+*Apertura Champions: Nacional 
+*523 goals = 3.418 goals/match. 
+
+Season: 2000 
+Stage: Clausura
+
+ 1;  Peñarol                   ; 16 ; 13 ; 3 ; 0 ; 35 ; 11 ; 42
+ 2;  Defensor Sporting         ; 16 ; 12 ; 4 ; 0 ; 44 ; 13 ; 40
+ 3;  Nacional                  ; 16 ; 11 ; 4 ; 1 ; 28 ; 11 ; 37
+ 4;  Danubio                   ; 16 ;  7 ; 7 ; 2 ; 36 ; 15 ; 28
+ 5;  Tacuarembó FC             ; 16 ;  7 ; 4 ; 5 ; 23 ; 17 ; 25
+ 6;  CA River Plate            ; 16 ;  6 ; 4 ; 6 ; 25 ; 30 ; 22
+ 7;  Cerro                     ; 16 ;  5 ; 5 ; 6 ; 23 ; 24 ; 20
+ 8;  Racing                    ; 16 ;  5 ; 5 ; 6 ; 21 ; 24 ; 20
+ 9;  Bella Vista               ; 16 ;  5 ; 4 ; 7 ; 27 ; 34 ; 19
+10;  Rentistas                 ; 16 ;  4 ; 5 ; 7 ; 15 ; 23 ; 17
+11;  Juventud                  ; 16 ;  4 ; 4 ; 8 ; 18 ; 23 ; 16
+12;  Paysandú Bella Vista      ; 16 ;  3 ; 6 ; 7 ; 18 ; 24 ; 15
+13;  Huracán Buceo             ; 16 ;  3 ; 5 ; 8 ; 17 ; 26 ; 14
+14;  Deportivo Maldonado       ; 16 ;  3 ; 5 ; 8 ; 17 ; 27 ; 14
+15;  Frontera Rivera           ; 16 ;  4 ; 2 ;10 ; 21 ; 37 ; 14
+16;  Rocha FC                  ; 16 ;  4 ; 2 ;10 ; 20 ; 36 ; 14
+17;  Liverpool                 ; 16 ;  2 ; 7 ; 7 ; 12 ; 25 ; 13
+
+*Clausura Champions: Peñarol
+*(Villa Española was automatically relegated as they couldn't present a home field)
+
+
+*About this document
+*Thanks to Diego Antognazza (oguico@hotmail.com) and G.E.F.U. for additional information and corrections.
+*Prepared and maintained by Dinant Abbink and Martín Tabeira for the Rec.Sport.Soccer Statistics Foundation
+*Authors: Dinant Abbink (abbink@iae.nl) and Martín Tabeira (martintab@hotmail.com)
+*Last updated: 12 Feb 2006
+*(C) Copyright Dinant Abbink, Martín Tabeira and RSSSF 1999/2006
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+
+
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+BlockSource: http://www.rsssf.com/tablesu/uru01.html
+Season: 2001
+
+*Primera División Profesional 
+*
+*TORNEO CLASIFICATORIO
+*
+*NB: first two of each group and 4 best teams overall other than those
+*    qualify for Apertura and Clausura; remaining 8 teams enter relegation
+*    playoff (Permanencia); for group tables, only head-to-head encounters
+*    are taken into account (marked [*] following the tie)
+
+Stage: Clasificatorio
+
+ 1; Peñarol                   ; 17; 12;  3;  2; 30; 16; 39;  [qualified in grupo B]
+ 2; Danubio                   ; 17; 11;  5;  1; 42; 24; 38;  [qualified in grupo A]
+ 3; Defensor Sporting         ; 17; 11;  3;  3; 42; 22; 36;  [qualified in grupo B]
+ 4; Nacional                  ; 17;  8;  7;  2; 37; 20; 31;  [qualified in grupo A]
+ 5; Bella Vista (Montevideo)  ; 17;  9;  4;  4; 36; 24; 31;  qualified
+ 6; Fénix                     ; 17;  9;  2;  6; 31; 21; 29;  qualified
+
+ 7; Montevideo Wanderers      ; 17;  7;  6;  4; 27; 20; 27;  qualified
+ 8; Deportivo Tacuarembó      ; 17;  5;  7;  5; 22; 22; 22;  qualified (best interior team)
+ 9; Central Español           ; 17;  5;  5;  7; 27; 26; 20;  
+10; Racing Sayago             ; 17;  5;  5;  7; 18; 24; 20;
+11; Cerro                     ; 17;  5;  4;  8; 23; 20; 19;
+12; Juventud (Las Piedras)    ; 17;  5;  3;  9; 16; 24; 18;  [qualified in grupo C]  
+13; Rentistas                 ; 17;  5;  3;  9; 14; 29; 18;
+14; Bella Vista (Paysandú)    ; 17;  3;  7;  7; 15; 26; 16;  [qualified in grupo C]
+15; Huracán Buceo             ; 17;  3;  6;  8; 25; 31; 15;
+16; River Plate               ; 17;  3;  6;  8; 11; 25; 15;
+17; Deportivo Maldonado       ; 17;  3;  5;  9; 13; 32; 14;
+18; Rocha                     ; 17;  2;  3; 12; 17; 40;  9;
+
+*Peñarol as best team in overall table qualify for Copa Libertadores 2002
+
+
+* What is this??
+*Tables:
+*
+*Group A (Grupo de los Siete)
+* 1.Nacional                    6  4  1  1 13- 6 13  Qualified
+* 2.Danubio                     6  4  1  1 14- 9 13  Qualified
+* - - - - - - - - - - - - - - - - - - - - - - - - -
+* 3.Bella Vista (Montevideo)    6  3  2  1 13- 7 11
+* 4.Cerro                       6  2  2  2 10- 7  8
+* 5.Fénix                       6  2  1  3  8- 9  7
+* 6.Rentistas                   6  2  0  4  5-12  6
+* 7.River Plate                 6  0  1  5  4-17  1
+*
+*Group B (Grupo de los Seis)
+* 1.Peñarol                     5  4  1  0  8- 3 13  Qualified
+* 2.Defensor Sporting           5  2  1  2 10- 9  7  [1 0 1 0 2-2 1] won draw
+* - - - - - - - - - - - - - - - - - - - - - - - - -
+* 3.Central Español             5  2  1  2 10- 9  7  [1 0 1 0 2-2 1] lost draw
+* 4.Racing Sayago               5  2  1  2  5- 7  7
+* 5.Montevideo Wanderers        5  1  2  2  9-11  5
+* 6.Huracán Buceo               5  0  2  3  5- 8  2
+*
+*NB: 2nd place decided on a draw (raffle with numbered balls) on June 19
+*    as Central and Defensor had identical records and played a draw against 
+*    each other; Defensor won
+*
+*Group C (Grupo del Interior)
+* 1.Juventud (Las Piedras)      4  2  1  1  5- 3  7  Qualified 
+* 2.Bella Vista (Paysandú)      4  1  2  1  3- 3  5  Qualified
+* - - - - - - - - - - - - - - - - - - - - - - - - -
+* 3.Deportivo Maldonado         4  1  2  1  2- 2  5
+* 4.Deportivo Tacuarembó        4  1  2  1  4- 5  5
+* 5.Rocha                       4  1  1  2  5- 6  4
+
+
+
+*Uruguayo 2001
+Stage: Apertura
+
+ 1; Danubio                   ;  9;  7;  1;  1; 17;  4; 22;  Apertura Winners
+ 2; Peñarol                   ;  9;  6;  3;  0; 18;  7; 21;
+ 3; Nacional                  ;  9;  6;  0;  3; 15;  9; 18;
+ 4; Montevideo Wanderers      ;  9;  5;  2;  2; 14; 11; 17;
+ 5; Defensor Sporting         ;  9;  3;  4;  2; 20; 15; 13;
+ 6; Fénix                     ;  9;  4;  1;  4; 16; 13; 13;
+ 7; Deportivo Tacuarembó      ;  9;  2;  2;  5;  9; 14;  8;
+ 8; Bella Vista (Montevideo)  ;  9;  2;  0;  7; 12; 20;  6;
+ 9; Bella Vista (Paysandú)    ;  9;  1;  2;  6;  5; 19;  5;
+10; Juventud (Las Piedras)    ;  9;  1;  1;  7; 10; 24;  4;
+
+Stage: Clausura
+
+ 1; Nacional                  ;  9;  6;  3;  0; 19;  7; 21;  Clausura Winners
+ 2; Danubio                   ;  9;  6;  0;  3; 19; 13; 18;
+ 3; Peñarol                   ;  9;  5;  1;  3; 11; 10; 16;
+ 4; Defensor Sporting         ;  9;  4;  1;  4; 15; 18; 13;
+ 5; Montevideo Wanderers      ;  9;  3;  3;  3; 12; 10; 12;
+ 6; Juventud (Las Piedras)    ;  9;  3;  4;  2; 12; 11; 10;  [*]
+*[*] Juventud had 3 points deducted for fielding an ineligible player in round 1
+ 7; Deportivo Tacuarembó      ;  9;  3;  1;  5;  9;  9; 10;
+ 8; Fénix                     ;  9;  2;  4;  3; 10; 12; 10;
+ 9; Bella Vista (Paysandú)    ;  9;  2;  3;  4; 13; 18;  9;
+10; Bella Vista (Montevideo)  ;  9;  1;  0;  8;  8; 20;  3;
+
+
+
+*Liguilla Pre-Libertadores
+*
+*Overall Table (to determine participation in Liguilla)
+*
+* 1.Danubio                    35 24  6  5 78-41 78  Qualified
+* 2.Peñarol                    35 23  7  5 59-33 76  
+* 3.Nacional                   35 20 10  5 71-36 70  
+* 4.Defensor Sporting          35 18  8  9 77-55 62  Qualified
+* - - - - - - - - - - - - - - - - - - - - - - - - -
+* 5.Montevideo Wanderers       35 15 11  9 53-41 56  Qualified 
+* 6.Fénix                      35 15  7 13 57-46 52  Qualified  
+* 7.Bella Vista (Montevideo)   35 12  4 19 56-64 40
+* 8.Deportivo Tacuarembó       35 10 10 15 40-45 40
+* 9.Juventud (Las Piedras)     35  9  8 18 38-59 32  [*]
+*10.Bella Vista (Paysandú)     35  6 12 17 33-63 30
+*
+*[*] Juventud had 3 points deducted for fielding an ineligible player
+*    in round 1 Clausura
+*
+*NB: Montevideo Wanderers take the place of Peñarol, Fénix that of Nacional
+*
+*Final Table:
+*
+* 1.Montevideo Wanderers        3  2  1  0  8- 2  7  Winners
+* 2.Defensor Sporting           3  1  2  0  5- 3  5
+* 3.Danubio                     3  1  1  1  4- 6  4
+* 4.Fénix                       3  0  0  3  2- 8  0
+*
+*Montevideo Wanderers qualify for Copa Libertadores 2002.
+
+* There are even more tables that I am ignoring for the time being.
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru02.html
+Season: 2002
+
+
+*Primera División Profesional 
+*
+*TORNEO CLASIFICATORIO
+*
+*NB: first two of each group and 4 best teams overall other than those
+*    qualify for Apertura and Clausura; remaining 8 teams enter relegation
+*    playoff (Permanencia); group tables take all matches into account
+*    (unlike last year).
+
+Stage: Clasificatorio
+
+ 1; CA Peñarol                ; 17; 10;  6;  1;  41; 22; 36;  Qualified (B-1)
+ 2; C Nacional dF             ; 17; 10;  2;  5;  40; 24; 32;  Qualified (A-1)
+ 3; CA Fénix                  ; 17;  9;  5;  3;  40; 26; 32;  Qualified (A-2)
+ 4; Danubio FC                ; 17; 10;  2;  5;  37; 24; 32;  Qualified  1st overall
+ 5; CA Plaza (Colonia)        ; 17; 10;  2;  5;  25; 16; 32;  Qualified (C-1)
+ 6; Defensor Sporting Club    ; 17;  9;  4;  4;  32; 16; 31;  Qualified (B-2)
+ 7; Central Español FC        ; 17;  9;  4;  4;  28; 30; 31;  Qualified  2nd overall
+ 8; Montevideo Wanderers FC   ; 17;  7;  4;  6;  24; 26; 25;  Qualified  3rd overall
+ 9; Club Deportivo Maldonado  ; 17;  7;  3;  7;  31; 22; 24;  Qualified (C-2)
+10; CSyD Villa Española       ; 17;  6;  4;  7;  27; 29; 22;  Qualified  4th overall
+
+11; Tacuarembó FC             ; 17;  5;  6;  6;  18; 20; 21;  Relegation Playoff
+12; CA River Plate            ; 17;  6;  3;  8;  29; 34; 21;  Relegation Playoff
+13; Bella Vista (Paysandú)    ; 17;  6;  1; 10;  17; 29; 19;  Relegation Playoff
+14; CA Cerro                  ; 17;  4;  6;  7;  20; 27; 18;  Relegation Playoff
+15; CA Bella Vista (M'video)  ; 17;  4;  4;  9;  23; 30; 16;  Relegation Playoff
+16; Racing Club de Sayago     ; 17;  4;  4;  9;  19; 33; 16;  Relegation Playoff
+17; CA Juventud (Las Piedras) ; 17;  3;  3; 11;  19; 38; 12;  Relegation Playoff
+18; CA Progreso               ; 17;  0;  5; 12;  17; 41;  5;  Relegation Playoff
+
+
+*Uruguayan Championship 2002
+Stage: Apertura
+
+ 1; C Nacional dF             ;  9;  8;  1;  0;  20;  6; 25;  Apertura Winners
+ 2; CA Peñarol                ;  9;  7;  0;  2;  25; 12; 21;
+ 3; CA Fénix                  ;  9;  6;  0;  3;  22; 11; 18;
+ 4; Club Deportivo Maldonado  ;  9;  4;  2;  3;  10; 17; 14;
+ 5; Montevideo Wanderers FC   ;  9;  3;  3;  3;   8;  9; 12;
+ 6; Defensor Sporting Club    ;  9;  4;  0;  5;  15; 17; 12;
+ 7; Danubio FC                ;  9;  3;  2;  4;  12; 14; 11;
+ 8; CA Plaza (Colonia)        ;  9;  2;  2;  5;  10; 13;  8;
+ 9; Central Español FC        ;  9;  2;  1;  6;  13; 21;  7;
+10; CSyD Villa Española       ;  9;  0;  1;  8;   8; 23;  1;
+
+Stage: Clausura
+
+ 1; Danubio FC                ;  9;  6;  2;  1;  16;  8; 20;  Clausura Winners
+ 2; CA Peñarol                ;  9;  7;  1;  1;  25; 16; 19;  [-3]
+ 3; CA Fénix                  ;  9;  4;  3;  2;  24; 18; 15;
+ 4; Defensor Sporting Club    ;  9;  4;  3;  2;  16; 12; 15;
+ 5; C Nacional dF             ;  9;  4;  2;  3;  20; 16; 14;
+ 6; CA Plaza (Colonia)        ;  9;  4;  2;  3;  16; 12; 14;
+ 7; CSyD Villa Española       ;  9;  1;  4;  4;  10; 21;  7;
+ 8; Montevideo Wanderers FC   ;  9;  1;  3;  5;   8; 12;  6;
+ 9; Club Deportivo Maldonado  ;  9;  2;  0;  7;   8; 21;  6;
+10; Central Español FC        ;  9;  1;  2;  6;   9; 16;  5;
+ 
+*NB: Peñarol 3 points deducted in Clausura 2002 as sanction for incidents in
+*    a match against Danubio during the Clausura 2001
+
+
+
+*Overall Table:
+*
+* 1.CA Peñarol                 35 24  7  4  91-50 76  [-3]  Copa Libertadores
+* 2.C Nacional dF              35 22  5  8  80-46 71  Apertura Champions
+* 3.CA Fénix                   35 20  7  8  86-55 65  Pre-Liguilla
+* 4.Danubio FC                 35 18  7 10  65-46 63  Clausura Champions
+* 5.Defensor Sporting Club     35 17  7 11  63-45 58  Pre-Liguilla
+* 6.CA Plaza (Colonia)         35 16  6 13  51-41 54  Pre-Liguilla
+*- - - - - - - - - - - - - - - - - - - - - - - - - -
+* 7.Club Deportivo Maldonado   35 13  5 17  49-60 44  
+* 8.Montevideo Wanderers FC    35 11 10 14  40-47 43
+* 9.Central Español FC         35 12  7 16  50-67 43
+*10.CSyD Villa Española        35  7  9 19  45-73 30
+*
+*NB: Peñarol 3 points deducted in Clausura 2002 as sanction for incidents in
+*    a match against Danubio during the Clausura 2001
+
+
+*Torneo Permanencia 2002
+*
+*Final Tables:
+*
+*Montevideo Group 
+* 1.CA River Plate             31 12  6 13  47-50 42
+* 2.CA Cerro                   31 10 11 10  43-40 41
+* 3.CA Bella Vista (M'video)   31 10  8 13  41-46 38  
+*---------------------------------------------------   
+* 4.Racing Club de Sayago      31  7 11 13  38-50 32  Relegated  
+* 5.CA Progreso                31  7  8 16  34-58 29  Relegated
+*
+*Interior Group 
+* 1.Tacuarembó FC              31 11  9 11  33-36 42
+* 2.CA Juventud (Las Piedras)  31  7  8 16  37-58 29
+*--------------------------------------------------- 
+* 3.Bella Vista (Paysandú)     31  8  3 20  28-53 27  Relegated
+*
+*NB: in case the best 'interior' team in the Segunda División would have
+*    finished 6th, 7th, 8th or 9th, Bella Vista (Paysandú) would have been
+*    entitles to a play-off against them, but meanwhile it is mathematically
+*    certain that the best 'interior' team will finish 5th or better.
+
+
+
+*Final Tables:
+*
+*Montevideo Group 
+* 1.CA River Plate             31 12  6 13  47-50 42
+* 2.CA Cerro                   31 10 11 10  43-40 41
+* 3.CA Bella Vista (M'video)   31 10  8 13  41-46 38  
+*---------------------------------------------------   
+* 4.Racing Club de Sayago      31  7 11 13  38-50 32  Relegated  
+* 5.CA Progreso                31  7  8 16  34-58 29  Relegated
+*
+*Interior Group 
+* 1.Tacuarembó FC              31 11  9 11  33-36 42
+* 2.CA Juventud (Las Piedras)  31  7  8 16  37-58 29
+*--------------------------------------------------- 
+* 3.Bella Vista (Paysandú)     31  8  3 20  28-53 27  Relegated
+*
+*NB: in case the best 'interior' team in the Segunda División would have
+*    finished 6th, 7th, 8th or 9th, Bella Vista (Paysandú) would have been
+*    entitles to a play-off against them, but meanwhile it is mathematically
+*    certain that the best 'interior' team will finish 5th or better.
+
+
+
+*Prepared and maintained by Francisco Fernández for the Rec.Sport.Soccer Statistics Foundation
+*Author: Francisco Fernández (ffernandez@espectador.com.uy) 
+*Last updated: 20 Feb 2003
+*(C) Copyright Francisco Fernández and RSSSF 2002/03
+*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru03.html
+Season: 2003
+
+*NB: Clasificatorio was abolished; 2 tournaments (Apertura and
+*    Clausura, both 17 rounds); winners to play off for championship
+*    (together with winners aggregate table if different);
+*    post-season Liguilla (8 clubs, round-robin) to qualify for 
+*    Copa Libertadores and Copa Sudamericana.
+*    Relegation: 2 worst Montevideo clubs and worst Interior club.
+
+*Primera División Profesional 
+
+Stage: Apertura
+
+ 1; C Nacional dF                ; 17; 14;  2;  1;  34; 9;  44;  Apertura winners
+ 2; CA Peñarol                   ; 17; 12;  2;  3;  43;20;  38;
+ 3; Danubio FC                   ; 17; 10;  4;  3;  34;19;  34;
+ 4; Montevideo Wanderers FC      ; 17; 10;  3;  4;  40;28;  33;
+ 5; CA Fénix                     ; 17;  9;  2;  6;  41;38;  29;
+ 6; CA Cerro                     ; 17;  8;  4;  5;  25;21;  28;
+ 7; CD Maldonado (Maldonado)     ; 17;  8;  4;  5;  24;26;  28;
+ 8; Defensor Sporting Club       ; 17;  8;  3;  6;  28;23;  27;
+ 9; Liverpool FC                 ; 17;  8;  3;  6;  24;24;  27;
+10; Miramar Misiones FC          ; 17;  6;  4;  7;  28;27;  22;
+11; CA Bella Vista               ; 17;  6;  3;  8;  23;22;  21;
+12; Central Español FC           ; 17;  6;  3;  8;  15;22;  21;
+13; Tacuarembó FC (Tacuarembó)   ; 17;  5;  5;  7;  25;26;  20;
+14; CSyD Villa Española          ; 17;  4;  5;  8;  31;37;  17;
+15; CA River Plate               ; 17;  3;  4; 10;  18;27;  13;
+16; CA Plaza (Colonia)           ; 17;  2;  6;  9;  17;26;  12;
+17; CD Colonia (Juan Lacaze, CO) ; 17;  2;  3; 12;  13;36;   9;
+18; CA Juventud (Las Piedras)    ; 17;  1;  2; 14;  11;43;   5;
+
+*NB: all teams from Montevideo unless indicated otherwise; two worst
+*    teams from Montevideo and worst other ('Interior') team in aggregate
+*    table will be relegated.
+
+Stage: Clausura
+
+ 1; CA Peñarol                   ; 17; 12;  3;  2;  30;13;  39;  Clausura winners
+ 2; Liverpool FC                 ; 17;  9;  4;  4;  23;15;  31;
+ 3; CA Fénix                     ; 17;  8;  5;  4;  21;16;  29;
+ 4; Defensor Sporting Club       ; 17;  8;  4;  5;  30;20;  28;
+ 5; Miramar Misiones FC          ; 17;  8;  4;  5;  26;21;  28;
+ 6; CA Cerro                     ; 17;  7;  6;  4;  22;17;  27;
+ 7; CA River Plate               ; 17;  8;  3;  6;  26;25;  27;
+ 8; Danubio FC                   ; 17;  7;  6;  4;  21;21;  27;
+ 9; C Nacional dF                ; 17;  7;  5;  5;  29;23;  26;
+10; CA Bella Vista               ; 17;  7;  5;  5;  23;22;  26;
+11; CD Maldonado (Maldonado)     ; 17;  6;  5;  6;  16;14;  23;
+12; CD Colonia (Juan Lacaze, CO) ; 17;  6;  5;  6;  24;23;  23;
+13; Central Español FC           ; 17;  7;  1;  9;  17;20;  22;
+14; Montevideo Wanderers FC      ; 17;  4;  7;  6;  19;24;  18;
+15; Tacuarembó FC (Tacuarembó)   ; 17;  4;  5;  8;  19;23;  17;
+16; CA Plaza (Colonia)           ; 17;  2;  5; 10;  16;30;  11;
+17; CSyD Villa Española          ; 17;  1;  5; 11;  14;29;   8;
+18; CA Juventud (Las Piedras)    ; 17;  2;  2; 13;  17;37;   8;
+
+*NB: all teams from Montevideo unless indicated otherwise; two worst
+*    teams from Montevideo and worst other ('Interior') team in aggregate
+*    table will be relegated.
+
+*Aggregate Table:
+*
+*Montevideo Relegation:
+* 1.CA Peñarol                    34 24  5  5  73-33  77  Clausura winners
+* 2.C Nacional dF                 34 21  7  6  63-32  70  Apertura winners
+* 3.Danubio FC                    34 17 10  7  55-40  61
+* 4.CA Fénix                      34 17  7 10  62-54  58
+* 5.Liverpool FC                  34 17  7 10  47-39  58
+* 6.Defensor Sporting Club        34 16  7 11  58-43  55
+* 7.CA Cerro                      34 15 10  9  47-38  55
+* 8.Montevideo Wanderers FC       34 14 10 10  59-52  52
+*10.Miramar Misiones FC           34 14  8 12  54-48  50
+*11.CA Bella Vista                34 13  8 13  46-44  47
+*12.Central Español FC            34 13  4 17  32-42  43
+*-------------------------------------------------------
+*13.CA River Plate                34 11  7 16  44-52  40  Relegated
+*16.CSyD Villa Española           34  5 10 19  45-66  25  Relegated
+*
+*Interior Relegation:
+* 9.CD Maldonado (Maldonado)      34 14  9 11  40-40  51
+*14.Tacuarembó FC (Tacuarembó)    34  9 10 15  44-49  37
+*15.CD Colonia (Juan Lacaze, CO)  34  8  8 18  37-59  32
+*17.CA Plaza (Colonia)            34  4 11 19  33-56  23
+*-------------------------------------------------------
+*18.CA Juventud (Las Piedras)     34  3  4 27  28-80  13  Relegated
+*
+*NB: all teams from Montevideo unless indicated otherwise; two worst
+*    teams from Montevideo and worst other ('Interior') team in aggregate
+*    table will be relegated.
+
+*Liguilla Pre-Libertadores
+*
+* 1.CA Fénix                       7  4  2  1   8- 4  14
+* 2.CD Maldonado (Maldonado)       7  3  3  1   8- 6  12
+*   Danubio FC                     7  3  3  1  10-11  12
+* 4.Liverpool FC                   7  3  2  2   9- 6  11
+* 5.CA Cerro                       7  2  5  0   5- 3  11
+* 6.Defensor Sporting Club         7  1  3  3  10- 8   6
+* 7.Montevideo Wanderers FC        7  1  2  4   8-12   5
+* 8.Miramar Misiones FC            7  0  2  5   5-13   2
+
+BlockSource: http://www.rsssf.com/tablesu/uru04.html
+Season: 2004
+
+*Primera División Profesional 
+*
+*Clasificatorio 2004
+*
+*Played as single round robin.  
+*
+*Top-10 reach Apertura and Clausura 2004; however
+*  a) if only 1 Interior team is in the top-10; the 2nd best Interior
+*     team plays off in a single match with the worst Montevideo team
+*     in the top-10 provided the two are no more than 5 points apart;
+*  b) if no Interior team is in the top-10, the 2 best Interior teams
+*     play off in a single round robin against the 2 worst Montevideo
+*     teams in the top-10 provided they are within 5 points of the 10th
+*     Montevideo team; 
+*  c) if more than 3 Interior teams are in the top-10, only the best 3
+*     qualify and the remaining place(s) go(es) to the best Montevideo 
+*     team(s) not in the top-10.
+*
+*the other 8 enter the Reclasificatorio 2004.
+
+Stage: Clasificatorio
+
+ 1; Danubio FC                   ; 17; 12;  5;  0;  32;11;  41;  Winners
+ 2; CS Cerrito                   ; 17; 10;  3;  4;  25;17;  33;  Qualified
+ 3; CA Peñarol                   ; 17;  9;  5;  3;  34;17;  32;  Qualified
+ 4; C Nacional dF                ; 17;  8;  5;  4;  26;15;  29;  Qualified
+ 5; Liverpool FC                 ; 17;  8;  5;  4;  24;19;  29;  Qualified
+ 6; CA Rentistas                 ; 17;  6;  7;  4;  23;18;  25;  Qualified
+ 7; Montevideo Wanderers FC      ; 17;  7;  4;  6;  15;18;  25;  Qualified
+ 8; CA Fénix                     ; 17;  6;  6;  5;  27;21;  24;  Qualified
+
+ 9; Defensor Sporting Club       ; 17;  5;  7;  5;  22;24;  22;  Repechaje
+10; CA Cerro                     ; 17;  7;  1;  9;  21;26;  22;  Repechaje
+
+11; Miramar Misiones FC          ; 17;  5;  6;  6;  24;25;  21;  Reclasificatorio
+12; CA Plaza (Colonia)           ; 17;  3;  9;  5;  29;32;  18;  Repechaje
+13; CD Colonia (Juan Lacaze, CO) ; 17;  3;  9;  5;  19;24;  18;  Repechaje
+14; Rocha FC (Rocha)             ; 17;  3;  8;  6;  22;33;  17;  Reclasificatorio
+15; CA Bella Vista               ; 17;  4;  4;  9;  15;26;  16;  Reclasificatorio
+16; Tacuarembó FC (Tacuarembó)   ; 17;  3;  4; 10;  18;28;  13;  Reclasificatorio
+17; Central Español FC           ; 17;  2;  6;  9;  14;25;  12;  Reclasificatorio
+18; CD Maldonado (Maldonado)     ; 17;  1;  8;  8;  12;23;  11;  Reclasificatorio
+
+*NB: all teams from Montevideo unless indicated otherwise
+
+
+
+Stage: Apertura
+
+*single round robin between 10 qualified teams, winners play off for
+*championship.
+
+ 1; C Nacional dF                ;  9;  6;  3;  0;  17; 6;  21;  Apertura Winners
+ 2; Defensor Sporting Club       ;  9;  6;  2;  1;  18; 7;  20;
+ 3; Danubio FC                   ;  9;  5;  3;  1;  11; 5;  18;
+ 4; Liverpool FC                 ;  9;  3;  4;  2;  13;15;  13;
+ 5; CA Peñarol                   ;  9;  3;  3;  3;  16;14;  12;
+ 6; CA Rentistas                 ;  9;  3;  2;  4;  13;13;  11;
+ 7; CA Plaza (Colonia)           ;  9;  1;  4;  4;   8;12;   7;
+ 8; CS Cerrito                   ;  9;  2;  1;  6;   8;14;   7;
+ 9; Montevideo Wanderers FC      ;  9;  1;  4;  4;   7;13;   7;
+10; CA Fénix                     ;  9;  0;  4;  5;   7;19;   4;
+
+
+Stage: Clausura
+
+ 1; Danubio FC                   ;  9;  7;  1;  1;  17; 6;  22;  Clausura Winners
+ 2; Defensor Sporting Club       ;  9;  5;  4;  0;  10; 4;  19;
+ 3; C Nacional dF                ;  9;  4;  3;  2;  18;12;  15;
+ 4; Liverpool FC                 ;  9;  5;  0;  4;  17;12;  15;
+ 5; CA Peñarol                   ;  9;  4;  2;  3;  16;18;  14;
+ 6; CA Rentistas                 ;  9;  2;  4;  3;   8;17;  10;
+ 7; CA Fénix                     ;  9;  2;  3;  4;  16;16;   9;
+ 8; Montevideo Wanderers FC      ;  9;  2;  3;  4;   6; 9;   9;
+ 9; CS Cerrito                   ;  9;  2;  2;  5;  11;16;   8;
+10; CA Plaza (Colonia)           ;  9;  0;  2;  7;   7;16;   2;
+
+
+*Tabla Anual 2004
+*
+*involves only the 10 teams qualified for Apertura and Clausura; the
+*Table Anual includes all points in the Apertura and clausura as well
+*as the head-to-head results between the 10 teams in the Clasificatorio
+*(so effectively a triple round robin).
+
+*Final Table:
+*
+* 1.Danubio FC                    27 18  7  2  40-11  61  Anual Winners
+* 2.Defensor Sporting Club        27 13 10  4  43-29  49
+* 3.C Nacional dF                 27 12  9  6  43-25  45
+* 4.CA Peñarol                    27 12  8  7  51-41  44
+* 5.Liverpool FC                  27 12  5 10  44-42  41
+* 6.CA Rentistas                  27  6 10 11  29-43  28
+* 7.Montevideo Wanderers FC       27  6  9 12  18-34  27
+* 8.CS Cerrito                    27  7  5 15  30-45  26
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 9.CA Fénix                      27  5  9 13  35-47  24  Pre-Liguilla Playoff
+*10.CA Plaza (Colonia)            27  2 12 13  28-44  18  Pre-Liguilla Playoff
+
+
+Stage: Reclasificatorio
+
+*double round robin; three teams relegated: the worst Montevideo team,
+*the worst Interior team, and the worst other team in the final table.
+*Points from Clasificatorio are carried over.  Top-2 qualify for Liguilla
+*to qualify clubs for Copa Libertadores and Sudamericana.
+
+*Starting Table (records first phase):
+
+11; CA Cerro                     ; 17;  7;  1;  9;  21;26;  22;
+12; Miramar Misiones FC          ; 17;  5;  6;  6;  24;25;  21;
+13; CD Colonia (Juan Lacaze, CO) ; 17;  3;  9;  5;  19;24;  18;
+14; Rocha FC (Rocha)             ; 17;  3;  8;  6;  22;33;  17;
+15; CA Bella Vista               ; 17;  4;  4;  9;  15;26;  16;
+16; Tacuarembó FC (Tacuarembó)   ; 17;  3;  4; 10;  18;28;  13;
+17; Central Español FC           ; 17;  2;  6;  9;  14;25;  12;
+18; CD Maldonado (Maldonado)     ; 17;  1;  8;  8;  12;23;  11;
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru05.html
+Season: 2005 Especial
+
+*Primera División Profesional 
+*
+*Torneo Uruguay Especial
+*
+*NB: intermediate season as Uruguay will change to 'European' season
+*    for 2005/06.  Winners qualify for Copa Libertadores 2006.
+
+
+
+ 1; C Nacional dF                ; 17; 12;  5;  0;  39;16;  41;  Championship Playoff
+ 2; Defensor Sporting Club       ; 17; 12;  5;  0;  33;13;  41;  Championship Playoff
+ 3; CA Peñarol                   ; 17; 10;  5;  2;  28;19;  35;
+ 4; Danubio FC                   ; 17;  8;  4;  5;  23;16;  28;
+ 5; Rocha FC (Rocha)             ; 17;  6;  7;  4;  27;21;  25;
+ 6; Liverpool FC                 ; 17;  7;  4;  6;  26;25;  25;
+ 7; CA Rentistas                 ; 17;  6;  6;  5;  30;25;  24;
+ 8; Miramar Misiones FC          ; 17;  7;  2;  8;  33;29;  23;
+ 9; Montevideo Wanderers FC      ; 17;  6;  5;  6;  30;33;  23;
+10; CA River Plate               ; 17;  6;  4;  7;  34;32;  22;
+11; CS Cerrito                   ; 17;  5;  6;  6;  21;19;  21;
+12; Tacuarembó FC (Tacuarembó)   ; 17;  5;  6;  6;  17;18;  21;
+13; CA Fénix                     ; 17;  5;  4;  8;  19;26;  19;
+14; Paysandú FC (Paysandú)       ; 17;  3;  5;  9;  23;34;  14;
+15; Rampla Juniors FC            ; 17;  3;  5;  9;  19;31;  14;
+16; CA Plaza (Colonia)           ; 17;  3;  5;  9;   8;27;  14;
+17; CA Cerro                     ; 17;  3;  4; 10;  20;30;  13;
+18; CD Colonia (Juan Lacaze, CO) ; 17;  3;  4; 10;  15;31;  13;
+
+*NB: all teams from Montevideo unless indicated otherwise;
+*    no promotion or relegation
+
+
+*NB: the 2005/06 season starts August 20 and is divided into
+*    Apertura, Clausura, and play-offs;
+*
+*    at the end of the Apertura, the 3 worst teams of the Torneo
+*    Uruguay Especial and the Apertura are relegated while 2 teams
+*    from the 2nd level are promoted;
+*
+*    at the end of the Clausura (start Feb 2006, played with 
+*    17 clubs), the 2 worst teams over 2005/06 (average points) 
+*    are relegated while 1 club is promoted from 2nd level;
+*
+*    the winners of Apertura and Clausura play a 'semifinal'
+*    over 2 or 3 matches; the winners of that match play the 
+*    best team in the aggregate table for the 2005/06 championship;
+*
+*    finally, the 'Copa Artigas 2006' will be played between the
+*    top-6 teams in the aggregate table of Apertura and Clausura
+*    as a single round robin to determine the remaining places in
+*    the Copa Libertadores 2007 and Copa Sudamericana 2006;
+*
+*    in 2006/07 there will be 16 clubs in the top level.
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru06.html
+Season: 2005-2006
+
+Stage: Apertura
+
+ 1; Rocha FC (Rocha)             ; 17; 10;  3;  4;  37;25;  33;  Apertura Winners
+ 2; C Nacional dF                ; 17;  9;  7;  1;  32;16;  31;  [-3]
+ 3; Danubio FC                   ; 17;  8;  3;  6;  36;25;  27;
+ 4; Rampla Juniors FC            ; 17;  8;  2;  7;  35;25;  26;
+ 5; CD Colonia (Juan Lacaze, CO) ; 17;  6;  8;  3;  23;19;  26;
+ 6; CS Cerrito                   ; 17;  6;  7;  4;  20;18;  25;
+ 7; CA Peñarol                   ; 17;  6;  7;  4;  22;26;  25;
+ 8; CA River Plate               ; 17;  6;  6;  5;  24;22;  24;
+ 9; CA Rentistas                 ; 17;  7;  3;  7;  21;22;  24;
+10; Liverpool FC                 ; 17;  5;  7;  5;  19;18;  22;
+11; Defensor Sporting Club       ; 17;  5;  7;  5;  21;21;  22;
+12; CA Cerro                     ; 17;  5;  7;  5;  23;25;  22;
+13; CA Plaza (Colonia)           ; 17;  5;  6;  6;  15;23;  21;
+14; Montevideo Wanderers FC      ; 17;  4;  8;  5;  27;32;  20;
+15; Miramar Misiones FC          ; 17;  3;  9;  5;  18;18;  18;
+16; Tacuarembó FC (Tacuarembó)   ; 17;  4;  5;  8;  13;21;  17;
+17; CA Fénix                     ; 17;  3;  4; 10;  22;31;  13;
+18; Paysandú FC (Paysandú)       ; 17;  1;  5; 11;  18;39;   8;
+
+*NB: Nacional 3 points deducted for crowd disturbances in match
+*    against Peñarol in Clausura 2004
+*
+*NB: all teams from Montevideo unless indicated otherwise
+
+
+*Annual Table 2005:
+
+* 1.C Nacional dF                 34 21 12  1  71-32  72  [-3]
+* 2.Defensor Sporting Club        34 17 12  5  54-34  63
+* 3.CA Peñarol                    34 16 12  6  50-45  60
+* 4.Rocha FC (Rocha)              34 16 10  8  64-46  58
+* 5.Danubio FC                    34 16  7 11  59-41  55
+* 6.CA Rentistas                  34 13  9 12  51-47  48
+* 7.Liverpool FC                  34 12 11 11  45-43  47
+* 8.CA River Plate                34 12 10 12  58-54  46
+* 9.CS Cerrito                    34 11 13 10  41-37  46
+*10.Montevideo Wanderers FC       34 10 13 11  57-65  43
+*11.Miramar Misiones FC           34 10 11 13  51-47  41
+*12.Rampla Juniors FC             34 11  7 16  54-56  40
+*13.CD Colonia (Juan Lacaze, CO)  34  9 12 13  38-50  39
+*14.Tacuarembó FC (Tacuarembó)    34  9 11 14  30-39  38
+*15.CA Cerro                      34  8 11 15  43-55  35  Relegation Playoff
+*-------------------------------------------------------
+*16.CA Plaza (Colonia)            34  8 11 15  23-50  35  Relegation Playoff
+*17.CA Fénix                      34  8  8 18  41-57  32  Relegated
+*18.Paysandú FC (Paysandú)        34  4 10 20  41-73  22  Relegated
+*
+*NB: Nacional 3 points deducted for crowd disturbances in match
+*    against Peñarol in Clausura 2004
+
+Season: 2005-2006
+Stage: Clausura
+
+ 1; C Nacional dF                ; 16; 12;  2;  2;  31;12;  38;  Clausura Winners
+ 2; Defensor Sporting Club       ; 16; 10;  5;  1;  34;15;  35;
+ 3; Danubio FC                   ; 16;  9;  3;  4;  31;24;  30;
+ 4; Central Español FC           ; 16;  8;  3;  5;  19;16;  27;
+ 5; Liverpool FC                 ; 16;  7;  4;  5;  27;27;  25;
+ 6; CA Rentistas                 ; 16;  7;  3;  6;  28;22;  24;
+ 7; CS Cerrito                   ; 16;  5;  8;  3;  17;16;  23;
+ 8; Rampla Juniors FC            ; 16;  6;  5;  5;  24;29;  23;
+ 9; CA River Plate               ; 16;  6;  2;  8;  19;20;  20;
+10; CA Bella Vista               ; 16;  5;  4;  7;  18;19;  19;
+11; Tacuarembó FC (Tacuarembó)   ; 16;  4;  6;  6;  12;19;  18;
+12; Montevideo Wanderers FC      ; 16;  4;  4;  8;  18;19;  16;
+13; CA Cerro                     ; 16;  6;  3;  7;  23;16;  15;  [- 6]
+14; Miramar Misiones FC          ; 16;  3;  5;  8;  17;30;  14;
+15; Rocha FC (Rocha)             ; 16;  3;  3; 10;  18;29;  12;
+16; CD Colonia (Juan Lacaze, CO) ; 16;  3;  2; 11;  12;30;  11;
+17; CA Peñarol                   ; 16;  5;  4;  7;  20;25;   7;  [-12]
+
+*NB: Peñarol had 12 and Cerro 6 points deducted following various
+*      incidents including the murder of a Cerro fan by Peñarol
+*      hooligans on Mar 11; Cerro will have 3 more points deducted
+*      in Apertura 2006/07
+* 
+*NB: all teams from Montevideo unless indicated otherwise
+
+
+
+*Aggregate Table 2005/06
+*
+* 1.C Nacional dF                 33 21  9  3  63-28  69  [- 3]  Championship Final
+* 2.Defensor Sporting Club        33 15 12  6  55-36  57  Copa Artigas
+* 3.Danubio FC                    33 17  6 10  67-49  57  Copa Artigas
+* 4.Central Español FC            16  8  3  5  19-16  27  (55.7)  Copa Artigas
+* 5.Rampla Juniors FC             33 14  7 12  59-54  49  Copa Artigas
+* 6.CA Rentistas                  33 14  6 13  49-44  48  Copa Artigas
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 7.CS Cerrito                    33 11 15  7  37-34  48
+* 8.Liverpool FC                  33 12 11 10  46-45  47
+* 9.Rocha FC (Rocha)              33 13  6 14  55-54  45
+*10.CA River Plate                33 12  8 13  43-42  44
+*11.CA Bella Vista                16  5  4  7  18-19  19  (39.2)
+*12.CA Cerro                      33 11 10 12  46-41  37  [- 6]
+*13.CD Colonia (Juan Lacaze, CO)  33  9 10 14  35-49  37
+*14.Montevideo Wanderers FC       33  8 12 13  45-51  36
+*15.Tacuarembó FC (Tacuarembó)    33  8 11 14  25-40  35
+*16.CA Peñarol                    33 11 11 11  42-51  32  [-12]
+*17.Miramar Misiones FC           33  6 14 13  35-48  32
+* -.CA Plaza (Colonia)            17  5  6  6  15-23  21
+* -.CA Fénix                      17  3  4 10  22-31  13
+* -.Paysandú FC (Paysandú)        17  1  5 11  18-39   8
+*
+*NB: point totals of Central Español and Bella Vista are multiplied by 33/16
+*
+*NB: the winners of Apertura and Clausura play a 'semifinal'
+*    over 2 or 3 matches; the winners of that match play the 
+*    best team in the aggregate table for the 2005/06 championship
+
+*Copa Artigas 2006
+*
+*NB: between top-6 teams in the aggregate table of Apertura and
+*    Clausura; to determine the remaining places in the Copa
+*    Libertadores 2007 and Copa Sudamericana 2006
+*
+*Final Table:
+*
+* 1.Defensor Sporting Club         5  3  2  0   9- 3  11
+* 2.Danubio FC                     5  3  1  1  16- 7  10
+* 3.C Nacional dF                  5  2  2  1   8- 6   8
+* 4.Central Español FC             5  2  1  2   5- 9   7
+* 5.CA Rentistas                   5  1  1  3   9-11   4
+* 6.Rampla Juniors FC              5  0  1  4   3-14   1
+
+
+*Relegation Table (average 2005 and 2005/06):
+*                                 Pts Pd  Avg
+*13.CA Bella Vista                 19 16 1.188
+*14.Tacuarembó FC (Tacuarembó)     56 50 1.120
+*15.Miramar Misiones FC            55 50 1.110
+*---------------------------------------------
+*16.CA Cerro                       50 50 1.000
+*17.CD Colonia (Juan Lacaze, CO)   50 50 1.000
+*
+*NB: the 2 worst teams over 2005-2005/06 (3 seasons; average points) 
+*    are relegated while 1 club is promoted from 2nd level;
+*    in 2006/07 there will be 16 clubs in the top level; Apertura 2006
+*    to be played Aug 20-Dec 3
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru07.html
+Season: 2006-2007
+
+*NB: bottom-3 teams in aggregate table (Apertura 2006 and Clausura 2007)
+*    are relegated;
+*    Apertura and Clausura winners play off with best team overall for
+*    the championship
+
+Stage: Apertura
+
+
+ 1; Danubio FC                   ; 15; 11;  1;  3;  36;17;  34;  Apertura winners
+ 2; CA Peñarol                   ; 15; 10;  2;  3;  30;18;  32;
+ 3; Defensor Sporting Club       ; 15;  9;  4;  2;  28;13;  31;
+ 4; CA Bella Vista               ; 15; 10;  1;  4;  25;15;  31;
+ 5; C Nacional dF                ; 15;  8;  3;  4;  28;22;  27;
+ 6; Montevideo Wanderers FC      ; 15;  8;  3;  4;  22;18;  27;
+ 7; Liverpool FC                 ; 15;  6;  4;  5;  24;20;  22;
+ 8; Central Español FC           ; 15;  7;  1;  7;  21;25;  22;
+ 9; Tacuarembó FC (Tacuarembó)   ; 15;  4;  4;  7;  15;18;  16;
+10; Rocha FC (Rocha)             ; 15;  4;  3;  8;  15;21;  15;
+11; CA River Plate               ; 15;  4;  3;  8;  15;25;  15;
+12; Miramar Misiones FC          ; 15;  3;  5;  7;  17;26;  14;
+13; CS Cerrito                   ; 15;  4;  4;  7;  16;21;  13;  [-3]
+14; CA Progreso                  ; 15;  3;  4;  8;  16;31;  13;
+15; Rampla Juniors FC            ; 15;  3;  3;  9;  15;23;  12;
+16; CA Rentistas                 ; 15;  1;  5;  9;  13;23;   8;
+
+*NB: Cerrito had 3 points deducted for problems with their fans
+*    around a match against Rentistas on May 14, 2006
+
+Stage: Clausura
+
+ 1; Danubio FC                   ; 15; 10;  2;  3;  26;10;  32;  Clausura Playoff
+  ; CA Peñarol                   ; 15;  9;  5;  1;  34;20;  32;  Clausura Playoff
+ 3; Defensor Sporting Club       ; 15;  8;  4;  3;  29;19;  28;
+ 4; Montevideo Wanderers FC      ; 15;  8;  2;  5;  31;21;  26;
+ 5; CA River Plate               ; 15;  5;  6;  4;  26;22;  21;
+ 6; Tacuarembó FC (Tacuarembó)   ; 15;  4;  8;  3;  25;21;  20;
+ 7; CA Bella Vista               ; 15;  6;  2;  7;  23;23;  20;
+ 8; Liverpool FC                 ; 15;  6;  2;  7;  23;24;  20;
+ 9; Miramar Misiones FC          ; 15;  6;  2;  7;  19;20;  20;
+10; Rampla Juniors FC            ; 15;  5;  5;  5;  20;24;  20;
+11; CA Progreso                  ; 15;  4;  6;  5;  22;21;  18;
+12; C Nacional dF                ; 15;  5;  3;  7;  14;22;  18;
+13; CA Rentistas                 ; 15;  4;  4;  7;  20;28;  16;
+14; Rocha FC (Rocha)             ; 15;  5;  1;  9;   9;23;  16;
+15; Central Español FC           ; 15;  3;  3;  9;  10;23;  12;
+16; CS Cerrito                   ; 15;  2;  5;  8;  17;27;  11;
+
+*Aggregate Table:
+
+* 1.Danubio FC                    30 21  3  6  62-27  66  Apertura/Clausura winners
+* 2.CA Peñarol                    30 19  7  4  64-38  64
+* 3.Defensor Sporting Club        30 17  8  5  57-32  59
+* 4.Montevideo Wanderers FC       30 16  5  9  53-39  53
+* 5.CA Bella Vista                30 16  3 11  48-38  51
+* 6.C Nacional dF                 30 13  6 11  42-44  45
+* 7.Liverpool FC                  30 12  6 12  47-44  42
+* 8.Tacuarembó FC (Tacuarembó)    30  8 12 10  40-39  36
+* 9.CA River Plate                30  9  9 12  41-47  36
+*10.Miramar Misiones FC           30  9  7 14  36-46  34
+*11.Central Español FC            30 10  4 16  31-48  34
+*12.Rampla Juniors FC             30  8  8 14  35-47  32
+*13.CA Progreso                   30  7 10 13  38-52  31  Relegation Playoff
+*-------------------------------------------------------
+*   Rocha FC (Rocha)              30  9  4 17  24-44  31  Relegation Playoff
+*15.CS Cerrito                    30  6  9 15  33-48  24  [-3]  Relegated
+*16.CA Rentistas                  30  5  9 16  33-51  24  Relegated
+*
+*NB: season (including all playoffs) to be finished by Jun 11.
+
+
+
+*Copa Artigas 2007
+*
+*NB: Liguilla Pre-Sudamericana 2007 and Liguilla Pre-Libertadores 2008
+*
+*Final Table:
+*
+* 1.C Nacional dF                  5  4  0  1  10- 5  12  Libertadores  (Uruguay 2)
+* 2.Montevideo Wanderers FC        5  3  1  1  12- 9  10  Libertadores  (Uruguay 3)
+*   Danubio FC                     5  3  1  1   5- 3  10  Sudamericana  (Uruguay 1)
+* 4.Defensor Sporting Club         5  2  1  2   3- 3   7  Sudamericana  (Uruguay 2)
+* 5.CA Peñarol                     5  0  2  3   3- 6   2
+* 6.CA Bella Vista                 5  0  1  4   4-11   1
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru08.html
+Season: 2007-2008
+
+Stage: Apertura
+
+ 1; Defensor Sporting Club       ; 15; 11;  2;  2;  26;10;  35;  Apertura winners
+ 2; Danubio FC                   ; 15;  9;  4;  2;  34;14;  31;
+ 3; Rampla Juniors FC            ; 15;  9;  4;  2;  21;12;  31;
+ 4; CA River Plate               ; 15;  7;  3;  5;  37;27;  24;
+ 5; C Nacional dF                ; 15;  6;  6;  3;  19;12;  24;
+ 6; CA Juventud (Las Piedras)    ; 15;  6;  6;  3;  16;10;  24;
+ 7; CA Cerro                     ; 15;  5;  8;  2;  16;14;  23;
+ 8; Montevideo Wanderers FC      ; 15;  6;  3;  6;  24;26;  21;
+ 9; CA Fénix                     ; 15;  4;  8;  3;  14;14;  20;
+10; Central Español FC           ; 15;  5;  3;  7;  22;28;  18;
+11; CA Peñarol                   ; 15;  4;  5;  6;  21;23;  17;
+12; Tacuarembó FC (Tacuarembó)   ; 15;  4;  5;  6;  15;21;  17;
+13; Miramar Misiones FC          ; 15;  4;  1; 10;   9;20;  13;
+14; Liverpool FC                 ; 15;  3;  3;  9;  19;24;  12;
+15; CA Progreso                  ; 15;  3;  2; 10;  14;38;  11;
+16; CA Bella Vista               ; 15;  1;  3; 11;  14;28;   6;
+
+
+Stage: Clausura
+
+ 1; CA River Plate               ; 15; 12;  1;  2;  48;17;  37;  Playoff
+ 2; CA Peñarol                   ; 15; 12;  1;  2;  40;15;  37;  Playoff
+ 3; Liverpool FC                 ; 15;  9;  4;  2;  36;21;  31;
+ 4; Defensor Sporting Club       ; 15; 10;  1;  4;  41;27;  31;
+ 5; C Nacional dF                ; 15; 10;  1;  4;  33;21;  31;
+ 6; Montevideo Wanderers FC      ; 15;  7;  2;  6;  20;25;  23;
+ 7; CA Progreso                  ; 15;  6;  0;  9;  23;30;  18;
+ 8; CA Bella Vista               ; 15;  5;  2;  8;  17;24;  17;
+ 9; Tacuarembó FC (Tacuarembó)   ; 15;  5;  2;  8;  18;29;  17;
+10; CA Juventud (Las Piedras)    ; 15;  4;  4;  7;  14;19;  16;
+11; Rampla Juniors FC            ; 15;  4;  4;  7;  13;32;  16;
+12; Danubio FC                   ; 15;  4;  3;  8;  24;33;  15;
+13; Central Español FC           ; 15;  4;  2;  9;  16;24;  14;
+14; Miramar Misiones FC          ; 15;  4;  2;  9;  18;27;  14;
+15; CA Cerro                     ; 15;  4;  2;  9;  14;25;  14;
+16; CA Fénix                     ; 15;  3;  3;  9;  19;25;  12;
+
+*Aggregate Table:
+*
+* 1.Defensor Sporting Club        30 21  3  6  67-37  66  Apertura winners
+* 2.CA River Plate                30 19  4  7  85-44  61
+* 3.C Nacional dF                 30 16  7  7  52-33  55
+* 4.CA Peñarol                    30 16  6  8  61-38  54  Clausura Winners
+* 5.Rampla Juniors FC             30 13  8  9  34-44  47
+* 6.Danubio FC                    30 13  7 10  58-47  46
+*- - - - - - - - - - - - - - - - - - - - - - - - - - - -
+* 7.Montevideo Wanderers FC       30 13  5 12  44-51  44
+* 8.Liverpool FC                  30 12  7 11  55-45  43
+* 9.CA Juventud (Las Piedras)     30 10 10 10  30-29  40
+*10.CA Cerro                      30  9 10 11  30-39  37
+*11.Tacuarembó FC (Tacuarembó)    30  9  7 14  33-50  34
+*12.CA Fénix                      30  7 11 12  33-39  32
+*13.Central Español FC            30  9  5 16  38-52  32
+*14.CA Progreso                   30  9  2 19  37-68  29
+*15.Miramar Misiones FC           30  8  3 19  27-47  27
+*16.CA Bella Vista                30  6  5 19  31-52  23
+*
+*NB: top-6 qualify for Copa Artigas (qualifying tournament for CSF
+*    club competitions), see below
+
+
+
+*Relegation Table:
+*
+* 1.Defensor Sporting Club        60 38 11 11 124-69 125
+* 2.CA Peñarol                    60 35 13 12 125-76 118
+* 3.Danubio FC                    60 34 10 16 120-74 112
+* 4.C Nacional dF                 60 29 13 18  94-77 100
+* 5.CA River Plate                60 28 13 19 126-91  97
+* 6.Montevideo Wanderers FC       60 29 10 21  97-90  97
+* 7.Liverpool FC                  60 24 13 23 102-89  85
+* 8.CA Juventud (Las Piedras)     60 20 20 20  60-58  80
+* 9.Rampla Juniors FC             60 21 16 23  69-91  79
+*10.CA Bella Vista                60 22  8 30  79-90  74
+*11.CA Cerro                      60 18 20 22  60-78  74
+*12.Tacuarembó FC (Tacuarembó)    60 17 19 24  73-89  70
+*13.Central Español FC            60 19  9 32  69-100 66
+*-------------------------------------------------------
+*14.CA Fénix                      60 14 22 24  66-78  64  Relegated
+*15.Miramar Misiones FC           60 17 10 33  63-93  61  Relegated
+*16.CA Progreso                   60 16 12 32  75-120 60  Relegated
+*
+*NB: relegation based on aggregate tables of 2006/07 and 2007/08
+*    (Fénix, Cerro and Juventud have their 2007/08 points doubled)
+
+
+
+*Copa Artigas 2008
+*
+*NB: Liguilla Pre-Sudamericana 2008 and Liguilla Pre-Libertadores 2009
+*
+*Final Table:
+*
+* 1.C Nacional dF                  5  3  1  1  12- 7  10  Final
+*   Defensor Sporting Club         5  3  1  1   8- 4  10  Final
+* 3.CA Peñarol                     5  2  2  1   9- 8   8
+* 4.CA River Plate                 5  1  2  2   8-10   5
+* 5.Danubio FC                     5  1  1  3   4- 6   4
+* 6.Rampla Juniors FC              5  1  1  3   5-11   4
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru09.html
+Season: 2008-2009
+
+Stage: Apertura
+
+ 1; Danubio FC                   ; 15; 10;  2;  3;  27;15;  32;  Playoff
+  ; C Nacional dF                ; 15; 10;  2;  3;  23;13;  32;  Playoff
+ 3; Defensor Sporting Club       ; 15;  9;  3;  3;  23;12;  30;
+ 4; Racing CM                    ; 15;  7;  6;  2;  24;14;  27;
+ 5; Liverpool FC                 ; 15;  7;  6;  2;  21;15;  27;
+ 6; CA Peñarol                   ; 15;  8;  4;  3;  29;15;  25;  [-3]
+ 7; CA Cerro                     ; 15;  6;  5;  4;  20;12;  23;
+ 8; CA River Plate               ; 15;  5;  5;  5;  17;17;  20;
+ 9; Central Español FC           ; 15;  5;  5;  5;  17;21;  20;
+10; Tacuarembó FC (Tacuarembó)   ; 15;  5;  2;  8;  15;20;  17;
+11; CA Bella Vista               ; 15;  5;  2;  8;  13;22;  17;
+12; Montevideo Wanderers FC      ; 15;  4;  2;  9;  17;18;  14;
+13; Rampla Juniors FC            ; 15;  3;  5;  7;  16;24;  14;
+14; CSyD Villa Española          ; 15;  3;  3;  9;  11;26;  12;
+15; Cerro Largo FC (Melo)        ; 15;  1;  6;  8;  13;25;   9;
+16; CA Juventud (Las Piedras)    ; 15;  2;  2; 11;   9;26;   8;
+
+*NB: Peñarol have 3 points deducted
+
+Stage: Clausura
+
+*NB: Villa Española excluded and relegated to the Segunda Divisional
+*    B Amateur for financial reasons
+
+ 1; Defensor Sporting Club       ; 14; 11;  1;  2;  29;15;  34;  Clausura winners
+ 2; CA River Plate               ; 14;  9;  3;  2;  32;17;  30;
+ 3; CA Cerro                     ; 14;  9;  2;  3;  30;13;  29;
+ 4; Liverpool FC                 ; 14;  7;  4;  3;  23;17;  25;
+ 5; CA Peñarol                   ; 14;  7;  2;  5;  22;15;  23;
+ 6; C Nacional dF                ; 14;  6;  5;  3;  27;21;  23;
+ 7; Racing CM                    ; 14;  6;  5;  3;  22;17;  23;
+ 8; Montevideo Wanderers FC      ; 14;  6;  3;  5;  25;24;  21;
+ 9; Cerro Largo FC (Melo)        ; 14;  5;  4;  5;  20;20;  19;
+10; Danubio FC                   ; 14;  4;  3;  7;  20;24;  15;
+11; Central Español FC           ; 14;  3;  3;  8;  16;24;  12;
+12; Tacuarembó FC (Tacuarembó)   ; 14;  2;  6;  6;  16;25;  12;
+13; CA Bella Vista               ; 14;  2;  4;  8;  16;28;  10;
+14; CA Juventud (Las Piedras)    ; 14;  2;  2; 10;  15;34;   8;
+15; Rampla Juniors FC            ; 14;  0;  5;  9;  15;34;   5;
+* -.CSyD Villa Española            excluded
+
+
+*Aggregate Table:
+*
+* 1.Defensor Sporting Club        29 20  4  5  52-27  64  Clausura winners
+* 2.C Nacional dF                 29 16  7  6  50-34  55  Apertura winners
+* 3.CA Cerro                      29 15  7  7  50-25  52  Hexagonal
+* 4.Liverpool FC                  29 14 10  5  44-32  52  Hexagonal
+* 5.CA River Plate                29 14  8  7  49-34  50  Hexagonal
+* 6.Racing CM                     29 13 11  5  46-31  50  Hexagonal
+* 7.CA Peñarol                    29 15  6  8  51-30  48  [-3]
+* 8.Danubio FC                    29 14  5 10  47-39  47
+* 9.Montevideo Wanderers FC       29 10  5 14  42-42  35
+*10.Central Español FC            29  8  8 13  33-45  32
+*11.Tacuarembó FC (Tacuarembó)    29  7  8 14  31-45  29
+*12.Cerro Largo FC (Melo)         29  6 10 13  33-45  28
+*13.CA Bella Vista                29  7  6 16  29-50  27
+*14.Rampla Juniors FC             29  3 10 16  31-58  19
+*15.CA Juventud (Las Piedras)     29  4  4 21  24-60  16
+* -.CSyD Villa Española           15  3  3  9  11-26  12
+*
+*NB: Peñarol have 3 points deducted
+
+*Copa Artigas 2009 (Hexagonal)
+*Final Table:
+*
+* 1.CA Cerro                       5  4  0  1  12- 6  12  Copa Libertadores 2010
+* 2.Racing CM                      5  3  1  1  11- 7  10  Copa Libertadores 2010
+* 3.CA River Plate                 5  2  0  3   7-11   6  Copa Sudamericana 2009
+* 4.Liverpool FC                   5  1  2  2   6- 7   5  Sudamericana Playoff
+* 5.Defensor Sporting Club         5  1  2  2   5- 6   5  Sudamericana Playoff
+* 6.C Nacional dF                  5  1  1  3   8-12   4
+
+*Relegation Table (2007/08 and 2008/09 combined):
+*
+* 1.Defensor Sporting Club        59 41  7 11 119- 64 130
+* 2.CA River Plate                59 33 12 14 134- 78 111
+* 3.C Nacional dF                 59 32 14 13 102- 67 110
+* 4.CA Peñarol                    59 31 12 16 112- 68 102    [-3]
+* 5.Racing CM                     29 13 11  5  46- 31 101.74
+* 6.Liverpool FC                  59 26 17 16  99- 77  95
+* 7.Danubio FC                    59 27 12 20 105- 86  93
+* 8.CA Cerro                      59 24 17 18  80- 64  89
+* 9.Montevideo Wanderers FC       59 23 10 26  86- 93  79
+*10.Rampla Juniors FC             59 16 18 25  65-102  66
+*11.Central Español FC            59 17 13 29  71- 97  64
+*12.Tacuarembó FC (Tacuarembó)    59 16 15 28  64- 95  63
+*13.Cerro Largo FC (Melo)         29  6 10 13  33- 45  56.97
+*--------------------------------------------------------
+*14.CA Juventud (Las Piedras)     59 14 14 31  54- 89  56  Relegated
+*15.CA Bella Vista                59 13 11 35  60-102  50  Relegated
+* -.CSyD Villa Española           disqualified 
+*
+*NB: point totals Cerro Largo and Racing multiplied by 59/29
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru2010.html
+Season: 2009-2010
+
+Stage: Apertura
+
+ 1; C Nacional dF                ; 15; 13;  0;  2;  36;11;  36;  [-3]  Apertura winners
+ 2; Liverpool FC                 ; 15;  8;  5;  2;  31;14;  29;
+ 3; Defensor Sporting Club       ; 15;  8;  5;  2;  28;16;  29;
+ 4; Montevideo Wanderers FC      ; 15;  7;  5;  3;  24;13;  26;
+ 5; CA Peñarol                   ; 15;  7;  5;  3;  28;19;  26;
+ 6; Rampla Juniors FC            ; 15;  7;  3;  5;  18;19;  24;
+ 7; Danubio FC                   ; 15;  7;  2;  6;  26;25;  23;
+ 8; CA River Plate               ; 15;  6;  5;  4;  24;23;  23;
+ 9; Racing CM                    ; 15;  5;  5;  5;  25;22;  20;
+10; CS Cerrito                   ; 15;  4;  6;  5;  20;21;  18;
+11; Cerro Largo FC (Melo)        ; 15;  4;  4;  7;  15;18;  16;
+12; Tacuarembó FC (Tacuarembó)   ; 15;  5;  1;  9;  17;24;  16;
+13; Central Español FC           ; 15;  2;  6;  7;  13;28;  12;
+14; CA Cerro                     ; 15;  2;  5;  8;  18;31;  11;
+15; CA Atenas (San Carlos)       ; 15;  3;  2; 10;   9;32;  11;
+16; CA Fénix                     ; 15;  1;  3; 11;  10;26;   6;
+
+*NB: Nacional 3 points deducted
+
+
+Stage: Clausura
+
+ 1; CA Peñarol                   ; 15; 14;  1;  0;  40;15;  43;  Clausura winners
+ 2; CA Cerro                     ; 15;  9;  2;  4;  28;18;  29;
+ 3; CA Fénix                     ; 15;  8;  5;  2;  21;11;  28;
+ 4; C Nacional dF                ; 15;  8;  3;  4;  27;15;  27;
+ 5; CA River Plate               ; 15;  6;  5;  4;  31;19;  23;
+ 6; Central Español FC           ; 15;  6;  4;  5;  24;20;  22;
+ 7; Liverpool FC                 ; 15;  6;  4;  5;  22;21;  22;
+ 8; Rampla Juniors FC            ; 15;  6;  4;  5;  18;18;  22;
+ 9; Racing CM                    ; 15;  6;  1;  8;  18;29;  19;
+10; Tacuarembó FC (Tacuarembó)   ; 15;  5;  3;  7;  22;28;  18;
+11; Defensor Sporting Club       ; 15;  5;  2;  8;  21;28;  17;
+12; Danubio FC                   ; 15;  5;  1;  9;  21;25;  16;
+13; Montevideo Wanderers FC      ; 15;  4;  3;  8;  25;26;  15;
+14; CS Cerrito                   ; 15;  4;  2;  9;  17;27;  14;
+15; Cerro Largo FC (Melo)        ; 15;  3;  3;  9;  13;34;  12;
+16; CA Atenas (San Carlos)       ; 15;  3;  1; 11;  16;30;  10;
+
+*Aggregate Table
+*
+* 1.CA Peñarol                    30 21  6  3  68-34  69  Clausura winners
+* 2.C Nacional dF                 30 21  3  6  63-26  63  [-3]  Apertura winners
+* 3.Liverpool FC                  30 14  9  7  53-35  51  Copa Libertadores 2011
+* 4.CA River Plate                30 12 10  8  55-42  46  Copa Sudamericana 2010
+* 5.Defensor Sporting Club        30 13  7 10  49-44  46  Copa Sudamericana 2010
+* 6.Rampla Juniors FC             30 13  7 10  36-37  46
+* 7.Montevideo Wanderers FC       30 11  8 11  49-39  41
+* 8.CA Cerro                      30 11  7 12  46-49  40
+* 9.Danubio FC                    30 12  3 15  47-50  39
+*10.Racing CM                     30 11  6 13  43-51  39
+*11.CA Fénix                      30  9  8 13  31-37  35
+*12.Central Español FC            30  8 10 12  37-48  34
+*13.Tacuarembó FC (Tacuarembó)    30 10  4 16  39-52  34
+*14.CS Cerrito                    30  8  8 14  37-48  32
+*15.Cerro Largo FC (Melo)         30  7  7 16  28-52  28
+*16.CA Atenas (San Carlos)        30  6  3 21  25-62  21
+*
+*NB: Nacional 3 points deducted
+*
+*Cerrito, Cerro Largo and Atenas relegated on point average over
+*past two seasons (2008/09 and 2009/10)
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru2011.html
+Season: 2010-2011
+
+Stage: Apertura
+
+ 1; Defensor Sporting Club       ; 15;  9;  3;  3;  31;13;  30;  Apertura Winners
+ 2; C Nacional dF                ; 15;  8;  5;  2;  28;18;  29;
+ 3; CA Bella Vista               ; 15;  9;  2;  4;  24;18;  29;
+ 4; CCyD El Tanque Sisley        ; 15;  8;  4;  3;  21;18;  28;
+ 5; Danubio FC                   ; 15;  7;  5;  3;  24;14;  26;
+ 6; CA Peñarol                   ; 15;  7;  4;  4;  24;17;  25;
+ 7; Montevideo Wanderers FC      ; 15;  5;  6;  4;  20;16;  21;
+ 8; Liverpool FC                 ; 15;  5;  6;  4;  18;19;  21;
+ 9; CA Cerro                     ; 15;  4;  7;  4;  15;17;  19;
+10; CA Fénix                     ; 15;  4;  6;  5;  21;20;  18;
+11; CA River Plate               ; 15;  5;  3;  7;  16;23;  18;
+12; Central Español FC           ; 15;  4;  5;  6;  21;25;  17;
+13; Racing CM                    ; 15;  3;  5;  7;  14;20;  14;
+14; Rampla Juniors FC            ; 15;  2;  6;  7;  19;27;  12;
+15; CS Miramar Misiones          ; 15;  2;  5;  8;  14;23;  11;
+16; Tacuarembó FC (Tacuarembó)   ; 15;  1;  2; 12;  10;32;   5;
+
+Stage: Clausura
+
+ 1; C Nacional dF                ; 15; 11;  1;  3;  32;13;  34;  Clausura Winners
+ 2; Defensor Sporting Club       ; 15;  8;  4;  3;  19;12;  28;
+ 3; CA Peñarol                   ; 15;  8;  3;  4;  28;20;  27;
+ 4; CA Fénix                     ; 15;  7;  6;  2;  23;15;  27;
+ 5; Racing CM                    ; 15;  7;  3;  5;  26;22;  24;
+ 6; Central Español FC           ; 15;  6;  5;  4;  26;17;  23;
+ 7; CA Cerro                     ; 15;  6;  5;  4;  19;22;  23;
+ 8; Montevideo Wanderers FC      ; 15;  5;  5;  5;  24;17;  20;
+ 9; Liverpool FC                 ; 15;  5;  4;  6;  22;20;  19;
+10; Rampla Juniors FC            ; 15;  5;  4;  6;  18;25;  19;
+11; Tacuarembó FC (Tacuarembó)   ; 15;  6;  1;  8;  17;26;  19;
+12; CA River Plate               ; 15;  5;  2;  8;  29;34;  17;
+13; CA Bella Vista               ; 15;  3;  6;  6;  16;18;  15;
+14; Danubio FC                   ; 15;  4;  3;  8;  17;26;  15;
+15; CCyD El Tanque Sisley        ; 15;  4;  1; 10;  19;30;  13;
+16; CS Miramar Misiones          ; 15;  2;  3; 10;  12;30;   9;
+
+
+*Tabla Anual 2010/11
+*
+* 1.C Nacional dF                 30 19  6  5  60-31  63  Clausura Winners
+* 2.Defensor Sporting Club        30 17  7  6  50-25  58  Apertura Winners
+* 3.CA Peñarol                    30 15  7  8  52-37  52  Copa Libertadores
+* 4.CA Fénix                      30 11 12  7  44-35  45  Copa Sudamericana
+* 5.CA Bella Vista                30 12  8 10  40-36  44  Copa Sudamericana
+* 6.CA Cerro                      30 10 12  8  34-39  42
+* 7.Montevideo Wanderers FC       30 10 11  9  44-33  41
+* 8.Danubio FC                    30 11  8 11  41-40  41
+* 9.CCyD El Tanque Sisley         30 12  5 13  40-48  41
+*10.Central Español FC            30 10 10 10  47-42  40
+*11.Liverpool FC                  30 10 10 10  40-39  40
+*12.Racing CM                     30 10  8 12  40-42  38
+*13.CA River Plate                30 10  5 15  45-57  35
+*14.Rampla Juniors FC             30  7 10 13  37-52  31
+*15.Tacuarembó FC (Tacuarembó)    30  7  3 20  27-58  24
+*16.CS Miramar Misiones           30  4  8 18  26-53  20
+*
+*NB: Nacional and Defensor Sporting qualified for Copa Libertadores as winners
+*    Clausura and Apertura
+*
+*Central Español, Tacuarembó and Miramar Misiones relegated on point average 
+*over past two seasons (2009/10 and 2010/11)
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru2012.html
+Season: 2011-2012
+
+Stage: Apertura
+
+ 1; C Nacional dF                ; 15;   9;  5;  1;  30; 11;  32;  Apertura Winners
+ 2; Danubio FC                   ; 15;   9;  4;  2;  19;  8;  31;
+ 3; CA Peñarol                   ; 15;   9;  3;  3;  30; 12;  30;
+ 4; CA River Plate               ; 15;   8;  4;  3;  22; 17;  28;
+ 5; Cerro Largo FC (Melo)        ; 15;   8;  3;  4;  18; 16;  27;
+ 6; Defensor Sporting Club       ; 15;   7;  3;  5;  23; 16;  24;
+ 7; CA Cerro                     ; 15;   7;  3;  5;  17; 12;  24;
+ 8; Liverpool FC                 ; 15;   6;  1;  8;  17; 18;  19;
+ 9; CCyD El Tanque Sisley        ; 15;   5;  3;  7;  15; 23;  18;
+10; Montevideo Wanderers FC      ; 15;   5;  2;  8;  23; 25;  17;
+11; Racing CM                    ; 15;   4;  5;  6;  20; 23;  17;
+12; Rampla Juniors FC            ; 15;   5;  1;  9;  16; 22;  16;
+13; CA Fénix                     ; 15;   4;  4;  7;  15; 22;  16;
+14; CA Rentistas                 ; 15;   4;  2;  9;  10; 21;  14;
+15; CS Cerrito                   ; 15;   3;  4;  8;  10; 23;  13;
+16; CA Bella Vista               ; 15;   3;  1; 11;   9; 25;  10;
+
+Stage: Clausura
+
+ 1; Defensor Sporting Club       ; 15;  12;  2;  1;  31; 11;  38;  Clausura Winners
+ 2; C Nacional dF                ; 15;  11;  2;  2;  38; 20;  35;
+ 3; Liverpool FC                 ; 15;  11;  1;  3;  31; 21;  34;
+ 4; CA Peñarol                   ; 15;  10;  2;  3;  41; 18;  32;
+ 5; Cerro Largo FC (Melo)        ; 15;   8;  3;  4;  28; 18;  27;
+ 6; Montevideo Wanderers FC      ; 15;   7;  3;  5;  26; 25;  24;
+ 7; CA River Plate               ; 15;   6;  4;  5;  28; 23;  22;
+ 8; Danubio FC                   ; 15;   5;  6;  4;  18; 18;  21;
+ 9; CA Bella Vista               ; 15;   6;  2;  7;  19; 21;  20;
+10; Racing CM                    ; 15;   5;  2;  8;  21; 30;  17;
+11; Rampla Juniors FC            ; 15;   4;  3;  8;  18; 33;  15;
+12; CCyD El Tanque Sisley        ; 15;   4;  1; 10;  14; 25;  13;
+13; CA Cerro                     ; 15;   3;  3;  9;  18; 25;  12;
+14; CS Cerrito                   ; 15;   2;  5;  8;  14; 29;  11;
+15; CA Fénix                     ; 15;   1;  6;  8;  18; 25;   9;
+16; CA Rentistas                 ; 15;   0;  5; 10;   9; 30;   5;
+
+*Tabla Anual 2011/12
+*
+* 1.C Nacional dF                 30  20  7  3  68-31  67  Apertura Winners
+* 2.CA Peñarol                    30  19  5  6  71-30  62
+* 3.Defensor Sporting Club        30  19  5  6  54-27  62  Clausura Winners
+* 4.Cerro Largo FC (Melo)         30  16  6  8  46-34  54
+* 5.Liverpool FC                  30  17  2 11  48-39  53
+* 6.Danubio FC                    30  14 10  6  37-26  52
+* 7.CA River Plate                30  14  8  8  50-40  50
+* 8.Montevideo Wanderers FC       30  12  5 13  49-50  41
+* 9.CA Cerro                      30  10  6 14  35-37  36
+*10.Racing CM                     30   9  7 14  41-53  34
+*11.CCyD El Tanque Sisley         30   9  4 17  29-48  31
+*12.Rampla Juniors FC             30   9  4 17  34-55  31
+*13.CA Bella Vista                30   9  3 18  28-46  30
+*14.CA Fénix                      30   5 10 15  33-47  25
+*15.CS Cerrito                    30   5  9 16  24-52  24
+*16.CA Rentistas                  30   4  7 19  19-51  19
+
+
+
+BlockSource: http://www.rsssf.com/tablesu/uru2013.html
+Season: 2012-2013
+
+Stage: Apertura
+
+ 1; CA Peñarol                   ; 15;  11;  3;  1;  35; 13;  36;  Apertura Winners
+ 2; Defensor Sporting Club       ; 15;   9;  5;  1;  31; 11;  32;
+ 3; C Nacional dF                ; 15;  10;  2;  3;  29; 14;  32;
+ 4; CCyD El Tanque Sisley        ; 15;   8;  6;  1;  23; 17;  30;
+ 5; CA River Plate               ; 15;   5;  6;  4;  21; 17;  21;
+ 6; CA Fénix                     ; 15;   6;  3;  6;  24; 24;  21;
+ 7; CA Bella Vista               ; 15;   6;  2;  7;  13; 17;  20;
+ 8; Montevideo Wanderers FC      ; 15;   5;  4;  6;  22; 24;  19;
+ 9; CA Juventud (Las Piedras)    ; 15;   5;  4;  6;  13; 17;  19;
+10; CA Cerro                     ; 15;   5;  3;  7;  14; 17;  18;
+11; Central Español FC           ; 15;   4;  4;  7;  11; 19;  16;
+12; Liverpool FC                 ; 15;   4;  3;  8;  21; 28;  15;
+13; CA Progreso                  ; 15;   4;  3;  8;  17; 28;  15;
+14; Racing CM                    ; 15;   3;  4;  8;  17; 27;  13;
+15; Cerro Largo FC (Melo)        ; 15;   2;  6;  7;  14; 20;  12;
+16; Danubio FC                   ; 15;   1;  6;  8;  15; 27;   9;
+
+Stage: Clausura
+
+ 1; Defensor Sporting Club       ; 15;   9;  4;  2;  19;  9;  31;  Clausura Winners
+ 2; CA Peñarol                   ; 15;   9;  3;  3;  26;  8;  30;
+ 3; CA River Plate               ; 15;   9;  3;  3;  27; 14;  30;
+ 4; C Nacional dF                ; 15;   7;  5;  3;  23; 21;  26;
+ 5; Danubio FC                   ; 15;   8;  2;  5;  18; 16;  26;
+ 6; Racing CM                    ; 15;   6;  6;  3;  17; 13;  24;
+ 7; Montevideo Wanderers FC      ; 15;   6;  3;  6;  19; 14;  21;
+ 8; CA Juventud (Las Piedras)    ; 15;   6;  3;  6;  27; 32;  21;
+ 9; CA Fénix                     ; 15;   5;  4;  6;  18; 18;  19;
+10; CCyD El Tanque Sisley        ; 15;   4;  6;  5;  16; 17;  18;
+11; CA Cerro                     ; 15;   4;  5;  6;  19; 24;  17;
+12; Liverpool FC                 ; 15;   3;  7;  5;  19; 23;  16;
+13; Cerro Largo FC (Melo)        ; 15;   4;  3;  8;  17; 20;  15;
+14; CA Progreso                  ; 15;   4;  1; 10;  15; 28;  13;
+15; Central Español FC           ; 15;   3;  3;  9;  13; 25;  12;
+16; CA Bella Vista               ; 15;   2;  4;  9;  16; 27;  10;
