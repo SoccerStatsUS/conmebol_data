@@ -1,6 +1,47 @@
 Competition: Liga de Fútbol Profesional Boliviano
-BlockSource: http://www.rsssf.com/tablesb/bol2013.html#1clau
 
+
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
+BlockSource: http://en.wikipedia.org/wiki/2013%E2%80%9314_Liga_de_F%C3%BAtbol_Profesional_Boliviano_season
+
+
+Season: 2013-2014 Apertura
+
+1      ; The Strongest          ; 22     ; 14     ; 3      ; 5      ; 47     ; 27     ; +20    ; 45;      2014 Copa Libertadores Second Stage
+2      ; Bolívar                ; 22     ; 13     ; 4      ; 5      ; 50     ; 21     ; +29    ; 43;
+3      ; San José               ; 22     ; 11     ; 6      ; 5      ; 44     ; 32     ; +12    ; 39;
+4      ; Jorge Wilstermann      ; 22     ; 9      ; 7      ; 6      ; 43     ; 38     ; +5     ; 34;      2014 Copa Sudamericana
+5      ; Nacional Potosí        ; 22     ; 9      ; 5      ; 8      ; 20     ; 25     ; −5     ; 32;
+6      ; Universitario          ; 22     ; 8      ; 5      ; 9      ; 36     ; 34     ; +2     ; 29;
+7      ; Real Potosí            ; 22     ; 8      ; 4      ; 10     ; 33     ; 33     ; 0      ; 28;
+8      ; Oriente Petrolero      ; 22     ; 7      ; 6      ; 9      ; 25     ; 40     ; −15    ; 27;
+9      ; Blooming               ; 22     ; 7      ; 4      ; 11     ; 22     ; 37     ; −15    ; 25;
+10     ; Sport Boys             ; 22     ; 5      ; 8      ; 9      ; 21     ; 29     ; −8     ; 23;
+11     ; Guabirá                ; 22     ; 6      ; 5      ; 11     ; 27     ; 37     ; −10    ; 23;
+12     ; Aurora                 ; 22     ; 3      ; 7      ; 12     ; 32     ; 47     ; −15    ; 16;
+
+
+Season: 2013-2014 Clausura
+
+1      ;      Universitario     ; 22     ; 12     ; 6      ; 4      ; 38     ; 28     ; +10    ; 42;      2015 Copa Libertadores Second Stage
+2      ;      San José          ; 22     ; 13     ; 2      ; 7      ; 51     ; 30     ; +21    ; 41;      2015 Copa Libertadores Second Stage
+3      ;      The Strongest     ; 22     ; 12     ; 4      ; 6      ; 40     ; 32     ; +8     ; 40;      2015 Copa Libertadores First Stage
+4      ;      Real Potosí       ; 22     ; 11     ; 6      ; 5      ; 38     ; 24     ; +14    ; 39;      2015 Copa Sudamericana
+5      ;      Bolívar           ; 22     ; 10     ; 3      ; 9      ; 38     ; 32     ; +6     ; 33;
+6      ;      Aurora            ; 22     ; 9      ; 5      ; 8      ; 33     ; 29     ; +4     ; 32;
+7      ;      Oriente Petrolero ; 22     ; 9      ; 4      ; 9      ; 30     ; 32     ; −2     ; 31;
+8      ;      Jorge Wilstermann ; 22     ; 7      ; 6      ; 9      ; 25     ; 32     ; −7     ; 27;
+9      ;      Sport Boys        ; 22     ; 7      ; 6      ; 9      ; 25     ; 32     ; −7     ; 27;
+10     ;      Guabirá           ; 22     ; 6      ; 4      ; 12     ; 25     ; 41     ; −16    ; 22;
+11     ;      Nacional Potosí   ; 22     ; 6      ; 2      ; 14     ; 26     ; 39     ; −13    ; 20;
+12     ;      Blooming          ; 22     ; 6      ; 0      ; 16     ; 32     ; 50     ; −18    ; 18;
+
+
+
+
+
+
+BlockSource: http://www.rsssf.com/tablesb/bol2013.html#1clau
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
 
 Season: 2012-2013 Apertura

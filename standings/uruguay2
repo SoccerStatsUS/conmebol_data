@@ -1712,3 +1712,46 @@ Stage: Clausura
 14; CA Progreso                  ; 15;   4;  1; 10;  15; 28;  13;
 15; Central Español FC           ; 15;   3;  3;  9;  13; 25;  12;
 16; CA Bella Vista               ; 15;   2;  4;  9;  16; 27;  10;
+
+
+Season: 2013-2014
+Stage: Apertura
+
+Key: position; tem; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
+
+1     ; Danubio                 ; 15     ; 10     ; 2      ; 3      ; 24     ; 13     ; +11    ; 32;      Championship Playoffs
+2     ; River Plate             ; 15     ; 9      ; 4      ; 2      ; 30     ; 17     ; +13    ; 31;
+3     ; Nacional                ; 15     ; 10     ; 0      ; 5      ; 29     ; 18     ; +11    ; 30;
+4     ; Montevideo Wanderers    ; 15     ; 7      ; 6      ; 2      ; 25     ; 18     ; +7     ; 27;
+5     ; Rentistas               ; 15     ; 7      ; 4      ; 4      ; 22     ; 21     ; +1     ; 25;
+6     ; Liverpool               ; 15     ; 6      ; 4      ; 5      ; 18     ; 15     ; +3     ; 22;
+7     ; El Tanque Sisley        ; 15     ; 5      ; 6      ; 4      ; 18     ; 17     ; +1     ; 21;
+8     ; Peñarol                 ; 15     ; 5      ; 4      ; 6      ; 23     ; 20     ; +3     ; 19;
+9     ; Cerro Largo             ; 15     ; 5      ; 4      ; 6      ; 19     ; 22     ; −3     ; 19;
+10    ; Cerro                   ; 15     ; 5      ; 2      ; 8      ; 21     ; 25     ; −4     ; 17;
+11    ; Sud América             ; 15     ; 4      ; 5      ; 6      ; 16     ; 21     ; −5     ; 17;
+12    ; Defensor Sporting       ; 15     ; 4      ; 4      ; 7      ; 22     ; 25     ; −3     ; 16;
+13    ; Fénix                   ; 15     ; 4      ; 3      ; 8      ; 18     ; 20     ; −2     ; 15;
+14    ; Racing                  ; 15     ; 4      ; 3      ; 8      ; 18     ; 23     ; −5     ; 15;
+15    ; Miramar Misiones        ; 15     ; 2      ; 6      ; 7      ; 11     ; 28     ; −17    ; 12;
+16    ; Juventud                ; 15     ; 2      ; 5      ; 8      ; 18     ; 29     ; −11    ; 11;
+
+Stage: Clausura
+
+1     ; Montevideo Wanderers    ; 15     ; 11     ; 1      ; 3      ; 36     ; 18     ; +18    ; 34;      Championship Playoffs
+2     ; Peñarol                 ; 15     ; 10     ; 3      ; 2      ; 32     ; 13     ; +19    ; 33;
+3     ; Nacional                ; 15     ; 9      ; 0      ; 6      ; 26     ; 18     ; +8     ; 27;
+4     ; River Plate             ; 15     ; 8      ; 2      ; 5      ; 21     ; 16     ; +5     ; 26;
+5     ; Danubio                 ; 15     ; 7      ; 4      ; 4      ; 24     ; 20     ; +4     ; 25;
+6     ; Fénix                   ; 15     ; 7      ; 3      ; 5      ; 27     ; 19     ; +8     ; 24;
+7     ; Racing                  ; 15     ; 7      ; 3      ; 5      ; 19     ; 18     ; +1     ; 24;
+8     ; Juventud                ; 15     ; 6      ; 3      ; 6      ; 23     ; 25     ; −2     ; 21;
+9     ; Defensor Sporting       ; 15     ; 5      ; 5      ; 5      ; 25     ; 26     ; −1     ; 20;
+10    ; Cerro                   ; 15     ; 6      ; 2      ; 7      ; 23     ; 27     ; −4     ; 20;
+11    ; Rentistas               ; 15     ; 6      ; 2      ; 7      ; 18     ; 23     ; −5     ; 20;
+12    ; Sud América             ; 15     ; 5      ; 3      ; 7      ; 19     ; 24     ; −5     ; 18;
+13    ; Liverpool               ; 15     ; 4      ; 4      ; 7      ; 23     ; 24     ; −1     ; 16;
+14    ; El Tanque Sisley        ; 15     ; 3      ; 3      ; 9      ; 20     ; 25     ; −5     ; 12;
+15    ; Miramar Misiones        ; 15     ; 3      ; 1      ; 11     ; 12     ; 29     ; −17    ; 10;
+16    ; Cerro Largo             ; 15     ; 2      ; 3      ; 10     ; 13     ; 36     ; −23    ; 9;
+

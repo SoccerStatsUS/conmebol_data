@@ -1,9 +1,15 @@
-BlockSource: http://www.rsssf.com/tablesp/peru2013.html
-Season: 2012-2013
-
 Competition: Peruvian Primera División
 
+Season: 2013-2014
+
+
+
+
+
 Key: position; team; games; wins; ties; losses; goals_for; goals_against; points; misc
+
+BlockSource: http://www.rsssf.com/tablesp/peru2013.html
+Season: 2012-2013
 
 Stage: 1
 *First Stage
