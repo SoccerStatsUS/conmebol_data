@@ -602,7 +602,6 @@ Date: 5/22/2011
   Héctor Núñez 77; Jonathan Domínguez 57
 
  
-*Final Table:
 * 1.Universidad Catolica (Santiago)     17  11  5  1  34-18  38  Playoff
 * 2.Universidad de Chile (Santiago)     17  10  5  2  39-20  35  Playoff
 * 3.Unión Española (Santiago)           17   9  5  3  33-18  32  Playoff
@@ -622,127 +621,100 @@ Date: 5/22/2011
 *16.Santiago Morning (Santiago)         17   3  7  7  22-30  16
 *17.Cobresal (El Salvador)              17   5  1 11  26-41  16
 *18.Ñublense (Chillán)                  17   4  2 11  17-31  14
-*[*] Municipal Iquique were renamed Deportes Iquique  
 
+*[*] Municipal Iquique were renamed Deportes Iquique  
 *Top-8 qualify to Playoff Stage
-* 
 *NB: Universidad Catolica, as Apertura 2011 Regular Stage Winners, 
 *    qualify to Copa Sudamericana.
- 
-*Apertura Playoff
 
+Stage: playoff
 Round: Quarterfinals
- 
-*First Legs
-Date: 5/25/2011
+Leg: 1 
 
-; U. San Felipe       ; 1-2; Univ. de Chile       ; Santiago at Union Española
+5/25/2011; U. San Felipe       ; 1-2; Univ. de Chile       ; Santiago at Union Española
   Matías Urbano 26; Gustavo Canales (pk) 48, Albert Acevedo 58
 
-; O'Higgins           ; 1-1; Palestino
+5/25/2011; O'Higgins           ; 1-1; Palestino
   Rodrigo Riquelme (og) 33; Luis Oyarzún 90+3
 
-Date: 5/26/2011
-
-; Colo Colo           ; 2-4; Univ. Católica       
+5/26/2011; Colo Colo           ; 2-4; Univ. Católica       
   Esteban Paredes 5, Esteban Paredes 13; Milovan Mirosevic (pk) 35, Felipe Gutiérrez 62, Lucas Pratto 90, Lucas Pratto 90+2
 
-; U. La Calera        ; 1-0; U. Española          
+5/26/2011; U. La Calera        ; 1-0; U. Española          
   Angel Carreño 68;
 
- 
-*Second Legs
-Date: 5/28/2011
+Leg: 2
 
-; Univ. de Chile      ; 1-1; U. San Felipe        
+5/28/2011; Univ. de Chile      ; 1-1; U. San Felipe        
   Eduardo Vargas 7; Nicolas Trecco 65
  
-; Palestino           ; 0-3; O'Higgins            
+5/28/2011; Palestino           ; 0-3; O'Higgins            
 ;  Guillermo Suarez (pk) 45+3, Juan Gonzalez 63, Enzo Gutierrez 76
 
-Date: 5/29/2011
-
-; Univ. Católica      ; 1-1; Colo Colo            ; Nacional Stadium (Chile)
+5/29/2011; Univ. Católica      ; 1-1; Colo Colo            ; Nacional Stadium (Chile)
   Francisco Silva 78; Diego Rubio 72
 
-; U. Española         ; 0-0; U. La Calera         
+5/29/2011; U. Española         ; 0-0; U. La Calera         
  
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 6/1/2011
-
-; O'Higgins           ; 0-1; Univ. de Chile       
+6/1/2011; O'Higgins           ; 0-1; Univ. de Chile       
 ;  Diego Rivarola 67
 
-Date: 6/2/2011
-
-; U. La Calera        ; 2-1; Univ. Católica       
+6/2/2011; U. La Calera        ; 2-1; Univ. Católica       
   Francisco Bahamondes 25, Gonzalo Barriga 27; Milovan Mirosevic 36
 
-*Second Legs
-Date: 6/4/2011
+Leg: 2
 
-; Univ. de Chile      ; 7-1; O'Higgins            
+6/4/2011; Univ. de Chile      ; 7-1; O'Higgins            
   Eduardo Vargas 10, Charles Aránguiz 14, Gustavo Canales 25, Gustavo Canales 86, Albert Acevedo 33, Marcelo Díaz 67, Diego Rivarola 80; Enzo Gutiérrez 8
 
-Date: 6/5/2011
-
-; Univ. Católica      ; 1-0; U. La Calera         
+6/5/2011; Univ. Católica      ; 1-0; U. La Calera         
   Enzo Andía 46;
+Notes: Universidad Catolica qualified on better season record
 
-*NB: Universidad Catolica qualified on better season record
  
 Round: Final
- 
-*First Leg 
-*Date: 6/9, Nacional Stadium, Santiago, att: 30.000, ref: Claudio Puga/2011
+Leg: 1 
 
-6/9/2011; Univ. de Chile      ; 0-2; Univ. Católica       
+6/9/2011; Univ. de Chile      ; 0-2; Univ. Católica       ; National Stadium (Santiago); Claudio Puga; 30000
 ; Tomás Costa 58, Milovan Mirosevic 90
-*U. de Chile: Johnny Herrera, Matías Rodríguez (Edson Puch 40), Albert Acevedo,
-*  José Rojas, Eugenio Mena, Felipe Seymour, Guillermo Marino, Charles Aránguiz,
-*  Eduardo Vargas, Gustavo Canales (Marcelo Díaz 70), Francisco Castro 
-*  (Diego Rivarola 56); coach: Jorge Sampaoli
-*U. Católica: Cristopher Toselli, Hans Martínez, Enzo Andía, Alfonso Parot,
-*  Juan Eluchans, Tomás Costa, Jorge Ormeño, Felipe Gutiérrez
-*  (Francisco Pizarro 78), Milovan Mirosevic, Fernando Meneses 
-*  (Gonzalo Sepúveda 88), Lucas Pratto (José Luis Villanueva 90+2);
+Univ. de Chile: Johnny Herrera, Matías Rodríguez (Edson Puch 40), Albert Acevedo, José Rojas, Eugenio Mena, Felipe Seymour, Guillermo Marino, Charles Aránguiz, Eduardo Vargas, Gustavo Canales (Marcelo Díaz 70), Francisco Castro (Diego Rivarola 56)
+*; coach: Jorge Sampaoli
+Univ. Católica: Cristopher Toselli, Hans Martínez, Enzo Andía, Alfonso Parot, Juan Eluchans, Tomás Costa, Jorge Ormeño, Felipe Gutiérrez (Francisco Pizarro 78), Milovan Mirosevic, Fernando Meneses (Gonzalo Sepúveda 88), Lucas Pratto (José Luis Villanueva 90+2)
 *  coach: Juan Antonio Pizzi
 *Yellow Cards: Acevedo, Aránguiz, Marino, Herrera, Díaz (UCh);
 *              Pratto, Toselli, Costa (UCa)
  
-*Second Leg 
+Leg: 2
 *Date: 6/12, Nacional Stadium, Santiago, att: 39.000, ref: Enrique Osses/2011
 
-6/12/2011; Univ. Católica      ; 1-4; Univ. de Chile       
+6/12/2011; Univ. Catolica      ; 1-4; Univ. de Chile       ; National Stadium (Santiago); Enrique Osses; 39000
 Lucas Pratto 22; Gustavo Canales (pk) 16, Gustavo Canales (pk) 51, Gustao Canales 56, Juan Eluchans (og) 25
-*Universidad Catolica: Cristopher Toselli, Rodrigo Valenzuela
-*  (José Luis Villanueva 85), Enzo Andía, Alfonso Parot, Juan Eluchans,
-*  Jorge Ormeño (Roberto Gutiérrez 75), Tomás Costa, Francisco Silva,
-*  Fernando Meneses (Felipe Gutiérrez 62), Milovan Mirosevic, Lucas Pratto;
+Univ. Catolica: Cristopher Toselli, Rodrigo Valenzuela (José Luis Villanueva 85), Enzo Andía, Alfonso Parot, Juan Eluchans, Jorge Ormeño (Roberto Gutiérrez 75), Tomás Costa, Francisco Silva, Fernando Meneses (Felipe Gutiérrez 62), Milovan Mirosevic, Lucas Pratto;
 *  coach: Juan Antonio Pizzi
-*Universidad de Chile: Johhny Herrera, Matías Rodríguez (Albert Acevedo 65),
-*  Marcos González, José Rojas, Eugenio Mena, Felipe Seymour, Guillermo Marino 
-*  (Marcelo Díaz 62), Charles Aránguiz, Eduardo Vargas, Gustavo Canales, 
-*  Edson Puch (Diego Rivarola 77); cCoach: Jorge Sampaoli
+Univ. de Chile: Johhny Herrera, Matías Rodríguez (Albert Acevedo 65), Marcos González, José Rojas, Eugenio Mena, Felipe Seymour, Guillermo Marino (Marcelo Díaz 62), Charles Aránguiz, Eduardo Vargas, Gustavo Canales, Edson Puch (Diego Rivarola 77); cCoach: Jorge Sampaoli
+Red Cards: Costa 36, Parot 66, Cerda 66 (Uca); Canales 78 (UCh)
 *Yellow Cards: Valenzuela, Costa, Ormeño, Mirosevic, Toselli, Gutiérrez (UCa);
 *              Aránguiz, Puch, Canales, Vargas, Díaz (Uch)
-*Red Cards: Costa 36, Parot 66, Cerda 66 (Uca); Canales 78 (UCh)
 *Universidad de Chile champions and qualify to Copa Libertadores 2012
  
 
-*Copa Sudamericana Playoff
-* 
+Stage: Copa Sudamericana Playoff
+
 *NB: Universidad de Chile (champions Apertura 2011) play off against
 *    Deportes Concepción (runners-up Copa Chile 2010) for the third spot
 *    in Copa Sudamericana 2011.
-* 
-*First Leg [Jul 27]
-*Dep. Concepción      2-2 Univ. de Chile
-*
-*Second Leg [Aug 3]
-*Univ. de Chile       2-0 Dep. Concepción
+
+Leg: 1
+
+7/27/2011; Dep. Concepción     ; 2-2; Univ. de Chile
+
+Leg: 2
+
+8/3/2011; Univ. de Chile      ; 2-0; Dep. Concepción
+
  
 Season: 2011 Clausura
 
@@ -766,38 +738,41 @@ Season: 2011 Clausura
 *17.Huachipato (Talcahuano)             17   4  5  8  25-30  17
 *18.Unión San Felipe                    17   2  7  8  16-29  13
 
-*Clausura Playoff
 
+Stage: playoff
 Round: Quarterfinals
- 
-*First Legs
+Leg: 1 
+
 12/3/2011; Dep. La Serena      ; 2-6; Colo Colo            
 12/3/2011; Univ. Católica      ; 3-1; Audax Italiano       
 12/4/2011; U. Española         ; 0-1; Univ. de Chile       
 12/4/2011; U. La Calera        ; 0-1; Cobreloa             
 
-*Second Legs
+Leg: 2
+
 12/10/2011; Colo Colo           ; 3-1; Dep. La Serena       
 12/10/2011; Audax Italiano      ; 0-1; Univ. Católica       
 12/11/2011; Univ. de Chile      ; 3-0; U. Española       
 12/11/2011; Cobreloa            ; 4-3; U. La Calera      
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/17/2011; Colo Colo           ; 2-3; Cobreloa             
 12/18/2011; Univ. Católica      ; 1-2; Univ. de Chile       
 
-*Second Legs
+Leg: 2
+
 12/20/2011; Cobreloa            ; 1-2; Colo Colo            
 12/22/2011; Univ. de Chile      ; 1-2; Univ. Católica       
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/26/2011; Cobreloa            ; 0-0; Univ. de Chile       
 
-*Second Leg
+Leg: 2
+
 12/29/2011; Univ. de Chile      ; 3-0; Cobreloa             
 
 
@@ -824,18 +799,17 @@ Round: Final
 *17.Santiago Morning (Santiago)         34   9  8 17  51-64  35  Relegated
 *18.Ñublense (Chillán)                  34  10  3 21  39-63  33  Relegated
 
-*Promotion/Relegation Playoff
-*
-*First Legs [Dec 4]
-*Naval                0-1 Stgo. Wanderers      
-*Everton              1-0 U. San Felipe        
-*
-*Second Legs
-*[Dec 10]
-*Stgo. Wanderers      3-1 Naval
-*[Dec 11]
-*U. San Felipe        2-0 Everton
-*
+Stage: Promotion/Relegation Playoff
+Leg: 1
+
+12/4/2011; Naval               ; 0-1; Stgo. Wanderers      
+12/4/2011; Everton             ; 1-0; U. San Felipe        
+
+Leg: 2
+
+12/10/2011; Stgo. Wanderers     ; 3-1; Naval
+12/11/2011; U. San Felipe       ; 2-0; Everton
+
 *NB: all teams remain at former level
 
 

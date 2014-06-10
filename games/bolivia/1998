@@ -27,7 +27,7 @@ Date: 2/28/1998
 ;  Oriente        ; 0-0; Real Santa Cruz ; Santa Cruz
 
 *Date: 2/29/1998
-* doesn't exist?
+* doesn't exist?!
 Date: 2/28/1998
 
 ;      Bolivar        ; 3-2; San Jose        ; La Paz
@@ -879,21 +879,18 @@ Date: 10/28/1998
 *-----------------------------------------------
 *12.Chaco Petrolero         34  6  5 23 39-76 23  Relegated to Regional League
 
-Round: Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
 Date: 
-
-*First Leg
+Leg: 1
 
 ; Atlético Pompeya; 1-0; Destroyers 
 
-*Second Leg
+Leg: 2
 
 ; Destroyers      ; 4-0; Atlético Pompeya (Beni)
 
 *Destroyers remain at first level.
 *Promoted: Unión Central (Tarija)
-
-Round: Final Stage
 
 * 1.Blooming                10  7  2  1 16- 7 23  Clausura Winners
 * 2.Jorge Wilstermann       10  6  1  3 19-13 19
@@ -902,6 +899,7 @@ Round: Final Stage
 * 5.Real Potosiosí             10  3  2  5 20-20 11
 * 6.Real Santa Cruz         10  1  2  7  6-24  5
 
+Stage: final
 Date: 11/1/1998
 
 ;  Blooming       ; 3-1; Independiente   ; Santa Cruz
@@ -1021,14 +1019,14 @@ Date: 12/6/1998
 * 6.Real Santa Cruz         10  1  2  7  6-24  5
 
 
-Round: Championship Final
-
-*First Leg
+Stage: Championship Final
+Leg: 1
 
 12/9/1998; Blooming      ; 3-0; Wilstermann; Estadio Tahuichi; 35000
 M. Menacho 23, M. Menacho 63, R. Tufiño (pk) 80;
 
-*Second Leg
+Leg: 2
+
 12/13/1998; Wilstermann   ; 0-1; Blooming; Estadio Félix Capriles
 ; M. Blanco 87
 

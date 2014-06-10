@@ -1070,41 +1070,33 @@ Date: 12/17/2000
 *11.Independiente Petrolero 22  6  3 13 32-48 21
 *12.Atlético Pompeya        22  5  2 15 19-46 17
 
-*Copa Libertadores Playoff
+Stage: Copa Libertadores Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/17/2000
-
-; The Strongest          ; 3-2; Guabira 
+12/17/2000; The Strongest          ; 3-2; Guabira 
   A. Alvarez 18, D. Delfino 28, D. Delfino 89; G. Ayala 9, L. Paz 62
 
-*Second Leg 
-Date: 12/21/2000
+Leg: 2
 
-; Guabira                ; 1-1; The Strongest
+12/21/2000; Guabira                ; 1-1; The Strongest
   M. Ceballos 29; D. Delfino 74
 
 *The Strongest qualified on points total.
 
-*Championship Playoff
+Stage: Championship Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/20/2000
-
-; Jorge Wilstermann      ; 4-1; Oriente Petrolero
+12/20/2000; Jorge Wilstermann      ; 4-1; Oriente Petrolero
   M. Soria 38, E. Olivares 42, G. Galindo 51, C. Cárdenas 58; G. Merlo 31
 
-*Second Leg 
-Date: 12/23/2000
+Leg: 2
 
-; Oriente Petrolero      ; 4-0; Jorge Wilstermann
+12/23/2000; Oriente Petrolero      ; 4-0; Jorge Wilstermann
   G. Merlo 45, M. Coimbra (pk) 53, J. Vaca 63, J. Vaca 76;
 
-*Decisive Match 
-Date: 12/27/2000
-*, Trinidad/2000
+Leg: 3
 
-; Oriente Petrolero      ; 2-2; Jorge Wilstermann            
+12/27/2000; Oriente Petrolero      ; 2-2; Jorge Wilstermann            ; Trinidad, Bolivia
   M. Coimbra 22, M. Coimbra (pk) 90; C. Cardenas 47, G. Galindo 84
 Penalty kicks: 3-4
 
@@ -1128,30 +1120,22 @@ Penalty kicks: 3-4
 *-----------------------------------------------
 *12.Atlético Pompeya        44 11  6 27 43-95 39  Relegated
   
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/19/2000
-
-; Aurora                 ; 1-0; Real Santa Cruz  
+12/19/2000; Aurora                 ; 1-0; Real Santa Cruz  
   M. Paez;
 
+Leg: 2
 
-*Second Leg 
-Date: 12/23/2000
-
-; Real Santa Cruz        ; 4-0; Aurora
+12/23/2000; Real Santa Cruz        ; 4-0; Aurora
   H. Chiorazzo, H. Chiorazzo, H. Chiorazzo, J. Méndez;
 
-
 *Real Santa Cruz remain at 1st level.
-
 *NB: there will be a transitional season in the first half of 2001; after
 *    that Bolivia will change to a fall/spring rhythm.
 
 
-
-*About this document
 *Prepared and maintained by Tim Venables for the Rec.Sport.Soccer Statistics Foundation
 *Author: Tim Venables (timjvenables@hotmail.com) 
 *Last updated: 7 Mar 2001

@@ -522,7 +522,6 @@ Date: 6/24/2001
   H. Chiorazzo, L. Libermann, L. Libermann; M. Coimbra, M. Coimbra
 
 
-*Final Table:
 * 1.Bolívar                 22 12  6  4 53-28 42  Playoff
 * 2.Oriente Petrolero       22 13  3  6 48-31 42  Playoff  
 * 3.Blooming                22  9  9  4 34-25 36 
@@ -536,9 +535,9 @@ Date: 6/24/2001
 *11.Iberoamericana          22  5  5 12 37-47 20 
 *12.Real Santa Cruz         22  5  5 12 23-43 20
 
-*First Place Playoff [Cochabamba, Jun 27]
+Stage: First Place Playoff
 
-; Bolivar                ; 1-0; Oriente
+6/27/2001; Bolivar                ; 1-0; Oriente; Cochabamba, Bolivia
   M. Sandy;
 
 
@@ -546,7 +545,6 @@ Season: 2001
 Stage: Clausura
 
 *First Stage
-*Tables:
 
 *Group 1
 * 1.Bolívar                 12  7  4  1 32-16 25  Qualified
@@ -892,9 +890,9 @@ Date: 9/28/2001
 *-----------------------------------------------
 *12.Real Santa Cruz         34  9  8 17 35-59 35
 
-*Playoff against Direct Relegation [Cochabamba, Oct 6]
+Stage: Playoff against Direct Relegation 
 
-; Iberoamericana         ; 3-1; Real Santa Cruz
+10/6/2001; Iberoamericana         ; 3-1; Real Santa Cruz; Cochabamba, Bolivia
   D. Cuellar, R. Vaca, R. Vaca; J. Callau
 
 
@@ -903,25 +901,22 @@ Date: 9/28/2001
 *
 *San José (Oruro) promoted.
 
-*Promotion/Relegation Playoff 
+Stage: Promotion/Relegation Playoff 
+Leg: 1
 
-*First Leg 
-Date: 11/24/2001
-
-; Iberoamericana        ; 6-0; 1° de Mayo (Beni) 
+11/24/2001; Iberoamericana        ; 6-0; 1° de Mayo (Beni) 
   J. Peña, J. Peña, R. Vaca, F. Garzon, F. Garzon, D. Cuellar;
 
-*Second Leg 
-Date: 12/1/2001
+Leg: 2
 
-; 1° de Mayo (Beni)     ; 3-1; Iberoamericana 
+12/1/2001; 1° de Mayo (Beni)     ; 3-1; Iberoamericana 
   M. Ceballos, M. Ceballos, E. Parada; R. Vaca
 
 *Iberoamericana win 7-3 on aggregate and remain at 1st level
 
 
-*Second Stage
-*
+Stage: 2
+
 *Group 1
 * 1.Oriente Petrolero        6  4  0  2 16- 9 12  Qualified
 * 2.Jorge Wilstermann        6  4  0  2 15- 9 12  Qualified
@@ -1050,12 +1045,12 @@ Date: 10/31/2001
 *Top-2 of each group qualify for semifinals
 
 
-*Semifinals
 * 1.Oriente Petrolero        6  4  1  1 14- 9 13  Clausura Champions
 * 2.Real Potosí              6  2  2  2 13-15  8
 * 3.Bolívar                  6  1  3  2  8- 9  6
 * 4.Jorge Wilstermann        6  1  2  3  7- 9  5
 
+Stage: Semifinals
 Round: 1 
 Date: 11/18/2001
 
@@ -1117,26 +1112,20 @@ Date: 12/9/2001
 
 *Real Potosí qualified for Copa Libertadores (as Bolivia 3).
 
-*Championship Playoff
+Stage: Championship Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/12/2001
-
-; Bolivar                ; 4-1; Oriente Petrolero
+12/12/2001; Bolivar                ; 4-1; Oriente Petrolero
   J. Botero, J. Botero, H. Chiorazzo, H. Chiorazzo; V. Gonzales
 
-*Second Leg 
-Date: 12/16/2001
+Leg: 2
 
-; Oriente Petrolero      ; 4-3; Bolivar
+12/16/2001; Oriente Petrolero      ; 4-3; Bolivar
   J. Castillo, J. Castillo, J. Castillo, J. Castillo; L. Libermann, J. Ferreira, J. Botero
 
+Leg: 3
 
-*Third Leg 
-Date: 12/19/2001
-*, Cochabamba/2001
-
-; Oriente Petrolero      ; 2-0; Bolivar
+12/19/2001; Oriente Petrolero      ; 2-0; Bolivar; Cochabamba, Bolivia
   J. Castillo, J. Castillo;
 
 *Oriente Petrolero champions of Bolivia 2001.

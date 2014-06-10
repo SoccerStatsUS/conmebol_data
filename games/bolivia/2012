@@ -1,12 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesb/bol2013.html#1aper
 Competition: Liga de Fútbol Profesional Boliviano
 
-*Bolivia 2012/13
-
-
-
 Season: 2012-2013 Apertura
-*Stage: Apertura
 
 * 1.The Strongest              22  13  6  3  53-31  45  Champions
 * 2.San José                   22  12  5  5  51-35  41
@@ -537,17 +532,14 @@ Date: 12/16/2012
 *11.Aurora                     22   6  4 12  31-47  22
 *12.La Paz FC                  22   4  4 14  28-50  16
 
-*Copa Libertadores Playoff 
-*Date: 12/19/2012
-*
-*; Bolívar          ; 2-2; Oriente Petrolero [4-2 pen]
-*  Juan Carlos Arce 7, Ever Milton Cantero 90; Alcides Peña 27, Gualberto Mojica 59
+Stage: Copa Libertadores Playoff 
 
+12/19/2012; Bolívar          ; 2-2; Oriente Petrolero
+Juan Carlos Arce 7, Ever Milton Cantero 90; Alcides Peña 27, Gualberto Mojica 59
+Penalty kicks: 4-2
 
 
 Season: 2012-2013 Clausura
-*Torneo Clausura 2013
-
 
 * 1.Bolívar                    22  16  2  4  50-30  50  Champions
 * 2.Oriente Petrolero          22  14  5  3  43-25  47
@@ -1105,16 +1097,18 @@ Date: 5/26/2013
 *NB: relegation is based on points average over the last two seasons; La Paz FC were relegated
 *    directly while Petrolero entered the Relegation Playoff
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg [Jun 2]
-; Sport Boys Warnes; 2-2; Petrolero Yacuiba 
+6/2/2013; Sport Boys Warnes; 2-2; Petrolero Yacuiba 
 
-*Second Leg [Jun 9]
-; Petrolero Yacuiba; 1-1; Sport Boys Warnes 
+Leg: 2
 
-*Playoff [Jun 13, Santa Cruz]
-; Petrolero Yacuiba; 0-2; Sport Boys Warnes 
+6/9/2013; Petrolero Yacuiba; 1-1; Sport Boys Warnes 
+
+Leg: 3
+
+6/13/2013; Petrolero Yacuiba; 0-2; Sport Boys Warnes ; Santa Cruz, Bolivia
 
 *NB: Petrolero relegated, Sport Boys promoted
        

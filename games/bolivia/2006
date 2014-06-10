@@ -535,8 +535,6 @@ Date: 6/4/2006
   Luis Bryan Daza 19, Oliver Christian Fernandez 58; Miguel Angel Cuellar 15, Miguel Angel Cuellar 32, Danner Jesus Pachi 50, Jose Martin Menacho 85
 
 
-*Final Table:
-*
 * 1.Bolívar                    22 14  6  2 40-17 48  Champions
 * 2.Real Potosí                22 13  6  3 54-25 45
 * 3.Universitario (Sucre)      22 12  6  4 38-30 42
@@ -554,9 +552,6 @@ Date: 6/4/2006
 Season: 2006 Clausura
 
 *Clasificación
-*
-*Final Tables:
-*
 *Serie A
 * 1.Jorge Wilstermann          12  8  3  1 24- 9 27  Qualified
 * 2.Real Potosí                12  5  3  4 20-20 18  Qualified
@@ -852,8 +847,6 @@ Date: 10/1/2006
   Gustavo Adolfo Paz 45; Antonio Palacios (pk) 82
 
 
-*Final Tables:
-*
 *Serie A
 * 1.Jorge Wilstermann          12  8  3  1 24- 9 27  Qualified
 * 2.Real Potosí                12  5  3  4 20-20 18  Qualified
@@ -871,11 +864,9 @@ Date: 10/1/2006
 * 6.Unión Central              12  2  3  7  6-18  9
 *
 *Top-3 of both groups of Clasificación qualify for Hexagonal Final
-*
-*Hexagonal Final
-*
-*Final Table:
-*
+
+Stage: Hexagonal Final
+
 * 1.Jorge Wilstermann          10  6  2  2 16- 8 21  [1]  Champions
 * 2.Real Potosí                10  5  2  3 20-15 17
 * 3.Oriente Petrolero          10  3  4  3 13-21 13
@@ -1018,8 +1009,6 @@ Date: 12/3/2006
   Jose Augusto Carioca (pk) 40, Horacio Jose Chiorazzo 76; Carlos Eduardo Monteiro 46
 
 
-*Final Table:
-*
 * 1.Jorge Wilstermann          10  6  2  2 16- 8 21  [1]  Champions
 * 2.Real Potosí                10  5  2  3 20-15 17
 * 3.Oriente Petrolero          10  3  4  3 13-21 13
@@ -1058,18 +1047,15 @@ Date: 12/3/2006
 *Relegated: Unión Central
 *Promoted: Municipal Real Mamoré (Trinidad/Beni) 
 
-*Promotion/Relegation Playoff
- 
-*First Leg 
-Date: 10/25/2006
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-; Destroyers            ; 1-1; Ciclón 
+10/25/2006; Destroyers            ; 1-1; Ciclón 
   Oscar Mario Arauz 81; Rodrigo Bottaro 77
 
-*Second Leg 
-Date: 10/28/2006
+Leg: 2
 
-; Ciclón                ; 1-2; Destroyers
+10/28/2006; Ciclón                ; 1-2; Destroyers
   Rodrigo Bottaro 53; Gilberto Ayala 14, Luiz Murilo Cazagrande Sampaio 64
 
  

@@ -521,7 +521,6 @@ Date: 6/13/2007
 
 ; Oriente Petrolero     ; 3-0; Bolívar                    
   Martin Adrian Palavicini 24, Martin Adrian Palavicini 65, Martin Adrian Palavicini 72;
-               
 *[points awarded to Bolívar; Oriente used suspended players] 
 
 ; Real Mamoré           ; 2-3; Aurora                      
@@ -539,8 +538,6 @@ Date: 6/13/2007
   Julio Cesar Junco 85; Richard Sandro Uriona 59
 
 
-*Final Table:
-*
 * 1.Real Potosí                22 12  3  7 46-25 39  Apertura Champions
 * 2.Bolívar                    22 10  4  8 32-37 37  [+3]
 * 3.La Paz FC                  22 10  5  7 31-23 35
@@ -564,12 +561,9 @@ Date: 6/13/2007
 
 Season: 2007 Clausura
 
-*Torneo Clausura 2007
-*
+
 *Group Stage
-*
 *Final Tables:
-*
 *Grupo A
 * 1.The Strongest              12  6  3  3 23-14 21  Qualified
 * 2.Blooming                   12  6  3  3 14-10 21  Qualified
@@ -860,8 +854,7 @@ Date: 9/30/2007
 ; Blooming              ; 1-1; San José
   Dimas Roberto Da Silva 5; Lisandro Moyano 19
 
-*Final Tables:
-*
+
 *Grupo A
 * 1.The Strongest              12  6  3  3 23-14 21  Qualified
 * 2.Blooming                   12  6  3  3 14-10 21  Qualified
@@ -1023,8 +1016,6 @@ Date: 12/5/2007
 
 ; Jorge Wilstermann     ; 0-0; San José
 
-*Final Table:
-*
 * 1.San José                   10  5  3  2 16-13 18       Championship Playoff
 *   La Paz FC                  10  5  2  3 18-16 18  [1]  Championship Playoff
 * 3.Blooming                   10  4  3  3 15-11 15
@@ -1035,60 +1026,50 @@ Date: 12/5/2007
 *NB: La Paz FC and The Strongest obtained 1 bonus point for winning their
 *    respective groups in the first phase
 
-*Championship Playoff
+Stage: Championship Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/9/2007
-
-; La Paz FC             ; 2-2; San José
+12/9/2007; La Paz FC             ; 2-2; San José
   Daison de Jesus Guale 69, Ronald Gutierrez 79; Alex Rodrigo Da Rosa 19, Lisandro Moyano 90+2
 
-*Second Leg 
-Date: 12/12/2007
+Leg: 2
 
-; San José              ; 1-0; La Paz FC
+12/12/2007; San José              ; 1-0; La Paz FC
   Alex Rodrigo Da Rosa 32;
 
 *Champions: San José
 
 *Copa Libertadores Playoff
 
-*First Leg 
-Date: 12/16/2007
+Leg: 1
 
-; Bolívar               ; 1-2; La Paz FC
+12/16/2007; Bolívar               ; 1-2; La Paz FC
   Luis Anibal Torrico 13; Daison de Jesus Guale 37, Diomedes Peña 46
 
-*Second Leg 
-Date: 12/19/2007
+Leg: 2
 
-; La Paz FC             ; 2-1; Bolívar
+12/19/2007; La Paz FC             ; 2-1; Bolívar
   Ronald Gutierrez 74, Diomedes Peña 82; Juan Doyle Vaca 63
 
 *NB: winners La Paz FC join Real Potosí and San José in Copa Libertadores 2008;
 *    losers Bolívar join Blooming in Copa Sudamericana
 
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/6/2007
-*, Cochabamba/2007
-
-; Aurora                ; 3-0; Nacional Potosí; Cochabamba, Bolivia
+12/6/2007; Aurora                ; 3-0; Nacional Potosí; Cochabamba, Bolivia
   Edson Zenteno (pk) 12, Oliver Christian Fernandez 23, Isidro Candia 90+3;
 
-*Second Leg 
-Date: 12/9/2007
+Leg: 2
 *Potosi
 
-; Nacional Potosí       ; 2-2; Aurora; 
+12/9/2007; Nacional Potosí       ; 2-2; Aurora; 
   Fernando Batiste (og) 25, Maximiliano Andrada 50; Oliver Christian Fernandez 1, Isidro Candia 43
 
 *Aurora remain at first level
 
 
-*About this document
 *Thanks to Daniel Dalence for lower levels La Paz league
 *Prepared and maintained by Tim Venables and Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation
 *Authors: Tim Venables (timjvenables@hotmail.com) and Juan Pablo Andrés (jpandres@tutopia.com) 

@@ -1,6 +1,5 @@
 BlockSource: http://www.rsssf.com/tablesc/chile2013.html
 Competition: Chilean Primera Division
-
 Season: 2013 Transición
 
 *"Campeonato Petrobras" - Torneo 
@@ -379,12 +378,12 @@ Date: 5/26/2013
 
 
 Stage: Promotion/Relegation Playoff
-* 
-*First Leg 
+Leg: 1
 
 5/29/2013; Curicó Unido        ; 0-0; Cobresal
-* 
-*Second Leg [Jun 2]
+
+Leg: 2
+
 6/2/2013; Cobresal            ; 3-0; Curicó Unido
  
 *NB: both remain at former level
@@ -648,7 +647,8 @@ Date: 10/26/2013
 
 Date: 10/27/2013
 
-; Univ. de Chile      ; 0-1; Univ. Católica       [abandoned at 0-1 in 56'; result stood]
+; Univ. de Chile      ; 0-1; Univ. Católica       
+*[abandoned at 0-1 in 56'; result stood]
 ; Cobreloa            ; 1-0; U. La Calera         
 ; Santiago Wanderers  ; 2-1; Univ. de  Concepción 
 ; Ñublense            ; 2-1; Cobresal             

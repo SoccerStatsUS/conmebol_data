@@ -535,11 +535,8 @@ Date: 7/5/2009
 
 
 Season: 2009 Clausura
+Stage: group
 
-*Group Stage
-*
-*Final Tables:
-*
 *Grupo A
 * 1.Bolívar                    12  7  4  1 25-13 25  Qualified
 * 2.Universitario (Sucre)      12  5  3  4 11-13 18  Qualified
@@ -863,72 +860,54 @@ Date: 9/17/2009
 
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 9/20/2009
-
-; Bolívar               ; 1-1; Oriente Petrolero 
+9/20/2009; Bolívar               ; 1-1; Oriente Petrolero 
   William Ferreira (pk) 93; Alcides Peña 84
 
-; Real Potosí           ; 0-0; Blooming         
+9/20/2009; Real Potosí           ; 0-0; Blooming         
 
-; Universitario Sucre   ; 2-2; The Strongest
+9/20/2009; Universitario Sucre   ; 2-2; The Strongest
   Jesus Ronald Gallegos 67, Luis Hernan Sillero 83; Limberg Gutierrez 8, Pablo Osvaldo Vazquez 39
 
+Leg: 2
 
-*Second Legs
+9/23/2009; Oriente Petrolero     ; 0-0; Bolívar
+Notes: Bolívar qualified as best losers
 
-Date: 9/23/2009
-
-; Oriente Petrolero     ; 0-0; Bolívar
-
-Date: 9/24/2009
-
-; Blooming              ; 1-0; Real Potosí     
+9/24/2009; Blooming              ; 1-0; Real Potosí     
   Damian Emilio Akerman 9;
        
-; The Strongest         ; 2-1; Universitario Sucre   
+9/24/2009; The Strongest         ; 2-1; Universitario Sucre   
   Thiago Leitao 13, Alejandro Saul Chumacero 30; Jose Marcelo Gomes 54
        
-*NB: Bolívar qualified as best losers
-
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 9/27/2009
-
-; The Strongest         ; 1-2; Bolívar      
+9/27/2009; The Strongest         ; 1-2; Bolívar      
   Pablo Osvaldo Vazquez 72; William Ferreira 27, William Ferreira (pk) 35
               
-; Oriente Petrolero     ; 3-2; Blooming     
+9/27/2009; Oriente Petrolero     ; 3-2; Blooming     
   Luis Javier Mendez 17, Alcides Peña 60, Alcides Pena 81; Damian Emilio Akerman 33, Roger Suarez 76
                         
+Leg: 2
 
-*Second Legs 
-Date: 9/30/2009
-
-; Bolívar               ; 2-1; The Strongest     
+9/30/2009; Bolívar               ; 2-1; The Strongest     
   Anderson Aparecido Gonzaga 59, Wether Theirs Charles Da Silva 84; Carlos Enrique Saucedo 64
   
-; Blooming              ; 1-0; Oriente Petrolero     
+9/30/2009; Blooming              ; 1-0; Oriente Petrolero     
   Damian Emilio Akerman 49;
-  
-
-*NB: Blooming qualified on away goals
+Notes: Blooming qualified on away goals
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 10/18/2009
-
-; Blooming              ; 1-0; Bolívar
+10/18/2009; Blooming              ; 1-0; Bolívar
   Luiz Carlos Vieira (pk) 22;
   
+Leg: 2
 
-*Second Leg 
-Date: 10/21/2009
-
-; Bolívar               ; 1-1; Blooming
+10/21/2009; Bolívar               ; 1-1; Blooming
   Wether Theirs Charles Da Silva 34; Roger Suarez 21
 
 
@@ -937,21 +916,18 @@ Date: 10/21/2009
 *Relegation Playoff: Jorge Wilstermann
 
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg [Dec 9]
-; Ciclón                ; 1-1; Jorge Wilstermann
+12/9/2009; Ciclón                ; 1-1; Jorge Wilstermann
   Leonardo Jesus Palombizio 78; Edgar Rolando Olivares 83
 
+Leg: 2
 
-*Second Leg [Dec 16]
-
-; Jorge Wilstermann     ; 2-1; Ciclón
+12/16/2009; Jorge Wilstermann     ; 2-1; Ciclón
   Guillermo Imhoff 15, Gabriel Rios 65; Fernando Algarañaz 61
 
 *NB: Jorge Wilstermann remain at first level
-
-
 
 Stage: Torneo Play Off de la Liga 2009 
 
@@ -961,118 +937,98 @@ Stage: Torneo Play Off de la Liga 2009
 *Format as 2008, but relegated team (Nacional Potosí) cannot enter.
 
 Round: 1
+Leg: 1
 
-*First Legs
-Date: 10/31/2009
-
-; La Paz FC             ; 0-1; San José
+10/31/2009; La Paz FC             ; 0-1; San José
 ;  Damir Miranda 64
 
-Date: 11/1/2009
-
-; Oriente Petrolero     ; 1-0; Blooming
+11/1/2009; Oriente Petrolero     ; 1-0; Blooming
   Joselito Vaca 71;
 
-; Aurora                ; 1-3; Jorge Wilstermann
+11/1/2009; Aurora                ; 1-3; Jorge Wilstermann
   Nelson Sossa 6; Didi Torrico 27, Alvaro Gabriel Pintos 37, Edgar Rolando Olivares 63
 
-; The Strongest         ; 0-3; Bolívar
+11/1/2009; The Strongest         ; 0-3; Bolívar
 ;  Luis Anibal Torrico 51, William Ferreira 78, Anderson Aparecido Gonzaga 89
 
-; Real Mamoré           ; 0-0; Universitario Sucre
+11/1/2009; Real Mamoré           ; 0-0; Universitario Sucre
 
-*Second Legs 
-Date: 11/4/2009
+Leg: 2
 
-; San José              ; 1-0; La Paz FC
+11/4/2009; San José              ; 1-0; La Paz FC
   Christian Omar Diaz 71;
 
-; Blooming              ; 1-1; Oriente Petrolero
+11/4/2009; Blooming              ; 1-1; Oriente Petrolero
   Damian Emilio Akerman 6; Joselito Vaca 7
 
-; Jorge Wilstermann     ; 1-1; Aurora
+11/4/2009; Jorge Wilstermann     ; 1-1; Aurora
   Alvaro Gabriel Pintos 48; Silvio Marcos Dulcich (pk) 87
 
-; Bolívar               ; 2-3; The Strongest
+11/4/2009; Bolívar               ; 2-3; The Strongest
   Wether Theirs Charles Da Silva 39, William Ferreira (pk) 94; Thiago Leitao 32, Percy Colque 42, Carlos Enrique Saucedo 91
 
-; Universitario Sucre   ; 3-0; Real Mamoré
+11/4/2009; Universitario Sucre   ; 3-0; Real Mamoré
   Mauricio Saucedo 19, Roberto Galindo 22, Sacha Silvestre Lima 32;
 
 
 *NB: Real Potosí bye in round 1
 *NB: in rounds 2 and 3, ties equal on points are decided on penalties
 
-Round: 2 Winners Playoff
+Round: 2 
+* Winners Playoff
+Leg: 1
 
-*First Legs
-Date: 11/7/2009
-
-; San José              ; 2-0; Oriente Petrolero
+11/7/2009; San José              ; 2-0; Oriente Petrolero
   Christian Omar Diaz 47, Alex Rodrigo Da Rosa 91;
 
-; Jorge Wilstermann     ; 2-1; Real Potosí
+11/7/2009; Jorge Wilstermann     ; 2-1; Real Potosí
   Jose Gabriel Rios 9, Hugo Suarez 28; Miguel Osvaldo Loayza 18
 
-Date: 11/8/2009
-
-; Bolívar               ; 2-1; Universitario Sucre
+11/8/2009; Bolívar               ; 2-1; Universitario Sucre
   Aquilino Villalba 29, Luis Anibal Torrico 53; Roberto Galindo 35
 
+Leg: 2
 
-*Second Legs
-Date: 11/14/2009
-
-; Oriente Petrolero     ; 1-0; San José               
+11/14/2009; Oriente Petrolero     ; 1-0; San José               
   Jhasmani Campos 66;
 Penalty kicks: 5-4
 
-Date: 11/15/2009
-
-; Real Potosí           ; 2-1; Jorge Wilstermann      
+11/15/2009; Real Potosí           ; 2-1; Jorge Wilstermann      
   Pastor Torrez 45, Miguel Osvaldo Loayza 51; Amilcar Alvaro Sanchez 5
 Penalty kicks: 4-3
 
-Date: 11/23/2009
-
-; Universitario Sucre   ; 3-4; Bolívar
+11/23/2009; Universitario Sucre   ; 3-4; Bolívar
   Luis Hernan Sillero 25, Luis Hernan Sillero 56, Luis Hernan Sillero 69; Abdon Reyes 29, Anderson Aparecido Gonzaga 53, Miguel Angel Hoyos 60, Wether Theirs Charles Da Silva 91
 
 Round: 2 
 *Losers Playoff
+Leg: 1
 
-*First Legs
-Date: 11/8/2009
-
-; The Strongest         ; 3-2; Real Mamoré
+11/8/2009; The Strongest         ; 3-2; Real Mamoré
   Limberg Gutierrez 2, Pablo Osvaldo Vazquez 42, Carlos Enrique Saucedo 55; Oscar Alberto Diaz 8, Rodrigo Bottaro 45
 
-; Blooming              ; 2-1; Aurora
+11/8/2009; Blooming              ; 2-1; Aurora
   Jose Luis Chavez 29, Omar Jesus Morales 59; Christian Fernandez 63
 
+Leg: 2
 
-*Second Legs
-Date: 11/15/2009
-
-; Real Mamoré           ; 2-2; The Strongest
+11/15/2009; Real Mamoré           ; 2-2; The Strongest
   Oscar Alberto Diaz 52, Rodrigo Bottaro 68; Limberg Gutierrez 14, Pablo Osvaldo Vazquez 37
 
-; Aurora                ; 3-1; Blooming               
+11/15/2009; Aurora                ; 3-1; Blooming               
   Ramiro Mamani 38, Lisandro Moyano 67, Jaime Cardozo 83; Damian Emilio Akerman 29
 Penalty kicks: 4-3
 
-Round: 3 Losers Playoff
+Round: 3 
+*Losers Playoff
+Leg: 1
 
-*First Leg 
-Date: 11/18/2009
-
-; The Strongest         ; 3-0; Aurora
+11/18/2009; The Strongest         ; 3-0; Aurora
   Alejandro Saul Chumacero 45, Carlos Enrique Saucedo 64, Jose Martin Menacho 85;
 
-*Second Leg 
-Date: 11/22/2009
+Leg: 2
 
-; Aurora                ; 0-1; The Strongest
+11/22/2009; Aurora                ; 0-1; The Strongest
 ;  Thiago Leitao 55
 
 *NB: as winners of losers playoff, The Strongest qualify for semifinals
@@ -1082,47 +1038,39 @@ Date: 11/22/2009
 *    third match
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 11/25/2009
-
-; Real Potosí           ; 5-3; The Strongest
+11/25/2009; Real Potosí           ; 5-3; The Strongest
   Horacio Ramon Fernandez 2, Edemir Rodriguez 17, Pastor Torrez 28, Darwin Peña 70, Gonzalo German Galindo 82; Thiago Leitao 11, Alejandro Saul Chumacero 53, Jose Martin Menacho (pk) 87
 
-Date: 11/26/2009
-
-; Oriente Petrolero     ; 2-2; Bolívar
+11/26/2009; Oriente Petrolero     ; 2-2; Bolívar
   Eduardo Marcelo Aguirre 17, Andres Roberto Imperiale 94; Anderson Aparecido Gonzaga 45+2, Abdon Reyes 7
 
-*Second Legs
-Date: 11/28/2009
+Leg: 2
 
-; The Strongest         ; 2-1; Real Potosí
+11/28/2009; The Strongest         ; 2-1; Real Potosí
   Pablo Osvaldo Vazquez 67, Pablo Osvaldo Vazquez 84; Gerson Luis Garcia 49
 
-Date: 11/29/2009
-
-; Bolívar               ; 2-2; Oriente Petrolero    
+11/29/2009; Bolívar               ; 2-2; Oriente Petrolero    
   Aquilino Villalba 68, William Ferreira 77; Ariel Ribera 52, Sebastian Yeri Molina 57
-  
-*Third Legs 
-*[Dec 2, in Cochabamba]
+
+Leg: 3  
+
 12/2/2009; The Strongest         ; 1-1; Real Potosí           ; Cochabamba, Bolivia
 Horacio Ramon Fernandez 80; Pablo Osvaldo Vazquez 73
 Penalty kicks: 1-3
 
-
-*[Dec 3, in Cochabamba]
 12/3/2009; Bolívar               ; 2-1; Oriente Petrolero      ; Cochabamba, Bolivia
 William Ferreira 64, Anderson Aparecido Gonzaga 82; Diego Aroldo Cabrera 52
 
 Round: Final
+Leg: 1
 
-*First Leg [Dec 9]
 12/9/2009; Real Potosí           ; 1-1; Bolívar
 Roberto Correa (pk) 86; Anderson Aparecido Gonzaga 66
 
-*Second Leg [Dec 13]
+Leg: 2
+
 12/13/2009; Bolívar               ; 3-4; Real Potosí
 Anderson Aparecido Gonzaga 52, Wether Theirs Charles Da Silva 56, Wether Theirs Charles Da Silva 61; Horacio Ramon Fernandez 45+2, Christian Maciel Ruiz 72, Christian Maciel Ruiz 75, Ronald Eguino 90
 

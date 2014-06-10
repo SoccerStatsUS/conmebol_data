@@ -20,12 +20,10 @@ Stage: Apertura
 *12.Destroyers              22  5  4 13 33-56 19
 
 Round: 1 
-
 Date: 2/6/1999
 
 ; Santa Cruz    ; 2-2; Guabira
   A. Ibañez, E. Monteiro; C. Santiesteban, R. Cruz
-
 
 Date: 2/7/1999
 
@@ -928,6 +926,7 @@ Date: 10/17/1999
 * 5.Real Potosí             10  2  2  6  8-16  8
 * 6.Independiente Petrolero 10  1  2  7 12-24  5
 
+Stage: Hexagonal
 Round: 1 
 Date: 10/24/1999
 
@@ -1059,19 +1058,15 @@ Date: 12/12/1999
 * 6.Independiente Petrolero 10  1  2  7 12-24  5
 *Third Copa Libertadores place: Bolívar (2nd in both Apertura and Clausura).
 
-*Championship Playoff
+Stage: Championship Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/15/1999
-
-; The Strongest ; 2-3; Blooming
+12/15/1999; The Strongest ; 2-3; Blooming
   V. Gonzales, A. Peña; R. Justiniano, R. Justiniano, R. Ribera
 
+Leg: 2
 
-*Second Leg 
-Date: 12/19/1999
-
-; Blooming      ; 3-2; The Strongest
+12/19/1999; Blooming      ; 3-2; The Strongest
   V. Antelo, L. Gutierrez, M. Menacho; R. Arana, S. Coelho
 
 *Blooming champions of Bolivia 1999.
@@ -1097,22 +1092,17 @@ Date: 12/19/1999
 *Clausura (34 rounds); worst team relegated automatically, second-worst
 *play off against Copa Simón Bolívar runners-up.
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/11/1999
-
-; San Jose      ; 1-0; Mariscal Braun
+12/11/1999; San Jose      ; 1-0; Mariscal Braun
   Roger Cossio 69;
 
+Leg: 2
 
-*Second Leg 
-Date: 12/15/1999
-
-; Mariscal Braun; 2-1; San Jose             
+12/15/1999; Mariscal Braun; 2-1; San Jose             
   Fabio de Oliveira 20, Saturnino Netto 54; Percy Colque 61
-*[4-3 pen]
-
+Penalty kicks: 4-3
 *  [pen: MB: Fabio de Oliveira, Richard Vaca, Antonio Grooters, Fernando Zabala (-), Saturnino Netto;
 *        SJ: Demetrio Angola, Percy Colque, Celio Alves (-), Iver Vaca, Berthy Vaca (-)]
 

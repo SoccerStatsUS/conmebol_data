@@ -22,44 +22,42 @@ Season: 2012 Apertura
 *17.Cobresal (El Salvador)              17   3  4 10  17-40  13
 *18.Unión San Felipe                    17   2  7  8  12-21  13
 
+Stage: liguilla
 Round: Quarterfinals
- 
-*First Legs
+Leg: 1
 
 5/23/2012; Colo Colo           ; 3-3; Dep. Iquique         
 5/23/2012; U. Española         ; 3-0; Univ. Católica       
 5/24/2012; U. La Calera        ; 0-1; O'Higgins            
 5/27/2012; Cobreloa            ; 0-2; Univ. de Chile       
 
-*Second Legs
+Leg: 2
 
 5/26/2012; Dep. Iquique        ; 1-2; Colo Colo            
 5/26/2012; Univ. Católica      ; 1-1; U. Española          
-
 5/27/2012; O'Higgins           ; 3-2; U. La Calera        
-
 6/11/2012; Univ. de Chile      ; 2-1; Cobreloa            
 
 Round: Semifinals
- 
-*First Legs
+Leg: 1 
 
 6/16/2012; U. Española         ; 1-0; O'Higgins            
 
 6/17/2012; Colo Colo           ; 2-0; Univ. de Chile       
 
-*Second Legs
+Leg: 2
 
 6/23/2012; O'Higgins           ; 2-1; U. Española          
 
 6/24/2012; Univ. de Chile      ; 4-0; Colo Colo            
  
 Round: Final
- 
-*First Leg
+Leg: 1 
+
 6/28/2012; O'Higgins           ; 2-1; Univ. de Chile       
 
-*Second Leg
+Leg: 2
+
 7/2/2012; Univ. de Chile      ; 2-1; O'Higgins            
 Penalty kicks: 2-0
 
@@ -87,38 +85,40 @@ Season: 2012 Clausura
 *17.Unión La Calera                     17   2  9  6  11-18  15
 *18.Deportes La Serena                  17   2  6  9  20-33  12
 
-*Clausura Playoff
-
+Stage: playoff
 Round: Quarterfinals
- 
-*First Legs
+Leg: 1 
+
 11/20/2012; Audax Italiano      ; 0-2; Colo Colo            
 11/20/2012; Huachipato          ; 1-1; Palestino            
 11/21/2012; U. Española         ; 0-0; Univ. de Chile       
 11/21/2012; Rangers             ; 1-0; Dep. Iquique             
 
-*Second Legs
+Leg: 2
+
 11/24/2012; Palestino           ; 1-2; Huachipato           
 11/24/2012; Colo Colo           ; 4-5; Audax Italiano       
 11/25/2012; Univ. de Chile      ; 1-4; U. Española          
 11/25/2012; Dep. Iquique        ; 0-1; Rangers              
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 11/28/2012; U. Española         ; 3-1; Colo Colo            
 11/29/2012; Huachipato          ; 1-0; Rangers              
 
-*Second Legs
+Leg: 2
+
 12/2/2012; Colo Colo           ; 0-2; U. Española          
 12/2/2012; Rangers             ; 1-1; Huachipato           
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/5/2012; U. Española         ; 3-1; Huachipato           
 
-*Second Leg
+Leg: 2
+
 12/9/2012; Huachipato          ; 3-1; U. Española          
 Penalty kicks: 3-2
 
@@ -145,13 +145,13 @@ Penalty kicks: 3-2
 *17.Unión San Felipe                    34   8 10 16  31-42  34  Relegated
 *18.Deportes La Serena                  34   7 10 17  44-66  31  Relegated
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Legs
 11/18/2012; Barnechea           ; 3-1; Cobresal
 11/18/2012; Everton             ; 1-0; U. de Concepción  
 
-*Second Legs
+Leg: 2
 
 11/24/2012; Cobresal            ; 3-0; Barnechea
 11/25/2012; U. de Concepción    ; 1-3; Everton

@@ -274,17 +274,15 @@ Date: 5/4/1997
 * 6.Oriente Petrolero       10  2  3  5  11-16   9
 
 Round: Semifinals
-
-*First Legs
+Leg: 1
 
 5/8/1997; Guabira        ; 1-0; The Strongest   ; Santa Cruz 
              V. Cespedes  22;
 
-
-; Blooming       ; 0-2; Bolivar         ; Santa Cruz 
+5/8/1997; Blooming       ; 0-2; Bolivar         ; Santa Cruz 
 ;             V. Gonzales 47, R. Castillo 89
 
-*Second Legs
+Leg: 2
 
 5/11/1997;      The Strongest  ; 2-0; Guabira                  ; La Paz
              O. Sanchez (pk) 69, S. Castillo (pk) 76;
@@ -294,14 +292,12 @@ Penalty kicks: 4-3
              R. Ribera (og) 3, R. Castillo 16, R. Castillo 81; J. Ortiz 48, V. Antelo 80, V. Antelo 83
 
 Round: Final
-
-*First Leg
+Leg: 1
 
 5/16/1997;      The Strongest  ; 0-1; Bolivar         ; La Paz
 ;             R. Cueto 82
 
-
-*Second Leg
+Leg: 2
 
 5/18/1997;      Bolivar        ; 2-0; The Strongest   ; La Paz
              V. Gonzales (pk) 29, M. Sandy 43;
@@ -661,7 +657,7 @@ Date: 11/2/1997
 *Destroyers remain in first division.
 
 
-*Hexagonal Final
+
 * 1.Bolívar                 10  8  1  1  33- 9  25
 * 2.Oriente Petrolero       10  6  0  4  20-14  18
 * 3.Blooming                10  5  1  4  21-19  16
@@ -669,6 +665,7 @@ Date: 11/2/1997
 * 5.Jorge Wilstermann       10  4  0  6  16-23  12
 * 6.Chaco Petrolero         10  1  0  9  10-32   3
 
+Stage: Hexagonal
 Round: 1 
 Date: 11/9/1997
 
@@ -798,8 +795,6 @@ Date: 12/21/1997
 ; Bolivar       ; 4-1; Oriente
   Sergio Joao 30, Sergio Joao 53, Limbert Pizarro 32, Jefferson Gottardi 82; Raul Medeiros 50
 
-
-*Final Table:
 * 1.Bolívar                 10  8  1  1  33- 9  25
 * 2.Oriente Petrolero       10  6  0  4  20-14  18
 * 3.Blooming                10  5  1  4  21-19  16
@@ -811,15 +806,15 @@ Date: 12/21/1997
 *for Copa Libertadores 1998.
 
 
-*Playoff for Copa Conmebol 1997
-*First Leg [Jul 30]
-*Santa Cruz     1-1 Strongest
-*Second Leg [Aug 7]
-*Strongest      0-2 Santa Cruz
+Stage: Playoff for Copa Conmebol 1997
+Leg: 1
 
+7/30/1997; Santa Cruz    ; 1-1; Strongest
 
+Leg: 2
 
-*About this document
+8/7/1997; Strongest     ; 0-2; Santa Cruz
+
 *With thanks to Mikael Jönsson (mikcat@frisurf.no)
 *Prepared and maintained by Tim Venables for the Rec.Sport.Soccer Statistics Foundation
 *Author: Tim Venables (timjvenables@hotmail.com) 

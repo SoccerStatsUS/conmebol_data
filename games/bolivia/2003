@@ -1,10 +1,8 @@
 BlockSource: http://www.rsssf.com/tablesb/bol03.html
 Competition: Liga de Fútbol Profesional Boliviano
-
 Season: 2003 Apertura
 
 
-*Torneo Apertura 
 * 1.The Strongest           22 13  7  2 43-29 46  Apertura champions
 * 2.Bolívar                 22 13  6  3 54-21 45
 * 3.Jorge Wilstermann       22 11  7  4 43-19 40
@@ -571,45 +569,37 @@ Date: 7/14/2003
 *11.Guabirá                 22  4  6 12 21-44 18
 *12.Independiente Petrolero 22  4  6 12 21-49 18
 
-*Copa Sudamericana Qualifying
 *NB: for 2nd spot Bolivia; 1st obtained by Bolívar as champions 2002
 
+Stage: Copa Sudamericana Qualifying
 Round: Semifinals
-
-*First Legs
+Leg: 1
 
 ; Oriente       ; 0-0; Blooming
 ; Wilstermann   ; 0-2; The Strongest
 
-*Second Legs 
+Leg: 2
 *Date: 7/19,20/2003
-Date: 7/19/2003
 
-; The Strongest ; 4-1; Wilstermann
-; Blooming      ; 3-2; Oriente
+7/19/2003; The Strongest ; 4-1; Wilstermann
+7/19/2003; Blooming      ; 3-2; Oriente
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 7/23/2003
+7/23/2003; Blooming      ; 1-1; The Strongest
 
-; Blooming      ; 1-1; The Strongest
+Leg: 2
 
-*Second Leg 
-Date: 7/30/2003
-
-; The Strongest ; 4-1; Blooming
+7/30/2003; The Strongest ; 4-1; Blooming
 
 *The Strongest qualified.
 
 
 
 Season: 2003 Clausura
+Stage: 1
 
-*Torneo Clausura
-*First Stage
-
-*Final Tables:
 *Group A
 * 1.Blooming                12  6  2  4 20-19 20  Qualified
 * 2.Real Potosí             12  6  1  5 16-17 19  Qualified
@@ -631,7 +621,6 @@ Date: 6/26/2003
 
 ; The Strongest ; 2-1; Guabira
   Israel Mauricio Crespo 47, Limberg Morejon 84; Ronaldo Dos Santos 90
-
 
 Date: 6/27/2003
 
@@ -897,9 +886,6 @@ Date: 10/26/2003
 ; The Strongest ; 3-0; Iberoamericana 
   Ivan Sabino Castillo 11, Ivan Sabino Castillo 90, Limberg Morejon 18;
 
-
-*Final Tables:
-*
 *Group A
 * 1.Blooming                12  6  2  4 20-19 20  Qualified
 * 2.Real Potosí             12  6  1  5 16-17 19  Qualified
@@ -921,10 +907,8 @@ Date: 10/26/2003
 *     Guabira-Union Central, Iberoamericana-San Jose, Independiente-Real Potosi)
 
 
-*Second Stage
-*
-*Tables:
-*
+Stage: 2
+
 *Group 1
 * 1.Jorge Wilstermann        6  4  0  2 13-11 12  Qualified
 * 2.Bolívar                  6  3  1  2 22- 9 10  Qualified
@@ -1011,8 +995,7 @@ Date: 11/26/2003
 
 ; Blooming      ; 1-3; Oriente
   Carlos Suarez 25; Francisco Flaminio Ferreira 46, Francisco Flaminio Ferreira 49, Federico Astudillo 52
-*protest Blooming against Oriente
-*   fielding Miguel Raul Justiniano (suspended)
+*protest Blooming against Oriente fielding Miguel Raul Justiniano (suspended)
 
 ; The Strongest ; 2-0; Aurora
   Ruben Dario Gigena 47, Sandro Coelho 72;
@@ -1038,8 +1021,6 @@ Date: 11/30/2003
   Carlos Cardenas 62, Limberg Mendez 90;
 
 
-*Tables:
-*
 *Group 1
 * 1.Jorge Wilstermann        6  4  0  2 13-11 12  Qualified
 * 2.Bolívar                  6  3  1  2 22- 9 10  Qualified
@@ -1051,11 +1032,10 @@ Date: 11/30/2003
 * 2.Aurora                   6  3  1  2  4- 6 10  Qualified
 * 3.Real Potosí              6  3  0  3  6- 6  9
 * 4.Iberoamericana           6  1  2  3  5- 5  5
-*
-*Cuadrangular Final
-*
-*Final Table:
-*
+
+
+Stage: Cuadrangular
+
 * 1.The Strongest            6  4  1  1 10- 4 13  Clausura Champions
 * 2.Jorge Wilstermann        6  3  1  2 10- 8 10
 * 3.Bolívar                  6  3  0  3 10- 9  9
@@ -1122,9 +1102,6 @@ Date: 12/21/2003
 ; The Strongest ; 2-1; Aurora
   Ruben Dario Gigena 7, Ruben Dario Gigena 21; Richard Marcos Cueto 89
 
-
-*Final Table:
-*
 * 1.The Strongest            6  4  1  1 10- 4 13  Clausura Champions
 * 2.Jorge Wilstermann        6  3  1  2 10- 8 10
 * 3.Bolívar                  6  3  0  3 10- 9  9
@@ -1157,30 +1134,24 @@ Date: 12/21/2003
 *
 *Promoted: La Paz FC
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/3/2003
+12/3/2003; Real Sta. Cruz; 1-1; Guabirá
 
-; Real Sta. Cruz; 1-1; Guabirá
+Leg: 2
 
-*Second Leg 
-Date: 12/7/2003
-
-; Guabirá       ; 2-2; Real Santa Cruz      
+12/7/2003; Guabirá       ; 2-2; Real Santa Cruz      
 Penalty kicks: 6-7
 
 *Real Santa Cruz promoted, Guabirá relegated.
 
 
-*About this document
 *Prepared and maintained by Tim Venables for the Rec.Sport.Soccer Statistics Foundation
 *Author: Tim Venables (timjvenables@hotmail.com) 
 *Last updated: 17 Feb 2004
 *(C) Copyright Tim Venables and RSSSF 2003/04
 *You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
-
-
 
 
 BlockSource: http://www.rsssf.com/tablesb/bol02.html
@@ -1204,8 +1175,6 @@ Stage: Apertura
 *10.Independiente Petrolero 22  6  5 11 26-43 23
 *11.San José                22  6  4 12 35-40 22
 *12.Mariscal Braun          22  3  3 16 17-48 12
-
-
 
 
 Season: 2002 
