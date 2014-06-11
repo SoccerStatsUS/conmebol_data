@@ -401,9 +401,9 @@ Date: 5/24/2009
 Round: 17
 Date: 5/29/2009
 
-*; 2 de Mayo            abd 3 de Febrero         [abandoned at; 0-1; in 32'
+*; 2 de Mayo            abd 3 de Febrero         [abandoned at; 0-1; in 32' due to fog]
 *  Hébert Carmelo Martínez 8
-*                  due to fog]
+*                  
 
 Date: 5/30/2009
 
@@ -1156,28 +1156,20 @@ Date: 12/13/2009
 
 
 
-*Promotion/Relegation Playoff 
+Stage: Promotion/Relegation Playoff 
+Leg: 1
 
-*First Leg 
-Date: 12/16/2009
-
-; 12 de Octubre       ; 1-1; Sport Colombia 
+12/16/2009; 12 de Octubre       ; 1-1; Sport Colombia 
   Ricardo Ortiz 27; Alejandro Bernal 52
 
+Leg: 2
 
-*Second Leg 
-Date: 12/20/2009
-
-; Sport Colombia      ; 2-2; 12 de Octubre        
+12/20/2009; Sport Colombia      ; 2-2; 12 de Octubre        
   Elio Mora 1, Jose Leguizamon 89; David Felipe Villalba 60, Christian Fatecha 62
-Penalty kicks: 3-03
+Penalty kicks: 3-0
 *[3-0 pen (no extra time)]
 
 *NB: Sport Colombia promoted, 12 de Octubre relegated
-
-
-
-
 
 
 *Prepared and maintained by Tim Venables, Eli Schmerler and Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation

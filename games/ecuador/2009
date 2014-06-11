@@ -915,7 +915,8 @@ Date: 10/3/2009
 *NB: bottom-2 in aggregate table of first and second stage relegated
 
 
-*Tercera Etapa (Third Stage)
+
+Stage: 3
 
 *Grupo 1
 * 1.Deportivo Quito           6  4  2  0  8- 0  15  [1]      Final
@@ -932,6 +933,7 @@ Date: 10/3/2009
 *- - - - - - - - - - - - - - - - - - - - - - - - -
 * 3.Olmedo                    6  2  1  3  8- 8   7
 * 4.Espoli                    6  0  3  3  3- 6   3
+
 
 Round: 1
 Date: 10/16/2009
@@ -1046,25 +1048,27 @@ Date: 11/22/2009
 * 3.Olmedo                    6  2  1  3  8- 8   7
 * 4.Espoli                    6  0  3  3  3- 6   3
 
-*Cuarta Etapa (Fourth Stage)
+Stage: 4
 
 Round: Third Place
+Leg: 1
 
-*First Leg
 12/29/2009; Emelec               ; 1-0; LDU de Quito       
   Hernán PEIRONE 10;
 
-*Second Leg
+Leg: 2
+
 12/7/2009; LDU de Quito         ; 0-1; Emelec                
 *NB: Emelec qualify for Copa Libertadores 2010 as Ecuador 3
 
 Round: Final
+Leg: 1
 
-*First Leg
 12/29/2009; Deportivo Cuenca     ; 1-1; Deportivo Quito
   Diego IANERO 76; Marcos PIRCHIO 59
 
-*Second Leg
+Leg: 2
+
 12/5/2009; Deportivo Quito      ; 3-2; Deportivo Cuenca      
 
 *Champions: Deportivo Quito 

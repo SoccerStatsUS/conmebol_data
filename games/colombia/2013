@@ -3,8 +3,6 @@ Competition: Categoría Primera A
 
 Season: 2013 Apertura
 
-*Torneo Apertura 2013
-
 * 1.Independiente Santa Fe               18   9  6  3  32-25  33  Qualified
 * 2.Atlético Nacional                    18   8  8  2  29-22  32  Qualified
 * 3.CD Itagüí-Ditaires                   18   8  7  3  27-17  31  Qualified
@@ -398,7 +396,8 @@ Date: 6/3/2013
 *18.Patriotas FC (Tunja)                 18   0 11  7  14-26  11
 
 
-Season: 2013 Cuadrangulares
+*Season: 2013 
+Stage: Cuadrangulares
 
 Group: A
 
@@ -510,17 +509,14 @@ Date: 7/7/2013
 * 4.Deportivo Pasto                       6   2  1  3   8- 9   7
 
 
-Round: Finalisima                                             
+Stage: Finalisima                                             
+Leg: 1
 
-*First Leg 
-Date: 7/14/2013
+7/14/2013; Nacional          ; 0-0; Santa Fe           
 
-; Nacional          ; 0-0; Santa Fe           
+Leg: 2
 
-*Second Leg 
-Date: 7/17/2013
-
-; Santa Fe          ; 0-2; Nacional           
+7/17/2013; Santa Fe          ; 0-2; Nacional           
 
 *NB: Atlético Nacional winners Torneo Apertura
 
@@ -919,7 +915,7 @@ Date: 11/10/2013
 *18.Cúcuta Deportivo                     18   3  5 10  16-27  14
 
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 Group: A
 
@@ -991,11 +987,13 @@ Date: 11/16/2013
 
 Date: 11/27/2013
 
-; Once Caldas        abd Millonarios        [abandoned at; 2-1; in 75' due to rain]
+; Once Caldas       ; v; Millonarios        
+*[abandoned at; 2-1; in 75' due to rain]
 
 Date: 11/27/2013
 
-; Once Caldas       ; 2-1; Millonarios        [remaining 15']
+; Once Caldas       ; 2-1; Millonarios        
+Notes: remaining 15
 
 Round: 2 
 Date: 11/20/2013
@@ -1035,17 +1033,14 @@ Date: 12/7/2013
 * 4.CD Millonarios                        6   2  0  4   9-12   6
 
 
-Round: Finalisima                                                    
-                                                              
-*First Leg 
-Date: 12/11/2013
+Stage: Finalisima                                                    
+Leg: 1
 
-; Cali              ; 0-0; Nacional           
+12/11/2013; Cali              ; 0-0; Nacional           
 
-*Second Leg 
-Date: 12/15/2013
+Leg: 2
 
-; Nacional          ; 2-0; Cali               
+12/15/2013; Nacional          ; 2-0; Cali               
 
 *NB: Atlético Nacional winners Torneo Clausura
 

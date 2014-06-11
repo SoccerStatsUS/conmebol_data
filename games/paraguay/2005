@@ -4,7 +4,6 @@ Season: 2005
 
 Stage: Apertura
 
-
 * 1.Cerro Porteño          18 10  6  2  30-15 36
 * 2.Guaraní                18  9  4  5  21-18 31
 * 3.Nacional               18  9  3  6  25-22 30
@@ -188,7 +187,6 @@ Date: 4/10/2005
 ; Tacuary             ; 1-0; 3 de Febrero
   Cristian Riveros 66;
 
-
 Date: 4/11/2005
 
 ; Olimpia             ; 0-3; Guaraní
@@ -273,7 +271,6 @@ Date: 5/8/2005
 ; Tacuary             ; 3-1; Olimpia
   Julio Ortellado 6, Julio Ortellado 66, Raúl Román 10; Leandro (pk) 50
 
-
 Date: 5/9/2005
 
 ; Cerro Porteño       ; 0-0; Guaraní
@@ -307,8 +304,9 @@ Date: 6/7/2005
 Round: 14
 Date: 5/21/2005
 
-*General Caballero ZC abd Olimpia               [abandoned at 1-0 in 32'
-*  [Gabriel Ruiz Díaz 8]                         due to light failure]
+; General Caballero ZC; v; Olimpia               
+Notes: abandoned at 1-0 in 32' due to light failure
+*  [Gabriel Ruiz Díaz 8]                         
 
 Date: 5/22/2005
 
@@ -325,7 +323,7 @@ Date: 6/4/2005
 
 ; General Caballero ZC; 1-1; Olimpia               
   Gabriel Ruiz Díaz 8; Guido Alvarenga 67
-*[remaining 58']            
+Notes: remaining 58' of 5/21 game.
 
 Date: 6/15/2005
 
@@ -426,26 +424,20 @@ Date: 6/25/2005
 *NB: Cerro Porteño qualified for Copa Sudamericana 2005. 
 
 Stage: Pre-Sudamericana
-
 Round: Semifinals 
-Date: 6/29/2005
 
-; Nacional            ; 3-1; 3 de Febrero
+6/29/2005; Nacional            ; 3-1; 3 de Febrero
   Ariel Bogado 46, Troadio Duarte 65, Dante López 84; Domingo Ortiz 56
 
-; Guaraní             ; 2-1; 12 de Octubre
+6/29/2005; Guaraní             ; 2-1; 12 de Octubre
   Edgar González 8, Osvaldo Díaz 90; Ignacio Rolón 74
 
 Round: Final 
-Date: 7/3/2005
 
-; Guaraní             ; 2-1; Nacional 
+7/3/2005; Guaraní             ; 2-1; Nacional 
   Carlos Recalde 8, Osvaldo Díaz 88; Víctor Quintana 35
-
 *NB: Guaraní qualified for Copa Sudamericana 2005
 
-
-Season: 2005 
 
 Stage: Clausura
 
@@ -840,26 +832,22 @@ Date: 12/10/2005
 *
 *Cerro Porteño champions as winners of both Apertura and Clausura
 
-*Playoff for Second Place
-*
+Stage: Playoff for Second Place
 *NB: between runners-up Apertura and Clausura
 
-*First Leg 
-Date: 12/14/2005
+Leg: 1
 
-; Guaraní             ; 2-1; Libertad
+12/14/2005; Guaraní             ; 2-1; Libertad
   Cristian Sosa 18, Julián Benítez 51; Rodrigo López 71
 
-*Second Leg 
-Date: 12/18/2005
+Leg: 2
 
-; Libertad            ; 4-1; Guaraní
+12/18/2005; Libertad            ; 4-1; Guaraní
   Cristian Riveros 5, Gustavo Morínigo 69, Gustavo Morínigo 73, Rodrigo López 76; Gilberto Velázquez 80
 
 *NB: Libertad qualified for Copa Libertadores 2006
 
 *Aggregate Table:
-*
 * 1.Cerro Porteño          36 21  9  6  64-35 72
 * 2.Nacional               36 16  9 11  49-42 57  Sudamericana 2006 Playoff
 * 3.3 de Febrero           36 15 11 10  55-42 56
@@ -877,18 +865,12 @@ Date: 12/18/2005
 *Promoted: 2 de Mayo (Pedro Juan Caballero) and Fernando de la Mora 
 *
 
-*Playoff for Copa Sudamericana 2006 
-Date: 12/22/2005
+Stage: Playoff for Copa Sudamericana 2006 
 
-; Nacional            ; 1-6; Libertad
+12/22/2005; Nacional            ; 1-6; Libertad
 Óscar Cardozo 73; Víctor Cáceres 9, Rodrigo López 31, Rodrigo López 45, Rodrigo López 46, Pablo Garnier 35, Gustavo Morínigo (pk) 64
 
-
 *Libertad qualified for Sudamericana Cup 2006
-
-
-
-
 
 *With thanks to Gurgen Mahari
 *Prepared and maintained by Eli Schmerler and Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation

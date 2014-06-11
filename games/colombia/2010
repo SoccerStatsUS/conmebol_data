@@ -352,25 +352,27 @@ Date: 5/16/2010
 *17.Corporación Tuluá                    18   4  3 11  19-32  15
 *18.Deportes Quindío                     18   4  2 12   9-22  14
 
-* Knockout Stage
-
+Stage: liguilla
 Round: Semifinals
+Leg: 1
 
-*First Legs
 5/19/2010; La Equidad        ; 2-2; Tolima
 5/20/2010; Junior            ; 3-1; Medellín
 
-*Second Legs
+Leg: 2
+
 5/22/2010; Tolima            ; 1-1; La Equidad         
-*[1-3 pen]
+Penalty kicks: 1-3
+
 5/23/2010; Medellín          ; 1-0; Junior
 
 Round: Final
+Leg: 1
 
-*First Leg 
 5/26/2010; La Equidad        ; 1-0; Junior
 
-*Second Leg 
+Leg: 2
+
 6/2/2010; Junior            ; 3-1; La Equidad
 
 Season: 2010 Finalizacion
@@ -748,7 +750,7 @@ Date: 11/14/2010
 *NB: Corporación Tuluá relegated;
 *    Envigado to promotion/relegation playoff
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.Deportes Tolima                       6   3  2  1  11- 9  11  Qualified
@@ -838,36 +840,28 @@ Date: 12/12/2010
 * 3.Deportes Quindío                      6   2  0  4   7-12   6
 * 4.Atlético Nacional                     6   1  2  3   9-12   5
 
-*Finalisima                                             
-                                                       
-*First Leg 
-Date: 12/15/2010
+Stage: Finalisima                                             
+Leg: 1                                                       
 
-; Tolima            ; 2-1; Once Caldas        
+12/15/2010; Tolima            ; 2-1; Once Caldas        
 
-*Second Leg 
-Date: 12/19/2010
+Leg: 2
 
-; Once Caldas       ; 3-1; Tolima             
+12/19/2010; Once Caldas       ; 3-1; Tolima             
 
 *Champions: Once Caldas        
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
+
+12/11/2010; Pasto             ; 0-1; Envigado 
  
-*First Leg 
-Date: 12/11/2010
+Leg: 2
 
-; Pasto             ; 0-1; Envigado 
- 
-*Second Leg
+12/14/2010; Envigado; v; Pasto              
+Notes: abandoned at 0-0 in 45' due to rain
 
-Date: 12/14/2010
-
-*Envigado           abd Pasto              [abandoned at 0-0 in 45' due to rain]
-
-Date: 12/15/2010
-
-; Envigado          ; 2-0; Pasto              
+12/15/2010; Envigado          ; 2-0; Pasto              
 Notes: remaining 45' of 12/14.
  
 *NB: both remain at previous level

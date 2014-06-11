@@ -26,7 +26,6 @@ Transform: name-title
 *    bottom team to be relegated
 
 Round: 1
-
 Date: 2/12/2005
 
 ; Deportivo Quevedo    ; 3-3; Barcelona
@@ -403,71 +402,63 @@ Date: 7/2/2005
 *NB: top-8 qualify for knock-out stage (quarterfinals);
 *    bottom team to be relegated.
 
+Stage: liguilla
+Leg: 1
 
-*First Legs 
-Date: 7/6/2005
 
-; Olmedo               ; 1-1; LDU de Quito
+7/6/2005; Olmedo               ; 1-1; LDU de Quito
   Eduardo HURTADO 24; Ariel GRAZIANI 79
 
-; LDU de Loja          ; 1-1; Deportivo Cuenca
+7/6/2005; LDU de Loja          ; 1-1; Deportivo Cuenca
   Wilson SEGURA 58; Edison PRECIADO 81
 
-; Aucas                ; 0-0; El Nacional
+7/6/2005; Aucas                ; 0-0; El Nacional
 
-; Deportivo Quito      ; 2-0; Barcelona
+7/6/2005; Deportivo Quito      ; 2-0; Barcelona
   Jhonny BALDEON 45, Luis Fernando SARITAMA 64;
 
-*Second Legs 
-Date: 7/10/2005
+Leg: 2
 
-; LDU de Quito         ; 5-1; Olmedo
+7/10/2005; LDU de Quito         ; 5-1; Olmedo
   Gabriel GARCIA 31, Gabriel Garcia 59, Vicente Paul Ambrossi 70, Franklin SALAS 77, Franklin Salas 81; Roberth BURBANO 26
 
-; El Nacional          ; 4-0; Aucas
+7/10/2005; El Nacional          ; 4-0; Aucas
   Cristian LARA 51, Cleber CHALA 61, Felix BORJA 65, Pedro QUIÑONEZ 83;
 
-; Deportivo Cuenca     ; 3-3; LDU de Loja
+7/10/2005; Deportivo Cuenca     ; 3-3; LDU de Loja
   Christian CARNERO 14, Walter CALDERON 43, Héctor GONZALEZ 90+2; Wilson SEGURA 46, Wilson Segura 49, Rafael Alberto CAPURRO 52
+Notes: Barcelona and Deportivo Cuenca qualify by better record in regular season.
 
-; Barcelona            ; 2-0; Deportivo Quito
+7/10/2005; Barcelona            ; 2-0; Deportivo Quito
   Jaime Iván KAVIEDES 56, Agustín DELGADO 71;
-
-*NB: Barcelona and Deportivo Cuenca qualify by better record in regular season.
+Notes: Barcelona and Deportivo Cuenca qualify by better record in regular season.
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 7/13/2005
-
-; Barcelona            ; 1-1; El Nacional
+7/13/2005; Barcelona            ; 1-1; El Nacional
   Walter AYOVI (pk) 16; Felix BORJA 84
 
-; Deportivo Cuenca     ; 2-1; LDU de Quito
+7/13/2005; Deportivo Cuenca     ; 2-1; LDU de Quito
   Héctor GONZALEZ 39, Christian CARNERO 68; Leorvelis MINA (og) 6
 
-*Second Legs
-Date: 7/17/2005
+Leg: 2
 
-; LDU de Quito         ; 3-1; Deportivo Cuenca
+7/17/2005; LDU de Quito         ; 3-1; Deportivo Cuenca
   Roberto PALACIOS 35, Patricio URRUTIA 50, Gabriel GARCIA 58; Christian CARNERO 29
 
-; El Nacional          ; 1-2; Barcelona
+7/17/2005; El Nacional          ; 1-2; Barcelona
   Segundo Alejandro CASTILLO 45+1; Jaime Iván KAVIEDES 13, Danny VERA 84
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 7/20/2005
-
-; Barcelona            ; 1-0; LDU de Quito
+7/20/2005; Barcelona            ; 1-0; LDU de Quito
   Banner Geovanny CAICEDO 45+2;
 
+Leg: 2
 
-*Second Leg 
-Date: 7/24/2005
-
-; LDU de Quito         ; 3-0; Barcelona
+7/24/2005; LDU de Quito         ; 3-0; Barcelona
   Carlos ESPINOLA 5, Franklin SALAS 64, Néicer REASCO 69;
 
 *LDU de Quito Champions Apertura 2005; enter Copa Libertadores 2006 as Ecuador 1
@@ -859,7 +850,6 @@ Date: 11/6/2005
 *    bottom team to be relegated 
 
 
-*Season: 2005 
 Stage: Liguilla
 
 * 1.El Nacional            10  7  1  2 23- 9 25  [3]  Champions
@@ -991,7 +981,7 @@ Date: 12/21/2005
 ; Olmedo               ; 1-2; Aucas
   Marco TENORIO 40; Humberto MINA 2, Pablo PALACIOS 20
 
-*Final Table:
+
 * 1.El Nacional            10  7  1  2 23- 9 25  [3]  Champions
 * 2.Deportivo Cuenca       10  6  2  2 12-10 20  Copa Libertadores
 * 3.LDU de Quito           10  5  2  3 20-13 17

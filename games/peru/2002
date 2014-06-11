@@ -29,7 +29,6 @@ Date: 2/22/2002
 ; Alianza Lima           ; 0-1; Coopsol  
 ;  Oscar Dertycia 92
 
-
 Date: 2/23/2002
 
 ; Coronel Bolognesi      ; 3-2; Sport Boys  
@@ -541,19 +540,14 @@ Notes: both clubs refused to comply with the doping tests and had 3 points deduc
 
 
 Stage: Apertura Playoff
+Leg: 1
 
-*First Leg 
-Date: 6/26/2002
-
-; Universitario          ; 1-0; Alianza Lima
+6/26/2002; Universitario          ; 1-0; Alianza Lima
   Martín Vilallonga 57;
 
+Leg: 2
 
-*Second Leg 
-Date: 7/7/2002
-
-; Alianza Lima           ; 0-0; Universitario
-
+7/7/2002; Alianza Lima           ; 0-0; Universitario
 *Universitario win Apertura and qualify to Copa Libertadores 2003
 
 
@@ -1079,8 +1073,8 @@ Date: 12/8/2002
 *    failing to carry out doping tests in round 22 of the Apertura
 
 
-*Championship Playoff:
-*
+Stage: Championship Playoff
+
 *between winners of Apertura and Clausura, provided they finished in
 *the top-4 of both tournaments; as Universitario do not finish in the 
 *top-4 of the Clausura, Clausura winners Sporting Cristal are champions
@@ -1106,22 +1100,16 @@ Date: 12/8/2002
 *NB: both Alianza Lima and Alianza Atlético had 3 points deducted for
 *    failing to carry out doping tests in round 22 of the Apertura
 
-*Playoff against 11th Place (and Relegation)
+Stage: Playoff against 11th Place (and Relegation)
+Leg: 1
 
-*First Leg 
-Date: 12/11/2002
-
-; Juan Aurich            ; 2-1; Deportivo Wanka
+12/11/2002; Juan Aurich            ; 2-1; Deportivo Wanka
   Adrián Torres 55, Rodolfo Miñán 70; Edward Torrealva 63
 
+Leg: 2
 
-*Second Leg 
-Date: 12/15/2002
-
-; Deportivo Wanka        ; 4-0; Juan Aurich
+12/15/2002; Deportivo Wanka        ; 4-0; Juan Aurich
   Marco Ruiz 3, Edilberto Salazar 40, Juan Montenegro 52, Héctor Valoyes 92;
-
-
 *Juan Aurich relegated.
 
 *Topscorers thanks to Carlos Manuel Nieto Tarazona

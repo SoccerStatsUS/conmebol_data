@@ -608,7 +608,7 @@ Date: 5/12/2007
 *17.Deportes Pereira            18   3  6  9  14-21  15
 *18.CD La Equidad (Bogotá)      18   2  7  9  21-28  13
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.Atlético Nacional            6   4  1  1  12- 4  13  Qualified
@@ -734,18 +734,15 @@ Date: 6/10/2007
 * 3.CD Millonarios               6   3  0  3   7- 8   9
 * 4.CD Independiente Medellín    6   0  3  3   6- 9   3
 
-*Finalisima
+Stage: Finalisima
+Leg: 1
 
-*First Leg 
-*Date: 6/13, Estadio Guillermo Plazas Alcid, Neiva/2007
-
-6/13/2007; Huila;       0-1; Nacional
+6/13/2007; Huila;       0-1; Nacional; Estadio Guillermo Plazas Alcid
 ; Carmelo Valencia 51
 
-*Second Leg 
-*Date: 6/17, Estadio Atanasio Girardot, Medellín/2007
+Leg: 2
 
-; Nacional   ; 2-1; Huila
+6/17/2007; Nacional   ; 2-1; Huila; Estadio Atanasio Girardot
   Carmelo Valencia 22, Diego Toro 87; Duván Hernández 43
 
 *Nacional champions Apertura 2007
@@ -1117,7 +1114,7 @@ Date: 11/11/2007
 *17.Real Cartagena              18   3  5 10  16-25  14
 *18.Independiente Santa Fe      18   2  7  9  16-30  13
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.Atlético Nacional            6   3  2  1   8- 5  11  Qualified
@@ -1153,7 +1150,6 @@ Date: 11/28/2007
 ; La Equidad ; 1-1; Chicó
 
 Round: 3
-
 Date: 12/1/2007
 
 ; América    ; 2-1; Nacional
@@ -1173,7 +1169,6 @@ Date: 12/5/2007
 ; Chicó      ; 0-2; Tolima
 
 Round: 5
-
 Date: 12/8/2007
 
 ; Nacional   ; 2-2; Cúcuta
@@ -1210,33 +1205,28 @@ Date: 12/12/2007
 *    Pereira (penultimate in aggregate table) play off against second
 *    division runners-up
 
-*Finalisima
-
-*First Leg 
-Date: 12/16/2007
+Stage: Finalisima
+Leg: 1
 
 12/16/2007; La Equidad ; 0-3; Nacional
 
-*Second Leg [Dec 19]
+Leg: 2
+
 12/19/2007; Nacional   ; 0-0; La Equidad
 
 *Nacional champions Clausura 2007
 
 
-*Promotion/Relegation Playoff
- 
-*First Leg 
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
 11/28/2007; Academia   ; 1-1; Pereira
- 
-*Second Leg [Dec 2]
+
+Leg: 2 
 
 12/2/2007; Pereira    ; 3-1; Academia 
 
 *NB: Pereira remain at first level
-
-
-
 
 
 *Thanks to Hans Schöggl for 3rd level information

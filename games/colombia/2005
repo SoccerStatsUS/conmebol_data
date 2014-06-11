@@ -612,7 +612,7 @@ Date: 5/15/2005
 *[*] Chicó FC moved from Bogotá to Tunja and were renamed Boyacá Chicó FC
 *NB: top-8 after 18 rounds qualify for Cuadrangulares
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.Atlético Nacional            6   4  2  0  11- 5  14  Qualified
@@ -733,24 +733,20 @@ Date: 6/19/2005
 * 3.Atlético Huila               6   1  3  2  10-12   6
 * 4.Once Caldas                  6   0  3  3   6-10   3
 
-Round: Finalísima
+Stage: Finalísima
+Leg: 1
 
-*First Leg 
-Date: 6/22/2005
+6/22/2005; Santa Fe   ; 0-0; Nacional
 
-; Santa Fe   ; 0-0; Nacional
+Leg: 2*Second Leg 
 
-*Second Leg 
-Date: 6/26/2005
-
-; Nacional   ; 2-0; Santa Fe
+6/26/2005; Nacional   ; 2-0; Santa Fe
 Carlos Díaz 80, Oscar Echeverry 82;
 
 *Atlético Nacional are Apertura 2005 champions.
 
 
 Season: 2005 Finalización
-
 
 * 1.Deportivo Cali              18   8  6  4  30-23  30  Qualified
 * 2.CD Independiente Medellín   18   9  2  7  28-23  29  Qualified
@@ -1352,7 +1348,7 @@ Date: 11/6/2005
 *18.Unión Magdalena             18   0  7 11  15-35   7
 *Relegated: Unión Magdalena
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Group A
 * 1.Deportivo Cali               6   3  2  1  10- 6  11  Qualified
@@ -1477,26 +1473,20 @@ Date: 12/11/2005
 * 3.Independiente Santa Fe       6   2  2  2   6- 8   8
 * 4.Deportes Pereira             6   2  0  4   8-11   6
 
-Round: Finalísima
+Stage: Finalísima
+Leg: 1
 
-*First Leg 
-Date: 12/14/2005
-
-; Cartagena  ; 0-2; Cali
+12/14/2005; Cartagena  ; 0-2; Cali
 ; Hugo Rodallega 51, Hugo Rodallega 76
 
-*Second Leg 
-Date: 12/18/2005
+Leg: 2
 
-; Cali       ; 1-0; Cartagena
+12/18/2005; Cali       ; 1-0; Cartagena
 Jaime Riveros 14;
 
 *Deportivo Cali are Clausura 2005 champions
 
 
-
-
-*About this document
 *Prepared and maintained by Frank Ballesteros and Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation
 *Authors: Frank Ballesteros (fballesteros@colombia.com) and Juan Pablo Andrés (jpandres@tutopia.com) 
 *Last updated: 1 Feb 2006

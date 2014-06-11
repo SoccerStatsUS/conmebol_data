@@ -2,7 +2,6 @@ BlockSource: http://www.rsssf.com/tablesu/uru08.html
 Competition: Uruguayan Primera Division
 Season: 2007-2008 
 home-first
-
 Stage: Apertura
 
 * 1.Defensor Sporting Club        15 11  2  2  26-10  35  Apertura winners
@@ -483,7 +482,6 @@ Date: 12/9/2007
 
 
 Season: 2007-2008 
-
 Stage: Clausura
 
 * 1.CA River Plate                15 12  1  2  48-17  37  Playoff
@@ -959,28 +957,14 @@ Date: 6/1/2008
 *15.CA Cerro                      15  4  2  9  14-25  14
 *16.CA Fénix                      15  3  3  9  19-25  12
 
-*Clausura Playoff 
-*
-*6/9/2008; River Plate; 3-5; Peñarol; Estadio Centenario
-*  [Gerardo Alcoba 8og, Pablo Tiscornia 31, Jonathan Urretavizcaya 40;
-*   Gerardo Alcoba 29, Fernando Correa 44, José María Franco 57, 
-*   Antonio Pacheco 78, Carlos Bueno 83]
-*  [River Plate: Álvaro García; Pablo Tiscornia, Darío Flores Bistolfi,
-*     Diego Sosa; Bruno Montelongo (Jorge Zambrana 46), Juan Ramón Curbelo,
-*     Jorge Rodríguez; Robert Flores Bistolfi; Henry Giménez
-*     (Nathaniel Revetria 66 (Diego Silva 80)), Sergio Souza,
-*     Jonathan Urretavizcaya; coach; Juan Ramón Carrasco; unused subs:
-*     Ernesto Hernández; Andrée González, Walter López, Mauricio Prieto;
-*   Peñarol: Nicolás Biglianti; Matías Aguirregaray, Gerardo Alcoba,
-*     Matías Manrique, Maximiliano Arias (Federico Pérez Silvera 24);
-*     Mario Álvarez, Marcel Román, Antonio Pacheco; Fabián Estoyanoff,
-*     Carlos Bueno (Maximiliano Bajter 85), Fernando Correa
-*     (José María Franco 50); trainer: Mario Saralegui; unused subs:
-*     Gonzalo Salgueiro; Marco Antonio Garcia Nascimento 'Nasa',
-*     Alejandro González, Diego Rodríguez Da Luz;
-*   ref: Jorge Larrionda; Pablo Fandiño, Edgardo Acosta]
+Stage: playoff
 
-
+6/9/2008; River Plate; 3-5; Peñarol; Estadio Centenario; Jorge Larrionda, Pablo Fandiño, Edgardo Acosta
+Gerardo Alcoba (og) 8, Pablo Tiscornia 31, Jonathan Urretavizcaya 40; Gerardo Alcoba 29, Fernando Correa 44, José María Franco 57, Antonio Pacheco 78, Carlos Bueno 83
+River Plate: Álvaro García; Pablo Tiscornia, Darío Flores Bistolfi, Diego Sosa; Bruno Montelongo (Jorge Zambrana 46), Juan Ramón Curbelo, Jorge Rodríguez; Robert Flores Bistolfi; Henry Giménez (Nathaniel Revetria 66 (Diego Silva 80)), Sergio Souza, Jonathan Urretavizcaya
+* coach; Juan Ramón Carrasco; unused subs: Ernesto Hernández; Andrée González, Walter López, Mauricio Prieto;
+Peñarol: Nicolás Biglianti; Matías Aguirregaray, Gerardo Alcoba, Matías Manrique, Maximiliano Arias (Federico Pérez Silvera 24); Mario Álvarez, Marcel Román, Antonio Pacheco; Fabián Estoyanoff, Carlos Bueno (Maximiliano Bajter 85), Fernando Correa (José María Franco 50)
+* trainer: Mario Saralegui; unused subs: Gonzalo Salgueiro; Marco Antonio Garcia Nascimento 'Nasa', Alejandro González, Diego Rodríguez Da Luz;
 
 *Aggregate Table:
 * 1.Defensor Sporting Club        30 21  3  6  67-37  66  Apertura winners
@@ -1004,48 +988,34 @@ Date: 6/1/2008
 *NB: top-6 qualify for Copa Artigas (qualifying tournament for CSF
 *    club competitions), see below
 
-*Championship Playoff
-
+Stage: Championship Playoff
 Round: Semifinal 
+Leg: 1
 
-*First Leg [Jun 22, Estadio Centenario]
-; Peñarol    ; 1-2; Defensor
+6/22/2008; Peñarol    ; 1-2; Defensor; Estadio Centenario ; Líber Prudente, Walter Rial, Igor Moreira
 Matías Aguirregaray 44; Andrés Lamas 8, Pablo Gaglianone 21 pen
-*  [Peñarol: Nicolás Biglianti; Matías Aguirregaray, Gerardo Alcoba,
-*     Matías Manrique, Federico Pérez Silvera; Mario Álvarez 
-*     (Omar Pérez Aguado 77), Marcel Román (José María Franco 51);
-*     Antonio Pacheco, Rubén Olivera (Fernando Correa 66); 
-*     Fabián Estoyanoff, Carlos Bueno; coach: Mario Saralegui;
+Peñarol: Nicolás Biglianti; Matías Aguirregaray, Gerardo Alcoba, Matías Manrique, Federico Pérez Silvera; Mario Álvarez (Omar Pérez Aguado 77), Marcel Román (José María Franco 51); Antonio Pacheco, Rubén Olivera (Fernando Correa 66); Fabián Estoyanoff, Carlos Bueno
+* coach: Mario Saralegui;
 *     unused subs: Gonzalo Salgueiro; Maximiliano Arias,
 *     Marco Antonio Garcia Nascimento ‘Nasa’, Julio Mozzo;
-*   Defensor: Martín Silva; Pablo Pintos, Mario Risso, Andrés Lamas,
-*     Sebastián Ariosa; Julio Marchant, Pablo Gaglianone, Miguel Amado;
-*     Jairo Castillo (Diego De Souza 62), Sebastián Fernández
-*     (Régis Lima 89), Tabaré Viudez (William Ferreira Martínez 75);
+Defensor: Martín Silva; Pablo Pintos, Mario Risso, Andrés Lamas, Sebastián Ariosa; Julio Marchant, Pablo Gaglianone, Miguel Amado; Jairo Castillo (Diego De Souza 62), Sebastián Fernández (Régis Lima 89), Tabaré Viudez (William Ferreira Martínez 75);
 *     coach: Jorge Da Silva; unused subs: Fernando Rodríguez;
 *     Diego Ferreira, Juan Martín Parodi, Juan Pablo Rodríguez Conde;
 *   red card: Antonio Pacheco (P, 91; 2 yellow);
-*   ref: Líber Prudente; Walter Rial, Igor Moreira]
+
+Leg: 2
 
 *Second Leg [Jun 25, Estadio Centenario; att: 15,000]
-; Defensor   ; 0-0; Peñarol
-*Defensor: Martín Silva; Pablo Pintos, Mario Risso, Andrés Lamas,
-*     Sebastián Ariosa; Julio Marchant, Pablo Gaglianone, Miguel Amado;
-*     Jairo Castillo (William Ferreira Martínez 68), Sebastián Fernández 
-*     (Régis Lima 89), Tabaré Viudez (Diego De Souza 46); coach:
+6/25/2008; Defensor   ; 0-0; Peñarol; Estadio Centenario; Roberto Silvera, Pablo Fandiño, William Casavieja; 15000
+Defensor: Martín Silva; Pablo Pintos, Mario Risso, Andrés Lamas, Sebastián Ariosa; Julio Marchant, Pablo Gaglianone, Miguel Amado; Jairo Castillo (William Ferreira Martínez 68), Sebastián Fernández (Régis Lima 89), Tabaré Viudez (Diego De Souza 46)
+*; coach:
 *     Jorge Da Silva; unused subs: Fernando Rodríguez; Hugo Costela,
 *     Diego Ferreira, Juan Martín Parodi;
-*   Peñarol: Nicolás Biglianti; Matías Aguirregaray, Gerardo Alcoba,
-*     Darío Rodríguez Peña, Maximiliano Arias (Fernando Correa 61;
-*     red card 90+2); Mario Álvarez (José María Franco 46),
-*     Omar Pérez Aguado (Marcel Román 49); Rubén Olivera,
-*     Diego Rodríguez Da Luz; Fabián Estoyanoff, Carlos Bueno; coach:
-*     Mario Saralegui; unused subs: Gonzalo Salgueiro; Maximiliano Bajter,
+Peñarol: Nicolás Biglianti; Matías Aguirregaray, Gerardo Alcoba, Darío Rodríguez Peña, Maximiliano Arias (Fernando Correa 61, red card 90+2); Mario Álvarez (José María Franco 46), Omar Pérez Aguado (Marcel Román 49); Rubén Olivera, Diego Rodríguez Da Luz; Fabián Estoyanoff, Carlos Bueno
+* coach:    Mario Saralegui; unused subs: Gonzalo Salgueiro; Maximiliano Bajter,
 *     Marco Antonio Garcia Nascimento ‘Nasa’, Matías Manrique;
-*   ref: Roberto Silvera; Pablo Fandiño, William Casavieja]
 
-
-*Final 
+Round: Final 
 
 *NB: as Defensor both won the aggregate Tabla Anual and the semifinal
 *    (playoff between winners Apertura and Clausura) they are 2007/08

@@ -1,9 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesp/para02.html
 Competition: Paraguayan Primera División
 Season: 2002 
-
 Stage: Apertura
-
 
 * 1.Sportivo Luqueño        9  7  1  1  15- 7 22
 * 2.12 de Octubre           9  6  1  2   9- 4 19
@@ -149,7 +147,6 @@ Date: 3/15/2002
 ; Libertad        ; 1-0; 12 de Octubre
   Juan Samudio 43;
 
-
 Date: 3/16/2002
 
 ; Olimpia         ; 3-3; Sport Colombia
@@ -221,77 +218,57 @@ Date: 3/31/2002
 
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
-Date: 4/5/2002
-
-; Guaraní         ; 2-1; Sportivo Luqueño
+4/5/2002; Guaraní         ; 2-1; Sportivo Luqueño
   David Gómez 47, Carlos A. González 60; José Zarza Sotelo 64
 
-Date: 4/6/2002
-
-; Olimpia         ; 3-1; 12 de Octubre
+4/6/2002; Olimpia         ; 3-1; 12 de Octubre
   Ignacio Rolón (og) 9, Mauro Caballero 29, Mauro Caballero 34; Richard Estigarribia 87
 
-Date: 4/7/2002
-
-; Sol de América  ; 3-3; Libertad
+4/7/2002; Sol de América  ; 3-3; Libertad
   Dante López 11, Edgar Báez 58, Edgar Báez 73; Gustavo Morínigo 12, Gustavo Morínigo 56, Sergio Fernández 46
 
-; Sport Colombia  ; 0-2; Cerro Porteño
+4/7/2002; Sport Colombia  ; 0-2; Cerro Porteño
 ;  Santiago Salcedo 67, Jorge Achucarro 87
 
-*Second Legs
-Date: 4/12/2002
+Leg: 2
 
-; Libertad        ; 5-1; Sol de América
+4/12/2002; Libertad        ; 5-1; Sol de América
   Sergio Fernández 23, Sergio Fernández 63, Gustavo Morínigo 28, Gustavo Morínigo 31, Juan Samudio 85; Edgar Báez 89
 
-Date: 4/13/2002
-
-; 12 de Octubre   ; 1-1; Olimpia
+4/13/2002; 12 de Octubre   ; 1-1; Olimpia
   Richart Báez (og) 53; Mauro Caballero 40
 
-Date: 4/14/2002
-
-; Sportivo Luqueño; 0-2; Guaraní
+4/14/2002; Sportivo Luqueño; 0-2; Guaraní
 ;  Alcides Rodas 16, David Gómez 74
 
-; Cerro Porteño   ; 1-1; Sport Colombia
+4/14/2002; Cerro Porteño   ; 1-1; Sport Colombia
   Virgilio Ferreira 79; Alcides Sosa 5
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 4/20/2002
+4/20/2002; Cerro Porteño   ; 0-0; Olimpia
 
-; Cerro Porteño   ; 0-0; Olimpia
-
-Date: 4/21/2002
-
-; Guaraní         ; 1-1; Libertad
+4/21/2002; Guaraní         ; 1-1; Libertad
   Nery Ortíz 33; Gustavo Morínigo 81
 
-*Second Legs
-Date: 4/27/2002
+Leg: 2
 
-; Olimpia         ; 0-0; Cerro Porteño      
+4/27/2002; Olimpia         ; 0-0; Cerro Porteño      
 Penalty kicks: 3-5
 
-Date: 4/28/2002
-
-; Libertad        ; 4-1; Guaraní
+4/28/2002; Libertad        ; 4-1; Guaraní
   Gustavo Morínigo 25, Gustavo Morínigo 46, Estanislao Struway 74, Edgar Robles 80; Carlos González 48
 
 Round: Final
-*First Leg [May 4, in Ciudad del Este]
+Leg: 1
 
-; Cerro Porteño   ; 0-3; Libertad
+5/4/2002; Cerro Porteño   ; 0-3; Libertad; Ciudad del Este, Paraguay
 ;  Juan E. Samudio 17, Juan E. Samudio 19, Paulo da Silva 60
 
-*Second Leg [May 11]
-
-; Libertad        ; 0-1; Cerro Porteño 
+5/11/2002; Libertad        ; 0-1; Cerro Porteño 
 ;  Sergio Aquino 2
 
 
@@ -299,7 +276,6 @@ Round: Final
 
 
 Season: 2002 
-
 Stage: Clausura
 
 * 1.12 de Octubre          18 10  2  6  30-24 32  Clausura Winners
@@ -716,33 +692,28 @@ Date: 11/3/2002
 
 
 Stage: Championship Playoff
+Leg: 1
 
-*First Leg 
-Date: 11/10/2002
-
-; 12 de Octubre   ; 1-2; Libertad
+11/10/2002; 12 de Octubre   ; 1-2; Libertad
   Raúl Arviniagaldez 16; Gustavo Morínigo 6, Juan Samudio 42
 
-*Second Leg 
-Date: 11/17/2002
+Leg: 2
 
-; Libertad        ; 4-1; 12 de Octubre
+11/17/2002; Libertad        ; 4-1; 12 de Octubre
   Juan Samudio (pk) 51, Juan Samudio 73, Pedrinho 71, Carlos Bonet 87; Marcos Morínigo 4
 
 *Libertad champions of Paraguay 2002.
 
 
 Stage: Promotion/Relegation Playoff
-
-*First Leg
+Leg: 1
 
 ; Sp. San Lorenzo ; 2-2; Presidente Hayes
   Mauro Monges 24, Gustavo Funes 58; Osvaldo Meza 56, Víctor Avalos (pk) 80
 
-*Second Leg 
-Date: 11/23/2002
+Leg: 2
 
-; Presidente Hayes; 1-2; Sportivo San Lorenzo
+11/23/2002; Presidente Hayes; 1-2; Sportivo San Lorenzo
   Carlos Bogarín 65; Emilio Ibarra 31, Fabio Escobar 71
 
 
@@ -752,29 +723,24 @@ Date: 11/23/2002
 Stage: Liguilla Pre-Libertadores
 
 Round: 1 
-Date: 11/15/2002
 
-; Cerro Porteño   ; 5-1; Sportivo Luqueño
+11/15/2002; Cerro Porteño   ; 5-1; Sportivo Luqueño
   Juan Cáceres 23, Erwin Ávalos 31, Ezio 43, Ezio 71, Jorge Achucarro 74; Adolfo Esteche 36
 
-; Guaraní         ; 2-1; Sport Colombia
+11/15/2002; Guaraní         ; 2-1; Sport Colombia
   Cristian Ferreira 9, Pablo Giménez 60; Héctor Núñez (pk) 67
 
 Round: 2 
-Date: 11/22/2002
 
-; Sportivo Luqueño; 1-2; Guaraní
+11/22/2002; Sportivo Luqueño; 1-2; Guaraní
   Francisco Ferreira 19; Pablo Giménez (pk) 37, Víctor Cabrera 84
 
-Date: 11/24/2002
-
-; Sport Colombia  ; 2-2; Cerro Porteño
+11/24/2002; Sport Colombia  ; 2-2; Cerro Porteño
   Javier González 34, Héctor Núñez (pk) 68; Jorge Achucarro 72, Ezio 84
 
 Round: 3
-Date: 11/29/2002
 
-; Sport Colombia  ; 2-2; Sportivo Luqueño 
+11/29/2002; Sport Colombia  ; 2-2; Sportivo Luqueño 
   Derlis Pérez 40, Derlis Pérez 44; Justo Rolando Meza 32, Miguel Cuéllar 42
  
 12/1/2002; Cerro Porteño   ; 2-1; Guaraní

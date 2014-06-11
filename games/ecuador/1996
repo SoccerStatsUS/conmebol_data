@@ -225,7 +225,6 @@ Round: 22
 *12.LDU Portoviejo         22  4  3 15  21-53  15   [Portoviejo]
 
 Season: 1996 
-
 Stage: Clausura
 
 Round: 1
@@ -309,7 +308,8 @@ Round: 6
 
 
 *Hexagonal para Copa Libertadores de America
-*===========================================
+
+Stage: Hexagonal Libertadores
 
 Round: 1
 
@@ -362,7 +362,6 @@ Round: 10
 ; Olmedo      ; 0-2; Barcelona
 ; Emelec      ; 3-0; Nacional
 
-*Table:
 * 1.Emelec                 10  5  2  3  24-10  19  (2)
 * 2.Nacional               10  4  4  2  16-11  19  (3 bonus points)
 * 3.Barcelona              10  5  2  3  16-11  17
@@ -373,6 +372,8 @@ Round: 10
 *Emelec Clausura Champions; play off with Apertura Championship Nacional
 *for the championship 1996 (see below).
 *Hexagonal para el no descenso de categoría
+
+Stage: Hexagonal descenso
 
 Round: 1
 ; Tecnico Univ; 2-1; Green Cross
@@ -435,8 +436,7 @@ Round: 10
 *Green Cross and LDU Portoviejo relegated.
 
 
-*1996 Championship Final
-*=======================
+Stage: championship
 
 ; Nacional    ; 2-1; Emelec
 Augustin Delgado 3, José Guerrero 51; Em. Graciani 87

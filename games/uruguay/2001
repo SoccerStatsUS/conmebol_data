@@ -2,7 +2,6 @@ BlockSource: http://www.rsssf.com/tablesu/uru01.html
 Competition: Uruguayan Primera Division
 
 Season: 2001 
-
 Stage: Clasificatorio
 
 *TORNEO CLASIFICATORIO
@@ -33,7 +32,6 @@ Stage: Clasificatorio
 *Peñarol as best team in overall table qualify for Copa Libertadores 2002
 
 Round: 1
-
 Date: 2/16/2001
 
 ; Paysandú         ; 2-2; Peñarol
@@ -707,7 +705,6 @@ Date: 6/17/2001
 
 
 Season: 2001 
-
 Stage: Apertura
 
 * 1.Danubio                     9  7  1  1 17- 4 22  Apertura Winners
@@ -1118,12 +1115,10 @@ Date: 10/27/2001
 *    in round 1
 *Nacional qualify to championship final
 
-
-
-Round: Championship Final 
+Stage: Championship Final 
 *[Dec 2, 5 and 9 (if necessary)]
- 
-*First Leg [Dec 2]
+Leg: 2 
+
 12/2/2001; Nacional         ; 2-2; Danubio; ; Jorge Larrionda (ass.: Marcelo Gadea, Adrián Climent
 Sebastián Abreu 32, Marco Vanzini 36; Raúl Cardozo (og) 11, Ruben Da Silva 15
 Nacional: Gustavo Munúa; Martín Del Campo, Alejandro Lembo, Damián Rodríguez, Raúl Cardozo (Jorgeao 46); Marco Vanzini, Oscar Morales, Gustavo Varela (Walter Coelho 77), Limberg Gutiérrez (Carlos Camejo 62); Sebastián Abreu,   Richard Morales
@@ -1132,15 +1127,14 @@ Danubio: Jorge Contreras; Eber Moas, Máximo Lucas, Walt Báez; Jorge Anchén, P
 *   yellow: Nacional: Cardozo, Gutiérrez, Lembo, Varela, Rodríguez; 
 *           Danubio: Anchén, Moas, Olivera]
 
-*Second Leg [Dec 5, Estadio "Domingo Burgueño", Maldonado, Maldonado]
+Leg: 2
+
 12/5/2001; Danubio          ; 1-2; Nacional; Estadio Domingo Burgueno ; Saúl Feldman, Walter Rial, Edgardo Acosta
 Rubén Olivera 3; Sebastián Abreu 18, Gustavo Varela 60
 Danubio: Jorge Contreras, Eber Moas, Máximo Lucas, Walt Báez, Bruno Silva (Diego Perrone 62), Pablo Gaglianone, Jorge Anchén, César Pellegrín, Ruben Olivera (Martín Ojeda 81), Ruben Da Silva, Ignacio Risso (Rodrigo López 75)
 Nacional: Gustavo Munúa, Martín Del Campo, Alejandro Lembo, Damián Rodríguez, Jorge Da Costa, Carlos Camejo, Oscar Morales, Limberg Gutiérrez (Milton Núñez 61), Gustavo Varela (Ruben Sosa 88), Sebastián Abreu, Richard Morales (Fabián Coelho 61)
 *   yellow cards: 36 Richard Morales (N), 37 Bruno Silva (D), 57 Carlos Camejo (N),
 *                 60 Máximo Lucas (D), 77 Rodrigo López (D), 89 Gustavo Munúa (N)] 
-
-  
 
 
 *Prepared and maintained by Francisco Fernández for the Rec.Sport.Soccer Statistics Foundation

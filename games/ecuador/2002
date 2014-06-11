@@ -163,7 +163,6 @@ Date: 4/7/2002
 ; Espoli                ; 0-1;  Deportivo Cuenca
 
 Round: 12
-
 Date: 4/12/2002
 
 ; Deportivo Cuenca      ; 2-2;  LDU
@@ -191,7 +190,6 @@ Date: 4/21/2002
 ; Emelec                ; 4-0;  Espoli
 
 Round: 14
-
 Date: 4/22/2002
 
 ; Aucas                 ; 1-0;  Olmedo       
@@ -259,9 +257,6 @@ Date: 5/19/2002
 * 9.Espoli                 18  6  3  9 19-29 21  [*]
 *10.Olmedo                 18  3  8  7 20-25 17
 *[*] Espoli play their home matches in Ibarra this season
-
-
-Season: 2002 
 
 Stage: Clausura
 
@@ -499,7 +494,6 @@ Date: 10/13/2002
 *[*] Espoli play their home matches in Ibarra this season
 
 
-*Liguilla Final 
 *Final Table (bonus points between square brackets):
 * 1.Emelec                 10  6  1  3 15-14 20  [ 1]  Champions
 * 2.Barcelona              10  4  4  2 14-10 19  [ 3]
@@ -510,6 +504,7 @@ Date: 10/13/2002
 *NB: Aucas lost 2 bonus points they had won in the Apertura because of
 *    finishing 9th in the Clausura
 
+Stage: Liguilla
 Round: 1 
 Date: 10/27/2002
 

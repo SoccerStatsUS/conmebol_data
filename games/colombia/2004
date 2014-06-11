@@ -620,7 +620,8 @@ Date: 5/16/2004
 *18.Unión Magdalena             18   2  4 12  15-29  10
 *NB: Top 8 after 18 rounds qualify to the Cuadrangulares (second stage)
 
-*Cuadrangulares
+Stage: Cuadrangulares
+
 *Group A
 * 1.Atlético Nacional           6   3  1  2  12- 8  10
 * 2.Deportivo Pasto             6   3  1  2   9- 6  10
@@ -739,18 +740,15 @@ Date: 6/20/2004
 * 3.Deportivo Cali              6   2  2  2   9-11   8
 * 4.Chicó FC                    6   2  1  3   9-10   7
 
-Round: Championship Final
+Stage: Championship Final
+Leg: 1
 
-*First Leg  
-Date: 6/24/2004
-
-; Medellín   ; 2-1;  Nacional
+6/24/2004; Medellín   ; 2-1;  Nacional
 Jorge Horacio Serna 57, Rafael Castillo 88; Edixon Perea 72
 
-*Second Leg 
-Date: 6/27/2004
+Leg: 2
 
-; Nacional   ; 0-0;  Medellín
+6/27/2004; Nacional   ; 0-0;  Medellín
 
 *Independiente Medellín are Apertura 2004 champions.
 
@@ -1344,7 +1342,8 @@ Date: 11/7/2004
 
 *NB: Top 8 after 18 rounds qualify to the Cuadrangulares (second stage)
 
-*Cuadrangulares
+Stage: Cuadrangulares
+
 *Group A
 * 1.Atlético Nacional           6   3  2  1   6- 3  11
 * 2.América                     6   2  2  2  10- 8   8
@@ -1462,22 +1461,17 @@ Date: 12/12/2004
 * 3.CD Independiente Medellín   6   2  2  2   9-10   8
 * 4.Atlético Bucaramanga        6   1  1  4   5-10   4
 
-Round: Championship Final
+Stage: Championship Final
+Leg: 1
 
-*First Leg  
-Date: 12/15/2004
-
-; Junior     ; 3-0;  Nacional
+12/15/2004; Junior     ; 3-0;  Nacional
   Leonardo Rojano 17, Hayder Palacio 74, Roberto Peñaloza 80;
 
+Leg: 2
 
-*Second Leg 
-Date: 12/19/2004
-
-; Nacional   ; 5-2;  Junior                             
+12/19/2004; Nacional   ; 5-2;  Junior                             
   Edixon Perea 19, Aquivaldo Mosquera 24, Aquivaldo Mosquera 59, Carlos Díaz 63, Héctor Hurtado 68; Martín Arzuaga 39, Walter Ribonetto 88
-*[4-5 pen]
-
+Penalty kicks: 4-5
 
 *Junior are Finalización 2004 champions.
 

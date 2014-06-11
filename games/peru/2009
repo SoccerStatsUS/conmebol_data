@@ -903,9 +903,6 @@ Date: 8/29/2009
 *    18-men roster against César Vallejo in round 1
 
 
-
-
-*Second Stage (Liguilla)
 Stage: Liguilla
 
 *NB: group A consists of clubs finishing on odd places in regular 
@@ -914,7 +911,7 @@ Stage: Liguilla
 *    of first stage; both group winners play off for the championship;
 *    two teams to be relegated (those with worst record overall, not
 *    necessarily bottom teams from both groups)
-*
+
 Group: A
 
 * 1.Alianza Lima (Lima)                      44 22 10 12  59-46  76  Qualified
@@ -1167,6 +1164,7 @@ Date: 12/6/2009
 * 7.Colegio Nacional de Iquitos              44 14  8 22  39-59  50
 *------------------------------------------------------------------
 * 8.Sport Áncash (Huaraz)                    44 13  9 22  40-61  48  Relegated
+
 
 Group: B
 
@@ -1431,22 +1429,18 @@ Date: 12/6/2009
 *    18-men roster against César Vallejo in round 1
 
 
-*Championship Final
+Stage: Championship Final
+Leg: 1
 
-*First Leg 
-Date: 12/8/2009
-
-; Alianza Lima        ; 0-1; Universitario  
+12/8/2009; Alianza Lima        ; 0-1; Universitario  
 ;  Piero Alva 29
 
-*Second Leg 
-Date: 12/13/2009
+Leg: 2
 
-; Universitario       ; 1-0; Alianza Lima 
+12/13/2009; Universitario       ; 1-0; Alianza Lima 
   Nolberto Solano 8;
 
 *Champions: Universitario
-
 
 
 *Prepared and maintained by Eli Schmerler and Carlos Manuel Nieto Tarazona for the Rec.Sport.Soccer Statistics Foundation

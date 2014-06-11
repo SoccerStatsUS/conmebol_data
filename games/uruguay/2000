@@ -1,9 +1,7 @@
 BlockSource: http://www.rsssf.com/tablesu/uru00.html
 Competition: Uruguayan Primera Division
 Season: 2000 
-
 Stage: Apertura
-
 
 * 1.Nacional                   17 14  2  1 42-14 44  Apertura winners
 * 2.Danubio                    17 11  3  3 45-22 36
@@ -616,7 +614,6 @@ Date: 7/10/2000
 *    relegated to the third level (Liga Metropolitana Amateur) for 2001.
 
 Season: 2000 
-
 Stage: Clausura
 
 * 1.Peñarol                    16 13  3  0 35-11 42  Clausura winners
@@ -1251,8 +1248,8 @@ Date: 12/3/2000
 
 
 Round: Championship Final
+Leg: 1
 
-*First Leg 
 12/7/2000; Peñarol    ; 0-1; Nacional ; Estadio Centenario; Jorge Larrionda; 35000
 ; Sergio Martínez (pk) 69
 Peñarol: Sergio Martínez (Adrián Berbia 45), Marcelo De Los Santos, Nelson Olveira, Joe Bizera, Ruben Dos Santos (Andreé González 68), Marcelo Romero, Guillermo Giacomazzi (Mario Leguizamón 77), Nicolás Rotundo, Serafín García, Pablo Bengoechea, Carlos Bueno
@@ -1262,7 +1259,8 @@ Nacional: Leonardo Romay, Martín Del Campo, Alejandro Lembo, Damián Rodríguez
 *     90' Pablo Islas (N)
 *   red cards: 40' Nelson Olveira (P), 90' Pablo Islas (N)] 
 
-*Second Leg 
+Leg: 2
+
 12/10/2000; Nacional   ; 1-1; Peñarol; ; Gustavo Mendez
   Sergio Martínez (pk) 25; Joe Bizera 32
 Nacional: Leonardo Romay; Martín Del Campo, Alejandro Lembo, Damián Rodríguez, Adalto Batista (Diego Scotti 85); Marco Vanzini, Carlos Camejo, Oscar Morales, Gustavo Varela; Sergio Martínez (Fabián Coelho 64), Mario Regueiro (Alvaro Meneses 73)
@@ -1270,8 +1268,6 @@ Peñarol: Adrián Berbia; Cafú, Marcelo De Los Santos (Oscar Aguirregaray 84), 
 *   yellow cards: 28' Lembo (N) and M. Romero (P), 43' Bueno (P), 62' Serafín García (P),
 *     63' Cafú (P), 88' Romay (N)
 *   red card: 79' Carlos Bueno (P)]
-
- 
 
 
 *Prepared and maintained by Francisco Fernández for the Rec.Sport.Soccer Statistics Foundation

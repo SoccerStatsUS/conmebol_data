@@ -283,7 +283,6 @@ Date: 4/7/2006
 ; Libertad            ; 1-0; 3 de Febrero
   Cristian Riveros 59;
 
-
 Date: 4/8/2006
 
 ; Olimpia             ; 1-0; 12 de Octubre
@@ -389,10 +388,10 @@ Date: 4/30/2006
 Date: 5/17/2006
 
 ; 2 de Mayo           ; 0-0; Libertad
+
 *3 de Febrero         bye      
 
 Round: 16
-
 Date: 5/5/2006
 
 ; Luqueño             ; 5-0; 12 de Octubre
@@ -546,8 +545,6 @@ Date: 6/3/2006
 *11.Fernando de la Mora    20  3  3 14  21-47 12
 
 
-Season: 2006 
-
 Stage: Clausura
 
 * 1.Cerro Porteño          20 16  4  0  35-10 52  Clausura Champions
@@ -579,7 +576,6 @@ Date: 7/16/2006
 
 ; Nacional            ; 0-1; Cerro Porteño
 ;  Erwin Ávalos 20
-
 
 Date: 8/9/2006
 
@@ -651,7 +647,6 @@ Date: 8/5/2006
 
 ; 12 de Octubre       ; 0-1; Cerro Porteño
 ;  Walter Fretes (pk) 74
-
 
 Date: 8/6/2006
 
@@ -1089,17 +1084,14 @@ Date: 12/3/2006
 
 *Relegated: Fernando de la Mora
 
-*Championship Playoff
+Stage: Championship Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/6/2006
+12/6/2006; Cerro Porteño       ; 0-0; Libertad
 
-; Cerro Porteño       ; 0-0; Libertad
+Leg: 2
 
-*Second Leg 
-Date: 12/10/2006
-
-; Libertad            ; 2-1; Cerro Porteño 
+12/10/2006; Libertad            ; 2-1; Cerro Porteño 
   Hernán López 24, Sergio Aquino 28; Alejandro da Silva 60
 
 *Libertad champions 2006

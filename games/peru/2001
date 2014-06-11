@@ -546,12 +546,10 @@ Date: 6/29/2001
 *    team Deportivo Coopsol is renamed Sport Coopsol and plays as their
 *    B-team.
 
-*Apertura Playoff 
-Date: 7/1/2001
+Stage: Apertura Playoff 
 
-; Alianza Lima ; 2-1; Cristal 
+7/1/2001; Alianza Lima ; 2-1; Cristal 
   Henry Quinteros, Roberto Holsen; Jean Ferrari
-
 *Alianza Lima Apertura winners 2001.
 
 
@@ -934,7 +932,6 @@ Date: 11/2/2001
 ; Estudiantes  ; 2-1; Cienciano
   Rubén Díaz (pk) 56, César Charún 93; Ernesto Zapata (pk) 33
 
-
 Date: 11/4/2001
 
 ; Wanka        ; 1-0; Melgar
@@ -1018,7 +1015,6 @@ Date: 12/1/2001
 ; Cristal      ; 1-0; Juan Aurich 
   Luis Bonnet 83;
 
-
 Date: 12/2/2001
 
 ; Coopsol      ; 3-4; Estudiantes 
@@ -1079,9 +1075,6 @@ Date: 12/16/2001
 ; Juan Aurich  ; 1-1; Cienciano
   Rodolfo Miñán 10; Carlos Cumapa 35
 
-
-*Final Table:
-*
 * 1.Cienciano               22 14  3  5  39-30  45
 * 2.Estudiantes de Medicina 22 14  3  5  35-26  45
 * 3.Sporting Cristal        22 14  2  6  44-25  44
@@ -1095,54 +1088,40 @@ Date: 12/16/2001
 *11.Unión Minas             22  5  5 12  27-42  20
 *12.Juan Aurich             22  3  6 13  22-39  15
 
-*Clausura Playoff 
+Stage: Clausura Playoff 
 
-Date: 12/19/2001
-*Date: 12/19, Arequipa/2001
-
-; Cienciano    ; 1-0; Estudiantes
+12/19/2001; Cienciano    ; 1-0; Estudiantes; Arequipa, Peru
   Ernesto Zapata 18;
 
+Stage: Championship Playoff
+Leg: 1
 
-*Championship Playoff
-
-*First Leg 
-Date: 12/22/2001
-
-; Alianza Lima ; 3-2; Cienciano
+12/22/2001; Alianza Lima ; 3-2; Cienciano
   Waldir Saenz 20, Jose Soto 57, Roberto Farfan 90; Carlos Cumapa 29, Ernesto Zapata (pk) 35
 
+Leg: 2
 
-*Second Leg 
-Date: 12/26/2001
-
-; Cienciano    ; 1-0; Alianza Lima           
-Penalty kicks: 2-4
+12/26/2001; Cienciano    ; 1-0; Alianza Lima           
   Ramon Rodriguez 83;
-
+Penalty kicks: 2-4
 *  [penalties:
 *    Alianza: scored: Jose Soto, Henry Quinteros, Roger Serrano, Waldir Saenz
 *             missed: Roberto Holsen 
 *    Cienciano: scored: Luis Molina, Christian Garcia
 *               missed: Martin Garcia, Ernesto Zapata]
-
 *Alianza Lima champions
 
 
-*Third Copa Libertadores Place Playoff
+Stage: Third Copa Libertadores Place Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/23/2001
-
-; Estudiantes  ; 4-3; Sporting Cristal
+12/23/2001; Estudiantes  ; 4-3; Sporting Cristal
   German Carty 12, German Carty 30, German Carty 54, German Carty 82; Luis Bonnet 86, Luis Bonnet 87, David Soria 93
 
-*Second Leg 
-Date: 12/26/2001
+Leg: 2
 
-; Cristal      ; 3-0; Estudiantes de Medicina
+12/26/2001; Cristal      ; 3-0; Estudiantes de Medicina
   David Soria 2, Jorge Soto 14, Julinho 43;
-
 *Sporting Cristal qualified
 
 
@@ -1162,17 +1141,14 @@ Date: 12/26/2001
 *------------------------------------------------- 
 *12.Unión Minas             44 12  7 25  57-81  43  Relegated
 
-*Playoff against Eleventh Place 
-Date: 12/22/2001
+Stage: Playoff against Eleventh Place 
 
-; Juan Aurich  ; 2-1 (asdet); Wanka  
+12/22/2001; Juan Aurich  ; 2-1 (asdet); Wanka  
   Nilson Alvarez 35, Adrian Torres 110; Roberto Dolorier 9
 
+Stage: Promotion/Relegation Playoff 
 
-*Promotion/Relegation Playoff 
-Date: 12/29/2001
-
-; Wanka        ; 1-0 (asdet); Alcides Vigo  
+12/29/2001; Wanka        ; 1-0 (asdet); Alcides Vigo  
   Jorge Ramirez 99;
 
 

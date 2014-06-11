@@ -143,8 +143,6 @@ Date: 5/17/1998
 
 Stage: Liguilla
 
-*Tables:
-
 *Group A
 * 1.Olimpia                 2  1  0  1  5- 2  5    (2   BP)
 * 2.Guaraní                 2  1  1  0  5- 4  5    (1   BP)
@@ -195,28 +193,29 @@ Date: 5/28/1998
 * 4.Presidente Hayes        3  0  0  3  2- 7  1,5  (1,5 BP)
 
 Round: Semifinals 
+Leg: 1
 
-*First Legs [May 31]
 5/31/1998; Olimpia   ; 3-1; 12 Octubre 
 5/31/1998; Sol       ; 1-0; Cerro P 
 
-*Second Legs [Jun 2]
+Leg: 2
+
 6/2/1998; Cerro P   ; 1-0; Sol              
-*[6-7 pen]
+Penalty kicks: 6-7
+
 6/2/1998; 12 Octubre; 1-1; Olimpia
 
 Round: Final
+Leg: 1
 
-*First Leg [Jun 5]
 6/5/1998; Olimpia   ; 2-0; Sol  
 
-*Second Leg [Jun 7]
+Leg: 2
+
 6/7/1998; Sol       ; 1-1; Olimpia
 
 *Olimpia Apertura winners.
 
-
-Season: 1998 
 
 Stage: Clausura
 
@@ -353,10 +352,10 @@ Round: 11
 *10.Sportivo Luqueño       11  2  5  4  8-13 11
 *11.Libertad               11  1  6  4 12-18  9
 *12.Presidente Hayes       11  1  5  5 12-18  8
-
 *[Nacional is relegated and therefore does not qualify for the Liguilla]
-*
-*Liguilla
+
+
+Stage: Liguilla
 
 *Group A
 * 1.Cerro Porteño           3  3  0  0  7- 3 12    (3   BP)
@@ -405,42 +404,43 @@ Round: 3
 * 4.12 de Octubre           3  0  0  3  2- 6  1    (1   BP)
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 ; Cerro C   ; 1-0; Cerro P
 ; Colegiales; 0-5; Olimpia
 
-*Second Legs
+Leg: 2
+
 ; Cerro P   ; 3-0; Cerro C
 ; Olimpia   ; 1-1; Colegiales
 
-
 Round: Final
+Leg: 1
 
-*First Leg 
 ; Olimpia   ; 4-1; Cerro P
 
-*Second Leg [Nov 22]
+Leg: 2
+
 11/22/1998; Cerro P   ; 3-0; Olimpia      
-*[Cerro win 4-3 on penalties]
+Penalty kicks: 4-3
+
 
 *Cerro Porteño Clausura winners
 
 
+Stage: Championship Playoff
+Leg: 1
 
-Round: Championship Playoff
-
-*First Leg [Nov 29]
 11/29/1998; Cerro P   ; 2-2;  Olimpia    
 
-*Second Leg
+Leg: 2
+
 ; Olimpia   ; 3-1; Cerro P
 
 *Olimpia 1998 Champions.
 
 
 *Aggregate Table:
-*
 * 1.Cerro Porteño          22 16  3  3 52-19 51
 * 2.Guaraní                22 10  6  6 31-28 36
 * 3.Olimpia                22  9  5  8 28-19 32

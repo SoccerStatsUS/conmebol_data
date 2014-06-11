@@ -275,7 +275,6 @@ Date: 3/11/2006
 ; Rangers                  ; 1-3; Unión Española 
   Horacio Chiorazzo 1; Miguel Ayala (og) 11, Héctor Tapia (og) 21, Adán Vergara 53
 
-
 Date: 3/12/2006
 
 ; Palestino                ; 0-1; Universidad Catolica      ; Union Española
@@ -294,7 +293,6 @@ Date: 3/17/2006
 
 ; Universidad Catolica     ; 2-0; Deportes La Serena
   Eduardo Rubio 32, Luis Núñez 60;
-
 
 Date: 3/18/2006
 
@@ -443,7 +441,6 @@ Date: 4/13/2006
 ; Deportes La Serena       ; 2-1; Santiago Wanderers 
   Rodolfo Moya 27, Luis Rueda 79; José Soto 44
 
-
 Date: 4/14/2006
 
 ; Cobreloa                 ; 1-0; Unión Española 
@@ -475,13 +472,12 @@ Date: 4/16/2006
   Rodrigo Millar 10, Rodrigo Millar 84, Juan Lorca 34; Ever Cantero 7, Anyelo Alvarado 64
 
 *Coquimbo Unido            bye
-  
+
 Round: 13 
 Date: 4/21/2006
 
 ; Cobresal                 ; 1-2; Huachipato 
   Juan Quiroga 27; Renzo Yánez 59, Pedro Morales 74
-
 
 Date: 4/22/2006
 
@@ -526,7 +522,6 @@ Date: 4/29/2006
 
 ; Unión Española           ; 1-0; Colo Colo 
   Manuel Neira 75;
-
 
 Date: 4/30/2006
 
@@ -598,7 +593,6 @@ Date: 5/13/2006
 ; O'Higgins                ; 1-1; Puerto Montt
   Mariano Messera 15; Gabriel Vargas 70
  
-
 Date: 5/14/2006
 
 ; Universidad Catolica     ; 0-2; Universidad de Chile
@@ -621,7 +615,6 @@ Date: 5/18/2006
 ; Universidad de Chile     ; 2-1; Deportes La Serena 
   Herly Alcazar 20, Hugo Droguett 39; Luis Rueda 53
 
-
 Date: 5/19/2006
 
 ; Puerto Montt             ; 0-1; Colo Colo
@@ -641,7 +634,6 @@ Date: 5/20/2006
 
 ; Palestino                ; 2-2; Rangers 
   Joan Henríquez 55, Fernando López (pk) 72; Héctor Santibáñez 35, Juan Cisternas 43
-
 
 Date: 5/21/2006
 
@@ -676,9 +668,8 @@ Date: 5/28/2006
 ; Universidad Catolica     ; 2-0; Cobresal 
   Jorge Quinteros 25, Iván Vásquez 83;
  
-*; Deportes La Serena        abd Coquimbo Unido             
-*  Luis Rueda 20, Luis Rueda 76; Rodrigo Rivera 40
-*[abandoned at; 2-1; in 77']
+; Deportes La Serena       ; v; Coquimbo Unido             
+Notes: abandoned at 2-1 in 77'
  
 ; Rangers                  ; 2-0; Everton 
   Enrique Mallea 38, Héctor Santibáñez 90;
@@ -690,7 +681,7 @@ Date: 5/31/2006
 
 ; Deportes La Serena       ; 2-2; Coquimbo Unido             
   Luis Rueda 20, Luis Rueda 76; Rodrigo Rivera 40, Alfredo Calderón 82
-*[remaining 13', closed doors]
+Notes: remaining 13', closed doors
  
 *Huachipato                bye
 
@@ -760,108 +751,86 @@ Season: 2006 Apertura
 Stage: Playoffs
 
 Round: Repechaje 
-Date: 6/7/2006
 
-; Unión Española           ; 2-2; Deportes La Serena
+6/7/2006; Unión Española           ; 2-2; Deportes La Serena
   Manuel Neira 5, Clarence Acuña 62; Pablo Bolados (pk) 11, Luis Rueda 77
+Notes: Unión Española qualified on better season record
 
-Date: 6/9/2006
-
-; Universidad Catolica     ; 1-1; O'Higgins         
+6/9/2006; Universidad Catolica     ; 1-1; O'Higgins         
   Luis Núñez 45; Marco Olea 50
-
-*NB: Unión Española and Universidad Catolica qualified on better season record
+Notes: Universidad Catolica qualified on better season record
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs 
-Date: 6/10/2006
-
-; Cobreloa                 ; 3-1; Huachipato
+6/10/2006; Cobreloa                 ; 3-1; Huachipato
   Alexis Sánchez 51, Alexis Sánchez 54, Alexis Sánchez 79; Renzo Yáñez 44
 
-Date: 6/11/2006
-
-; Audax Italiano           ; 2-1; Universidad de Concepción
+6/11/2006; Audax Italiano           ; 2-1; Universidad de Concepción
   Arístides Masi 3, Miguel Angel Romero 82; Ricardo Parada 14
 
-; Union Española           ; 0-4; Colo Colo
+6/11/2006; Union Española           ; 0-4; Colo Colo
 ;  Rodrigo Tapia 36, Jorge Valdivia 61, Humberto Suazo 69, Humberto Suazo 82
 
-Date: 6/13/2006
-
-; Universidad Catolica     ; 2-2; Universidad de Chile
+6/13/2006; Universidad Catolica     ; 2-2; Universidad de Chile
   Jorge Quinteros 4, Francisco Arrue 49; Herly Alcázar 28, Mayer Candelo 71
 
- 
-*Second Legs
-Date: 6/17/2006
+Leg: 2 
 
-; Huachipato               ; 4-0; Cobreloa
+6/17/2006; Huachipato               ; 4-0; Cobreloa
   Rodrigo Millar 41, Rodrigo Millar (pk) 79, Rodrigo Millar 85, Renzo Yáñez 76;
 
-; Colo Colo                ; 5-0; Union Española
+6/17/2006; Colo Colo                ; 5-0; Union Española
   Gonzalo Fierro 14, Humberto Suazo 27, Humberto Suazo 57, Alvaro Ormeño 86, Moises Villaroel 88;
 
-Date: 6/18/2006
-
-; Universidad de Concepción; 2-0; Audax Italiano
+6/18/2006; Universidad de Concepción; 2-0; Audax Italiano
   Fernando Solís 3, Ricardo Parada 46;
 
-; Universidad de Chile     ; 3-1; Universidad Catolica
+6/18/2006; Universidad de Chile     ; 3-1; Universidad Catolica
   Herly Alcázar 54, Herly Alcazar 71, Mayer Candelo 76; Luis Núñez 19
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 6/21/2006
-
-; Universidad de Concepción; 3-4; Colo Colo
+6/21/2006; Universidad de Concepción; 3-4; Colo Colo
   Ricardo Viveros 49, Ricardo Viveros 75, Juan Francisco Viveros 90+2; Humberto Suazo 37, Humberto Suazo 59, Matías Fernández 57, Matias Fernandez 73
 
-Date: 6/22/2006
-
-; Universidad de Chile     ; 6-1; Huachipato
+6/22/2006; Universidad de Chile     ; 6-1; Huachipato
   Herly Alcazar 2, Marcelo Salas 34, Marcelo Salas 74, Mayer Candelo 46, Hugo Droguett 60, Cristián Canío 82; Juan Lorca 30
 
-*Second Legs 
-Date: 6/25/2006
+Leg: 2
 
-; Colo Colo                ; 2-0; Universidad de Concepción
+6/25/2006; Colo Colo                ; 2-0; Universidad de Concepción
   Arturo Sanhueza 72, Humberto Suazo 83;
 
-; Huachipato               ; 2-2; Universidad de Chile
+6/25/2006; Huachipato               ; 2-2; Universidad de Chile
   Rodolfo Madrid 52, Pedro Morales (pk) 66; Waldo Ponce 37, Cristián Canío 46
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 6/28/2006
-
-; Universidad de Chile     ; 1-2; Colo Colo; Estadio Nacional (Chile); Pablo Pozo; 28804
+6/28/2006; Universidad de Chile     ; 1-2; Colo Colo; Estadio Nacional (Chile); Pablo Pozo; 28804
   Herly Alcázar 13; Matías Fernández 54, Matias Fernandez 90
-Universidad de Chile: Miguel Pinto; Marcelo Díaz, Adrián Rojas,  Waldo Ponce, Rodrigo Jara; Manuel Iturra, Luis Pedro Figueroa, Hugo Droguett (71 Patricio Ormázabal), Mayer Candelo (82 Cristián Canío); Marcelo Salas, Herly Alcázar
-Colo Colo: Claudio Bravo; Luis Mena, Celso Ayala, Andrés González; Gonzalo Fierro (81 Arturo Vidal), Rodrigo Meléndez (70 Moisés Villarroel), Arturo Sanhueza, Miguel Aceval (46 Alvaro Ormeño), Matías Fernández, Jorge Valdivia; Humberto Suazo
+Universidad de Chile: Miguel Pinto; Marcelo Díaz, Adrián Rojas,  Waldo Ponce, Rodrigo Jara; Manuel Iturra, Luis Pedro Figueroa, Hugo Droguett (Patricio Ormázabal 71), Mayer Candelo (Cristián Canío 82); Marcelo Salas, Herly Alcázar
+Colo Colo: Claudio Bravo; Luis Mena, Celso Ayala, Andrés González; Gonzalo Fierro (Arturo Vidal 81), Rodrigo Meléndez (Moisés Villarroel 70), Arturo Sanhueza, Miguel Aceval (Alvaro Ormeño 46), Matías Fernández, Jorge Valdivia; Humberto Suazo
 *   yellow cards: Díaz, Jara, Iturra (UCh); Fierro, Aceval (Cc)]
 
-*Second Leg 
-Date: 7/2/2006
+Leg: 2
 
-; Colo Colo                ; 0-1; Universidad de Chile       ; Estadio Nacional (Chile); Ruben Selman; 61000
-Penalty kicks: 4-2
+7/2/2006; Colo Colo                ; 0-1; Universidad de Chile       ; Estadio Nacional (Chile); Ruben Selman; 61000
 ;  Luis Pedro Figueroa 69
+Colo Colo: Claudio Bravo; Luis Mena, David Henríquez, Andrés González, Alvaro Ormeño (84 Miguel Aceval); Rodrigo Meléndez (46 Moisés Villarroel), Arturo Sanhueza, Gonzalo Fierro; Matías Fernández, Jorge Valdivia; Humberto Suazo; coach: Claudio Borghi;
+Universidad de Chile: Miguel Pinto, Marcelo Díaz, Adrián Rojas, Waldo Ponce, Rodrigo Jara; Manuel Iturra, Patricio Ormazabal (48 Mayer Candelo); Luis Pedro Figueroa, Hugo Droguett; Marcelo Salas, Cristián Canío; coach: Gustavo Huerta;
+*   yellow cards: González, Sanhueza (Cc); Díaz, Rojas, Ormazábal,
+*     Figueroa (UCh)]
+Penalty kicks: 4-2
 *                  [no extra time played]
 *  [penalties:
 *   Colo Colo:   Fernández 1-0, Suazo           2-1, Fierro         3-1,
 *                Mena (held) 3-1, Aceval 4-2;
 *   U. de Chile: Salas     1-1, Droguett (held) 2-1, Candelo (held) 3-1,
 *                Figueroa    3-2]
-Colo Colo: Claudio Bravo; Luis Mena, David Henríquez, Andrés González, Alvaro Ormeño (84 Miguel Aceval); Rodrigo Meléndez (46 Moisés Villarroel), Arturo Sanhueza, Gonzalo Fierro; Matías Fernández, Jorge Valdivia; Humberto Suazo; coach: Claudio Borghi;
-Universidad de Chile: Miguel Pinto, Marcelo Díaz, Adrián Rojas, Waldo Ponce, Rodrigo Jara; Manuel Iturra, Patricio Ormazabal (48 Mayer Candelo); Luis Pedro Figueroa, Hugo Droguett; Marcelo Salas, Cristián Canío; coach: Gustavo Huerta;
-*   yellow cards: González, Sanhueza (Cc); Díaz, Rojas, Ormazábal,
-*     Figueroa (UCh)]
    
- 
 *Colo Colo Apertura 2006 champions and qualified for Copa Libertadores 2007
  
 
@@ -1581,93 +1550,69 @@ Date: 11/22/2006
 
 Season: 2006 Clausura 
 Stage: Liguilla
-
 Round: Repechaje 
-Date: 11/22/2006
 
-; Santiago Wanderers       ; 0-1; Universidad de Chile
+11/22/2006; Santiago Wanderers       ; 0-1; Universidad de Chile
 ;  Adrián Rojas 62
 
-
 Round: Quarterfinals 
+Leg: 1
 
-*First Legs
-Date: 11/25/2006
-
-; Audax Italiano           ; 1-0; Universidad Catolica
+11/25/2006; Audax Italiano           ; 1-0; Universidad Catolica
   Carlos Garrido 33;
 
-; Coquimbo Unido           ; 0-0; O'Higgins 
+11/25/2006; Coquimbo Unido           ; 0-0; O'Higgins 
 
-Date: 11/26/2006
-
-; Colo Colo                ; 1-0; Puerto Montt 
+11/26/2006; Colo Colo                ; 1-0; Puerto Montt 
   Rodrigo Tapia 75;
 
-; Universidad de Chile     ; 1-0; Cobreloa
+11/26/2006; Universidad de Chile     ; 1-0; Cobreloa
   Sergio Gioino 76;
 
- 
-*Second Legs
-Date: 12/2/2006
+Leg: 2 
 
-; O'Higgins                ; 2-1; Coquimbo Unido 
+12/2/2006; O'Higgins                ; 2-1; Coquimbo Unido 
   Daniel González 72, Giancarlo Maldonado 73; Gamadiel García 57
 
-Date: 12/3/2006
-
-; Cobreloa                 ; 3-1; U. de Chile
+12/3/2006; Cobreloa                 ; 3-1; U. de Chile
   Lucas Barrios 19, Lucas Barrios 54, José Luis Díaz 34; Waldo Ponce 75
 
-; U. Católica              ; 0-3; Audax Italiano
+12/3/2006; U. Católica              ; 0-3; Audax Italiano
 ;  Juan González 4, Diego Rosende (og) 24, Carlos Villanueva 65
 
-Date: 12/6/2006
-
-; Puerto Montt             ; 0-4; Colo Colo 
+12/6/2006; Puerto Montt             ; 0-4; Colo Colo 
 ;  Matías Fernández 58, Matias Fernandez 82, Humberto Suazo (pk) 77, Alexis Sánchez 89
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 12/8/2006
-
-; Audax Italiano           ; 4-1; O'Higgins
+12/8/2006; Audax Italiano           ; 4-1; O'Higgins
   Carlos Villanueva 38, Carlos Villanueva 83, Boris Rieloff 61, Enzo Cabrera 73; Daniel González 69
 
-Date: 12/9/2006
-
-; Colo Colo                ; 3-0; Cobreloa
+12/9/2006; Colo Colo                ; 3-0; Cobreloa
   Fernando Hurtado (og) 4, Matías Fernández 27, Gonzalo Fierro 32;
 
-*Second Legs
-Date: 12/16/2006
+Leg: 2
 
-; O'Higgins                ; 4-2; Audax Italiano
+12/16/2006; O'Higgins                ; 4-2; Audax Italiano
   Marco Olea 20, Giancarlo Maldonado 70, Giancarlo Maldonado 77, César Santis (og) 72; Carlos Villanueva 52, Franco di Santo 59
 
-Date: 12/17/2006
-
-; Cobreloa                 ; 3-3; Colo Colo
+12/17/2006; Cobreloa                 ; 3-3; Colo Colo
   Lucas Barrios 21, Lucas Barrios 51, Juan Luis González 74; Humberto Suazo 37, Humberto Suazo 71, Matías Fernández (pk) 40
 
 Round: Final 
+Leg: 1
 
-*First Leg 
-Date: 12/20/2006
-
-; Colo Colo                ; 3-0; Audax Italiano
+12/20/2006; Colo Colo                ; 3-0; Audax Italiano
   Matías Fernández 22, Humberto Suazo 55, Rodrigo Meléndez 85;
 
 Colo Colo: Sebastián Cejas; Miguel Riffo, David Henríquez, Andrés González; Gonzalo Fierro, Rodrigo Meléndez, Arturo Sanhueza, Arturo Vidal, Matías Fernández (87 Miguel Caneo); Humberto Suazo, Alexis Sánchez (81 Mario Cáceres)
 Audax Italiano: Nicolás Peric; Boris Rieloff, Juan González, Jorge Carrasco, Roberto Cereceda; Carlos Garrido, Enzo Cabrera (87 Arístides Masi), Miguel Angel Romero, Carlos Villanueva; Franco di Santo, Jaime González (56 César  Santis)
 *   yellow cards: Riffo, Meléndez, Vidal (CC); Cabrera, Garrido (AI)]
 
-*Second Leg 
-Date: 12/23/2006
-*, Nacional, Santiago; att: 60.000; ref: Carlos Chandía/2006
+Leg: 2
 
-; Audax Italiano           ; 2-3; Colo Colo 
+12/23/2006; Audax Italiano           ; 2-3; Colo Colo ; Estadio Nacional (Santiago); Carlos Chandia; 60000
   Carlos Villanueva 47, Gustavo Paruolo 90; Humberto Suazo 77, Humberto Suazo 81, Luis Mena 88
 Audax Italiano: Nicolás Peric; Boris Rieloff, Juan González, Jorge Carrasco, Roberto Cereceda; Carlos Garrido, Enzo Cabrera (74 Gustavo Paruolo), Miguel Angel Romero; Carlos Villanueva, Franco di Santo, Arístides Masi (69 Matías Campos)
 Colo Colo: Sebastián Cejas; Miguel Riffo, David Henríquez, Andrés González, Gonzalo Fierro; Rodrigo Meléndez, Arturo Sanhueza, José Luis Jerez (52 Luis Mena), Matías Fernández (83 Miguel Aceval); Humberto Suazo, Alexis Sánchez. (74 Miguel Caneo)
@@ -1705,35 +1650,24 @@ Colo Colo: Sebastián Cejas; Miguel Riffo, David Henríquez, Andrés González, 
 
 *Season: 2006 
 Stage: Promotion/Relegation Playoffs
+Leg: 1
 
-*First Legs
-Date: 11/25/2006
-
-; Fernández Vial           ; 1-3; Palestino
+11/25/2006; Fernández Vial           ; 1-3; Palestino
   César Burgos 80; Juan Pablo Ubeda 9, Daniel Pérez 21, Rodrigo Toloza 72
 
-Date: 11/26/2006
-
-; Rangers                  ; 2-1; Lota Schwager
+11/26/2006; Rangers                  ; 2-1; Lota Schwager
   Patricio Neira 2, Fabián Ibarra 78; Patricio Morales 27
 
-*Second Legs 
-Date: 12/3/2006
+Leg: 2
 
-; Palestino                ; 1-0; Fernández Vial
+12/3/2006; Palestino                ; 1-0; Fernández Vial
   Juan Pablo Ubeda 88;
 
-Date: 12/8/2006
-
-; Lota Schwager            ; 2-1; Rangers                    
+12/8/2006; Lota Schwager            ; 2-1; Rangers                    
+José Salcedo 4, Roberto Silva 90+3; Oscar Fabián Ibarra (pk) 81
 Penalty kicks: 4-3
-  José Salcedo 4, Roberto Silva 90+3; Oscar Fabián Ibarra (pk) 81
-
 
 *Lota Schwager promoted, Rangers relegated
-
-
-
 
 *Prepared and maintained by Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation
 *Author: Juan Pablo Andrés (jpandres@tutopia.com)

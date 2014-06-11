@@ -485,7 +485,7 @@ Date: 5/21/2006
 *18.Real Cartagena              18   2  1 15  14-30   7
 *NB: first tie-breaker goal difference (previously number of wins)
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.Deportivo Cali               6   3  3  0  11- 6  12  Qualified
@@ -566,12 +566,13 @@ Date: 6/18/2006
 * 3.Atlético Nacional            6   2  0  4   9-10   6
 * 4.CD Millonarios               6   1  2  3   5- 8   5
 
-Round: Finalisima
+Stage: Finalisima
+Leg: 1
 
-*First Leg 
 6/21/2006; Cali       ; 0-1; Pasto
 
-*Second Leg 
+Leg: 2
+
 6/25/2006; Pasto      ; 1-1; Cali
 
 *NB: Pasto champions Apertura 2006
@@ -908,7 +909,7 @@ Date: 11/12/2006
 *18.Envigado FC                 18   3  3 12  14-32  12
 
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.Deportes Tolima              6   4  0  2  10- 5  12  Qualified
@@ -924,9 +925,7 @@ Date: 11/12/2006
 
 Round: 1 
 
-Date: 11/18/2006
-
-; Nacional   ; 2-1; Pasto   
+11/18/2006; Nacional   ; 2-1; Pasto   
 
 Date: 11/19/2006
 
@@ -992,16 +991,13 @@ Date: 12/13/2006
 * 3.CD Millonarios               6   3  0  3   6-10   9
 * 4.Atlético Huila               6   2  1  3   7-10   7
 
-Round: Finalisima
-
-*First Leg 
-Date: 12/17/2006
+Stage: Finalisima
+Leg: 1
 
 12/17/2006; Cúcuta     ; 1-0; Tolima
 Rodrigo Saraz 23;
 
-*Second Leg 
-Date: 12/20/2006
+Leg: 2
 
 12/20/2006; Tolima     ; 1-1; Cúcuta
 Yulián Anchico 60; McNelly Torres 77
@@ -1014,12 +1010,13 @@ Yulián Anchico 60; McNelly Torres 77
 *Relegation Playoff: Huila
 
 
-Round: Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg
 11/22/2006; Valledupar ; 0-1; Huila
 
-*Second Leg
+Leg: 2
+
 11/29/2006; Huila      ; 2-0; Valledupar
 
 *NB: Huila remain at first level

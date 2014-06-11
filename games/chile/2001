@@ -223,7 +223,6 @@ Date: 4/28/2001
 ; Colo Colo          ; 4-1; U. San Felipe 
   Rozental 13, Sierra 39, Tapia 55, Tapia 74; Romero 57
 
-
 Date: 4/29/2001
 
 ; Stgo. Morning      ; 3-5; U. Española 
@@ -942,10 +941,10 @@ Season: 2001
 Stage: Liguilla Pre-Libertadores
 
 Round: Semifinals
-*First Legs
+Leg: 1
 
-12/11/2001; Palestino; 1-0; U. de Chile
-Segalla 42;
+12/11/2001; Palestino; v; U. de Chile
+*Segalla 42;
 Notes: abandoned at 1-0 after 51'
 
 12/11/2001; Huachipato         ; 3-2; Cobreloa 
@@ -956,9 +955,8 @@ Date: 12/12/2001
 ; Palestino          ; 1-0; U. de Chile           
   Segalla 42;
 Notes: remaining 39 minutes of 12/1 game.
-*[remaining 39']
 
-*Second Legs 
+Leg: 2
 
 12/14/2001; U. de Chile        ; 3-1; Palestino 
   Barrera (pk) 19, Barrera (pk) 55, Maestri 87; Caro 58
@@ -967,13 +965,12 @@ Notes: remaining 39 minutes of 12/1 game.
   Madrid 40, Pérez 53, Cornejo 60;
 
 Round: Final
-
-*First Leg 
+Leg: 1
 
 12/18/2001; Cobreloa           ; 4-4; U. de Chile
   Cornejo (pk) 15, Dinamarca 47, Vergara 54, Galaz 59; Barrera 41, P. González 75, Rivarola (pk) 78, Pérez (og) 86
 
-*Second Leg 
+Leg: 2
 
 12/20/2001; U. de Chile        ; 1-2 (aet); Cobreloa       
    Maestri 87; Madrid 45, Cornejo 107

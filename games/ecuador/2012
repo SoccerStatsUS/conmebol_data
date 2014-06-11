@@ -2,8 +2,7 @@ BlockSource: http://www.rsssf.com/tablese/ecua2012.html
 Competition: Ecuadorian Serie A
 
 Season: 2012 
-
-*Stage: Apertura
+Stage: Apertura
 
 *Primera Etapa (First Stage)
 
@@ -57,24 +56,25 @@ Stage: Clausura
 *12.Olmedo                            44   9  8 27  36-71  35  Relegated
 
 Stage: Liguilla
-
 Round: Fourth Place
+Leg: 1
 
-*First Leg [Dec 8]
 12/8/2012; LDU de Loja          ; 1-0; Indep. José Terán           
-    
-*Second Leg [Dec 15]
+
+Leg: 2    
+
 12/15/2012; Indep. José Terán    ; 0-1; LDU de Loja           
 
-Round: Second Place Matches
+Round: Second Place
+Leg: 1
 
-*First Leg [Dec 9]
 12/9/2012; LDU de Quito         ; 1-2; Emelec                
     
-*Second Leg [Dec 16]
+Leg: 2
+
 12/16/2012; Emelec               ; 1-0; LDU de Quito          
 
-Round: Championship Final
+Round: Final
 
 *NB: as Barcelona won both stages, they were crowned champions automatically
 

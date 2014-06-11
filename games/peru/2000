@@ -19,7 +19,6 @@ Stage: Apertura
 *[*] before the season, Deportivo Pesquero moved from Chimbote to Huancayo in order
 *    to improve attendances; as this was successful, the team were renamed Deportivo
 *    Wanka during the season, to identify with the new location
-*  
 *Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
 
 Round: 1 
@@ -532,13 +531,12 @@ Date: 7/9/2000
 *[*] before the season, Deportivo Pesquero moved from Chimbote to Huancayo in order
 *    to improve attendances; as this was successful, the team were renamed Deportivo
 *    Wanka during the season, to identify with the new location
-*
 *Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
-*
-*
+
+
 *Season: 2000
 Stage: Clausura
-*
+
 * 1. Universitario          22 17  3  2  55-23  54  Clausura Winners
 * 2. Sporting Cristal       22 15  5  2  48-24  50
 * 3. Cienciano              22 10  5  7  47-28  35
@@ -555,7 +553,6 @@ Stage: Clausura
 *[*] before the season, Deportivo Pesquero moved from Chimbote to Huancayo in order
 *    to improve attendances; as this was successful, the team were renamed Deportivo
 *    Wanka during the season, to identify with the new location
-
 *Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
 
 Round: 1 
@@ -1082,16 +1079,14 @@ Date: 12/8/2000
 *Note: U.P.A.O. stands for Universidad Particular Antenor Orrego.
 *Universitario champions 2000 by both winning Apertura and Clausura
 
-*Second Place Playoff 
-Date: 12/12/2000
+Stage: Second Place Playoff 
 
-; Sporting Cristal   ; 2-1; Sport Boys
+12/12/2000; Sporting Cristal   ; 2-1; Sport Boys
   Roberto Silva, Martin Hidalgo; Carlos Lobaton
 
-*Promotion/Relegation Playoff 
-Date: 12/13/2000
+Stage: Promotion/Relegation Playoff 
 
-; UPAO               ; 3-1; Aviación F.A.P.
+12/13/2000; UPAO               ; 3-1; Aviación F.A.P.
   Rodrigo Saraz 31, Nestor Mordini 76; Jerry Tamashiro 78
 
 *NB: apparently UPAO's place was taken by mid-table Segunda División team Deportivo 

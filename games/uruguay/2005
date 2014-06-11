@@ -3,8 +3,6 @@ Competition: Uruguayan Primera Division
 Season: 2005 Especial
 home-first
 
-
-
 *Torneo Uruguay Especial
 *NB: intermediate season as Uruguay will change to 'European' season
 *    for 2005/06.  Winners qualify for Copa Libertadores 2006.
@@ -594,12 +592,11 @@ Date: 7/3/2005
 
 Season: 2005 Especial 
 Stage: Campeonato
-
-*First Leg 
+Leg: 1
 
 7/10/2005; Defensor        ; np; Nacional; Estadio Centenario
 
-*Second Leg 
+Leg: 2
 
 7/12/2005; Nacional     ;    np; Defensor; Estadio Centenario 
 
@@ -632,8 +629,6 @@ Stage: Campeonato
 *
 *    in 2006/07 there will be 16 clubs in the top level.
 
-
-
 *Prepared and maintained by Francisco Fernández for the Rec.Sport.Soccer Statistics Foundation
 *Author: Francisco Fernández (ffernandez@espectador.com.uy) 
 *Last updated: 15 Aug 2006
@@ -641,10 +636,8 @@ Stage: Campeonato
 *You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
 
 
-
 BlockSource: http://www.rsssf.com/tablesu/uru06.html
 Season: 2005-2006 
-
 Stage: Apertura
 
 * 1.Rocha FC (Rocha)              17 10  3  4  37-25  33  Apertura Winners
@@ -671,7 +664,6 @@ Stage: Apertura
 *NB: all teams from Montevideo unless indicated otherwise
 
 Round: 1 
-
 Date: 8/20/2006
 
 ; Cerrito          ; 2-1; Defensor Sporting
@@ -963,7 +955,6 @@ Date: 10/29/2006
 
 ; Cerro            ; 2-0; Plaza
   Franco Parlacino (pk) 1, Diego Godín 75;
-
 
 Date: 10/30/2006
 
@@ -1262,18 +1253,15 @@ Date: 12/17/2006
 *Bottom-3 teams of Annual Table relegated; 2 teams promoted from
 *second level for Clausura 2005/06.
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/14/2006
-
-; Plaza            ; 2-2; Cerro
+12/14/2006; Plaza            ; 2-2; Cerro
   Raúl Denis 18, Rino Lucas 57; Bryan Rodríguez 36, Diego Godín 60
 
-*Second Leg 
-Date: 12/18/2006
+Leg: 2
 
-; Cerro            ; 1-0; Plaza
+12/18/2006; Cerro            ; 1-0; Plaza
   Diego Godín 16;
 
 *Plaza relegated.
@@ -1281,8 +1269,6 @@ Date: 12/18/2006
 
 Season: 2005-2006 
 Stage: Clausura
-
-
 
 * 1.C Nacional dF                 16 12  2  2  31-12  38  Clausura Winners
 * 2.Defensor Sporting Club        16 10  5  1  34-15  35
@@ -1883,10 +1869,10 @@ Date: 6/19/2006
 
 Season: 2005-2006
 Stage: Campeonato
+Leg: 1
 
 *NB: between winners Apertura and Clausura
 
-*First Leg 
 6/22/2006; Rocha            ; 1-4; Nacional; Estadio Doctor Sobrero; Líber Prudente, Miguel Nievas, Álvaro Díaz
 Heber Caro 54; Sebastián Rodrigo Vásquez 22, Sebastian Rodrigo Vasquez 45, Luis Suárez 51, José Luis Garcés 88]
 Rocha: Álvaro García; Cristiano Araujo, Diego Sosa (red card 68), Diego Bonelli (Ruben Rodríguez Pedraja 55), Diego Ciz; Álvaro Becerra, Leonardo Maldonado, Martín González, Luis Magureguy (Héber Caro 46); Marcelo Segales, José Pedro Cardozo; 
@@ -1894,8 +1880,8 @@ Rocha: Álvaro García; Cristiano Araujo, Diego Sosa (red card 68), Diego Bonell
 Nacional: Jorge Bava; Mauricio Victorino, Diego Jaume, Ignacio Pallas; Sebastián Rodrigo Vásquez, Marco Vanzini (Daniel Leites 55), Jorge Brítez, Javier Delgado (Agustín Viana 80); Luis Suárez (José Luis Garcés 73), Carlos Juárez (red card 52), Gonzalo Castro;
 *unused subs: Alexis Viera; Juan Albín, Ignacio Paniagua, Andrés Márquez; 
 
+Leg: 2
 
-*Second Leg 
 6/25/2006; Nacional         ; 2-0; Rocha; Estadio Parque Central; Roberto Silvera, Edgardo Acosta, Álvaro Sacarelo
 Luis Suárez 62, Sebastián Rodrigo Vásquez 77;
 Nacional: Jorge Bava; Mauricio Victorino, Diego Jaume, Ignacio Pallas, Daniel Leites; Sebastián Rodrigo Vázquez, Marco Vanzini (Agustín Viana 79), Jorge Brítez, Javier Delgado; Luis Suárez, Gonzalo Castro (José Luis Garcés 79); 

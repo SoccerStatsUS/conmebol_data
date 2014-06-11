@@ -557,8 +557,6 @@ Date: 7/7/2007
 *12.Guaraní                22  3  7 12  26-39 16
 
 
-Season: 2007 
-
 Stage: Clausura
 
 * 1.Libertad               22 17  4  1  36-14 55  Clausura Winners
@@ -622,7 +620,6 @@ Date: 8/12/2007
 ; Olimpia             ; 0-0; Libertad
 
 Round: 3 
-
 Date: 8/15/2007
 
 ; Libertad            ; 3-1; Sol de América
@@ -873,7 +870,6 @@ Date: 10/24/2007
 ; 2 de Mayo           ; 1-3; Olimpia
 
 Round: 16
-
 Date: 10/27/2007
 
 ; Tacuary             ; 4-1; Sportivo Luqueño   
@@ -887,7 +883,6 @@ Date: 10/28/2007
 ; Libertad            ; 2-1; Nacional
 
 Round: 17
-
 Date: 11/2/2007
 
 ; 2 de Mayo           ; 1-3; Libertad
@@ -925,7 +920,6 @@ Date: 11/11/2007
 ; 3 de Febrero        ; 2-1; 2 de Mayo
 
 Round: 20
-
 Date: 11/16/2007
 
 ; Olimpia             ; 1-1; Tacuary
@@ -939,7 +933,6 @@ Date: 11/18/2007
 ; Libertad            ; 3-1; Sportivo Luqueño  
 
 Round: 21
-
 Date: 11/23/2007
 
 ; Tacuary             ; 0-2; Sol de América
@@ -956,7 +949,6 @@ Date: 11/25/2007
 ; Sportivo Luqueño    ; 2-3; Nacional
 
 Round: 22
-
 Date: 11/30/2007
 
 ; Libertad            ; 1-0; Tacuary
@@ -986,11 +978,12 @@ Date: 12/2/2007
 *12.2 de Mayo (PJC)        22  2  7 13  16-41 13
 
 Stage: Championship Final
+Leg: 1
 
-*First Leg 
 12/9/2007; Sportivo Luqueño    ; 1-1; Libertad
 
-*Second Leg 
+Leg: 2
+
 12/14/2007; Libertad            ; 2-0; Sportivo Luqueño  
 
 *Relegated: Sportivo Trinidense 
@@ -1000,19 +993,14 @@ Stage: Championship Final
 
 
 Stage: Promotion/Relegation Playoff 
+Leg: 1
 
-*First Leg 
-*Date: 12/8, at Olimpia/2007
+12/8/2007; General Díaz        ; 2-1; 12 de Octubre ; Olimpia, Paraguay
 
-12/8/2007; General Díaz        ; 2-1; 12 de Octubre 
-
-*Second Leg 
+Leg: 2
 
 12/15/2007; 12 de Octubre       ; 4-2; General Díaz  
-
 *NB: 12 de Octubre remain at 1st level
-
-
 
 
 *Prepared and maintained by Eli Schmerler and Juan Pablo Andrés for the Rec.Sport.Soccer Statistics Foundation

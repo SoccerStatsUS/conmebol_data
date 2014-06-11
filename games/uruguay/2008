@@ -468,10 +468,9 @@ Date: 2/8/2009
 *16.CA Juventud (Las Piedras)     15  2  2 11   9-26   8
 *NB: Peñarol have 3 points deducted
 
-*Apertura Playoff 
-Date: 2/15/2009
+Stage: playoff
 
-; Danubio          ; 1-2; Nacional
+2/15/2009; Danubio          ; 1-2; Nacional
 
 *NB: Nacional Apertura champions
 
@@ -964,11 +963,11 @@ Date: 6/14/2009
 * -.CSyD Villa Española           15  3  3  9  11-26  12
 *NB: Peñarol have 3 points deducted
 
-*Championship Playoff
+Stage: Championship Playoff
 *NB: Defensor qualified for final as winners Tabla Anual
 *Semifinal (over 2 or 3 legs, goal difference does not count)
 
-*First Leg
+Leg: 1
 
 6/21/2009; Defensor         ; 1-1; Nacional; Estadio Centenario; Martín Vázquez; Carlos Pastorino, Miguel Nievas
 Diego De Souza 24; Nicolás Lodeiro 22
@@ -983,7 +982,8 @@ Nacional: Rodrigo Muñoz; Mauricio Victorino, Sebastián Coates, Adrián Romero;
 *                    Diego Arismendi 84;
 *   red card: Matías Nicolás Rodríguez (Nacional) 60 (2 yellow)]
 
-*Second Leg
+Leg: 2
+
 7/5/2009; Nacional         ; 1-1; Defensor; Estadio Centenario; Darío Ubriaco; William Casavieja, Raúl Hartwig;
 Adrián Romero 23; Diego Vera 44
 Nacional: Rodrigo Muñoz; Adrián Romero, Mauricio Victorino, Sebastián Coates, Federico Domínguez (Pablo Caballero González 66); Álvaro Fernández (Ángel Morales Santos 66), Diego Arismendi, Oscar Javier Morales Albornoz, Nicolás Lodeiro; Alexander Medina, Santiago García (Gustavo Biscayzacú 76)
@@ -995,7 +995,8 @@ Defensor: Martín Silva; Pablo Pintos, Jorge Curbelo, Leandro Cabrera, Sebastiá
 *                 D: Pablo Pintos 39, Julio Marchant 41, Álvaro Navarro 79;
 *   red card: Nicolás Lodeiro (Nacional) 75 (2 yellow)]
 
-*Third Leg
+Leg: 3
+
 7/8/2009; Defensor         ; 0-3; Nacional; Estadio Centenario; Roberto Silvera; Marcelo Gadea, Carlos Changala;
 ; Santiago García (pk) 32, Sebastián Coates 74, Álvaro Fernández 77
 Defensor: Martín Silva; Pablo Pintos, Jorge Curbelo, Leandro Cabrera, Sebastián Ariosa; Julio Marchant (Mauro Vila 60), Carlos Díaz (Alejandro Traversa 83), Miguel Amado, Diego De Souza; Diego Vera, Rodrigo Mora (Álvaro Navarro 53)
@@ -1013,8 +1014,8 @@ Nacional: Rodrigo Muñoz; Pablo Caballero González (Ángel Morales Santos 70), 
 
 Round: Final 
 *(over 2 or 3 legs, goal difference does not count)
+Leg: 1
 
-*First Leg
 7/12/2009; Defensor         ; 1-2; Nacional; Estadio Centenario; Martín Vázquez; Pablo Fandiño, Álvaro Sacarelo;
 Pablo Pintos 66; Sebastián Coates 78, Gustavo Biscayzacú 87
 Defensor: Martín Silva; Pablo Pintos, Mario Risso, Jorge Curbelo, Sebastián Ariosa (Brahian Alemán 88); Miguel Amado, Pablo Gaglianone, Carlos Díaz; Álvaro Navarro (Marco Antonio Garcia Nascimento ‘Nasa’ 65); Diego Vera, Rodrigo Mora (Fernando Rodríguez 45+4)
@@ -1028,7 +1029,8 @@ Nacional: Rodrigo Muñoz; Matías Nicolás Rodríguez (Gustavo Biscayzacú 73), 
 *   red cards: Martín Silva (Defensor) 45+1 (direct red);
 *              Alexander Medina (Nacional) 45+1 (direct red)]
 
-*Second Leg
+Leg: 2
+
 7/15/2009; Nacional         ; 2-1; Defensor; Estadio Centenario; Jorge Larrionda; Mauricio Espinosa, Igor Moreira;
 Mauricio Victorino 25, Nicolás Lodeiro 86; Álvaro Navarro 60
 Nacional: Rodrigo Muñoz; Matías Nicolás Rodríguez, Mauricio Victorino, Sebastián Coates, Adrián Romero; Álvaro Fernández, Diego Arismendi, Oscar Javier Morales Albornoz, Nicolás Lodeiro (Roberto Brum 87); Gustavo Biscayzacú (Ángel Morales Santos 70), Santiago García (Sergio Blanco 90)
@@ -1039,9 +1041,10 @@ Defensor: Fernando Rodríguez; Pablo Pintos, Mario Risso, Jorge Curbelo, Robert 
 *                 D: Robert Herrera 35, Miguel Amado 64,
 *                    Fernando Rodríguez 77]
 
-*Third Leg 
-*[Jul 18, Estadio Centenario, Montevideo (if necessary)]
-*Defensor          n/p Nacional
+Leg: 3
+
+7/18/2009; Defensor         ; np; Nacional; Estadio Centenario
+* unneeded
 
 *NB: Nacional champions 2008/09
 

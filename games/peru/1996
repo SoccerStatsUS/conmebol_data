@@ -342,26 +342,32 @@ Round: 30
 *Promoted: José Gálvez (winners of Copa Peru) and Alcides Vigo
 *          (second division winners, see below).
 
-Round: Playoff for Liguilla
-
-*Union Minas       -  0-3 Universitario
-*Pesquero          -  1-1 Sport Boys
-*Cienciano         -  0-1 Torino
-
+Stage: : Playoff for Liguilla
 *[1st leg scores unknown; Universitario, Pesquero and Cienciano qualified]
 
-*Liguilla Pre-Libertadores
+
+; Union Minas      ; v; Universitario
+; Pesquero         ; v; Sport Boys
+; Cienciano        ; v; Torino
+
+; Union Minas       ; 0-3; Universitario
+; Pesquero          ; 1-1; Sport Boys
+; Cienciano         ; 0-1; Torino
 
 
+Stage: Liguilla Pre-Libertadores
 Round: 1
+
 ; Alianza         ; 4-1; Cienciano
 ; Pesquero        ; 2-3; Universitario
 
 Round: 2
+
 ; Cienciano       ; 2-2; Pesquero 
 ; Universitario   ; 0-0; Alianza
 
 Round: 3
+
 ; Alianza         ; 4-1; Pesquero
 ; Universitario   ; 5-0; Cienciano
 

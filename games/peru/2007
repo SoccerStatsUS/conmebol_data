@@ -3,8 +3,6 @@ Competition: Peruvian Primera División
 Season: 2007 
 Stage: Apertura
 
-*Primera División
-*
 *NB: Apertura and Clausura champions play off for championship,
 *    provided they finish in the top-6 of both tournaments
 
@@ -505,12 +503,12 @@ Date: 6/9/2007
 ; Total Clean     ; 2-1; Sporting Cristal
   Roberto Holsen 60, Paolo Maldonado 75; Carlos Orejuela 7
 
-
 Date: 6/10/2007
 
 ; Alianza Atlético; 0-1; Alianza Lima          
 ;  Martín Ligüera 24
-*[abandoned at 0-1 in 79'; result stood]
+Minutes: 79
+Notes: abandoned at 0-1 in 79'; result stood
 
 ; Universitario   ; 1-0; Cienciano
   Gustavo Vassallo 61;
@@ -882,7 +880,6 @@ Date: 12/16/2007
 
 
 *Aggregate Table:
-*
 * 1.Universidad San Martín de Porres (Lima)  44 20 11 13  69-46  71  Apertura Winners
 * 2.Cienciano (Cuzco)                        44 20 11 13  67-50  71  Copa Libertadores
 * 3.Sport Áncash (Huaraz)                    44 18 13 13  56-49  67

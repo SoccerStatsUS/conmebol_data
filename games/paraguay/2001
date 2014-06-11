@@ -211,56 +211,46 @@ Date: 5/13/2001
 * 9.San Lorenzo             9  1  2  6 13-23  5
 *10.12 de Octubre           9  0  3  6 11-20  3
 
+Stage: liguilla
 Round: Quarterfinals 
+Leg: 1
 
-*First Legs
-Date: 5/18/2001
-
-; Colegiales    ; 1-1; Libertad 
+5/18/2001; Colegiales    ; 1-1; Libertad 
   Villalba 79; Robles 44
 
-Date: 5/19/2001
-
-; Sol           ; 1-2; Olimpia 
+5/19/2001; Sol           ; 1-2; Olimpia 
   Centurión 67; Esteche 34, Esteche (pk) 75
 
-Date: 5/20/2001
-
-; Guarani       ; 0-2; Cerro Porteño 
+5/20/2001; Guarani       ; 0-2; Cerro Porteño 
 ;  C. Ramírez 10, M. Caballero 60
  
-; Cerro Cora    ; 0-1; Luqueño 
+5/20/2001; Cerro Cora    ; 0-1; Luqueño 
 ;  Masi (pk) 55
  
+Leg: 2
 
-*Second Legs
-Date: 5/25/2001
-
-; Olimpia       ; 1-0; Sol
+5/25/2001; Olimpia       ; 1-0; Sol
   Francisco Esteche (pk) 9;
  
-Date: 5/26/2001
-
-; Cerro Porteño ; 1-2; Guarani
+5/26/2001; Cerro Porteño ; 1-2; Guarani
   César Ramírez 29; Julio González (pk) 21, Nestor Espínoza 43
 
-Date: 5/27/2001
-
-; Luqueño       ; 4-3; Cerro Cora
+5/27/2001; Luqueño       ; 4-3; Cerro Cora
   Carlos Estigarribia 26, Arístides Masi (pk) 51, Arístides Masi 67, Arístides Masi 80; Sergio Fernández 11, Lidio Benítez (og) 58, Rodrigo Mendoza 74
 
-; Libertad      ; 1-1; Colegiales
+5/27/2001; Libertad      ; 1-1; Colegiales
   Daniel Sanabria 44; Gustavo Sotelo 43
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 6/5/2001; Libertad      ; 0-1; Cerro Porteño  
 ;  Virgilio Ramírez 43
 
 6/6/2001; Olimpia       ; 0-0; Luqueño
 
-*Second Legs [Jun 10]
+Leg: 2
+
 6/10/2001; Cerro Porteño ; 2-1; Libertad
   César Ramírez 70, Mauro Caballero 90; Gustavo Morinigo 5
 
@@ -268,26 +258,21 @@ Round: Semifinals
   Isidro Candia 27, Leandro 90;
 
 Round: Final
+Leg: 1
 
-*First Leg [Ciudad del Este, Jun 16]
-
-6/16/2001; Cerro Porteño ; 3-0; Luqueño
+6/16/2001; Cerro Porteño ; 3-0; Luqueño; Ciudad del Este, Paraguay
 Leonardo (pk) 17, Lidio Benítez (og) 82, Virgilio Ferreira 89;
+Notes: protest of Luqueño against eligibility of Nelson Zelaya (came from Olimpia)  rejected
 
-*NB: protest of Luqueño against eligibility of Nelson Zelaya (came from Olimpia)
-*    rejected
+Leg: 2
 
-*Second Leg [Jun 24]
 6/24/2001; Luqueño       ; 1-3; Cerro Porteño  
   Alfredo Amarilla 4; Juan Daniel Cáceres 63, Mauro Caballero 82, Virgilio Ferreira 93
-
 
 *Cerro Porteño win Apertura
 
 
-
 Season: 2001 
-
 Stage: Clausura
 
 * 1.Cerro Porteño           9  5  2  2 14- 7 17
@@ -512,87 +497,72 @@ Date: 9/30/2001
 *Promoted: Recoleta
 
 Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
-Date: 10/27/2001
-
-; Sport Colombia; 1-0; Colegiales
+10/27/2001; Sport Colombia; 1-0; Colegiales
   Carlos Leite;
 
+Leg: 2
 
-*Second Leg 
-Date: 11/4/2001
-
-; Colegiales    ; 1-4; Sport Colombia
+11/4/2001; Colegiales    ; 1-4; Sport Colombia
 
 *Sport Colombia promoted, Atlético Colegiales relegated
 
 Round: Quarterfinals 
+Leg: 1
 
-*First Legs
-Date: 10/10/2001
-
-; Guarani       ; 2-3; 12 de Octubre
+10/10/2001; Guarani       ; 2-3; 12 de Octubre
   Pablo Gimenez 74, Dario Veron (og) 87; Walter Avalos 57, Felipe Gimenez 64, Edgar Baez 80
 
-; Cerro Porteño ; 3-0; Olimpia 
+10/10/2001; Cerro Porteño ; 3-0; Olimpia 
   Sergio Aquino 19, Virgilio Ferreira 31, Francisco Ferreira 92;
 
-; San Lorenzo   ; 1-0; Sportivo Luqueño 
+10/10/2001; San Lorenzo   ; 1-0; Sportivo Luqueño 
   Milciades Barrios 1;
  
-Date: 10/11/2001
-
-; Sol de America; 0-1; Libertad 
+10/11/2001; Sol de America; 0-1; Libertad 
 ;  Sergio Fernandez 70
 
-*Second Legs 
-Date: 10/15/2001
+Leg: 2
 
-; Olimpia       ; 0-1; Cerro Porteño 
+10/15/2001; Olimpia       ; 0-1; Cerro Porteño 
 ;  Virgilio Ferreira 38
 
-; Sol de America; 2-1; Libertad 
+10/15/2001; Sol de America; 2-1; Libertad 
   Dante Lopez 53, Jose Franco 88; Eber Fernandez 86
  
-; Sp. Luqueño   ; 0-0; Sportivo San Lorenzo 
+10/15/2001; Sp. Luqueño   ; 0-0; Sportivo San Lorenzo 
 
-; 12 de Octubre ; 0-2; Guarani 
+10/15/2001; 12 de Octubre ; 0-2; Guarani 
 ;  Martin Cuevas 42, David Gomez 83
 
 Round: Semifinals
+Leg: 1
 
-*First Legs 
-Date: 10/21/2001
-
-; Libertad      ; 1-1; Guarani
+10/21/2001; Libertad      ; 1-1; Guarani
   Edgar Robles 56; Edgar González 12
  
-; San Lorenzo   ; 2-1; Cerro Porteño 
+10/21/2001; San Lorenzo   ; 2-1; Cerro Porteño 
   John Caballero 28, Oscar Sanabria; Guido Alvarenga 22
 
-*Second Legs 
-Date: 10/28/2001
+Leg: 2
 
-; Cerro Porteño ; 3-0; San Lorenzo 
+10/28/2001; Cerro Porteño ; 3-0; San Lorenzo 
   Walter Fretes 26, César Ramírez 33, Francisco Ferreira 63;
 
-; Guarani       ; 3-0; Libertad 
+10/28/2001; Guarani       ; 3-0; Libertad 
   Pablo Gimenez 17, Pablo Gimenez 86, Oswaldo Diaz 90;
 
 Round: Final
+Leg: 1
 
-*First Leg 
-Date: 11/4/2001
-
-; Guarani       ; 4-3; Cerro Porteño 
+11/4/2001; Guarani       ; 4-3; Cerro Porteño 
   Edgar Gonzales 6, Jorge Nuñez 30, Pablo Gimenez 35, Pablo Gimenez 86; Francisco Ferreira 50, Francisco Ferreira 65, Francisco Ferreira 88
 
-*Second Leg
+Leg: 2
 ; Cerro Porteño ; 1-0; Guarani                
   Cesar Ramirez 13;
 Penalty kicks: 7-6
-
 *  [penalties:
 *   Cerro Porteño: F. Ferreira, Ramirez, Fretes, Martinez, Bobadilla, 
 *                  Caceres, Aquino all scored 
@@ -604,7 +574,8 @@ Penalty kicks: 7-6
 *Cerro Porteño are champions as winners Apertura and Clausura
 
 
-*Runners-Up Playoff
+Stage: Runners-Up Playoff
+
 ; Sp. Luqueño   ; 2-2; Guarani                
 Victorino Peralta 53, Osvaldo Cohener 56; Hugo Ovelar 58, Nery Ortiz 86
 Penalty kicks: 4-3
@@ -612,10 +583,10 @@ Penalty kicks: 4-3
 *Luqueño obtain 3 extra points in the Liguilla.
 
 
-*Liguilla Hexagonal Pre-Libertadores
+Stage: Liguilla Hexagonal Pre-Libertadores
+
 *Top-2 qualify for Copa Libertadores 2002
 
-*Final Table:
 * 1.12 de Octubre           5  3  1  1 10- 4 10  Copa Libertadores 2002
 * 2.Olimpia                 5  3  1  1  8- 5 10  Copa Libertadores 2002
 * - - - - - - - - - - - - - - - - - - - - - - -
@@ -628,74 +599,59 @@ Penalty kicks: 4-3
 
 Round: 1
 
-Date: 11/30/2001
+11/30/2001; Olimpia       ; 0-0; 12 de Octubre
 
-; Olimpia       ; 0-0; 12 de Octubre
-
-Date: 12/2/2001
-
-; Libertad      ; 2-2; Guaraní
+12/2/2001; Libertad      ; 2-2; Guaraní
   Gustavo Morínigo 46, Gustavo Morínigo 50; Nery Ortiz 35, Nery Ortiz 89
 
-; Sol de América; 2-2; Sp. Luqueño 
+12/2/2001; Sol de América; 2-2; Sp. Luqueño 
   Nicolas Tintel 74, Christian Esquivel 80; Osvaldo Cohener 2, Osvaldo Cohener 55
 
 Round: 2
-Date: 12/6/2001
 
-; Luqueño       ; 1-0; Guaraní
+12/6/2001; Luqueño       ; 1-0; Guaraní
   Alfredo Amarilla 56;
  
-; 12 de Octubre ; 1-3; Sol de América 
+12/6/2001; 12 de Octubre ; 1-3; Sol de América 
   Richard Gomez (pk) 55; Carlos Goroso 30, Hugo Centurión 45, José Franco 92
 
-Date: 12/9/2001
-
-; Olimpia       ; 4-2; Libertad 
+12/9/2001; Olimpia       ; 4-2; Libertad 
   Richart Báez 61, Carlos Estigarribia 71, Gilberto Palacios 73, Nestor Espinoza 85; Mauro Caballero 20, Denis Russi 42
 
 Round: 3 
-Date: 12/12/2001
 
-; Sol de América; 0-1; Guaraní 
+12/12/2001; Sol de América; 0-1; Guaraní 
 ;  Angel Ortiz 22
 
-; 12 de Octubre ; 1-0; Libertad 
+12/12/2001; 12 de Octubre ; 1-0; Libertad 
   Richard Gomez (pk) 16;
 
-
-Date: 12/13/2001
-
-; Sp. Luqueño   ; 1-2; Olimpia 
+12/13/2001; Sp. Luqueño   ; 1-2; Olimpia 
   Osvaldo Cohener 24; Diego Figueredo 10, Carlos Estigarribia 73
 
 Round: 4 
-Date: 12/16/2001
 
-; Olimpia       ; 0-1; Guaraní      
+12/16/2001; Olimpia       ; 0-1; Guaraní      
 ;  Alcides Rodas 68
    
-; Libertad      ; 4-2; Sol de América 
+12/16/2001; Libertad      ; 4-2; Sol de América 
   Mauro Caballero 30, Estanislao Struway 39, Gustavo Morínigo 58, Sergio Fernández 93; Hugo Centurion 36, Jose Franco 49
 
-; Sp. Luqueño   ; 1-6; 12 de Octubre
+12/16/2001; Sp. Luqueño   ; 1-6; 12 de Octubre
   José Zarza 38; Luis Torres 10, Luis Torres 61, Luis Torres 80, Raúl Arviniagaldez 16, Raúl Arviniagaldez 65, Freddy Barreiro 50
 
 Round: 5 
-Date: 12/22/2001
 
-; Sp. Luqueño   ; 2-3; Libertad 
+12/22/2001; Sp. Luqueño   ; 2-3; Libertad 
   Cesar Caceres Cañete 22, Cesar Caceres Cañete 74; Juan Samudio 42, Juan Samudio 47, Mauro Caballero 89
 
-; Sol de América; 1-2; Olimpia 
+12/22/2001; Sol de América; 1-2; Olimpia 
   Alfredo Acosta 11; Richart Baez 44, Sergio Orteman 54
 
-; 12 de Octubre ; 2-0; Guaraní 
+12/22/2001; 12 de Octubre ; 2-0; Guaraní 
   Freddy Bareiro 13, Freddy Bareiro 42;
 
 
-*Final Table:
-* 
 * 1.12 de Octubre           5  3  1  1 10- 4 10  Copa Libertadores 2002
 * 2.Olimpia                 5  3  1  1  8- 5 10  Copa Libertadores 2002
 * - - - - - - - - - - - - - - - - - - - - - - -
@@ -703,7 +659,6 @@ Date: 12/22/2001
 * 4.Guaraní                 5  2  1  2  4- 5  7 
 * 5.Sportivo Luqueño        5  1  1  3  7-13  7  [3]
 * 6.Sol de América          5  1  1  3  8-10  4
-*
 *NB: Sportivo Luqueño have 3 bonus points.
 
 

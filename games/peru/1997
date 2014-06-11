@@ -280,7 +280,6 @@ Date: 8/31/1997
 10/5/1997; Alianza      ; 0-0; Universitario   
 
 Round: 7 
-*[Sep 14]
 Date: 9/14/1997
 
 ; Alcides      ; 1-3; Alianza
@@ -292,7 +291,6 @@ Date: 9/14/1997
 ; Universitario; 2-0; Sport Boys
 
 Round: 8 
-*[Sep 21]
 Date: 9/21/1997
 
 ; Alianza      ; 4-0; Jose Galvez
@@ -306,7 +304,6 @@ Date: 9/21/1997
 *[played later]
 
 Round: 9 
-*[Sep 28]
 Date: 9/28/1997
 
 ; Cristal      ; 3-1; Pesquero
@@ -342,7 +339,6 @@ Date: 10/25/1997
 11/2/1997; Universitario; 3-1; Torino          
 
 Round: 12 
-*[Nov 5]
 Date: 11/5/1997
 
 ; Alcides      ; 1-1; Sport Boys
@@ -355,7 +351,6 @@ Date: 11/5/1997
 ; Torino       ; 0-5; Alianza
 
 Round: 13 
-*[Nov 8]
 Date: 11/8/1997
 
 ; Cristal      ; 2-0; Cienciano
@@ -405,7 +400,6 @@ Date: 11/8/1997
 *and La Loretana relegated.
 
 
-*Liguilla Pre-Libertadores
 * 1.Sporting Cristal        5  4  1  0   9- 1  13
 * 2.Universitario           5  2  2  1  12- 4   8
 * 3.Melgar FBC              5  2  2  1   4- 4   8
@@ -413,39 +407,39 @@ Date: 11/8/1997
 * 5.Alianza Atlético        5  1  2  2   8-11   5 
 * 6.Deportivo Municipal     5  0  1  4   5-16   1  
 
-Round: 1
+Stage: Liguilla Pre-Libertadores
 Date: 
+
+Round: 1
+
 ; Municipal    ; 1-7; Universitario 
 ; Melgar       ; 0-3; Cristal
 ; Alianza Atl  ; 4-2; Cienciano
 
 Round: 2 
 *[Nov 29,30]
-Date: 11/29/1997
 
-; Universitario; 0-0; Melgar
-; Cristal      ; 1-0; Cienciano
-; Municipal    ; 2-2; Alianza Atl
+11/29/1997; Universitario; 0-0; Melgar
+11/29/1997; Cristal      ; 1-0; Cienciano
+11/29/1997; Municipal    ; 2-2; Alianza Atl
 
 Round: 3
-Date: 
 
 ; Alianza Atl  ; 1-1; Melgar
 ; Cienciano    ; 3-2; Municipal
 ; Universitario; 0-0; Cristal
 
 Round: 4
+
 ; Cristal      ; 3-0; Municipal   
 ; Universitario; 4-0; Alianza Atl
 ; Melgar       ; 2-0; Cienciano
 
 Round: 5 
-*[Dec 20]
-Date: 11/20/1997
 
-; Cienciano    ; 3-1; Universitario
-; Cristal      ; 2-1; Alianza Atl
-; Municipal    ; 0-1; Melgar
+11/20/1997; Cienciano    ; 3-1; Universitario
+11/20/1997; Cristal      ; 2-1; Alianza Atl
+11/20/1997; Municipal    ; 0-1; Melgar
 
 * 1.Sporting Cristal        5  4  1  0   9- 1  13
 * 2.Universitario           5  2  2  1  12- 4   8

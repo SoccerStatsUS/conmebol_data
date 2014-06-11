@@ -2,18 +2,18 @@ BlockSource: http://www.rsssf.com/tablesc/col01.html
 
 Season: 2001
 Competition: Friendly
+*Friendly Matches
 
-*Friendly Matches  [Jan 21]
-1/21/2001; Pereira     ; 2-3;  América
+1/21/2001; Pereira     ; 2-3;  América de Cali
 Cardona 12, Ortero 79; González 27, Herrera 61, Vásquez 71
 
-1/21/2001; Santa Fe    ; 1-0;  Millonarios
+1/21/2001; Independiente Santa Fe    ; 1-0;  Millonarios
 Díaz 44;
 
-1/21/2001; Envigado    ; 0-2;  Nacional
+1/21/2001; Envigado    ; 0-2;  Atletico Nacional
 ; Mosquera 21, Salazar 72
 
-1/21/2001; Cali        ; 1-0;  Tuluá
+1/21/2001; Deportivo Cali        ; 1-0;  Tuluá
 Bedoya 23;
 
 Competition: Categoría Primera A
@@ -1312,7 +1312,9 @@ Date: 11/11/2001
 *16.Atl Bucaramanga    44  8 16 20  27-44  40
 
 
-*Cuadrangulares Mustang  (Nov 18-Dec 12) 
+Stage: Cuadrangulares Mustang  
+*(Nov 18-Dec 12) 
+
 *Group A
 * 1.América             6  2  4  0   8- 5  10
 * 2.Once Caldas         6  2  3  1  10-10   9
@@ -1424,19 +1426,16 @@ Date: 12/12/2001
 * 3.Deportivo Cali      6  2  2  2   5- 5   8
 * 4.Deportes Tolima     6  1  1  4   5- 9   4
 
-
+Stage: championship
 Round: Final
+Leg: 1
 
-*First Leg  
-Date: 12/16/2001
-
-; Medellín    ; 0-1;  América
+12/16/2001; Medellín    ; 0-1;  América
 ;  Julián Vásquez 66
 
-*Second Leg  
-Date: 12/19/2001
+Leg: 2
 
-; América     ; 2-0;  Medellín
+12/19/2001; América     ; 2-0;  Medellín
   Edison Mafla 34, Julián Vásquez 41;
 
 *NB: América are champions and qualify for Copa Libertadores 2002.
@@ -1465,14 +1464,12 @@ Date: 12/19/2001
 *NB: Pereira took the record of the worst non-relegated team 
 *    (Atlético Bucaramanga) in 2000
 *
-*Triangular de Promoción
-*
+Stage: Triangular de Promoción
+
 *As the first level will be extended to 18 teams, it will be played a
 *promotion championship in Cartagena between the three best-placed
 *professional clubs of the second level afiliated to Dimayor, to select
 *the 2 promoted teams to the first level.
-*
-*[All matches in Cartagena, Pedro de Heredia stadium]
 
 12/16/2001;  Cúcuta;       0-2;  Magdalena; Pedro de Heredia Stadium
 ; Zarate 60, Maturana 75
@@ -1483,7 +1480,6 @@ Date: 12/19/2001
 12/20/2001;  Cúcuta;       0-0;  Bucaramanga; Pedro de Heredia Stadium
 Penalty kicks: 3-5
 
-*Final Table:
 * 1.Unión Magdalena      2  2  0  0  4-0  6
 * 2.Atlético Bucaramanga 2  0  1  1  0-2  1  [5-3 pen]
 * 3.Cúcuta Deportivo     2  0  1  1  0-2  1  [3-5 pen]

@@ -660,7 +660,6 @@ Date: 5/19/2002
 
 
 Season: 2002 
-
 Stage: Apertura
 
 * 1.C Nacional dF               9  8  1  0  20- 6 25  Apertura Winners
@@ -881,7 +880,6 @@ Date: 9/8/2002
 
 
 Season: 2002 
-
 Stage: Clausura
 
 * 1.Danubio FC                  9  6  2  1  16- 8 20  Clausura Winners
@@ -1111,18 +1109,19 @@ Date: 12/1/2002
 
 Season: 2002 
 Stage: Campeonato
+Leg: 1
 
-*First Leg 
 12/4/2002; Danubio        ; 1-2; Nacional  ; Jardines del Hipodromo; Martín Vázquez, Fernando Cresci, Álvaro Sacarello; 10000
 Claudio Biaggio 48; Marco Vanzini 51, Horacio Peralta 90
-*Danubio: Ignacio Bordad; Jadson Viera, Máximo Lucas, Walt Báez; Jorge Anchén [Diego Rariz 88], Marcelo Sosa, Omar Pouso, Ruben Da Silva [Ignacio González 61], Pablo Lima; Diego Perrone, Claudio Biaggio [Juan Manuel Olivera 79]
+Danubio: Ignacio Bordad; Jadson Viera, Máximo Lucas, Walt Báez; Jorge Anchén [Diego Rariz 88], Marcelo Sosa, Omar Pouso, Ruben Da Silva [Ignacio González 61], Pablo Lima; Diego Perrone, Claudio Biaggio [Juan Manuel Olivera 79]
 *Bench: Joaquín Hernández [GK], Darwin Quintana, Cristian Callejas, Bruno Silva.
-*Nacional: Gustavo Munúa; Martín Del Campo, Andrés Scotti, Alejandro Lembo, Daniel Leites; Gustavo Méndez, Marco Vanzini [Carlos Camejo 88], Oscar Morales, Cassiano Méndes [Julio Rodríguez 60]; Pierre Webo [Horacio Peralta 68], Richard Morales. DT: Daniel Carreño. 
+Nacional: Gustavo Munúa; Martín Del Campo, Andrés Scotti, Alejandro Lembo, Daniel Leites; Gustavo Méndez, Marco Vanzini [Carlos Camejo 88], Oscar Morales, Cassiano Méndes [Julio Rodríguez 60]; Pierre Webo [Horacio Peralta 68], Richard Morales. DT: Daniel Carreño. 
 *Bench:  Leonardo Romay [GK], Fernando Machado, Fabián Coelho, Alvaro Méndez.
 *   Yellow Cards: Gustavo Méndez 1, Claudio Biaggio 18, Daniel Leites 26, Omar
 *                 Pouso 42, Máximo Lucas 55, Gustavo Munúa 65, Pablo Lima 69.
 
-*Second Leg 
+Leg: 2
+
 12/8/2002; Nacional       ; 2-1; Danubio   ; Estadio Centenario; Gustavo Méndez, Marcelo Gadea, Mauricio Espinosa; 60000
 Andrés Scotti 16, Richard Morales 88; Diego Perrone 63
 Nacional: Gustavo Munúa; Martín Del Campo, Andrés Scotti, Alejandro Lembo, Daniel Leites [Carlos Camejo 64]; Gustavo Méndez, Marco Vanzini, Oscar Morales, Cassiano Méndes [Julio Rodríguez 73]; Pierre Webo [Horacio Peralta 59], Richard Morales. 

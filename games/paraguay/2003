@@ -68,8 +68,9 @@ Date: 2/28/2003
 
 Date: 3/1/2003
 
-*San Lorenzo    abd Cerro Porteño          [abandoned at 0-3 in 70' due to light
-*  [Erwin Ávalos 22, Dante López 32, Santiago Salcedo 49]               failure]
+; San Lorenzo; v; Cerro Porteño          
+Notes: abandoned at 0-3 in 70' due to light failure
+*  [Erwin Ávalos 22, Dante López 32, Santiago Salcedo 49]               
 
 Date: 3/2/2003
 
@@ -83,8 +84,8 @@ Date: 3/2/2003
 Date: 4/3/2003
 
 ; San Lorenzo   ; 0-4; Cerro Porteño          
-*[remaining 20']
 ;  Erwin Ávalos 22, Erwin Ávalos 71, Dante López 32, Santiago Salcedo 49
+Notes: remaining 20' of 3/1 game
    
 Round: 4
 Date: 3/7/2003
@@ -121,7 +122,6 @@ Date: 3/16/2003
 
 ; Sol de América; 3-0; Guaraní
   Marcial Garay 54, Marcial Garay 67, Jose Franco 70;
-
 
 Date: 3/30/2003
 
@@ -222,11 +222,9 @@ Date: 4/20/2003
 * 9.12 de Octubre           9  1  4  4   8-18  7
 *10.Sportivo San Lorenzo    9  1  0  8  10-25  3
 
-
+Stage: liguilla
 Round: Semifinals 
 
-*Tables:
-*
 *Group A
 * 1.Libertad                2  1  1  0   2- 0  6  [2]  Qualified
 * 2.Tacuary                 2  1  1  0   2- 0  4
@@ -238,33 +236,27 @@ Round: Semifinals
 * 3.Cerro Porteño           2  0  0  2   3- 6  2  [2]
 
 Round: 1 
-Date: 4/26/2003
 
-; Tacuary       ; 2-0; Olimpia
+4/26/2003; Tacuary       ; 2-0; Olimpia
   Raúl Román 13, Fernando Benítez 69;
 
-; Guaraní       ; 1-0; Sol de América
+4/26/2003; Guaraní       ; 1-0; Sol de América
   Wagner 7;
 
 Round: 2
-Date: 5/1/2003
 
-; Guarani       ; 2-1; Cerro Porteño
+5/1/2003; Guarani       ; 2-1; Cerro Porteño
   Angel Ortiz 10, Fabio Nunes 55; Walter Fretes 5
 
-
+5/4/2003; Libertad      ; 0-0; Tacuary
 *Date: 5/4?/2003
-Date: 5/4/2003
-
-; Libertad      ; 0-0; Tacuary
 
 Round: 3 
-Date: 5/11/2003
 
-; Libertad      ; 2-0; Olimpia
+5/11/2003; Libertad      ; 2-0; Olimpia
   Gustavo Morínigo 27, Gustavo Morínigo 51;
 
-; Cerro Porteño ; 2-4; Sol de América
+5/11/2003; Cerro Porteño ; 2-4; Sol de América
   Aldo Jara 10, Edgar Benítez (pk) 43; Marcial Garay 12, Marcial Garay 58, José Franco 81, Aureliano Torres 90
 
 *Tables:
@@ -280,24 +272,19 @@ Date: 5/11/2003
 * 3.Cerro Porteño           2  0  0  2   3- 6  2  [2]
 
 Round: Final 
+Leg: 1
 
-*First Leg 
-*Date: 5/18, Defensores del Chaco/2003
+5/18/2003; Guaraní       ; 0-0; Libertad; Defensores del Chaco
 
-5/18/2003; Guaraní       ; 0-0; Libertad
+Leg: 2
 
-*Second Leg 
-*Date: 5/25, Defensores del Chaco/2003
-
-5/25/2003; Libertad      ; 1-0; Guaraní
+5/25/2003; Libertad      ; 1-0; Guaraní; Defensores del Chaco
   Gustavo Morínigo 67;
-
 
 *Libertad are Apertura winners.
 
 
 Season: 2003 
-
 Stage: Clausura
 
 *Final Table:
@@ -664,8 +651,6 @@ Date: 10/26/2003
 ; Olimpia       ; 1-2; Libertad
   Guido Alvarenga 40; Fredy Barreiro 36, Gustavo Morínigo 55
 
-*Final Table:
-*
 * 1.Libertad               18  9  6  3  32-20 33  Clausura Playoff
 * 2.Olimpia                18  9  6  3  30-18 33  Clausura Playoff
 * 3.Cerro Porteño          18  9  5  4  24-15 32
@@ -677,26 +662,27 @@ Date: 10/26/2003
 * 9.Tacuary                18  4  5  9  20-29 17
 *10.Sport Colombia         18  4  4 10  22-34 16
 
-*Clausura Championship Final 
-Date: 11/30/2003
+Stage: Playoffs
 
-; Libertad      ; 0-0; Olimpia           
+Round: Championship Final 
+
+11/30/2003; Libertad      ; 0-0; Olimpia           
 Penalty kicks: 6-5
 
 *Libertad Clausura winners and national champions by virtue of winning
 *both Apertura and Clausura
-*
-*
-*Second Place Playoff (qualifies for Copa Libertadores 2004; between
-*                      runners-up of Apertura and Clausura)
 
-*First Leg 
-Date: 11/2/2003
 
-; Olimpia       ; 1-1; Guaraní
+Round: Second Place Playoff 
+(qualifies for Copa Libertadores 2004; between runners-up of Apertura and Clausura)
+
+Leg: 1
+
+11/2/2003; Olimpia       ; 1-1; Guaraní
   Juan Carlos Benítez 90; Ángel Ortiz 28
 
-*Second Leg
+Leg: 2
+
 11/5/2003; Guaraní       ; 3-2; Olimpia
   Pablo Giménez 5, Pablo Giménez 48, Fabio Nunes 38; Gilberto Palacios 51, Juan Carlos Benítez 80
 
@@ -708,30 +694,27 @@ Date: 11/2/2003
 Stage: Liguilla Pre-Libertadores
 
 Round: 1 
-Date: 11/8/2003
 
-; Sp. Luqueño   ; 0-1; Olimpia
+11/8/2003; Sp. Luqueño   ; 0-1; Olimpia
 ;  Julio Enciso (pk) 79
 
-; Cerro Porteño ; 3-2; Sol de América
+11/8/2003; Cerro Porteño ; 3-2; Sol de América
   Erwin Avalos 64, Julio dos Santos 67, Julio dos Santos 86; José Franco 37, Marcial Garay 55
 
 Round: 2 
-Date: 11/11/2003
 
-; Sp. Luqueño   ; 5-2; Sol de América
+11/11/2003; Sp. Luqueño   ; 5-2; Sol de América
   Christian Andersen 19, Hugo Centurión 25, Hugo Centurión 58, Hugo Centurión 75, Daniel Ferreira 67;  José Franco 6, Miguel Cárdenas (pk) 92
 
-; Cerro Porteño ; 0-2; Olimpia
+11/11/2003; Cerro Porteño ; 0-2; Olimpia
 ;  Francisco Esteche 9, Julio Enciso 89
 
 Round: 3 
-Date: 11/14/2003
 
-; Olimpia       ; 1-1; Sol de América
+11/14/2003; Olimpia       ; 1-1; Sol de América
   Diego Figueredo 84; Aureliano Torres (pk) 32
 
-; Sp. Luqueño   ; 3-1; Cerro Porteño
+11/14/2003; Sp. Luqueño   ; 3-1; Cerro Porteño
   Héctor Sánchez 28, Héctor Sánchez 31, Arnaldo Medina 74; Osvaldo Hobecker 60
 
 
@@ -747,17 +730,14 @@ Date: 11/14/2003
 Stage: Promotion/Relegation Playoff
 *: between Tacuary and Tres de Febrero
 
-*First Leg 
-Date: 11/1/2003
+Leg: 1
 
-; 3 de Febrero  ; 1-2; Tacuary
+11/1/2003; 3 de Febrero  ; 1-2; Tacuary
   Adolfo Fatecha 92; Raúl Román 77, Raúl Román 81
 
+Leg: 2
 
-*Second Leg 
-Date: 11/9/2003
-
-; Tacuary       ; 2-1; Tres de Febrero
+11/9/2003; Tacuary       ; 2-1; Tres de Febrero
   Diego Canesa 58, Silvio Garay 91; Roberto Gamarra 15
 
 

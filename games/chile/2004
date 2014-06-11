@@ -639,7 +639,7 @@ Round: Repechaje
 *Playoff
 
 Round: 1
-*First Legs
+Leg: 1
 
 5/15/2004; Unión San Felipe         ; 0-2; Cobreloa 
 ;  Richard Estigarribia 71, Patricio Galaz 90
@@ -659,12 +659,14 @@ Round: 1
 5/16/2004; Audax Italiano           ; 0-1; Colo Colo 
 ;  Marcelo Espina (pk) 75
 
-*Second Legs 
+Leg: 2
+
 5/22/2004; Colo Colo                ; 1-0; Audax Italiano
   Juan Pablo Ubeda 87;
 
 5/22/2004; Universidad de Concepción; 1-1; Deportes Temuco
   Rodrigo Raín 55; Víctor Hugo Avalos 47
+Notes: Deportes Temuco qualified as best losers
 
 5/23/2004; Santiago Wanderers       ; 3-0; Rangers
   Jaime Riveros 3, Paulo Pérez 32, José Franco 75;
@@ -677,12 +679,10 @@ Round: 1
 
 5/23/2004; Universidad de Chile     ; 1-1; Unión Española
   Sergio Gioino 44; Sebastián Rozental 88
-
-*NB: Deportes Temuco and Universidad de Chile qualified as best losers
+Notes: Universidad de Chile qualified as best losers
 
 Round: Quarterfinals
-
-*First Legs
+Leg: 1
 
 6/7/2004; Universidad de Chile     ; 1-0; Universidad de Concepción
   Sergio Gioino 5;
@@ -696,7 +696,8 @@ Round: Quarterfinals
 6/9/2004; Huachipato               ; 1-1; Colo Colo 
   Héctor Mancilla 71; Marcelo Espina (pk) 36
 
-*Second Legs
+Leg: 2
+
 6/12/2004; Santiago Wanderers       ; 2-0 (asdet); Unión Española             
   Juan Francisco Viveros 26, Jaime Riveros (pk) 52;
 Penalty kicks: 3-1
@@ -710,29 +711,24 @@ Penalty kicks: 3-1
 6/13/2004; Cobreloa                 ; 3-1; Deportes Temuco
   Richard Estigarribia 27, Patricio Galaz 38, Rodrigo Pérez 79; Patricio Lira 54
 
-
 *NB: goal difference irrelevant, if both teams win one match, sudden 
 *    death extra time is played to determine the winners.
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
-Date: 6/16/2004
-
-*Huachipato                abd Cobreloa                   [in Concepción]
-*  [Héctor Mancilla (pk) 43, Rodolfo Moya 45+2; Jonathan Cisternas 17
-*;    Patricio Galaz 32; abandoned at; half-time; due to fog]
-
+6/16/2004; Huachipato                ; v;  Cobreloa                   ; Concepción, Chile
+*  [Héctor Mancilla (pk) 43, Rodolfo Moya 45+2; Jonathan Cisternas 17; Patricio Galaz 32
+Notes: abandoned at half-time due to fog
 
 6/17/2004; Huachipato               ; 2-2; Cobreloa       ;  Concepción
-*  2nd half
 Héctor Mancilla (pk) 43, Rodolfo Moya 45+2; Jonathan Cisternas 17, Patricio Galaz 32
-* no further goals
+Notes: 2nd half of 6/16 game
 
 6/17/2004; Universidad de Chile     ; 1-1; Santiago Wanderers
   Diego Rivarola 25; Jaime Riveros (pk) 71
 
-*Second Legs
+Leg: 2
 
 6/19/2004; Cobreloa                 ; 3-2 (asdet); Huachipato                 
   Jonathan Cisternas 62, Fernando Cornejo 82, Rodrigo Pérez 119; Héctor Mancilla 35, Cristián Reynero 90+3
@@ -745,20 +741,20 @@ Héctor Mancilla (pk) 43, Rodolfo Moya 45+2; Jonathan Cisternas 17, Patricio Gal
 *    death extra time is played to determine the winners.
 
 Round: Final 
+Leg: 1
 
-*First Leg 
 6/23/2004; Universidad de Chile     ; 0-0; Cobreloa; Estadio Nacional (Chile); Ruben Selman; 40000
 Universidad de Chile: Miguel Pinto; Manuel Iturra (Marco Olea 71), Arnaldo Espínola, Adrián Rojas, José Rojas; Cristhian Martínez, Luis Musrri, Mauricio Tampe (Cristián Muñoz 46), Nelson Pinto; Diego Rivarola, Sergio Gioino
 Cobreloa: Carlos Ortega; Esteban González, Luis Fuentes, Diego Guidi, Rodrigo Pérez; Hernán Vigna (Fernando Cornejo 58), Jonathan Cisternas, Mauricio Dinamarca (Cristián Morán 89), Juan Luis González; Richard Estigarribia (José Luis Villanueva 61), Patricio Galaz
 *   yellow cards: Musrri; Fuentes, Villanueva.]
 
-*Second Leg 
+Leg: 2
 
 6/27/2004; Cobreloa                 ; 1-1 (asdet); Universidad de Chile    ; Estadio Municipal (Calama); Carlos Chandia; 18000
   Luis Fuentes 35; Esteban González (og) 52
-*[asdet, 2-4 pen]
 Cobreloa: Carlos Ortega; Esteban González (Fernando Cornejo 64), Luis Fuentes, Diego Guidi, Rodrigo Pérez; Boris González, Juan Luis González, Jonathan Cisternas, Mauricio Dinamarca (Darío Fernández 96); Richard Estigarribia (Daniel Pérez 83), Patricio Galaz
 Universidad de Chile: Johnny Herrera; Manuel Iturra (Marco Olea 60), Arnaldo Espínola, Adrián Rojas, José Rojas; Víctor Cancino, Luis Musrri (Mauricio Tampe 77), Cristhian Martínez, Nelson Pinto; Diego Rivarola (Cristián Muñoz 109), Sergio Gioino
+Penlty kicks: 2-4
 *   yellow cards: Dinamarca; Musrri, Gioino, Rivarola, Muñoz, Tampe;
 *   penalties:
 *     Cobreloa: Cornejo (held), Fuentes (wide), Fernández, Galaz;
@@ -1400,65 +1396,56 @@ Date: 11/21/2004
 ; Puerto Montt             ; 1-2; Everton
   Jorge Torres 25; Jorge Delgado 5, Héctor Suazo 55
 
-
 Round: 1
+Leg: 1
 
-*First Legs
-Date: 11/24/2004
-
-; Cobreloa                 ; 5-2; Audax Italiano
+11/24/2004; Cobreloa                 ; 5-2; Audax Italiano
   Daniel Pérez 5, Daniel Perez 15, Daniel Perez 43, José Luis Díaz 33, Patricio Galaz 48; Humberto Suazo 28, Carlos Villanueva 89
 
-; Unión Española           ; 0-0; Universidad de Concepción
+11/24/2004; Unión Española           ; 0-0; Universidad de Concepción
 
-; Everton                  ; 3-2; Cobresal
+11/24/2004; Everton                  ; 3-2; Cobresal
   Cristián Castañeda 3, Héctor Suazo (pk) 59, Martín Crossa 73; Diego Ruiz 34, Cesar Santis 53
 
-; Coquimbo Unido           ; 3-7; Colo Colo
+11/24/2004; Coquimbo Unido           ; 3-7; Colo Colo
   Marcelo Corrales (pk) 72, Marcelo Corrales 81, Marcelo Corrales 88; Angel Carreño 10, Adrián Fernández 32, Germán Real 34, Rodrigo Castro (og) 47, Miguel Aceval 60, Miguel Aceval (pk) 82,  Darío Cajaravilla 77
-
 
 Date: 11/25/2004
 
-; Unión San Felipe         ; 2-2; Universidad Catolica
+11/25/2004; Unión San Felipe         ; 2-2; Universidad Catolica
   Luis Núñez 11, Rodrigo Soto 37; Cristian Alvarez 35, Eduardo Rubio 53
 
-; Deportes Temuco          ; 2-0; Universidad de Chile
+11/25/2004; Deportes Temuco          ; 2-0; Universidad de Chile
   César Díaz 54, Patricio Lira 68;
 
-*Second Legs
-Date: 11/27/2004
+Leg: 2
 
-; Colo Colo                ; 1-1; Coquimbo Unido
+11/27/2004; Colo Colo                ; 1-1; Coquimbo Unido
   Gonzalo Fierro 41; Marcelo Corrales 80
 
-; Audax Italiano           ; 2-1; Cobreloa
+11/27/2004; Audax Italiano           ; 2-1; Cobreloa
   Humberto Suazo 12, Humberto Suazo (pk) 50; Richard Estigarribia 70
 
-
-Date: 11/28/2004
-
-; Cobresal                 ; 1-0; Everton                    
+11/28/2004; Cobresal                 ; 1-0; Everton                    
   Diego Ruiz 82;
 Penalty kicks: 3-1
+Notes: Deportes Temuco and Everton qualified as best losers
 
-; Universidad de Chile     ; 2-0; Deportes Temuco            
+11/28/2004; Universidad de Chile     ; 2-0; Deportes Temuco            
   Marco Olea 51, Rodrigo Barrera 61;
 Penalty kicks: 5-3
+Notes: Deportes Temuco and Evertonn qualified as best losers
 
-; Universidad de Concepción; 1-1; Unión Española             
+11/28/2004; Universidad de Concepción; 1-1; Unión Española             
   Ricardo Viveros 10; Rodrigo Ríos 52
 Penalty kicks: 1-3
 
-; Universidad Catolica     ; 3-0; Unión San Felipe
+11/28/2004; Universidad Catolica     ; 3-0; Unión San Felipe
   Cristián Álvarez 3, Rafael Olarra (pk) 49, Eduardo Rubio 89;
 
-*NB: Deportes Temuco and Everton qualified as best losers
 
 Round: Quarterfinals
-
-*First Legs
-
+Leg: 1
 
 12/1/2004; Cobreloa                 ; 2-1; Cobresal
   Patricio Galaz (pk) 33, Patricio Galaz 56; Rodrigo Viligrón 54
@@ -1472,7 +1459,7 @@ Round: Quarterfinals
 12/2/2004; Everton                  ; 1-3; Colo Colo
   Héctor Suazo 45; Mauricio Donoso 33, Mauricio Donoso 52, Miguel Ramírez 77
 
-*Second Legs
+Leg: 2
 
 12/4/2004; Cobresal                 ; 2-2; Cobreloa
   Diego Ruiz 8, Juan Quiroga (pk) 23; José Luis Díaz 52, Daniel Pérez 55
@@ -1488,8 +1475,7 @@ Penalty kicks: 2-4
   Miguel Aceval (pk) 43, Rodolfo Madrid 54, César Santis (og) 84; Nelson Crossa 23, Miguel Aceval (og) 37, Héctor Suazo (pk) 63,  Daniel González 79
 
 Round: Semifinals
-
-*First Legs
+Leg: 1
 
 12/8/2004; Cobreloa                 ; 4-1; Colo Colo
   José Luis Díaz 36, Jose Luis Diaz 63, Patricio Galaz 41, Patricio Galaz 70; Miguel Aceval 48
@@ -1497,7 +1483,7 @@ Round: Semifinals
 12/9/2004; Unión Española           ; 3-1; Universidad Catolica
   José Luis Sierra 6, Rodrigo Ríos 28, José Luis Jerez 64; Jorge Quinteros 90+1
 
-*Second Legs
+Leg: 2
 
 12/11/2004; Colo Colo                ; 1-1; Cobreloa
   Marco Millape 55; José Luis Díaz 36
@@ -1507,9 +1493,7 @@ Penalty kicks: 3-4
   Eros Pérez 15, Jorge Quinteros (pk) 55, Jorge Quinteros 79; José Luis Sierra 87
 
 Round: Final
-
-*First Leg 
-*; Santa Laura, Santiago; att: 15.000; ref: Rubén Selman/2004
+Leg: 1
 
 12/16/2004; Unión Española           ; 1-3; Cobreloa; Estadio Santa Laura; Ruben Selman; 15000
   José Luis Jerez 68; Daniel Pérez 28, Rodrigo Pérez 52, Sebastián Miranda (og) 80
@@ -1518,9 +1502,7 @@ Cobreloa: Carlos Ortega; Boris González (Eduardo Arancibia 46), Luis Fuentes, D
 *yellow cards: Miranda, Rubilar; Guidi, D. Pérez;
 *   red card: Rubilar (62)]
 
-*Second Leg 
-
-*; Municipal, Calama; att: 15.000; ref: Pablo Pozo/2004
+Leg: 2
 
 12/19/2004; Cobreloa                 ; 0-0; Unión Española  ; Estadio Municipal (Calama); Pablo Pozo; 15000
 Cobreloa: Carlos Ortega; Eduardo Arancibia, Luis Fuentes, Diego Guidi, Rodrigo Pérez; Juan Luis González, Yerko Darlic (Cristián Morán 64), Jonathan Cisternas, José Luis Díaz (Fernando Cornejo 83); Patricio Galaz, Daniel Pérez (Richard Estigarribia 75)

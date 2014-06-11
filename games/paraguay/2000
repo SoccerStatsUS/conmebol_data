@@ -340,8 +340,6 @@ Date: 7/9/2000
 *NB: Sol won a playoff against Guarani for 2nd place
 
 
-Season: 2000 
-
 Stage: Clausura
 
 * 1.Olimpia                 9  4  4  1 14- 6 16  
@@ -488,11 +486,9 @@ Round: 1
 
 10/13/2000; Olimpia     ; 3-0; San Lorenzo
 
-Date: 10/16/2000
-
-; Colegiales  ; 1-0; Guarani
-; 12 Octubre  ; 1-0; Sol
-; C Porteno   ; 5-1; C Cora
+10/16/2000; Colegiales  ; 1-0; Guarani
+10/16/2000; 12 Octubre  ; 1-0; Sol
+10/16/2000; C Porteno   ; 5-1; C Cora
 
 Round: 2
 
@@ -512,6 +508,7 @@ Round: 3
 
 Round: 4
 Date: 
+
 ; San Lorenzo ; 0-3; Olimpia
 ; Guarani     ; 0-0; Colegiales
 ; Sol         ; 2-3; 12 Octubre
@@ -556,61 +553,66 @@ Penalty kicks: 3-1
 Jorge Campos 46; Néstor Isasi 13, Néstor Espinoza 88
 
 Round: Final 
+Leg: 1
 
-*First Leg [Nov 26]
-*Olimpia       ppd Guarani
-*  NB: Guarani asked for a postponement of the match following a car accident
-*      on Nov 21, in which their defender Mariano Villamayor was killed and two
-*      other players (Miguel Portillo and Raul Arviniagaldez) were seriously
-*      injured
+11/26/2000; Olimpia   ; np; Guarani
+Notes: Guarani asked for a postponement of the match following a car accident on Nov 21, in which their defender Mariano Villamayor was killed and two other players (Miguel Portillo and Raul Arviniagaldez) were seriously injured
   
-*First Leg [Nov 28]
-
 11/28/2000; Olimpia      ; 1-0; Guarani
 Gustavo Badell 30;
 
-*Second Leg [Dec 3]
+Leg: 2
+
 12/3/2000; Guarani      ; 1-3; Olimpia
 Julio González Ferreira (pk) 3; Orlando Maturana 37, Orlando Maturana 54, Raúl Otero 49
 
 *Olimpia champions of Paraguay 2000.
 
 Round: Second Place Playoff
+Leg: 1
 
-*First Leg [Dec 7]
 12/7/2000; Sol          ; 3-1; Guarani
 Roganovich 1, Centurión 36, Esquivel 50; Morinigo 38
 
-*Second Leg [Dec 10]
+Leg: 2
+
 12/10/2000; Guarani      ; 4-1; Sol
 Fernández 65, Morinigo 85, González 91, González 93; Centurión 89
 
 *Guaraní qualified.
 
 
-*Cuadrangular for Third Copa Libertadores Place
-*
-*Round: 1 [Dec 14?]
-*Sol           3-2 12 Octubre
-*Cerro P       4-2 San Lorenzo
-*
-*Round: 2 [Dec 17?]
-*Sol           0-1 Cerro P
-*12 Octubre    6-2 San Lorenzo
-*
-*Round: 3 [Dec 21?]
-*12 Octubre    4-3 Cerro P
-*Sol           3-3 San Lorenzo
-*
-*Final Table:
-*
+Stage: Cuadrangular for Third Copa Libertadores Place
+
+Round: 1
+* [Dec 14?]
+Date: 12/14/2000
+
+; Sol          ; 3-2; 12 Octubre
+; Cerro P      ; 4-2; San Lorenzo
+
+Round: 2 
+*[Dec 17?]
+Date: 12/17/2000
+
+; Sol          ; 0-1; Cerro P
+; 12 Octubre   ; 6-2; San Lorenzo
+
+Round: 3
+* [Dec 21?]
+Date: 12/21/2000
+
+; 12 Octubre   ; 4-3; Cerro P
+; Sol          ; 3-3; San Lorenzo
+
 * 1.12 de Octubre Itaugua   3  2  0  1 12- 8  6
 * 2.Cerro Porteño           3  2  0  1  8- 6  6
 * 3.Sol de América          3  1  1  1  6- 6  4 
 * 4.San Lorenzo             3  0  1  2  7-13  1 
-*
-*Playoff for First Place
-*Cerro P       4-2 12 Octubre
+
+Round: Playoff for First Place
+
+; Cerro P      ; 4-2; 12 Octubre
 
 
 

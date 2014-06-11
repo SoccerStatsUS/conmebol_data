@@ -1135,7 +1135,8 @@ Date: 11/21/2004
 ; Coronel Bolognesi   ; 1-2; Alianza Lima
   Johan Fano (pk) 33; Junior Viza 15, Alex Sánchez 90
 
-*Cienciano            awd Grau Estudiantes         [awarded 2-0, Grau dns]
+; Cienciano    ; 2-0; Grau Estudiantes
+Forfeit
 
 ; Atlético Universidad; 3-0; Deportivo Wanka
   Milton Marquillo 27, Cristian Zúñiga 62, Sebastián Domínguez 72;
@@ -1313,16 +1314,16 @@ Date: 12/15/2004
 ; Universitario       ; 1-1; Alianza Atlético
   Piero Alva 56; William Chiroque 17
 
-*Grau Estudiantes     awd Alianza Lima             [awarded 0-2, Grau withdrew]
-
-*NB: Grau Estudiantes have withdrawn from the competition and will be
-*    automatically relegated
+; Grau Estudiantes; 0-2; Alianza Lima
+Forfeit
+Notes: Grau Estudiantes have withdrawn from the competition and will be automatically relegated
 
 Round: 24
 Date: 12/17/2004
 
-*Deportivo Wanka      awd Universidad SMP          [awarded 0-2, originally 1-0;
-*  [Paulo Medina 23]                                Wanka failed to settle debts to players]
+; Deportivo Wanka; 1-0 Universidad SMP          
+Paulo Medina 23;                                
+Notes: awarded 0-2, originally 1-0; Wanka failed to settle debts to players
 
 Date: 12/18/2004
 
@@ -1338,7 +1339,8 @@ Date: 12/19/2004
 ; Alianza Atlético    ; 2-1; Universidad CV
   Jeanpierre Moreno 20, William Chiroque 68; Luis Salhuana 5
 
-*Unión Huaral         awd Grau Estudiantes         [awarded 2-0, Grau withdrew]
+; Unión Huaral; 2-0; Grau Estudiantes 
+Forfeit
 
 ; Sporting Cristal    ; 4-2; Universitario 
   José Moisela 5, Jorge Soto 68, Henry Quinteros 77, Juan Cominges 79; Juan Vargas (pk) 26, Gregorio Bernales 73
@@ -1359,12 +1361,13 @@ Date: 12/22/2004
   Juan Gutiérrez 67;
 
 ; Alianza Atlético    ; 3-3; Cienciano    
-*  William Chiroque 17, Marco Casas 53, Juan Arango 69; 26, Carlos Lobatón (pk) 33, Miguel Mostto 39
+William Chiroque 17, Marco Casas 53, Juan Arango 69; Unknown 26, Carlos Lobatón (pk) 33, Miguel Mostto 39
 
 ; Melgar              ; 0-1; Unión Huaral  
 ;  César Goya 65
 
-*Deportivo Wanka      awd Grau Estudiantes         [awarded 2-0, Grau withdrew]
+; Deportivo Wanka; 2-0; Grau Estudiantes
+Forfeit
 
 ; Sport Boys          ; 5-2; Coronel Bolognesi  
   Alfredo Carmona (pk) 45, Henry Colán 49, Henry Colán 80, Gustavo Vasallo 85, Gustavo Vasallo 87; Johan Fano (pk) 48, Donny Neyra 52
@@ -1380,7 +1383,8 @@ Date: 12/24/2004
  
 Date: 12/26/2004
 
-*Grau-Estudiantes     awd Melgar                   [awarded 0-2, Grau withdrew]
+; Grau-Estudiantes; 0-2; Melgar                   
+Forfeit
 
 ; Cienciano           ; 2-2; Alianza Lima    
   Miguel Mostto 36, Germán Carty 50; Flavio Maestri 4, Aldo Olcese 84

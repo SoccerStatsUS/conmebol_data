@@ -3,26 +3,18 @@ Competition: Peruvian Primera División
 Season: 1999 
 Stage: Apertura
 
-*Primera División
-*
 *Note: an Apertura and a Clausura championship is played; the winners
 *are qualified for the Copa Libertadores 2000 and play off (3 matches)
 *for the 1999 title.  The third Copa Libertadores place goes to the team 
 *with the best aggregate record (bar Apertura and Clausura champions).
-*
 *If the same team wins both tournaments, it wins the championship.  In
 *that case, the second and third place for the Copa Libertadores go to
 *the teams with the best aggregate records (bar the champions).
-*
 *The team with the worst record in Apertura and Clausura together is 
 *relegated and replaced by the Copa Perú winners.
-*
 *The team with the one but worst record will play off against the Segunda
 *Division champions.
-*
-*Apertura
-*========
-*
+
 * 1. Universitario          22 15  5  2  35-15  50  Apertura Champions
 * 2. Alianza Lima           22 14  4  4  51-20  46
 * 3. Sporting Cristal       22 11  8  3  50-23  41
@@ -543,7 +535,6 @@ Date: 6/20/1999
 *10. IMI F.C.               22  5  4 13  22-55  19
 *11. Juan Aurich            22  4  6 12  21-38  18
 *12. Deportivo Pesquero     22  2  9 11  18-43  15
-  
 *Note: IMI F.C. is for [International Marine Inc.].
 
 
@@ -562,7 +553,6 @@ Stage: Clausura
 *10. Deportivo Pesquero     22  4  8 10  17-38  20
 *11. Deportivo Municipal    22  5  3 14  20-54  18
 *12. IMI F.C.               22  1  7 14  12-52  10
-
 *[*] Cienciano lost the points for the victory over Cristal in rd 13.
 
 Round: 1
@@ -855,9 +845,7 @@ Date: 10/10/1999
 
 ; Cienciano           ; 2-0; Sporting Cristal     
   Varela 31, Zapata 34;
- 
-*  Note: Cienciano fielded four foreigners against the rules; result stands for
-*;         Cristal but it is changed to; 0-2; for Cienciano which gets no points.
+Note: Cienciano fielded four foreigners against the rules; result stands for Cristal but it is changed to 0-2 for Cienciano which gets no points.
 
 Round: 14
 Date: 10/17/1999
@@ -884,8 +872,9 @@ Date: 10/23/1999
 ; Deportivo Municipal ; 1-3; Sporting Cristal
   Reyes (pk) 83; Ferreira 11, Hidalgo 57, Julinho 61
 
-*Alianza Lima         abd Sport Boys         [abd at 1-1 in 28]
+; Alianza Lima        ; abd; Sport Boys         
 *  [Sáenz 18; Gil 6]
+Notes: abandoned at 1-1 after 28'
 
 Date: 10/24/1999
 
@@ -904,7 +893,7 @@ Date: 10/24/1999
 Date: 10/26/1999
 
 ; Alianza Lima        ; 1-1; Sport Boys         
-*[remaining 62; behind closed doors]
+Notes: remaining 62; behind closed doors
 
 Round: 16
 Date: 10/31/1999
@@ -1092,41 +1081,28 @@ Date: 12/12/1999
 *11. Deportivo Pesquero     44  6 17 21  35-81  35  Relegation Playoff
 *-------------------------------------------------
 *12. IMI F.C.               44  6 11 27  34-107 29  Relegated
-
-*[*] Cienciano lost the points for the victory over Cristal in rd 13 Clausura.
-  
+*[*] Cienciano lost the points for the victory over Cristal in rd 13 Clausura.  
 *Note: IMI F.C. is for [International Marine Inc.].
 
 
-*Relegation Playoff 
-Date: 12/18/1999
-*, Lima
+Stage: Relegation Playoff 
 
-
-; Pesquero     ; 2-2 (aet); América Cochahuayco; Lima, Peru
+12/18/1999; Pesquero     ; 2-2 (aet); América Cochahuayco; Lima, Peru
  Espinoza 60, Silvera 61; Carrión 45, Ibarra 72
 Penalty kicks: 4-3
-
 *Deportivo Pesquero remains in Primera Division for 2000.
 
-*Championship Playoff
+Stage: Championship Playoff
+Leg: 1
 
-*First Leg 
-Date: 12/15/1999
-
-; Universitario; 3-0; Alianza Lima   
+12/15/1999; Universitario; 3-0; Alianza Lima   
   Farfán 10, Esidio 49, J.Del Solar 73;
 
-*Second Leg 
-Date: 12/20/1999
+Leg: 2
 
-; Alianza Lima ; 1-0; Universitario     
+12/20/1999; Alianza Lima ; 1-0; Universitario     
   Mafla 45;
-
- 
 *Universitario de Deportes are 1999 Champions
-
-
 
 *With thanks to Gurgen Mahari (gmahari@best.am) for Clausura information
 *Prepared and maintained by José Luis Pierrend for the Rec.Sport.Soccer Statistics Foundation

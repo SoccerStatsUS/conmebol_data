@@ -348,7 +348,7 @@ Date: 5/17/2009
 *17.Atlético Nacional           18   3  7  8  16-25  16
 *18.CD Independiente Medellín   18   2  5 11  18-29  11
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.Once Caldas                  6   3  1  2  11-10  10  Qualified
@@ -435,17 +435,14 @@ Date: 6/21/2009
 * 3.Cúcuta Deportivo             6   1  3  2   6- 9   6
 * 4.Envigado FC                  6   1  3  2   5- 8   6
 
+Stage: Championship Final
+Leg: 1
 
+6/24/2009; Once Caldas; 2-1; Junior
 
-*First Leg 
-Date: 6/24/2009
+Leg: 2
 
-; Once Caldas; 2-1; Junior
-
-*Second Leg 
-Date: 6/28/2009
-
-; Junior     ; 1-3; Once Caldas
+6/28/2009; Junior     ; 1-3; Once Caldas
 
 *NB: Once Caldas Apertura champions
 
@@ -803,7 +800,7 @@ Date: 11/15/2009
 *17.América                     18   1 10  7  20-29  13
 *18.Envigado FC                 18   1  7 10  32-43  10
 
-*Cuadrangulares
+Stage: Cuadrangulares
 
 *Grupo A
 * 1.CD Independiente Medellín    6   4  2  0  12- 6  14  Qualified
@@ -891,12 +888,13 @@ Date: 12/13/2009
 * 4.Deportes Tolima              6   1  2  3   9-10   5
 
 
-*Finalisima
+Stage: Finalisima
+Leg: 1
 
-*First Leg 
 12/16/2009; Huila      ; 0-1; Medellín
 
-*Second Leg 
+Leg: 2
+
 12/20/2009; Medellín   ; 2-2; Huila
 
 *NB: Medellín Clausura champions
@@ -904,17 +902,18 @@ Date: 12/13/2009
 *Relegated: Pasto
 *Promotion/Relegation Playoff: Pereira
 
-*Promotion/Relegation Playoff
+Stage: Promotion/Relegation Playoff
+Leg: 1
 
-*First Leg 
 12/2/2009; Bucaramanga; 1-2; Pereira
 
-*Second Leg 
+Leg: 2
+
 12/17/2009; Pereira    ; 3-2; Bucaramanga
 
 *NB: Pereira remain at 1st level
 
-*About this document
+
 *Prepared and maintained by Juan Pablo Andrés and Frank Ballesteros for the Rec.Sport.Soccer Statistics Foundation
 *Authors: Juan Pablo Andrés (jpandres@tutopia.com) and Frank Ballesteros (fballesteros@colombia.com) 
 *Last updated: 29 Jan 2010

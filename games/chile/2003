@@ -509,17 +509,15 @@ Stage: Liguilla
 
 Round: Repechaje
 *Qualifying Playoff (Repechaje) 
-Date: 5/28/2003
-*, in San Felipe/2003
 
-; Union San Felipe         ; 2-2; Santiago Wanderers
+5/28/2003; Union San Felipe         ; 2-2; Santiago Wanderers; San Felipe, Chile
   Juan Cruz Real 73, Fabián Muñoz (pk) 89; José Contreras 14, Rodrigo Núñez 50
 
 *Santiago Wanderers qualified on superior season record
 
 Round: 1
+Leg: 1
 
-*First Legs
 5/31/2003; Cobresal                 ; 3-0; Colo Colo
   Fernando Rodríguez 18, Juan Quiroga (pk) 23, Juan Quiroga (pk) 55;
 
@@ -537,10 +535,9 @@ Round: 1
 6/1/2003; Huachipato               ; 1-2; Universidad Catolica
   Cristián Reynero 45; Patricio Ormazábal 36, Miguel Ramírez (pk) 82
 
-*Second Legs
+Leg: 2
 
 6/14/2003; Audax Italiano           ; 0-0; Santiago Wanderers      
-
 
 6/15/2003; Cobreloa                 ; 3-2 (asdet); Unión Española   
   Fernando Martel 3, José Luis Díaz 38, Patricio Galaz 103; Roberto Ordenes 42, José Luis Sierra 47
@@ -563,8 +560,8 @@ Round: 1
 *Huachipato and Colo Colo progress as best losers.
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 6/18/2003; Santiago Wanderers       ; 1-3; Cobreloa
   Jorge Guzmán 22; Rodrigo Barra (og) 17, José Luis Díaz (pk) 78, Patricio Galaz 83
 
@@ -577,7 +574,8 @@ Round: Quarterfinals
 6/19/2003; Colo Colo                ; 2-3; Universidad Catolica
   Marcelo Espina 65, Marcelo Espina 69; Arturo Norambuena 78, Arturo Norambuena 80, Daniel Pérez 91
 
-*Second Legs
+Leg: 2
+
 6/21/2003; Cobreloa                 ; 4-2; Santiago Wanderers
   José Luis Díaz (pk) 17, Jose Luis Diaz 31, Patricio Galaz 40, Patricio Galaz 46; Jorge Guzmán 4, Rodrigo Barra (pk) 11
 
@@ -589,21 +587,21 @@ Round: Quarterfinals
 
 6/22/2003; Universidad Catolica     ; 0-1 (asdet); Colo Colo                 
 ;  Manuel Neira 41
-*[asdet, (pk) 3-4]
+Penalty kicks: 3-4
 
 *NB: goal difference irrelevant, if both teams win one match, sudden death
 *    extra time is played to determine the winners.
 
 Round: Semifinals  
+Leg: 1
 
-*First Legs
 6/25/2003; Huachipato               ; 2-1; Cobreloa
   Héctor Mancilla 82, Luis Chavarría 90; José Luis Díaz 16
 
 6/26/2003; Colo Colo                ; 3-0; Universidad de Concepción
   Manuel Neira 16, Ivan Zamorano 83, Ivan Zamorano 90;
 
-*Second Legs
+Leg: 2
 
 6/28/2003; Cobreloa                 ; 2-0 (asdet); Huachipato  
   Darío Verón 50, Fernando Martel 117;
@@ -611,19 +609,17 @@ Round: Semifinals
 6/29/2003; Universidad de Concepción; 2-3; Colo Colo
   Ricardo Viveros 5, Marco Olea 40; Marcelo Espina (pk) 12, Marcelo Espina 85, Braulio Leal 37
 
-*NB: goal difference irrelevant, if both teams win one match, sudden death
-*    extra time is played to determine the winners.
+*NB: goal difference irrelevant, if both teams win one match, sudden death extra time is played to determine the winners.
 
 Round: Final 
+Leg: 1
 
-*First Leg 
 7/3/2003; Colo Colo; 0-0; Cobreloa; Estadio Monumental (Santiago); Ruben Selman; 40000
 Colo Colo: Johnny Walker; Marco Millape, Cristián Gómez, Luis Mena, Raúl Muñoz; Moisés Villarroel (Juan Pablo Ubeda 96), Joel Reyes, Gonzalo Fierro (Rodolfo Madrid 81); Marcelo Espina; Manuel Neira (Ignacio Quinteros 70), Iván Zamorano
 Cobreloa: Nelson Tapia; Boris González, Luis Fuentes, Darío Verón, Rodrigo Pérez; Fernando Martel, Juan Luis González, Rodrigo Meléndez (Adán Vergara 83), José Luis Díaz (Cristián Morán 86); Patricio Galaz (Jonathan Cristernas 70), Jaime González
 *   yello cards: Zamorano, Villarroel; Meléndez, Jaime González, Martel
 
-
-*Second Leg 
+Leg: 2
 
 7/6/2003; Cobreloa                 ; 4-0; Colo Colo; Estadio Municipal, Calama, Chile; Carlos Chandia; 17000
   Luis Fuentes 28, José Luis Díaz 67, Patricio Galaz 72, Patricio Galaz 87;
@@ -1164,8 +1160,8 @@ Round: Repechaje
 *Audax Italiano qualified on superior season record
 
 Round: 1
+Leg: 1
 
-*First Legs 
 11/21/2003; Rangers                  ; 2-2; Universidad de Concepción 
   Ismael Fuentes 48, Mariano Martínez 90; Eduardo Hurtado 9, Jorge Valdivia 60
 
@@ -1179,17 +1175,19 @@ Round: 1
   Luis Chavarría 11; Gustavo Biscayzacú 17, Rodrigo Ríos 86
 
 11/23/2003; Universidad Catolica     ; 4-1; Santiago Wanderers         
-*[abandoned at 4-1 in 85' due to crowd trouble; result stood]
   Arturo Sanhueza (og) 5, Arturo Norambuena 16, Arturo Norambuena 47, Daniel Pérez 57; Jorge Ormeño 12
+Notes: abandoned at 4-1 in 85' due to crowd trouble; result stood
                       
 11/23/2003; Cobresal                 ; 0-0; Palestino                   
 
-*Second Legs
+Leg: 2
+
 11/28/2003; Unión Española           ; 3-2; Huachipato
   Gustavo Biscayzacú 13, José Luis Sierra 17, Pedro González 46; Rodrigo Millar 62, Francisco Hernández 78
 
 11/29/2003; Palestino                ; 1-2 (asdet); Cobresal    
   Fernando López 69; Carlos Barraza 13, Diego Silva 93
+Notes: Palestino and Santiago Wanderers progress as best losers
 
 11/29/2003; Colo Colo                ; 4-0; Audax Italiano 
   Rodolfo Madrid 2, Juan Pablo Úbeda 49, Manuel Neira 55, Manuel Neira 72;
@@ -1203,15 +1201,15 @@ Round: 1
 12/1/2003; Santiago Wanderers       ; 2-1 (asdet); Universidad Catolica       ; Vina del Mar
   Jorge Ormeño 34, Gustavo Bentos 63; Mauricio Segovia 56
 Penalty kicks: 2-4
+Notes: Palestino and Santiago Wanderers progress as best losers
 
 *NB: goal difference irrelevant, if both teams win one match, sudden death
 *    extra time is played to determine the winners.
 *
-*Palestino and Santiago Wanderers progress as best losers
 
 Round: Quarterfinals
+Leg: 1
 
-*First Legs
 12/3/2003; Cobreloa                 ; 4-1; Unión Española
   José Luis Díaz 22, Mauricio Dinamarca 56, Patricio Galaz 68, Juan Carlos Madrid 78; Gustavo Biscayzacú 86
 
@@ -1224,7 +1222,8 @@ Round: Quarterfinals
 12/4/2003; Palestino                ; 1-1; Santiago Wanderers
 José Luis Villanueva 23; Jaime Riveros 20
 
-*Second Legs
+Leg: 2
+
 12/6/2003; Unión Española           ; 2-4; Cobreloa   
   José Luis Jerez 60, Gustavo Biscayzacú 77; Patricio Galaz 20, Patricio Galaz 24, Jonathan Cisternas 33, José Luis Díaz 82
 
@@ -1232,7 +1231,7 @@ José Luis Villanueva 23; Jaime Riveros 20
 
 12/7/2003; Universidad de Concepción; 5-2 (asdet); Cobresal; Talcahuano                   
   Fernando Solís (pk) 13, Juan José Ribera 22, Jorge Valdivia 33, Marco Olea 36, Eduardo Hurtado 47; Damián Yáñez 90, Juan Quiroga 112
-*  [Cobresal won in sudden death extra time]
+*Notes: Cobresal won in sudden death extra time
 
 12/7/2003; Santiago Wanderers       ; 1-1 (asdet); Palestino; Vina del Mar
 Paulo Pérez 36; José Luis Villanueva (pk) 84
@@ -1242,33 +1241,34 @@ Penalty kicks: 4-2
 *    extra time is played to determine the winners.
 
 Round: Semifinals
+Leg: 1
 
-*First Legs
 12/10/2003; Cobresal                 ; 1-1; Colo Colo
   Fernando Rodriguez 52; Gonzalo Fierro 76
 
 12/11/2003; Cobreloa                 ; 2-0; Santiago Wanderers
   Jaime González 41, Mauricio Dinamarca 66;
 
-*Second Legs
+Leg: 2
+
 12/13/2003; Colo Colo                ; 2-0; Cobresal
   Silvio Fernández 81, Silvio Fernandez 83;
 
 12/14/2003; Santiago Wanderers       ; 0-0; Cobreloa                   ; Viña del Mar
  
-*NB: goal difference irrelevant, if both teams win one match, sudden death
-*    extra time is played to determine the winners.
+*Notes: goal difference irrelevant, if both teams win one match, sudden death extra time is played to determine the winners.
 
 Round: Final
+Leg: 1
 
-*First Leg 
 12/17/2003; Cobreloa                 ; 2-2; Colo Colo; Estadio Municipal (Calama); Carlos Chandia; 7633
   Jaime González 52, Fernando Cornejo (pk) 80; Marcelo Espina 75, David Henríquez 90
 Cobreloa: Nelson Tapia; Boris González, Luis Fuentes, Adán Vergara, Rodrigo Pérez; Fernando Cornejo, Juan Luis González, Jonathan Cisternas (Juan Carlos Madrid 83), Mauricio Dinamarca; Patricio Galaz, Jaime González
 Colo Colo: Claudio Bravo; Marco Millape (Gonzalo Fierro 70), David Henríquez, Luis Mena, Miguel Riffo (Braulio Leal 88); Moisés Villarroel, Marco Villaseca, Rodolfo Madrid (Juan Pablo Ubeda 86), Marcelo Espina; Silvio Fernández, Manuel Neira
 *   yellow cards: none]
 
-*Second Leg 
+Leg: 2
+
 12/21/2003; Colo Colo                ; 1-2; Cobreloa; Estadio Monumental (Santiago); Ruben Selman; 40000
   Silvio Fernández 81; Luis Fuentes 41, Jaime González 70
 Colo Colo: Claudio Bravo; David Henríquez, Luis Mena, Miguel Aceval; Marco Millape (Gonzalo Fierro 46), Marco Villaseca (Braulio Leal 55), Moisés Villarroel, Rodolfo Madrid (Juan Pablo Ubeda 69), Marcelo Espina; Manuel Neira, Silvio Fernández

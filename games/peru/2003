@@ -524,22 +524,19 @@ Date: 6/29/2003
 *12.Atlético Universidad    22  4  6 12  25-43  18
 
 
-*Copa Sudamericana 2003 Playoffs
+Stage: Copa Sudamericana 2003 Playoffs
+Leg: 1
 
-*First Legs 
-Date: 7/6/2003
-
-; Cienciano           ; 1-1; Sporting Cristal
+7/6/2003; Cienciano           ; 1-1; Sporting Cristal
   Carlos Lugo (pk) 90; Sergio Junior 80
 
-; Alianza Lima        ; 0-0; Coronel Bolognesi
+7/6/2003; Alianza Lima        ; 0-0; Coronel Bolognesi
 
-*Second Legs 
-Date: 7/9/2003
+Leg: 2
 
-; Coronel Bolognesi   ; 1-2; Alianza Lima
+7/9/2003; Coronel Bolognesi   ; 1-2; Alianza Lima
 
-; Sporting Cristal    ; 1-2; Cienciano
+7/9/2003; Sporting Cristal    ; 1-2; Cienciano
 
 *Alianza Lima and Cienciano qualified.
 
@@ -973,36 +970,35 @@ Date: 11/23/2003
 *    due to abandonment of championship
 
 
-*Championship Match
+Stage: Championship Match
+
 1/31/2004; Alianza Lima        ; 2-1 (aet); Sporting Cristal
   Roberto Silva 33, Jefferson Farfan 91; Jorge Soto 27
 
+Stage: Cuadrangular/Triangular Libertadores
+Round: Qualifying
 
-
-*Cuadrangular/Triangular Libertadores 2004
-*Qualifying Round:
-
-*First Leg
+Leg: 1
 1/22/2004; Unión Huaral        ; 2-2; Cienciano
   Antonio Meza Cuadra 5, Johny Vegas (pk) 49; Germán Carty 39, Sergio Ibarra 76
 
+Leg: 2
 
-*Second Leg
 1/25/2004; Cienciano           ; 2-0; Unión Huaral
   Germán Carty 2, Sergio Ibarra 80;
 
-
 Round: 1
+
 1/29/2004; Alianza Atlético    ; 1-0; Coronel Bolognesi
   Pedro García (pk) 56;
 
-
 Round: 2
+
 2/1/2004; Cienciano           ; 1-0; Alianza Atlético
   César Balbín 89;
 
-
 Round: 3
+
 2/4/2004; Coronel Bolognesi   ; 0-2; Cienciano
 ;  Santiago Acasiete 21, Germán Carty 26
 
@@ -1011,7 +1007,6 @@ Round: 3
 * 2.Alianza Atlético         2  1  0  1   1- 1   3
 * 3.Coronel Bolognesi        2  0  0  2   0- 3   0
 * -.Sport Boys               apparently withdrew
-*
 *Cienciano qualify along with Alianza Lima and Sporting Cristal
 
 

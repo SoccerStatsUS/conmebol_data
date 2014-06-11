@@ -3,6 +3,7 @@ Season: 1999
 Competition: Ecuadorian Serie A
 
 Stage: Apertura
+* check?
 
 * 1.El Nacional            22 12  8  2 34-13 44
 * 2.Emelec                 22 12  2  8 40-31 38
@@ -338,7 +339,7 @@ Date: 8/15/1999
 *    penalty point went to Deportivo Cuenca.
 
 
-Stage: Clausura
+Stage: 2
 *Second Stage
 
 *Group 1
@@ -508,7 +509,7 @@ Date: 10/9/1999
 *Delfín and Deportivo (Cuenca) obtain 2 penalty points in the
 *No Descenso for finishing last.
 
-*Championship Final:
+
 * 1.El Nacional            10  4  5  1 14- 8 20  [3]
 * 2.LDU Quito              10  5  3  2 15-11 19  [1]
 * 3.Emelec                 10  5  1  4 13- 9 18  [2]
@@ -517,6 +518,8 @@ Date: 10/9/1999
 * 6.Barcelona              10  2  3  5 13-19  9  [0]
 *[bonus points between square brackets]
 
+
+Stage: Championship Final
 Round: 1
 
 Date: 10/17/1999
@@ -606,23 +609,20 @@ Date: 12/5/1999
 *El Nacional and LDU Quito qualified for final.
 
 
-*Championship Final
+Stage: Championship Final
+Leg: 1
 
-*First Leg 
-Date: 12/12/1999
-
-; LDU Quito             ; 1-0;  El Nacional
+12/12/1999; LDU Quito             ; 1-0;  El Nacional
 Eduardo Hurtado;
 
-*Second Leg 
-Date: 12/19/1999
+Leg: 2
 
-; El Nacional           ; 1-3;  LDU
+12/19/1999; El Nacional           ; 1-3;  LDU
 
 *LDU Quito champions of Ecuador 1999.
 
 
-*No Descenso:
+
 * 1.Aucas                  10  6  3  1 20-12 19  [-2]
 * 2.Macará                 10  4  4  2 19-15 16  [0]
 * 3.Olmedo                 10  4  3  3 13- 8 15  [0]
@@ -632,8 +632,8 @@ Date: 12/19/1999
 * 6.Audaz Octubrino        10  0  1  9  4-29 -2  [-3]  Relegated
 *[penalty points between square brackets]
 
+Stage: No Descenso
 Round: 1
-
 Date: 10/16/1999
 
 ; Deportivo Cuenca      ; 0-1;  Olmedo

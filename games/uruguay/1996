@@ -249,9 +249,6 @@ Recoba 43, Lemos 61, Lemos (pk) 81, J. Gonzalez 65, J. Gonzalez 79; Delgado (pk)
 Season: 1996 
 Stage: Clausura
 
-*Torneo Clausura 
-*=============== 
-*Table: 
 * 1.Nacional          11  8  1  2  25-12  25 
 * 2.Rampla Juniors    11  4  6  1  11- 6  18 
 * 3.Huracán Buceo     11  4  6  1  10- 6  18 
@@ -271,7 +268,6 @@ Round: 1
 ; Sud América; 0-3; Peñarol 
 ; Baltierra 48, L. Romero 61, Sosa 72
 
-
 ; Nacional   ; 1-0; Central 
 Ravera 4;
 
@@ -279,7 +275,6 @@ Ravera 4;
 
 ; Danubio    ; 4-1; Wanderers 
 Delgado 5, Delgado 9, Miglionico 45, Podesta 61; De Leon 50
-
 
 ; River Plate; 0-1; Defensor 
 ; Olivera 52
@@ -519,17 +514,20 @@ M. Garcia 13, M. Garcia 38, Acuna 34, M. Rodriguez 90; Aguerre 62, Valverde 69
 *Cerro remain in the first and Progreso in the second division. 
   
 
-*Final de la Liga 96 
-*=================== 
-*
-*As winners of Apertura and Clausura respectively, Peñarol and 
-*Nacional qualified for the championship playoff. 
-*
-*First leg, Oct 13 
-*Peñarol  1-0 Nacional (83' Washington Tais) 
-*Second leg, Oct 20 
-*Nacional 1-1 Peñarol (59' Juan Martín Parodi; 55' Antonio Pacheco) 
-*
+Stage: Final de la Liga 96 
+
+*As winners of Apertura and Clausura respectively, Peñarol and Nacional qualified for the championship playoff. 
+
+Leg: 1
+
+10/13/1996; Peñarol ; 1-0; Nacional 
+Washington Tais 83;
+
+Leg: 2
+
+10/20/1996; Nacional; 1-1; Peñarol 
+Juan Martín Parodi 59; Antonio Pacheco 55
+
 *Peñarol champions of Uruguay 1996. 
   
 

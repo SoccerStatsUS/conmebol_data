@@ -25,7 +25,8 @@ Date: 2/22/1997
 
 ; Cerro P   ; 1-3; Olimpia
 ; P Hayes   ; 2-2; Colombia    
-*[Hayes on pen]
+Penalty kicks: W-L
+
 ; Tembetary ; 2-1; Luqueno
 ; Colegiales; 1-2; S Lorenzo
 ; Nacional  ; 1-2; Sol
@@ -62,21 +63,20 @@ Date: 3/15/1997
 ; S Lorenzo ; 1-2; Libertad
 ; Luqueno   ; 1-0; Guarani
 ; P Hayes   ; 0-0; Nacional    
-*[Hayes on pen]
+Penalty kicks: W-L
 ; Colombia  ; 0-1; Colegiales
 ; Olimpia   ; 0-0; Tembetary   
-*[Olimpia on pen]
+Penalty kicks: W-L
 ; Sol       ; 3-0; Cerro C
 *Cerro P free
 
 Round: 5 
-*[Mar 24]
 Date: 3/24/1997
 
 ; Cerro C   ; 0-1; Olimpia 
 ; Nacional  ; 2-0; Cerro P
 ; Guarani   ; 2-2; S Lorenzo   
-*[S Lorenzo on pen]
+Penalty kicks: L-W
 ; Libertad  ; 2-0; Sol         
 *[?]
 ; Tembetary ; 1-0; Colombia    
@@ -87,13 +87,13 @@ Date: 3/24/1997
 
 Round: 6 
 Date: 3/31/1997
-*[Mar 31]
 
 ; Cerro P   ; 3-1; Colegiales
 ; Olimpia   ; 2-1; Libertad
 ; Sol       ; 1-0; Guarani
 ; Colombia  ; 2-2; Cerro C     
-*[Colombia 4-3 on pen]
+Penalty kicksS: 4-3
+
 ; P Hayes   ; 2-1; Tembetary
 ; S Lorenzo ; 4-1; Luqueno
 *Nacional free
@@ -107,7 +107,8 @@ Date: 4/4/1997
 ; Tembetary ; 2-1; Cerro P
 ; Cerro C   ; 3-4; P Hayes
 ; Colegiales; 1-1; Nacional    
-*[Colegiales 4-3 pen]
+Penalty kicks: 4-3
+
 ; Libertad  ; 0-1; Colombia
 *S Lorenzo free
 
@@ -119,7 +120,8 @@ Date: 4/11/1997
 ; Sol       ; 0-2; S Lorenzo
 ; Nacional  ; 0-3; Tembetary
 ; Colombia  ; 2-2; Guarani     
-*[Guarani 4-2 pen]
+Penalty kicks: 2-4
+
 ; P Hayes   ; 0-1; Libertad
 ; Cerro P   ; 3-1; Cerro C
 *Colegiales free
@@ -129,70 +131,82 @@ Round: 9
 Date: 4/18/1997
 
 ; Libertad;   2-2; Cerro P     
-*[Cerro P 4-2 pen]
+Penalty kicks: 2-4
+
 ; Cerro C   ; 2-2; Nacional    
-*[Cerro C 4-1 pen]
+Penalty kicks: 4-1
 ; Guarani   ; 2-2; P Hayes     
-*[P Hayes 2-1 pen]
+Penalty kicks: 1-2
 ; Luqueno   ; 1-1; Colombia    
-*[Colombia 4-3 pen]
+Penalty kicks: 3-4
+
 ; Tembetary ; 0-2; Colegiales
 ; S Lorenzo ; 1-1; Olimpia     
-*[Olimpia 4-2 pen]
+Penalty kicks: 2-4
 *Sol free
 
 Round: 10 
 *[Apr; 25-27]
 Date: 4/25/1997
 ; Olimpia;    0-0; Sol         
-*[Olimpia 7-6 pen]
+Penalty kicks: 7-6
+
 ; Nacional  ; 2-2; Libertad    
-*[Nacional 5-4 pen]
+Penalty kicks: 5-4
+
 ; P Hayes   ; 1-2; Luqueno
 ; Colombia  ; 5-0; S Lorenzo
 ; Colegiales; 2-0; Cerro C
 5/2/1997; Cerro P   ; 2-0; Guarani     
+
 *Tembetary free
 
 Round: 11 
 Date: 5/4/1997
-*[May 4]
+
 ; Guarani   ; 4-2; Nacional
 ; Luqueno   ; 2-1; Cerro P    
 ; Sol       ; 0-0; Colombia   
+Penalty kicks: 2-4
 * [Colombia 4-2 pen [?]]
+
 ; S Lorenzo ; 1-0; P Hayes
 ; Libertad  ; 0-0; Colegiales 
-* [Colegiales 4-2 pen]
+Penalty kicks: 2-4
+
 ; Cerro C   ; 2-1; Tembetary  
+
 *Olimpia free
 
 Round: 12 
-*[May 11]
 Date: 5/11/1997
 
 ; Tembetary ; 2-2; Libertad   
-* [Tembetary 12-11 pen]
+Penalty kicks: 12-11
+
 ; Colegiales; 0-1; Guarani
 ; Nacional  ; 2-0; Luqueno  
 ; Cerro P   ; 4-1; S Lorenzo
 ; P Hayes   ; 1-0; Sol
 ; Colombia  ; 1-1; Olimpia   
-*  [Olimpia 5-3 pen]
+Penlty kicks: 3-5
+
 *Cerro C free
 
 Round: 13 
 Date: 5/15/1997
-*[May 15]
+
 ; Olimpia   ; 2-0; P Hayes
 ; Sol       ; 0-1; Cerro P 
 ; S Lorenzo ; 0-0; Nacional   
-* [Nacional on pen]
+Penalty kicks: L-W
+
 ; Luqueno   ; 2-1; Colegiales
 ; Guarani   ; 3-1; Tembetary   
 *[?]
 ; Libertad  ; 1-1; Cerro C     
-*[Cerro C on pen]
+Penalty kicks: L-W
+
 *Colombia free
 
 * 1.Olimpia                12  7  4/0  1  22- 7  29
@@ -210,12 +224,14 @@ Date: 5/15/1997
 *12.Atlético Colegiales    12  3  2/0  7   9-15  13
 *13.Cerro Corá             12  2  2/1  7  15-24  11 
 
-*Extra match [May 16, to decide 8th place; at Cerro Porteño's field]
+Round: Extra
+
 5/16/1997; Nacional  ; 0-2; Luqueno; Cerro Porteno
+Notes: to decide 8th place; at Cerro Porteño's field]
 
 *Draw for 3rd place won by Sol, draw for 5th place won by San Lorenzo.
 
-*Second Stage:
+Stage: 2
 
 *Group A
 * 1.Olimpia                 3  2  0/0  1   5- 2   9    (3   BP)
@@ -236,11 +252,14 @@ Group: A
 ; Libertad  ; 0-3; Olimpia
 ; Guarani   ; 1-0; Luqueno     
 *[?]
+
 Group: B
 ; P Hayes   ; 1-1; Cerro P     
-*[Cerro P on pen]
+Penalty kicks: L-W
+
 ; S Lorenzo ; 1-1; Sol         
-*[Sol 6-5 pen]
+Penalty kicks: 5-6
+
 
 Round: 2 
 *[May 21,22]
@@ -249,6 +268,7 @@ Date: 5/21/1997
 Group: A
 ; Libertad  ; 3-5; Luqueno
 ; Olimpia   ; 1-0; Guarani
+
 Group: B
 ; Sol       ; 1-0; P Hayes
 ; Cerro P   ; 3-1; S Lorenzo 
@@ -258,6 +278,7 @@ Date: 5/25/1997
 Group: A
 ; Libertad  ; 2-1; Guarani
 ; Olimpia   ; 1-2; Luqueno
+
 Group: B
 ; P Hayes   ; 0-2; S Lorenzo
 ; Cerro P   ; 3-2; Sol
@@ -287,8 +308,9 @@ Meza;
 Round: Final
 
 6/1/1997; Cerro P   ; 1-1; Sol         
-*[Cerro P 4-3 pen]
-Fernández; Aceval?
+Fernández; Aceval
+*Fernández; Aceval?
+Penalty kicks: 4-3
 
 
 Season: 1997 
@@ -317,23 +339,28 @@ Stage: Clausura
 
 Round: 1 
 Date: 7/27/1997
+
 ; Olimpia   ; 2-2; Cerro P     
-*[Olimpia 4-2 pen]
+Penalty kicks: 4-2
 ; Guarani   ; 4-1; Cerro C
 ; Luqueno   ; 2-1; Tembetary
 ; S Lorenzo ; 0-1; Colegiales
 ; Sol       ; 2-3; Nacional
 ; Colombia  ; 2-1; P Hayes 
+
 *Libertad free
 
 Round: 2 
 Date: 8/3/1997
+
 ; Nacional  ; 1-0; Olimpia
 ; Colegiales; 2-1; Sol
 ; Colombia  ; 1-1; Cerro P     
-*[Cerro P 4-2 pen]
+Penalty kicks: 2-4
+
 ; Guarani   ; 1-1; Libertad    
-*[Libertad 3-2 pen]
+Penalty kicks: 2-3
+
 ; Tembetary ; 2-1; S Lorenzo
 ; Cerro C   ; 2-1; Luqueno
 *P Hayes free
@@ -341,44 +368,57 @@ Date: 8/3/1997
 Round: 3 
 Date: 8/10/1997
 ; P Hayes   ; 0-0; Cerro P     
-*[P Hayes 4-1 pen]
+Penalty kicks: 4-1
+
 ; Olimpia   ; 2-2; Colegiales  
-*[Olimpia 4-3 pen]
+Penalty kicks: 4-3
+
 ; Luqueno   ; 3-0; Libertad 
 ; S Lorenzo ; 0-0; Cerro C     
-*[S Lorenzo 3-2 pen]
+Penalty kicks: 3-2
+
 ; Sol       ; 0-0; Tembetary   
-*[Tembetary 4-3 pen]
+Penalty kicks: 3-4
+
 ; Colombia  ; 3-3; Nacional    
-*[Nacional on pen]
+Penalty kicks: L-W
+
 *Guarani free
 
 Round: 4 
 Date: 8/17/1997
+
 ; Tembetary ; 1-0; Olimpia
 ; Guarani   ; 1-1; Luqueno     
-*[Luqueno 5-3 pen]
+Penalty kicks: 3-5
+
 ; Nacional  ; 2-1; P Hayes
 ; Colegiales; 1-4; Colombia
 ; Cerro C   ; 1-0; Sol
 ; Libertad  ; 0-1; S Lorenzo
+
 *Cerro P free
 
 Round: 5 
 Date: 8/24/1997
+
 ; Cerro P   ; 2-1; Nacional
 ; Olimpia   ; 0-0; Cerro C     
-*[Olimpia 2-0 pen]
+Penalty kicks: 2-0
+
 ; S Lorenzo ; 1-1; Guarani     
-*[S Lorenzo 8-7 pen]
+Penalty kicks: 8-7
+
 ; Sol       ; 0-1; Libertad
 ; Colombia  ; 5-1; Tembetary
 ; P Hayes   ; 1-1; Colegiales  
-*[Colegiales 5-4 pen]
+Penalty kicks: 4-5
+
 *Luqueno free
 
 Round: 6 
 Date: 8/31/1997
+
 ; Olimpia   ; 3-2; Libertad
 ; Cerro P   ; 1-0; Colegiales
 ; Guarani   ; 3-2; Sol
@@ -389,6 +429,7 @@ Date: 8/31/1997
 
 Round: 7 
 Date: 9/7/1997
+
 ; Guarani   ; 1-0; Olimpia
 ; Cerro P   ; 3-1; Tembetary
 ; Cerro C   ; 2-0; P Hayes
@@ -399,77 +440,98 @@ Date: 9/7/1997
 
 Round: 8 
 Date: 9/21/1997
+
 ; Cerro C   ; 2-1; Cerro P
 ; Luqueno   ; 2-2; Olimpia     
-*[Olimpia 5-3 pen]            
+Penalty kicks: 3-5
 ; Tembetary ; 5-2; Nacional    
 *[*]
+Notes: for some reason, it seems a win was awarded to Nacional, while the goal difference remained 5-2 in favour of Tembetary
+
 ; Libertad  ; 0-2; P Hayes
 ; Guarani   ; 1-0; Colombia
 ; S Lorenzo ; 2-0; Sol
+
 *Colegiales free
-*[*] for some reason, it seems a win was awarded to Nacional, while the
-*    goal difference remained 5-2 in favour of Tembetary
 
 Round: 9 
 Date: 9/28/1997
+
 ; P Hayes   ; 1-3; Guarani  
 ; Cerro P   ; 1-1; Libertad    
-*[Libertad 4-1 pen]
+Penalty kicks: 1-4
+
 ; Nacional  ; 0-3; Cerro C  
 ; Olimpia   ; 2-1; S Lorenzo
 ; Colegiales; 4-4; Tembetary   
-*[Colegiales 4-3 pen]
+Penalty kicks: 4-3
+
 ; Colombia  ; 1-2; Luqueno   
+
 *Sol free
 
 Round: 10 
 Date: 10/5/1997
+
 ; Cerro C   ; 2-1; Colegiales
 ; Sol       ; 2-1; Olimpia
 ; Guarani   ; 2-2; Cerro P     
-*[Guarani 5-3 pen]
+Penalty kicks: 5-3
+
 ; Libertad  ; 0-0; Nacional    
-*[Libertad 4-2 pen]
+Penalty kicks: 4-2
+
 ; Luqueno   ; 1-1; P Hayes     
-*[P Hayes 3-0 pen]
+Penalty kicks: 3-0
+
 ; S Lorenzo ; 0-0; Colombia    
-*[Colombia 4-3 pen]
+Penalty kicks: 3-4
+
 *Tembetary free
 
 Round: 11 
 Date: 10/19/1997
+
 ; Cerro P   ; 1-2; Luqueno
 ; Nacional  ; 0-1; Guarani
 ; Colombia  ; 1-1; Sol         
-*[Sol 4-2 pen]
+Penalty kicks: 2-4
+
 ; P Hayes   ; 2-1; S Lorenzo
 ; Colegiales; 1-0; Libertad 
 ; Tembetary ; 3-3; Cerro C     
-*[Cerro C 3-1 pen]
+Penalty kicks: 1-3
+
 *Olimpia free
 
 Round: 12 
 Date: 10/26/1997
+
 ; Colegiales; 1-1; Guarani     
-*[Colegiales 4-2 pen]
+Penalty kicks: 4-2
+
 ; S Lorenzo ; 1-0; Cerro P 
 ; Olimpia   ; 3-1; Colombia
 ; Tembetary ; 5-1; Libertad
 ; Luqueno   ; 1-1; Nacional    
-*[Luqueno 5-3 pen]
+Penalty kicks: 5-3
+
 ; Sol       ; 1-0; P Hayes 
+
 *Cerro C free
 
 Round: 13 
 Date: 11/1/1997
+
 ; Luqueno   ; 2-2; Colegiales  
-*[Luqueno 4-3 pen]
+Penalty kicks: 4-3
+
 ; Cerro C   ; 3-0; Libertad
 ; Tembetary ; 6-3; Guarani
 ; Cerro P   ; 1-0; Sol
 ; P Hayes   ; 1-3; Olimpia
 ; Nacional  ; 1-3; S Lorenzo
+
 *Colombia free
 
 * 1.Cerro Corá             12  8  1/2  1  22-11  28
@@ -507,10 +569,14 @@ Date: 11/1/1997
 * 3.San Lorenzo             3  1  0/1  1   2- 4   6    (2   BP)
 * 4.Atlético Colegiales     3  0  1/0  2   1- 4   2,5  (0,5 BP)
 
+FIXME
+* Stage: ?
+
 Round: 1 
 Date: 11/9/1997
 ; Guarani   ; 1-1; Nacional    
-*[Guarani 4-3 pen]
+Penalty kicks: 4-3
+
 ; Cerro P   ; 1-3; Luqueno
 ; S Lorenzo ; 1-0; Colegiales
 ; Olimpia   ; 2-1; Cerro C
@@ -527,9 +593,10 @@ Date: 11/30/1997
 ; Luqueno   ; 3-0; Guarani
 ; Nacional  ; 4-3; Cerro P
 ; Colegiales; 1-1; Olimpia     
-*[Colegiales 5-4 pen]
+Penalty kicks: 5-4
+
 ; S Lorenzo ; 1-1; Cerro C    
-* [Cerro C 4-3 pen]
+Penalty kicks: 3-4
 
 *Group: A
 * 1.Sportivo Luqueño        3  3  0/0  0   9- 3  10,5  (1,5 BP)
@@ -543,31 +610,34 @@ Date: 11/30/1997
 * 3.San Lorenzo             3  1  0/1  1   2- 4   6    (2   BP)
 * 4.Atlético Colegiales     3  0  1/0  2   1- 4   2,5  (0,5 BP)
 
-*Group: B Playoff [Dec 2]
+Round: playoff
+Group: B
+
 12/2/1997; Olimpia   ; 2-1; Cerro C
 
-
 Round: Semifinals 
+
 12/5/1997; Olimpia   ; 4-2; Guarani
+
 12/5/1997; Cerro C   ; 2-2; Luqueno 
-*    [Cerro C 6-5 pen]
+Penalty kicks: 6-5
 
 Round: Final
+
 12/10/1997; Olimpia   ; 3-0; Cerro C
 Gabriel Gonzalez 33, Mauro Caballero 74, Felix Torres 85;
 
+Season: 1997
+Stage: Championship Playoff
+Leg: 1
 
-*1997 Championship Playoff
+12/14/1997; Olimpia   ; 1-0; Cerro P
 
-*First Leg [Dec 14]
-; Olimpia   ; 1-0; Cerro P
+Leg: 2
 
-*Second Leg [Dec 21]
-; Cerro P   ; 1-1; Olimpia
+12/21/1997; Cerro P   ; 1-1; Olimpia
 
 *Olimpia 1997 champions.
-
-
 
 *Prepared and maintained by the RSSSF
 *Author: RSSSF (karel@rsssf.com)

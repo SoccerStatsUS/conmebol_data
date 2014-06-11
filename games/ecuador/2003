@@ -1,11 +1,8 @@
 BlockSource: http://www.rsssf.com/tablese/ecua03.html
-
 Competition: Ecuadorian Serie A
 Transform: name-title
 
-
 Season: 2003 
-
 Stage: Apertura
 
 * 1.Barcelona              18 12  2  4 41-19 38
@@ -398,7 +395,6 @@ Date: 6/22/2003
 *Top 3 Qualify to Liguilla Final with 3, 2, 1 bonus points
 *Bottom 2 in aggregate table relegated to Serie B
 
-Season: 2003 
 
 Stage: Finalizacion
 
@@ -766,9 +762,6 @@ Date: 10/12/2003
 
 *Top 3 Qualify to Liguilla Final with 3, 2, 1 bonus points
 *Bottom 2 in aggregate table relegated to Serie B
-
-
-Season: 2003 
 
 Stage: Liguilla
 

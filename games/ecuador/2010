@@ -553,7 +553,6 @@ Date: 7/4/2010
 *11.Universidad Católica              22  4  8 10 21-32  20
 *12.Macará                            22  3  9 10 22-34  18
 
-Season: 2010 
 Stage: 2
 
 *Clausura
@@ -1035,7 +1034,7 @@ Date: 11/27/2010
 
 ; Universidad Católica ; 2-3; Emelec                
 
-*Final Table:
+
 * 1.LDU de Quito                      22 14  5  3 42-17  47  Final
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 * 2.Emelec                            22 13  7  2 29-12  46
@@ -1067,31 +1066,25 @@ Date: 11/27/2010
 *11.Universidad Católica              44  9 13 22 48-69  40  Relegated
 *12.Macará                            44  8 15 21 43-66  39  Relegated
 
+Stage: liguilla
 Round: Third Place
+Leg: 1
 
-*First Leg 
-Date: 12/4/2010
+12/4/2010; Deportivo Quito      ; 2-0; Barcelona             
 
-; Deportivo Quito      ; 2-0; Barcelona             
-          
-*Second Leg 
-Date: 12/11/2010
+Leg: 2          
 
-; Barcelona            ; 3-1; Deportivo Quito       
+12/11/2010; Barcelona            ; 3-1; Deportivo Quito       
+Notes: Dep. Quito finished third on the away goal rule and qualify for the Copa Libertadores 2011
 
-*NB: Dep. Quito finished third on the away goal rule and qualify for the Copa Libertadores 2011
+Round: Final
+Leg: 1
 
-Round: Championship Final
+12/5/2010; LDU de Quito         ; 2-0; Emelec                
 
-*First Leg 
-Date: 12/5/2010
+Leg: 2
 
-; LDU de Quito         ; 2-0; Emelec                
-
-*Second Leg 
-Date: 12/12/2010
-
-; Emelec               ; 1-0; LDU de Quito          
+12/12/2010; Emelec               ; 1-0; LDU de Quito          
 
 *Champions: LDU de Quito          
 

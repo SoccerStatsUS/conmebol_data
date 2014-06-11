@@ -852,7 +852,6 @@ Date: 10/25/1998
 ; Universitario     ; 0-2; Sporting Cristal
 ;  Carty 70, Carty 80
 
-
 Round: 16 
 *[Oct 31, Nov 1]
 Date: 10/31/1998
@@ -874,7 +873,6 @@ Date: 10/31/1998
 ; Unión Minas       ; 1-1; Juan Aurich
   Godoy 75; Reyes 46
 
-
 Round: 17 
 *[Nov 7,8]
 Date: 11/7/1998
@@ -895,7 +893,6 @@ Date: 11/7/1998
 
 ; Universitario     ; 1-0; Unión Minas
   Grondona 85;
-
 
 Round: 18 
 *[Nov 15]
@@ -1048,29 +1045,34 @@ Date: 12/8/1998
 *[*] Cienciano one point deducted
 
 
-*National Championship Playoff
+Stage: National Championship Playoff
 
 12/20/1998;      Sporting Cristal; 2-1; Universitario; Lima, Peru
 Nilson 30' Mendoza 40; Guadalupe 62
 
 12/23/1998; Universitario; 2-1; Sporting Cristal; Lima, Peru
-Penalty kicks: 4-2
 Farfán 40, Farfán  56; Mendoza 74
+Penalty kicks: 4-2
 *   Penalty shootout: Grondona (1-0), Ferreira (1-1), Casas (1-1), Jorge Soto (1-1),
 *                     Falaschi (2-1), Serrano (2-2), Gudalupe (3-2), Carty (3-2),
 *                     Esidio (4-2).
 *Universitario de Deportes are 1998 Champions of Peru.
 
-*Copa Conmebol Playoff
-*December 20   Callao   Sport Boys - Alianza Lima                    0-1
-*                         [Saavedra  74']
-*December 22   Lima     Alianza Lima - Sport Boys                    2-0
-*                         [Basombrío 6' Gareca 29']
+
+Stage: Copa Conmebol Playoff
+
+12/20/1998; Sport Boys; 0-1; Alianza Lima; Callao, Peru
+; Saavedra  74
+
+12/22/1998; Alianza Lima; 2-0; Sport Boys; Lima
+Basombrío 6, Gareca 29;
 *Alianza Lima qualified for Copa Conmebol 1999.
-*
-*Relegation Playoff
-*December 20   Lima     Deportivo Municipal - Hijos de Yurimaguas    4-1  [aet]
-*                         [Baroni 34' 100' 113' Maldonado 119' / Rodríguez 64']
+
+
+Stage: Relegation Playoff
+
+12/20/1998; Deportivo Municipal; 4-1 (aet); Hijos de Yurimaguas; Lima, Peru
+Baroni 34, Baroni 100, Baroni 113, Maldonado 119; Rodríguez 64
 *Deportivo Municipal remain in Primera, Hijos de Yurimaguas remain in Segunda.
 
 

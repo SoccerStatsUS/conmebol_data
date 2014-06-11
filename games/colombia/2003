@@ -49,7 +49,6 @@ Date: 3/5/2003
 ; Quindío    ; 1-2;  Once Caldas
   Nelson Gómez 61; Arnulfo Valentierra 26, Sergio Galván 38
 
-
 Date: 3/12/2003
 
 ; Tolima     ; 2-0;  América 
@@ -181,7 +180,6 @@ Date: 2/23/2003
 
 ; Once Caldas; 1-0;  Envigado
   Arnulfo Valentierra 21;
-
 
 Date: 3/12/2003
 
@@ -597,7 +595,8 @@ Date: 5/4/2003
 *18.Deportes Quindío            18   3  4 11  13-28  13
 
 
-*Cuadrangulares
+Stage: Cuadrangulares
+
 *Group A
 * 1.Once Caldas                  6   4  2  0  14- 3  14  Qualified
 * 2.Deportivo Cali               6   3  2  1  10- 5  11
@@ -714,17 +713,14 @@ Date: 6/1/2003
 * 3.CD Millonarios               6   2  1  3   7- 9   7
 * 4.Centauros Villavicencio      6   2  1  3   5- 9   7
 
-Round: Championship Final
+Stage: Championship Final
+Leg: 1
 
-*First Leg 
-Date: 6/5/2003
+6/5/2003; Junior     ; 0-0;  Once Caldas
 
-; Junior     ; 0-0;  Once Caldas
+Leg: 2
 
-*Second Leg 
-Date: 6/8/2003
-
-; Once Caldas; 1-0;  Junior 
+6/8/2003; Once Caldas; 1-0;  Junior 
 Sergio Alejandro Galván 74;
 
 *Once Caldas are Apertura 2003 champions.
@@ -1304,8 +1300,8 @@ Notes: After this match one gallery of the stadium collapsed. Two died and 35 we
 *17.Corporación Tuluá           18   4  5  9  16-26  17
 *18.Centauros Villavicencio     18   4  5  9  15-27  17
 
+Stage: Cuadrangulares
 
-*Cuadrangulares
 *Group A
 * 1.Deportivo Cali               6   3  3  0  10- 6  12  Qualified
 * 2.CD Millonarios               6   3  1  2   9- 7  10
@@ -1386,7 +1382,6 @@ Date: 12/6/2003
 ; Nacional   ; 4-2;  Medellín
   Martín Echeverría 15, Iván Velásquez 57, Aquivaldo Mosquera 69, Juan Ricaurte 84; Jorge Horacio Serna 51, Diego Alvarez 75
 
-
 Date: 12/7/2003
 
 ; Millonarios; 2-3;  Cali
@@ -1420,16 +1415,17 @@ Date: 12/14/2003
 * 3.Atlético Nacional            6   3  0  3   8- 8   9
 * 4.CD Independiente Medellín    6   2  0  4   8-10   6
 
-Round: Championship Final
+Stage: Championship Final
+Leg: 1
 
-*First Leg  
 12/17/2003; Tolima     ; 2-0;  Cali
 Rogeiro Pereira 51, Rogeiro Pereira 83;
 
-*Second Leg 
+Leg: 2
+
 12/21/2003; Cali       ; 3-1;  Tolima
 Jorge Díaz 15, Léider Preciado 20, Elkin Murillo 39; Gerardo Bedoya (og) 34
-*  [Tolima won 2-4 on penalties]
+Penalty kicks: 2-4
 
 *Tolima are Finalización 2003 champions.
 

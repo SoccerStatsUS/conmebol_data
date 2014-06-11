@@ -702,7 +702,8 @@ Date: 5/19/2002
 *18.Deportes Tolima    22  3  9 10  18-30  18
 
 
-*Cuadrangulares:
+Stage: Cuadrangulares
+
 *Group A
 * 1.Atlético Nacional  6  5  1  0  12- 4  16  Qualified
 * 2.Unión Magdalena    6  3  0  3  12- 9   9
@@ -817,18 +818,18 @@ Date: 6/12/2002
 * 4.Atl Bucaramanga    6  0  2  4   4-10   2
 
 Round: Final 
+Leg: 1
 
-*First Leg 
 ; América     ; 2-1;  Nacional; Cali
   Jairo Castillo 48, Jairo Castillo 84; Iván Velásquez 43
 
+Leg: 2
 
-*Second Leg 
 6/19/2002; Nacional    ; 0-1;  América; Medellin
 ;  Jairo Castillo 71
 
-
 *NB: América are champions and qualify for Copa Libertadores 2003.
+
 
 Season: 2002 Finalizacion
 
@@ -1365,7 +1366,6 @@ Date: 10/21/2002
 
 ; Pereira     ; 3-1;  América
   Alvarez 21, Rodríguez 43p, Sánchez 67; Vásquez 50
-
 Notes: Suspended on Oct 20 due to rain. Due to the death of Herman Gaviria and severe injuries to three other players caused by lightning during a training session of Deportivo Cali on Oct 24, the next three matches of that club have been postponed.  On Oct 27, another player, Giovany Cordoba, died because of complications following being struck by lightning.
 
 Round: 18  
@@ -1527,7 +1527,6 @@ Date: 11/17/2002
 ; Bucaramanga ; 1-0;  Pasto
   Carpintero 83;
 
-*Final Table:
 * 1.Deportivo Cali     22 14  5  3  38-15  47
 * 2.Deportivo Pasto    22 11  3  8  32-33  36
 * 3.CD Indep Medellín  22  9  8  5  25-16  35
@@ -1548,9 +1547,8 @@ Date: 11/17/2002
 *17.Atlético Junior    22  4  9  9  27-33  21
 *18.Envigado FC        22  3  6 13  16-27  15
 
-*Cuadrangulares:
 
-*Final Tables:
+Stage: Cuadrangulares:
 
 *Group A
 * 1.CD Indep Medellín   6  3  2  1   7- 4  11  Qualified
@@ -1669,13 +1667,13 @@ Date: 12/15/2002
 * 4.Atlético Nacional   6  1  2  3   4- 6   5
  
 Round: Final
+Leg: 1
 
-*First Leg
 12/18/2002; Medellín    ; 2-0;  Pasto
   Robinson Muñoz 7, Julio Valencia (og) 66;
 
+Leg: 2
 
-*Second Leg
 12/22/2002; Pasto       ; 1-1;  Medellín
   Walter Escobar 57; Mauricio Molina 28
 
