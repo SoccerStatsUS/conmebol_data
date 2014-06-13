@@ -1717,7 +1717,7 @@ Stage: Clausura
 Season: 2013-2014
 Stage: Apertura
 
-Key: position; tem; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
+Key: position; team; games; wins; ties; losses; goals_for; goals_against; goal_d; points; notes
 
 1     ; Danubio                 ; 15     ; 10     ; 2      ; 3      ; 24     ; 13     ; +11    ; 32;      Championship Playoffs
 2     ; River Plate             ; 15     ; 9      ; 4      ; 2      ; 30     ; 17     ; +13    ; 31;
