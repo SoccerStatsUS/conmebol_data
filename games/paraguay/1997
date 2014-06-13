@@ -92,7 +92,7 @@ Date: 3/31/1997
 ; Olimpia   ; 2-1; Libertad
 ; Sol       ; 1-0; Guarani
 ; Colombia  ; 2-2; Cerro C     
-Penalty kicksS: 4-3
+Penalty kicks: 4-3
 
 ; P Hayes   ; 2-1; Tembetary
 ; S Lorenzo ; 4-1; Luqueno
@@ -189,7 +189,7 @@ Penalty kicks: 12-11
 ; Cerro P   ; 4-1; S Lorenzo
 ; P Hayes   ; 1-0; Sol
 ; Colombia  ; 1-1; Olimpia   
-Penlty kicks: 3-5
+Penalty kicks: 3-5
 
 *Cerro C free
 
@@ -569,7 +569,7 @@ Penalty kicks: 4-3
 * 3.San Lorenzo             3  1  0/1  1   2- 4   6    (2   BP)
 * 4.Atlético Colegiales     3  0  1/0  2   1- 4   2,5  (0,5 BP)
 
-FIXME
+*FIXME
 * Stage: ?
 
 Round: 1 

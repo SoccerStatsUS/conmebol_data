@@ -360,8 +360,8 @@ Date: 3/13/2013
 Date: 3/21/2013
 
 ; CD Lara                 ; 4-2; Portuguesa FC            
-[May 1]
-; Caracas FC              ; 2-1; Dvo. Anzoátegui          
+
+5/1/2013; Caracas FC              ; 2-1; Dvo. Anzoátegui          
 
 Round: 10
 Date: 3/17/2013
@@ -408,10 +408,10 @@ Date: 4/7/2013
 ; Trujillanos FC          ; 2-0; Atl. El Vigia            
 ; Yaracuyanos FC          ; 3-1; Dvo. Anzoátegui          
 ; Estudiantes FC          ; 4-1; Caracas FC               
-[May 2]
-; Dvo. Petare             ; 0-1; CD Lara                  
-[May 8]
-; Real Esppor             ; 0-0; Zulia FC                 
+
+5/2/2013; Dvo. Petare             ; 0-1; CD Lara                  
+
+5/8/2013; Real Esppor             ; 0-0; Zulia FC                 
 
 Round: 13
 Date: 4/17/2013
@@ -422,11 +422,11 @@ Date: 4/17/2013
 ; CD Lara                 ; 0-0; Llaneros FC              
 ; Portuguesa FC           ; 0-2; Yaracuyanos FC           
 ; Zulia FC                ; 0-0; Trujillanos FC           
-[May 1]
-; Zamora FC               ; 1-1; Dvo. Táchira             
-; Atl. Venezuela          ; 2-4; Real Esppor              
-[May 8]
-; Caracas FC              ; 3-0; Dvo. Petare              
+
+5/1/2013; Zamora FC               ; 1-1; Dvo. Táchira             
+5/1/2013; Atl. Venezuela          ; 2-4; Real Esppor              
+
+5/8/2013; Caracas FC              ; 3-0; Dvo. Petare              
 
 Round: 14
 Date: 4/21/2013
@@ -514,10 +514,10 @@ Round: Final
 *Apertura winners: Deportivo Anzoátegui SC
 *Clausura winners: Zamora FC
 
-*First Leg [May 19]
+Leg: 1
 5/19/2013; Zamora FC               ; 1-1; Dvo. Anzoátegui          
 
-*Second Leg [May 26]
+Leg: 2
 5/26/2013; Dvo. Anzoátegui         ; 1-2; Zamora FC                
 
 
