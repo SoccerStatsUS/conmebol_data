@@ -357,19 +357,20 @@ Date: 8/3/2014
 Stage: 2
 *Segunda Etapa (Second Stage)
 
-* 1.Independiente José Terán          14   9  4  1  31-11  31
+* 1.Barcelona                         22  15  3  4  33-16  48  Final
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 2.Barcelona                         15  10  1  4  24-14  31
-* 3.LDU de Quito                      15   7  6  2  25-15  27
-* 4.Emelec                            13   7  2  4  28-17  23
-* 5.El Nacional                       14   6  3  5  17-18  21
-* 6.Deportivo Cuenca                  15   5  5  5  15-20  20
-* 7.Mushuc Runa SC                    15   4  6  5  17-20  18
-* 8.LDU de Loja                       13   3  7  3  16-15  16
-* 9.Universidad Católica              15   4  3  8  14-23  15
-*10.Deportivo Quito                   15   3  5  7  11-24  14
-*11.Manta FC                          15   2  4  9  14-25  10
-*12.Olmedo                            15   1  6  8  10-20   9
+* 2.Independiente del Valle           22  14  4  4  42-18  46
+* 3.Emelec                            22  14  2  6  40-22  44
+* 4.LDU de Quito                      22  11  7  4  38-22  40
+* 5.El Nacional                       22   8  5  9  23-26  29
+* 6.Universidad Católica              22   8  4 10  25-30  28
+* 7.Deportivo Cuenca                  22   7  7  8  23-29  28
+* 8.LDU de Loja                       22   5  7 10  21-31  22
+* 9.Mushuc Runa SC                    22   4  9  9  19-30  21
+*10.Manta FC                          22   5  5 12  25-35  20
+*11.Deportivo Quito                   22   4  8 10  17-32  20
+*12.Olmedo                            22   3  7 12  18-33  16
+
 
 Round: 1
 Date: 8/8/2014
@@ -582,31 +583,141 @@ Date: 11/9/2014
 ; Mushuc Runa          ; 1-2; Dep. Cuenca           
 ; Olmedo               ; 0-1; Barcelona             
 
+Round: 16
+Date: 11/14/2014
 
+; LDU de Quito         ; 5-1; Olmedo                
 
-* 1.Independiente José Terán          14   9  4  1  31-11  31
+Date: 11/15/2014
+
+; Dep. Quito           ; 1-1; Manta                 
+; Barcelona            ; 2-2; Dep. Cuenca           
+
+Date: 11/16/2014
+
+; Universidad Católica ; 1-2; Indep. del Valle      
+; LDU de Loja          ; 1-0; El Nacional           
+; Mushuc Runa          ; 0-1; Emelec                
+       
+Round: 17 
+Date: 11/19/2014
+
+; Manta                ; 3-0; LDU de Loja           
+; Olmedo               ; 1-0; Dep. Quito            
+; Indep. del Valle     ; 1-0; Mushuc Runa           
+; Emelec               ; 0-1; Barcelona             
+; El Nacional          ; 1-1; Universidad Católica  
+; Dep. Cuenca          ; 1-2; LDU de Quito          
+
+Round: 18 
+Date: 11/23/2014
+
+; Dep. Quito           ; 0-0; Dep. Cuenca           
+; LDU de Quito         ; 0-0; Barcelona             
+; Universidad Católica ; 2-1; Manta                 
+; Mushuc Runa          ; 1-1; El Nacional           
+; LDU de Loja          ; 0-3; Olmedo                
+; Emelec               ; 1-0; Indep. del Valle      
+
+Round: 19
+Date: 11/28/2014
+
+; Dep. Cuenca          ; 1-0; LDU de Loja           
+
+Date: 11/30/2014
+
+; El Nacional          ; 0-1; Emelec                
+; LDU de Quito         ; 2-0; Indep. del Valle      
+; Manta                ; 3-0; Mushuc Runa           
+; Olmedo               ; 0-3; Universidad Católica  
+; Barcelona            ; 1-0; Dep. Quito            
+
+Round: 20
+Date: 12/5/2014
+
+; Universidad Católica ; 2-1; Dep. Cuenca           
+
+Date: 12/6/2014
+
+; Mushuc Runa          ; 1-1; Olmedo                
+; Indep. del Valle     ; 0-1; El Nacional           
+; LDU de Loja          ; 0-1; Barcelona             
+
+Date: 12/7/2014
+
+; Dep. Quito           ; 2-3; LDU de Quito          
+; Emelec               ; 2-1; Manta                 
+
+Round: 21 
+Date: 12/10/2014
+
+; Barcelona            ; 3-0; Mushuc Runa           
+; Olmedo               ; 2-3; Indep. del Valle      
+; Manta                ; 2-1; El Nacional           
+; Dep. Cuenca          ; 2-1; Emelec                
+; Dep. Quito           ; 3-2; LDU de Loja           
+; LDU de Quito         ; 1-2; Universidad Católica  
+
+Round; 22 
+Date: 12/14/2014
+
+; El Nacional          ; 2-1; Dep. Cuenca           
+; Emelec               ; 1-0; Olmedo                
+; Universidad Católica ; 0-1; Barcelona             
+; Mushuc Runa          ; 0-0; Dep. Quito            
+; LDU de Loja          ; 1-0; LDU de Quito          
+; Indep. del Valle     ; 4-0; Manta                 
+
+*Final Table:
+* 1.Barcelona                         22  15  3  4  33-16  48  Final
 * - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-* 2.Barcelona                         15  10  1  4  24-14  31
-* 3.LDU de Quito                      15   7  6  2  25-15  27
-* 4.Emelec                            13   7  2  4  28-17  23
-* 5.El Nacional                       14   6  3  5  17-18  21
-* 6.Deportivo Cuenca                  15   5  5  5  15-20  20
-* 7.Mushuc Runa SC                    15   4  6  5  17-20  18
-* 8.LDU de Loja                       13   3  7  3  16-15  16
-* 9.Universidad Católica              15   4  3  8  14-23  15
-*10.Deportivo Quito                   15   3  5  7  11-24  14
-*11.Manta FC                          15   2  4  9  14-25  10
-*12.Olmedo                            15   1  6  8  10-20   9
-
+* 2.Independiente del Valle           22  14  4  4  42-18  46
+* 3.Emelec                            22  14  2  6  40-22  44
+* 4.LDU de Quito                      22  11  7  4  38-22  40
+* 5.El Nacional                       22   8  5  9  23-26  29
+* 6.Universidad Católica              22   8  4 10  25-30  28
+* 7.Deportivo Cuenca                  22   7  7  8  23-29  28
+* 8.LDU de Loja                       22   5  7 10  21-31  22
+* 9.Mushuc Runa SC                    22   4  9  9  19-30  21
+*10.Manta FC                          22   5  5 12  25-35  20
+*11.Deportivo Quito                   22   4  8 10  17-32  20
+*12.Olmedo                            22   3  7 12  18-33  16
 
 *Tabla Anual
-*Championship Final
-*Primera Etapa winners:
-*Segunda Etapa winners:
+* 1.Emelec                            44  27  7 10  75-36  88
+* 2.Independiente del Valle           44  25 11  8  78-36  86
+* 3.Barcelona                         44  25  8 11  59-34  83
+* 4.LDU de Quito                      44  18 15 11  58-44  69
+* 5.LDU de Loja                       44  16 10 18  46-62  58
+* 6.Universidad Católica              44  16  8 20  51-58  56
+* 7.El Nacional                       44  16  8 20  49-61  56
+* 8.Deportivo Cuenca                  44  13 12 19  44-60  51
+* 9.Mushuc Runa SC                    44  11 14 19  38-54  47
+*10.Deportivo Quito                   44  10 16 18  37-54  46
+*------------------------------------------------------------
+*11.Manta FC                          44  11 10 23  46-64  43  Relegated
+*12.Olmedo                            44   9 15 20  39-57  42  Relegated
+
+*Promoted: Aucas, River Ecuador
+
+Stage: Championship Final
+
+*Primera Etapa winners: Emelec
+*Segunda Etapa winners: Barcelona
 
 
-*Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
-*Author: Karel Stokkermans 
-*Last updated: 12 Nov 2014
-*(C) Copyright Karel Stokkermans and RSSSF 2014
-*You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
+Leg: 1
+
+12/17/2014; Barcelona            ; 1-1; Emelec                
+
+
+Leg: 2
+
+12/21/2014; Emelec               ; 3-0; Barcelona             
+
+
+Prepared and maintained by Karel Stokkermans for the Rec.Sport.Soccer Statistics Foundation
+Author: Karel Stokkermans 
+Last updated: 12 Feb 2015
+(C) Copyright Karel Stokkermans and RSSSF 2014/15
+You are free to copy this document in whole or part provided that proper acknowledgement is given to the author. All rights reserved.
